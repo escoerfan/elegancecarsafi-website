@@ -12,7 +12,7 @@
     'https://raw.githubusercontent.com/escoerfan/ecs-bestand/main/bestand.json';
 
   /* true = Preis in bestand.json ist netto, false = brutto */
-  var PREIS_IST_NETTO = true;
+  var PREIS_IST_NETTO = false;
   var MWST = 0.19;
   var STANDORT = 'Gehrden, Deutschland';
 
@@ -581,7 +581,7 @@
     );
   }
 
-  var DETAIL_SEITE = 'fahrzeug.html';
+  var DETAIL_SEITE = 'fahrzeug';
   var TEL = '+491713621298';
   var WHATSAPP = '491713621298';
   var MAIL = 'info@elegancecarsafi.com';
@@ -758,7 +758,7 @@
       if (titleEl) titleEl.textContent = 'Fahrzeug nicht gefunden';
       box.innerHTML =
         '<div class="vw-status">Dieses Fahrzeug ist nicht mehr im Bestand – vermutlich wurde es bereits verkauft. ' +
-        '<a class="vw-back" href="fahrzeuge.html">Alle Fahrzeuge ansehen</a></div>';
+        '<a class="vw-back" href="fahrzeuge">Alle Fahrzeuge ansehen</a></div>';
       return;
     }
 
@@ -801,7 +801,7 @@
       : '<div class="vw-d-stage">' + placeholder() + '</div>';
 
     box.innerHTML =
-      '<a class="vw-back" href="fahrzeuge.html">Alle Fahrzeuge ansehen</a>' +
+      '<a class="vw-back" href="fahrzeuge">Alle Fahrzeuge ansehen</a>' +
       '<div class="vw-d-grid">' +
         '<div class="vw-d-gallery">' + gallery + '</div>' +
         '<aside class="vw-d-info">' +
