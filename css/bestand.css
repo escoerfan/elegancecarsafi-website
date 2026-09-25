@@ -1,5 +1,5 @@
 /* =========================================================================
-   Fahrzeugbestand (Daten: github.com/escoerfan/ecs-bestand → bestand.json)
+   Fahrzeugbestand (Daten: github.com/escoerfan/ecs-bestand â†’ bestand.json)
    Genutzt auf: index.html (Vorschau), fahrzeuge.html (Liste),
    fahrzeug.html (Einzelseite eines Fahrzeugs). Logik: js/bestand.js
    ========================================================================= */
@@ -218,7 +218,7 @@
 
 .vw-price {
     font-size: 24px;
-    font-weight: 800;
+    font-weight: 500;
     color: #262626;
     font-variant-numeric: tabular-nums;
     line-height: 1.15;
@@ -404,7 +404,7 @@
 
 .vw-d-price {
     font-size: 34px;
-    font-weight: 800;
+    font-weight: 500;
     color: #262626;
     font-variant-numeric: tabular-nums;
     line-height: 1.15;
