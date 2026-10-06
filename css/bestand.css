@@ -138,29 +138,28 @@
 
 .vw-reserved {
     position: absolute;
-    top: 26px;
-    right: -46px;
-    width: 190px;
-    padding: 7px 0;
-    transform: rotate(45deg);
-    background: #d0021b;
+    top: 14px;
+    right: 14px;
+    padding: 10px 16px 9px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #ef3a48 0%, #d72232 55%, #a8121f 100%);
     color: #ffffff;
-    font-family: 'Figtree', system-ui, sans-serif;
+    font-family: var(--font, 'DM Sans', system-ui, sans-serif);
     font-size: 13px;
     font-weight: 700;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.14em;
+    line-height: 1;
     text-transform: uppercase;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 4px 14px rgba(167, 18, 31, 0.35);
     pointer-events: none;
     z-index: 2;
 }
 
 .vw-d-stage .vw-reserved {
-    top: 38px;
-    right: -58px;
-    width: 250px;
-    padding: 10px 0;
+    top: 20px;
+    right: 20px;
+    padding: 13px 22px 12px;
+    border-radius: 10px;
     font-size: 16px;
 }
 
