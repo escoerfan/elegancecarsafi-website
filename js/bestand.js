@@ -600,6 +600,8 @@
   var _cats = [];
   var _aktiv = 'Alle';
 
+  var RESERVED_HTML = '<div class="vw-reserved">Reserviert</div>';
+
   function renderCard(v) {
     var imgs = v.images || [];
     var title = buildTitle(v);
@@ -618,6 +620,7 @@
         '<div class="vw-img-wrap">' +
           imgHtml +
           '<div class="vw-badge">' + esc(c) + '</div>' +
+          (v.reserved ? RESERVED_HTML : '') +
         '</div>' +
         '<div class="vw-body">' +
           '<div class="vw-title">' + esc(title) + '</div>' +
@@ -788,6 +791,7 @@
                 '<button class="vw-d-nav-btn" type="button" data-dir="1" aria-label="Nächstes Bild">&#8250;</button>' +
               '</div>'
             : '') +
+          (v.reserved ? RESERVED_HTML : '') +
         '</div>' +
         (imgs.length > 1
           ? '<div class="vw-d-thumbs" id="vw-d-thumbs">' +
@@ -798,7 +802,7 @@
               }).join('') +
             '</div>'
           : '')
-      : '<div class="vw-d-stage">' + placeholder() + '</div>';
+      : '<div class="vw-d-stage">' + placeholder() + (v.reserved ? RESERVED_HTML : '') + '</div>';
 
     box.innerHTML =
       '<a class="vw-back" href="fahrzeuge">Alle Fahrzeuge ansehen</a>' +
