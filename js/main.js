@@ -251,7 +251,7 @@
         '<div class="map-consent">' +
           '<p>Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird ' +
           'Ihre IP-Adresse an den Anbieter übertragen. Mehr in der ' +
-          '<a href="datenschutz.html">Datenschutzerklärung</a>.</p>' +
+          '<a href="datenschutz">Datenschutzerklärung</a>.</p>' +
           '<button class="btn btn--secondary btn--sm" type="button">Karte laden</button>' +
         '</div>';
 

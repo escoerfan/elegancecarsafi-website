@@ -70,7 +70,7 @@
         'Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir ' +
         'zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre ' +
         'IP-Adresse an den Anbieter übertragen. Mehr in der ' +
-        '<a href="datenschutz.html">Datenschutzerklärung</a>.' +
+        '<a href="datenschutz">Datenschutzerklärung</a>.' +
       '</p>' +
       '<div class="cookie-banner__options" hidden>' +
         '<label class="cookie-option">' +
