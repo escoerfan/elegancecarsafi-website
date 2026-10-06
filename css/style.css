@@ -1057,7 +1057,7 @@ body .vw-section * {
    ==================================================================== */
 .export-info { padding-block: 130px 150px; }
 .export-info__head { margin-bottom: 56px; }
-/* Hafenbild hinter "Export aus einer Hand": vollflächig, ohne dunkle Ränder.
+/* Autotransporter-Bild hinter "Export aus einer Hand": vollflächig, ohne dunkle Ränder.
    Text sitzt links in einem halbtransparenten Kasten über dem Himmel. */
 .pitch--export .pitch__media {
   inset: 0;

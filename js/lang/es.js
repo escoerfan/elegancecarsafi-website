@@ -160,7 +160,7 @@
   "Übergabe oder Abholung": "Entrega o recogida",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Entrega del vehículo según lo acordado. Nuestros conductores también recogen vehículos directamente.",
 
-  "Containerschiffe im Hamburger Hafen mit Containerbrücken": "Buques portacontenedores y grúas en el puerto de Hamburgo",
+  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Camión portavehículos con deportivos y todoterrenos en la autopista",
   "Verzollung, Transport und Verschiffung.": "Aduana, transporte y envío marítimo.",
   "Export aus": "Exportación",
   "einer Hand.": "integral.",

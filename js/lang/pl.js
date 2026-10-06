@@ -160,7 +160,7 @@
   "Übergabe oder Abholung": "Przekazanie lub odbiór",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Przekazanie pojazdu po uzgodnieniu terminu. Nasi kierowcy odbierają też pojazdy bezpośrednio.",
 
-  "Containerschiffe im Hamburger Hafen mit Containerbrücken": "Kontenerowce z suwnicami w porcie w Hamburgu",
+  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Laweta z samochodami sportowymi i terenowymi na autostradzie",
   "Verzollung, Transport und Verschiffung.": "Odprawa celna, transport i wysyłka morska.",
   "Export aus": "Eksport",
   "einer Hand.": "z jednej ręki.",

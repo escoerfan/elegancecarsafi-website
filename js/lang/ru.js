@@ -160,7 +160,7 @@
   "Übergabe oder Abholung": "Передача или вывоз",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Передача техники по договорённости. Наши водители также забирают технику напрямую.",
 
-  "Containerschiffe im Hamburger Hafen mit Containerbrücken": "Контейнеровозы и портальные краны в порту Гамбурга",
+  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Автовоз со спортивными автомобилями и внедорожниками на автобане",
   "Verzollung, Transport und Verschiffung.": "Таможня, транспортировка и морская отправка.",
   "Export aus": "Экспорт",
   "einer Hand.": "из одних рук.",

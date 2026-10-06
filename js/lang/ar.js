@@ -160,7 +160,7 @@
   "Übergabe oder Abholung": "التسليم أو الاستلام",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "تسليم المركبة حسب الاتفاق. يستلم سائقونا المركبات مباشرة أيضًا.",
 
-  "Containerschiffe im Hamburger Hafen mit Containerbrücken": "سفن حاويات ورافعات في ميناء هامبورغ",
+  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "شاحنة نقل سيارات تحمل سيارات رياضية ورباعية الدفع على الطريق السريع",
   "Verzollung, Transport und Verschiffung.": "التخليص الجمركي والنقل والشحن البحري.",
   "Export aus": "التصدير",
   "einer Hand.": "من جهة واحدة.",

@@ -169,7 +169,7 @@
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Vehicle handover by appointment. Our drivers can also collect vehicles directly.",
 
   /* ---- Export ---- */
-  "Containerschiffe im Hamburger Hafen mit Containerbrücken": "Container ships with container cranes in the Port of Hamburg",
+  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Car transporter carrying sports cars and SUVs on the motorway",
   "Verzollung, Transport und Verschiffung.": "Customs clearance, transport and shipping.",
   "Export aus": "Export from",
   "einer Hand.": "a single source.",
