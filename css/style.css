@@ -1285,3 +1285,111 @@ body .vw-section * {
   .cta-band__actions, .cta-band__actions .btn { width: 100%; }
   .btn--block { white-space: normal; }
 }
+
+/* ====================================================================
+   Sprachumschaltung (Globus neben „EU Export Richtlinien“) – js/i18n.js
+   ==================================================================== */
+.lang-switch { position: relative; }
+.lang-switch__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 44px;
+  min-width: 44px;
+  padding: 0 11px;
+  border: 1px solid var(--line);
+  background: rgba(26, 26, 26, 0.72);
+  color: var(--white);
+  font: 500 13px/1 var(--font);
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  transition: background-color 0.25s ease, border-color 0.25s ease;
+}
+.lang-switch__btn:hover,
+.lang-switch.is-open .lang-switch__btn { background: rgba(130, 130, 130, 0.24); border-color: var(--line-strong); }
+.lang-switch__btn svg { width: 18px; height: 18px; flex: 0 0 auto; }
+.lang-switch__btn:focus-visible { outline: 2px solid var(--white); outline-offset: 2px; }
+
+.lang-switch__menu {
+  position: absolute;
+  top: calc(100% + 8px);
+  inset-inline-end: 0;
+  z-index: 80;
+  min-width: 168px;
+  padding: 6px;
+  margin: 0;
+  list-style: none;
+  background: #141414;
+  border: 1px solid var(--line-strong);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+}
+.lang-switch__menu[hidden] { display: none; }
+.lang-switch__menu button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  background: none;
+  color: var(--text);
+  font: 400 15px/1.2 var(--font);
+  text-align: start;
+  cursor: pointer;
+}
+.lang-switch__menu button:hover,
+.lang-switch__menu button:focus-visible { background: rgba(255, 255, 255, 0.07); color: var(--white); outline: none; }
+.lang-switch__menu button[aria-checked="true"] { color: var(--white); font-weight: 500; }
+.lang-switch__menu button[aria-checked="true"]::after {
+  content: "";
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--white);
+}
+
+/* Rechtsseiten: Globus rechts neben dem Logo, vor „Zurück“ */
+.legal-header__inner .lang-switch { margin-inline-start: auto; }
+.legal-header__inner .lang-switch + .legal-back { margin-left: 0; }
+.legal-note {
+  margin: -8px 0 32px;
+  padding: 14px 18px;
+  border-inline-start: 3px solid var(--red);
+  background: rgba(38, 38, 38, 0.05);
+  color: var(--ink-soft);
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* Arabisch (rechts nach links) */
+html[dir="rtl"] body { font-family: "DM Sans", "Geeza Pro", "Segoe UI", Tahoma, Arial, sans-serif; }
+html[dir="rtl"] .site-header__logo img { margin-left: 0; margin-right: -14px; }
+html[dir="rtl"] .legal-back { margin-left: 0; margin-right: auto; }
+html[dir="rtl"] .legal-header__inner .lang-switch + .legal-back { margin-right: 0; }
+/* Bild-Kompositionen (Hero, Bildsektionen, Globus, Logo-Laufband) bleiben
+   wie im Original angeordnet – nur der Text darin läuft von rechts nach links */
+html[dir="rtl"] .hero,
+html[dir="rtl"] .pitch,
+html[dir="rtl"] .ecs-export-widget,
+html[dir="rtl"] .marquee { direction: ltr; }
+html[dir="rtl"] .hero__copy,
+html[dir="rtl"] .hero__actions,
+html[dir="rtl"] .pitch__content,
+html[dir="rtl"] .ecs-export-widget__copy { direction: rtl; }
+html[dir="rtl"] .vw-body { text-align: right; }
+html[dir="rtl"] .vw-title,
+html[dir="rtl"] #vw-d-heading,
+html[dir="rtl"] .vw-d-desc-text { direction: ltr; unicode-bidi: plaintext; text-align: right; }
+html[dir="rtl"] .stat + .stat,
+html[dir="rtl"] .export-info__item + .export-info__item { padding-left: 0; border-left: 0; padding-right: 32px; border-right: 1px solid var(--line-dark); }
+html[dir="rtl"] .legal ul { padding-left: 0; padding-right: 22px; }
+html[dir="rtl"] a[href^="tel:"] { direction: ltr; unicode-bidi: isolate; }
+html[dir="rtl"] .contact__phone { text-align: right; }
+
+@media (max-width: 991px) {
+  html[dir="rtl"] .site-header__side { margin-left: 0; margin-right: auto; }
+  html[dir="rtl"] .site-header__logo img { margin-right: -11px; }
+  html[dir="rtl"] .stat + .stat,
+  html[dir="rtl"] .export-info__item + .export-info__item { padding: 28px 0; border-right: 0; }
+}
