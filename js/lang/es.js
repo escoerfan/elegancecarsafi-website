@@ -675,5 +675,29 @@
   "Nachweis zum Unternehmen": "Acreditación de la empresa",
   "Fahrzeug anbieten": "Ofrecer su vehículo",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir melden uns schnell mit einer ersten Einschätzung.": "Llámenos o escríbanos por WhatsApp. Le respondemos rápidamente con una primera valoración.",
-  "Mehr zum Verkauf Ihres Fahrzeugs": "Más sobre la venta de su vehículo"
+  "Mehr zum Verkauf Ihres Fahrzeugs": "Más sobre la venta de su vehículo",
+
+  /* ---- Phase 4: Korrekturen ---- */
+  "Alles aus einer Hand": "Todo de un solo proveedor",
+  "Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.": "El vehículo se entrega al destinatario con toda la documentación.",
+  "Eigene Fahrer": "Conductores propios",
+  "Ein Angebot für Ihre ganze Flotte": "Una oferta para toda su flota",
+  "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "¿Exportan también varios vehículos a la vez?",
+  "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "El vehículo, los documentos de exportación y el transporte vienen de un solo socio. No tiene que coordinar entre concesionario, transitario y agente de aduanas.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Cinco pasos desde la primera llamada hasta la recogida, tanto para vehículos individuales como para flotas completas. En cada paso usted decide cómo continuar.",
+  "Gibt es Informationen für Kunden aus der EU?": "¿Hay información para clientes de la UE?",
+  "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Si el vehículo adecuado no está en nuestro stock, le ayudamos a buscarlo a través de nuestra red.",
+  "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Sí. En nuestra lista de control para la UE encontrará todos los documentos y pasos de un vistazo. Está disponible en PDF al principio de esta página.",
+  "Ja. Wir exportieren einzelne Fahrzeuge ebenso wie mehrere Fahrzeuge für einen Kunden.": "Sí. Exportamos vehículos individuales y también varios vehículos para un mismo cliente.",
+  "Netzwerk mit über 250 Partnern": "Red de más de 250 socios",
+  "Ohne Inserat und ohne Wartezeit – in fünf Schritten.": "Sin anuncios y sin esperas, en cinco pasos.",
+  "Sie verkaufen als Unternehmen an ein Unternehmen. Das bedeutet: kein Inserat, keine Besichtigungstermine mit wechselnden Interessenten und keine langen Preisverhandlungen. Wir bewerten Ihren Bus, machen Ihnen ein Angebot und begleiten den Kauf bis zur Abholung.": "Usted vende como empresa a una empresa. Eso significa: sin anuncios, sin visitas con interesados cambiantes y sin largas negociaciones de precio. Valoramos su autocar, le hacemos una oferta y acompañamos la compra hasta la recogida.",
+  "Sprechen Sie uns an. Wir helfen Ihnen bei der Suche nach dem passenden Fahrzeug.": "Consúltenos. Le ayudamos a encontrar el vehículo adecuado.",
+  "Telefonisch und per WhatsApp unter +49 171 362 1298, Montag bis Freitag von 9 bis 19 Uhr und am Wochenende von 10 bis 18 Uhr.": "Por teléfono y WhatsApp en el +49 171 362 1298, de lunes a viernes de 9 a 19 h y los fines de semana de 10 a 18 h.",
+  "Unsere Fahrer überführen Fahrzeuge selbst. Wo das nicht sinnvoll ist, organisieren wir Transport und Verschiffung.": "Nuestros conductores trasladan los vehículos ellos mismos. Cuando no tiene sentido, organizamos el transporte y el envío marítimo.",
+  "Warum Kunden ihren Export über uns abwickeln": "Por qué los clientes gestionan su exportación con nosotros",
+  "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "¿Y si el vehículo que busco no está en stock?",
+  "Wie erreiche ich Sie während des Verkaufs?": "¿Cómo puedo contactarles durante la venta?",
+  "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Comercializamos vehículos industriales desde hace más de 30 años y conocemos los requisitos de clientes de muchos países.",
+  "Über 30 Jahre Erfahrung": "Más de 30 años de experiencia"
 };

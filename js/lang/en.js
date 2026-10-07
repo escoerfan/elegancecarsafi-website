@@ -688,5 +688,29 @@
   "Nachweis zum Unternehmen": "Proof of the company",
   "Fahrzeug anbieten": "Offer your vehicle",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir melden uns schnell mit einer ersten Einschätzung.": "Call us or write via WhatsApp. We will get back to you quickly with an initial assessment.",
-  "Mehr zum Verkauf Ihres Fahrzeugs": "More about selling your vehicle"
+  "Mehr zum Verkauf Ihres Fahrzeugs": "More about selling your vehicle",
+
+  /* ---- Phase 4: Korrekturen ---- */
+  "Alles aus einer Hand": "Everything from a single source",
+  "Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.": "The vehicle is handed over to the consignee with all papers.",
+  "Eigene Fahrer": "Our own drivers",
+  "Ein Angebot für Ihre ganze Flotte": "One offer for your entire fleet",
+  "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Do you also export several vehicles at once?",
+  "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Vehicle, export papers and transport come from one partner. You do not have to coordinate between dealer, freight forwarder and customs agent.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Five steps from the first call to collection – for single vehicles just as for entire fleets. At every step you decide yourself how to proceed.",
+  "Gibt es Informationen für Kunden aus der EU?": "Is there information for customers from the EU?",
+  "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "If the right vehicle is not currently in our stock, we help you search through our network.",
+  "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Yes. Our EU checklist shows all documents and steps at a glance. It is available as a PDF at the top of this page.",
+  "Ja. Wir exportieren einzelne Fahrzeuge ebenso wie mehrere Fahrzeuge für einen Kunden.": "Yes. We export single vehicles as well as several vehicles for one customer.",
+  "Netzwerk mit über 250 Partnern": "Network of over 250 partners",
+  "Ohne Inserat und ohne Wartezeit – in fünf Schritten.": "No listing and no waiting – in five steps.",
+  "Sie verkaufen als Unternehmen an ein Unternehmen. Das bedeutet: kein Inserat, keine Besichtigungstermine mit wechselnden Interessenten und keine langen Preisverhandlungen. Wir bewerten Ihren Bus, machen Ihnen ein Angebot und begleiten den Kauf bis zur Abholung.": "You sell as a business to a business. That means: no listing, no viewing appointments with changing prospects and no lengthy price negotiations. We value your bus, make you an offer and accompany the purchase through to collection.",
+  "Sprechen Sie uns an. Wir helfen Ihnen bei der Suche nach dem passenden Fahrzeug.": "Talk to us. We help you find the right vehicle.",
+  "Telefonisch und per WhatsApp unter +49 171 362 1298, Montag bis Freitag von 9 bis 19 Uhr und am Wochenende von 10 bis 18 Uhr.": "By phone and WhatsApp on +49 171 362 1298, Monday to Friday from 9 am to 7 pm and at weekends from 10 am to 6 pm.",
+  "Unsere Fahrer überführen Fahrzeuge selbst. Wo das nicht sinnvoll ist, organisieren wir Transport und Verschiffung.": "Our drivers deliver vehicles themselves. Where that does not make sense, we organise transport and shipping.",
+  "Warum Kunden ihren Export über uns abwickeln": "Why customers handle their export through us",
+  "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "What if the vehicle I want is not in stock?",
+  "Wie erreiche ich Sie während des Verkaufs?": "How can I reach you during the sale?",
+  "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "We have been trading commercial vehicles for over 30 years and know the requirements of customers from many countries.",
+  "Über 30 Jahre Erfahrung": "Over 30 years of experience"
 };

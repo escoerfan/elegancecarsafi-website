@@ -675,5 +675,29 @@
   "Nachweis zum Unternehmen": "إثبات الشركة",
   "Fahrzeug anbieten": "اعرضوا مركبتكم",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir melden uns schnell mit einer ersten Einschätzung.": "اتصلوا بنا أو راسلونا عبر واتساب. سنعود إليكم بسرعة بتقييم أولي.",
-  "Mehr zum Verkauf Ihres Fahrzeugs": "المزيد عن بيع مركبتكم"
+  "Mehr zum Verkauf Ihres Fahrzeugs": "المزيد عن بيع مركبتكم",
+
+  /* ---- Phase 4: Korrekturen ---- */
+  "Alles aus einer Hand": "كل شيء من جهة واحدة",
+  "Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.": "تُسلَّم المركبة إلى المستلم مع جميع الأوراق.",
+  "Eigene Fahrer": "سائقونا الخاصون",
+  "Ein Angebot für Ihre ganze Flotte": "عرض واحد لأسطولكم بالكامل",
+  "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "هل تصدّرون أيضًا عدة مركبات دفعة واحدة؟",
+  "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "المركبة وأوراق التصدير والنقل من شريك واحد. ولا تحتاجون إلى التنسيق بين التاجر وشركة الشحن ووكيل التخليص الجمركي.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "خمس خطوات من أول اتصال حتى الاستلام – للمركبات المنفردة تمامًا كما للأساطيل الكاملة. وفي كل خطوة تقررون بأنفسكم كيف تستمر العملية.",
+  "Gibt es Informationen für Kunden aus der EU?": "هل توجد معلومات لعملاء الاتحاد الأوروبي؟",
+  "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "إذا لم تكن المركبة المناسبة متوفرة حاليًا في مخزوننا، نساعدكم في البحث عنها عبر شبكتنا.",
+  "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "نعم. تجدون في قائمة التحقق الخاصة بالاتحاد الأوروبي جميع المستندات والخطوات بنظرة واحدة. وهي متاحة بصيغة PDF في أعلى هذه الصفحة.",
+  "Ja. Wir exportieren einzelne Fahrzeuge ebenso wie mehrere Fahrzeuge für einen Kunden.": "نعم. نصدّر المركبات المنفردة وكذلك عدة مركبات لعميل واحد.",
+  "Netzwerk mit über 250 Partnern": "شبكة تضم أكثر من 250 شريكًا",
+  "Ohne Inserat und ohne Wartezeit – in fünf Schritten.": "بلا إعلانات وبلا انتظار – في خمس خطوات.",
+  "Sie verkaufen als Unternehmen an ein Unternehmen. Das bedeutet: kein Inserat, keine Besichtigungstermine mit wechselnden Interessenten und keine langen Preisverhandlungen. Wir bewerten Ihren Bus, machen Ihnen ein Angebot und begleiten den Kauf bis zur Abholung.": "تبيعون كشركة إلى شركة. وهذا يعني: لا إعلانات ولا مواعيد معاينة مع مهتمين متغيرين ولا مفاوضات طويلة على السعر. نقيّم حافلتكم ونقدّم لكم عرضًا ونرافق عملية الشراء حتى الاستلام.",
+  "Sprechen Sie uns an. Wir helfen Ihnen bei der Suche nach dem passenden Fahrzeug.": "تواصلوا معنا. نساعدكم في العثور على المركبة المناسبة.",
+  "Telefonisch und per WhatsApp unter +49 171 362 1298, Montag bis Freitag von 9 bis 19 Uhr und am Wochenende von 10 bis 18 Uhr.": "هاتفيًا وعبر واتساب على الرقم ‎+49 171 362 1298، من الاثنين إلى الجمعة من الساعة 9 حتى 19 وفي عطلة نهاية الأسبوع من الساعة 10 حتى 18.",
+  "Unsere Fahrer überführen Fahrzeuge selbst. Wo das nicht sinnvoll ist, organisieren wir Transport und Verschiffung.": "يقود سائقونا المركبات بأنفسهم إلى وجهتها. وحيث لا يكون ذلك مجديًا، ننظّم النقل والشحن البحري.",
+  "Warum Kunden ihren Export über uns abwickeln": "لماذا يصدّر العملاء مركباتهم عن طريقنا",
+  "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "ماذا لو لم تكن المركبة المطلوبة متوفرة في المخزون؟",
+  "Wie erreiche ich Sie während des Verkaufs?": "كيف أتواصل معكم أثناء البيع؟",
+  "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "نتاجر بالمركبات التجارية منذ أكثر من 30 عامًا ونعرف متطلبات العملاء من دول كثيرة.",
+  "Über 30 Jahre Erfahrung": "أكثر من 30 عامًا من الخبرة"
 };

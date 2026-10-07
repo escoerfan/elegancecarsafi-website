@@ -675,5 +675,29 @@
   "Nachweis zum Unternehmen": "Документы компании",
   "Fahrzeug anbieten": "Предложить технику",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir melden uns schnell mit einer ersten Einschätzung.": "Позвоните нам или напишите в WhatsApp. Мы быстро свяжемся с вами с первой оценкой.",
-  "Mehr zum Verkauf Ihres Fahrzeugs": "Подробнее о продаже техники"
+  "Mehr zum Verkauf Ihres Fahrzeugs": "Подробнее о продаже техники",
+
+  /* ---- Phase 4: Korrekturen ---- */
+  "Alles aus einer Hand": "Всё из одних рук",
+  "Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.": "Машина передаётся получателю со всеми документами.",
+  "Eigene Fahrer": "Собственные водители",
+  "Ein Angebot für Ihre ganze Flotte": "Одно предложение на весь автопарк",
+  "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Вы экспортируете и несколько машин сразу?",
+  "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Машина, экспортные документы и перевозка – от одного партнёра. Вам не нужно координировать продавца, экспедитора и таможенного брокера.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Пять шагов от первого звонка до вывоза – для отдельных машин так же, как для целых автопарков. На каждом шаге вы сами решаете, как действовать дальше.",
+  "Gibt es Informationen für Kunden aus der EU?": "Есть ли информация для клиентов из ЕС?",
+  "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Если подходящей машины сейчас нет в наличии, мы поможем найти её через нашу партнёрскую сеть.",
+  "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Да. В нашем чек-листе для ЕС все документы и шаги собраны в одном месте. Он доступен в формате PDF вверху этой страницы.",
+  "Ja. Wir exportieren einzelne Fahrzeuge ebenso wie mehrere Fahrzeuge für einen Kunden.": "Да. Мы экспортируем как отдельные машины, так и несколько машин для одного клиента.",
+  "Netzwerk mit über 250 Partnern": "Сеть из более чем 250 партнёров",
+  "Ohne Inserat und ohne Wartezeit – in fünf Schritten.": "Без объявлений и без ожидания – за пять шагов.",
+  "Sie verkaufen als Unternehmen an ein Unternehmen. Das bedeutet: kein Inserat, keine Besichtigungstermine mit wechselnden Interessenten und keine langen Preisverhandlungen. Wir bewerten Ihren Bus, machen Ihnen ein Angebot und begleiten den Kauf bis zur Abholung.": "Вы продаёте как компания компании. Это значит: никаких объявлений, никаких показов постоянно меняющимся покупателям и никаких долгих торгов. Мы оцениваем ваш автобус, делаем предложение и сопровождаем сделку до вывоза.",
+  "Sprechen Sie uns an. Wir helfen Ihnen bei der Suche nach dem passenden Fahrzeug.": "Обратитесь к нам. Мы поможем найти подходящую машину.",
+  "Telefonisch und per WhatsApp unter +49 171 362 1298, Montag bis Freitag von 9 bis 19 Uhr und am Wochenende von 10 bis 18 Uhr.": "По телефону и в WhatsApp: +49 171 362 1298, с понедельника по пятницу с 9 до 19 часов, в выходные с 10 до 18 часов.",
+  "Unsere Fahrer überführen Fahrzeuge selbst. Wo das nicht sinnvoll ist, organisieren wir Transport und Verschiffung.": "Наши водители сами перегоняют машины. Где это нецелесообразно, мы организуем перевозку и морскую доставку.",
+  "Warum Kunden ihren Export über uns abwickeln": "Почему клиенты экспортируют технику через нас",
+  "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "Что делать, если нужной машины нет в наличии?",
+  "Wie erreiche ich Sie während des Verkaufs?": "Как связаться с вами во время продажи?",
+  "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Мы более 30 лет торгуем коммерческим транспортом и знаем требования клиентов из многих стран.",
+  "Über 30 Jahre Erfahrung": "Более 30 лет опыта"
 };

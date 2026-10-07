@@ -675,5 +675,29 @@
   "Nachweis zum Unternehmen": "Dokumenty firmy",
   "Fahrzeug anbieten": "Zaoferuj pojazd",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir melden uns schnell mit einer ersten Einschätzung.": "Zadzwoń lub napisz na WhatsApp. Szybko odezwiemy się z pierwszą oceną.",
-  "Mehr zum Verkauf Ihres Fahrzeugs": "Więcej o sprzedaży pojazdu"
+  "Mehr zum Verkauf Ihres Fahrzeugs": "Więcej o sprzedaży pojazdu",
+
+  /* ---- Phase 4: Korrekturen ---- */
+  "Alles aus einer Hand": "Wszystko z jednej ręki",
+  "Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.": "Pojazd zostaje przekazany odbiorcy ze wszystkimi dokumentami.",
+  "Eigene Fahrer": "Własni kierowcy",
+  "Ein Angebot für Ihre ganze Flotte": "Jedna oferta na całą flotę",
+  "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Czy eksportujecie też kilka pojazdów naraz?",
+  "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Pojazd, dokumenty eksportowe i transport od jednego partnera. Nie musisz koordynować działań między handlarzem, spedytorem i agencją celną.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Pięć kroków od pierwszego telefonu do odbioru – dla pojedynczych pojazdów tak samo jak dla całych flot. Na każdym etapie sam decydujesz, co dalej.",
+  "Gibt es Informationen für Kunden aus der EU?": "Czy są informacje dla klientów z UE?",
+  "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Jeśli odpowiedniego pojazdu nie ma akurat w naszej ofercie, pomożemy Ci go znaleźć dzięki naszej sieci partnerów.",
+  "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Tak. W naszej liście kontrolnej dla UE znajdziesz wszystkie dokumenty i kroki w jednym miejscu. Jest dostępna jako PDF u góry tej strony.",
+  "Ja. Wir exportieren einzelne Fahrzeuge ebenso wie mehrere Fahrzeuge für einen Kunden.": "Tak. Eksportujemy pojedyncze pojazdy, a także kilka pojazdów dla jednego klienta.",
+  "Netzwerk mit über 250 Partnern": "Sieć ponad 250 partnerów",
+  "Ohne Inserat und ohne Wartezeit – in fünf Schritten.": "Bez ogłoszeń i bez czekania – w pięciu krokach.",
+  "Sie verkaufen als Unternehmen an ein Unternehmen. Das bedeutet: kein Inserat, keine Besichtigungstermine mit wechselnden Interessenten und keine langen Preisverhandlungen. Wir bewerten Ihren Bus, machen Ihnen ein Angebot und begleiten den Kauf bis zur Abholung.": "Sprzedajesz jako firma firmie. Oznacza to: bez ogłoszeń, bez oględzin z kolejnymi zainteresowanymi i bez długich negocjacji cenowych. Wyceniamy Twój autokar, składamy ofertę i prowadzimy zakup aż do odbioru.",
+  "Sprechen Sie uns an. Wir helfen Ihnen bei der Suche nach dem passenden Fahrzeug.": "Skontaktuj się z nami. Pomożemy Ci znaleźć odpowiedni pojazd.",
+  "Telefonisch und per WhatsApp unter +49 171 362 1298, Montag bis Freitag von 9 bis 19 Uhr und am Wochenende von 10 bis 18 Uhr.": "Telefonicznie i przez WhatsApp pod numerem +49 171 362 1298, od poniedziałku do piątku w godz. 9–19, a w weekend w godz. 10–18.",
+  "Unsere Fahrer überführen Fahrzeuge selbst. Wo das nicht sinnvoll ist, organisieren wir Transport und Verschiffung.": "Nasi kierowcy sami przeprowadzają pojazdy. Tam, gdzie to nie ma sensu, organizujemy transport i wysyłkę drogą morską.",
+  "Warum Kunden ihren Export über uns abwickeln": "Dlaczego klienci realizują eksport z nami",
+  "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "Co, jeśli szukanego pojazdu nie ma w ofercie?",
+  "Wie erreiche ich Sie während des Verkaufs?": "Jak mogę się z Wami skontaktować w trakcie sprzedaży?",
+  "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Od ponad 30 lat handlujemy pojazdami użytkowymi i znamy wymagania klientów z wielu krajów.",
+  "Über 30 Jahre Erfahrung": "Ponad 30 lat doświadczenia"
 };
