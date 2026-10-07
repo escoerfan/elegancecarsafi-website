@@ -699,5 +699,17 @@
   "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "Co, jeśli szukanego pojazdu nie ma w ofercie?",
   "Wie erreiche ich Sie während des Verkaufs?": "Jak mogę się z Wami skontaktować w trakcie sprzedaży?",
   "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Od ponad 30 lat handlujemy pojazdami użytkowymi i znamy wymagania klientów z wielu krajów.",
-  "Über 30 Jahre Erfahrung": "Ponad 30 lat doświadczenia"
+  "Über 30 Jahre Erfahrung": "Ponad 30 lat doświadczenia",
+
+  /* ---- Phase 4: Export-Zollhinweise neutral ---- */
+  "Ausfuhranmeldung bei Drittländern": "Zgłoszenie wywozowe do krajów trzecich",
+  "Ausgangsvermerk": "Potwierdzenie wyjścia",
+  "Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.": "Przy opuszczaniu UE urząd celny wyprowadzenia potwierdza wywóz. To potwierdzenie wyjścia dowodzi, że pojazd został wywieziony, i jest podstawą dostawy eksportowej zwolnionej z VAT.",
+  "Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.": "Jeśli pojazd wyjeżdża za granicę na własnych kołach, można go zarejestrować na tablicach wywozowych. Warunkiem jest ważne badanie techniczne (HU) i ubezpieczenie OC.",
+  "Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.": "W obrębie UE nie ma formalności celnych. Aby dostawa pozostała zwolniona z VAT, kupujący potrzebuje ważnego numeru VAT UE, a dotarcie pojazdu do kraju przeznaczenia musi zostać udokumentowane, np. potwierdzeniem dostawy (Gelangensbestätigung).",
+  "Ja. Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Tak. W zależności od kraju docelowego organizujemy transport drogowy lub wysyłkę drogą morską.",
+  "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "W zależności od kraju docelowego organizujemy transport drogowy lub wysyłkę drogą morską.",
+  "So funktioniert die Verzollung beim Fahrzeugexport": "Jak wygląda odprawa celna przy eksporcie pojazdów",
+  "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Gdy pojazd opuszcza UE, w urzędzie celnym składa się elektroniczne zgłoszenie wywozowe – w Niemczech przez system ATLAS. Pojazd jest w tym celu przedstawiany we właściwym urzędzie celnym.",
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Odprawa celna, należności przywozowe i rejestracja w kraju docelowym podlegają tamtejszym przepisom. Jakie dokumenty są wymagane, kupujący najlepiej wyjaśni wcześniej we właściwym urzędzie."
 };

@@ -699,5 +699,17 @@
   "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "ماذا لو لم تكن المركبة المطلوبة متوفرة في المخزون؟",
   "Wie erreiche ich Sie während des Verkaufs?": "كيف أتواصل معكم أثناء البيع؟",
   "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "نتاجر بالمركبات التجارية منذ أكثر من 30 عامًا ونعرف متطلبات العملاء من دول كثيرة.",
-  "Über 30 Jahre Erfahrung": "أكثر من 30 عامًا من الخبرة"
+  "Über 30 Jahre Erfahrung": "أكثر من 30 عامًا من الخبرة",
+
+  /* ---- Phase 4: Export-Zollhinweise neutral ---- */
+  "Ausfuhranmeldung bei Drittländern": "بيان التصدير إلى الدول خارج الاتحاد الأوروبي",
+  "Ausgangsvermerk": "مصادقة الخروج",
+  "Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.": "عند مغادرة الاتحاد الأوروبي يؤكد مكتب جمارك الخروج عملية التصدير. وتثبت مصادقة الخروج هذه أن المركبة قد صُدّرت، وهي الأساس للتسليم التصديري المعفى من ضريبة القيمة المضافة.",
+  "Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.": "إذا كانت المركبة ستُقاد إلى الخارج بنفسها، يمكن تسجيلها بلوحات تصدير. ويشترط لذلك فحص فني ساري المفعول (HU) وتأمين المسؤولية المدنية للمركبة.",
+  "Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.": "لا توجد إجراءات جمركية داخل الاتحاد الأوروبي. ولكي يبقى التسليم معفى من ضريبة القيمة المضافة، يحتاج المشتري إلى رقم تعريف ضريبي أوروبي ساري المفعول، ويجب إثبات وصول المركبة إلى بلد الوجهة، مثلًا بشهادة الوصول (Gelangensbestätigung).",
+  "Ja. Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "نعم. حسب بلد الوجهة ننظّم النقل البري أو الشحن البحري.",
+  "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "حسب بلد الوجهة ننظّم النقل البري أو الشحن البحري.",
+  "So funktioniert die Verzollung beim Fahrzeugexport": "كيف يتم التخليص الجمركي عند تصدير المركبات",
+  "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "عندما تغادر مركبة الاتحاد الأوروبي، يُقدَّم بيان تصدير إلكتروني إلى الجمارك – في ألمانيا عبر نظام ATLAS. وتُعرض المركبة لهذا الغرض على مكتب الجمارك المختص.",
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "يخضع التخليص الجمركي ورسوم الاستيراد والتسجيل في بلد الوجهة للأنظمة المحلية هناك. ومن الأفضل أن يستفسر المشتري مسبقًا لدى الجهة المختصة عن المستندات المطلوبة."
 };

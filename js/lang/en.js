@@ -712,5 +712,17 @@
   "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "What if the vehicle I want is not in stock?",
   "Wie erreiche ich Sie während des Verkaufs?": "How can I reach you during the sale?",
   "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "We have been trading commercial vehicles for over 30 years and know the requirements of customers from many countries.",
-  "Über 30 Jahre Erfahrung": "Over 30 years of experience"
+  "Über 30 Jahre Erfahrung": "Over 30 years of experience",
+
+  /* ---- Phase 4: Export-Zollhinweise neutral ---- */
+  "Ausfuhranmeldung bei Drittländern": "Export declaration for non-EU countries",
+  "Ausgangsvermerk": "Exit endorsement",
+  "Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.": "When the vehicle leaves the EU, the customs office of exit confirms the export. This exit endorsement proves that the vehicle has been exported and is the basis for the VAT-exempt export delivery.",
+  "Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.": "If the vehicle is driven abroad on its own wheels, it can be registered with export number plates. This requires a valid main inspection (HU) and motor liability insurance.",
+  "Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.": "There are no customs formalities within the EU. For the delivery to remain VAT-exempt, the buyer needs a valid VAT identification number, and the arrival of the vehicle in the country of destination must be proven, for example with an entry certificate (Gelangensbestätigung).",
+  "Ja. Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Yes. Depending on the destination, we organise road transport or shipping.",
+  "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Depending on the destination, we organise road transport or shipping.",
+  "So funktioniert die Verzollung beim Fahrzeugexport": "How customs clearance works for vehicle exports",
+  "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "If a vehicle leaves the EU, an electronic export declaration is submitted to customs – in Germany via the ATLAS system. The vehicle is presented at the competent customs office for this purpose.",
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Customs clearance, import duties and registration in the destination country are governed by local regulations. The buyer should check in advance with the competent authority which documents are required."
 };

@@ -699,5 +699,17 @@
   "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "¿Y si el vehículo que busco no está en stock?",
   "Wie erreiche ich Sie während des Verkaufs?": "¿Cómo puedo contactarles durante la venta?",
   "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Comercializamos vehículos industriales desde hace más de 30 años y conocemos los requisitos de clientes de muchos países.",
-  "Über 30 Jahre Erfahrung": "Más de 30 años de experiencia"
+  "Über 30 Jahre Erfahrung": "Más de 30 años de experiencia",
+
+  /* ---- Phase 4: Export-Zollhinweise neutral ---- */
+  "Ausfuhranmeldung bei Drittländern": "Declaración de exportación a terceros países",
+  "Ausgangsvermerk": "Visado de salida",
+  "Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.": "Al salir de la UE, la aduana de salida confirma la exportación. Este visado de salida acredita que el vehículo ha sido exportado y es la base de la entrega de exportación exenta de IVA.",
+  "Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.": "Si el vehículo sale al extranjero por sus propios medios, puede matricularse con una matrícula de exportación. Para ello se requiere una inspección técnica (HU) vigente y un seguro de responsabilidad civil.",
+  "Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.": "Dentro de la UE no hay trámites aduaneros. Para que la entrega quede exenta de IVA, el comprador necesita un número de IVA intracomunitario válido y debe acreditarse la llegada del vehículo al país de destino, por ejemplo con un certificado de llegada (Gelangensbestätigung).",
+  "Ja. Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Sí. Según el país de destino organizamos el transporte por carretera o el envío marítimo.",
+  "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Según el país de destino organizamos el transporte por carretera o el envío marítimo.",
+  "So funktioniert die Verzollung beim Fahrzeugexport": "Así funciona el despacho aduanero en la exportación de vehículos",
+  "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Cuando un vehículo sale de la UE, se presenta una declaración de exportación electrónica en la aduana; en Alemania, a través del sistema ATLAS. Para ello, el vehículo se presenta en la oficina de aduanas competente.",
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "El despacho aduanero, los derechos de importación y la matriculación en el país de destino se rigen por la normativa local. Conviene que el comprador consulte de antemano con la autoridad competente qué documentos se exigen."
 };

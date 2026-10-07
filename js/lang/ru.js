@@ -699,5 +699,17 @@
   "Was ist, wenn das gewünschte Fahrzeug nicht im Bestand ist?": "Что делать, если нужной машины нет в наличии?",
   "Wie erreiche ich Sie während des Verkaufs?": "Как связаться с вами во время продажи?",
   "Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und kennen die Anforderungen von Kunden aus vielen Ländern.": "Мы более 30 лет торгуем коммерческим транспортом и знаем требования клиентов из многих стран.",
-  "Über 30 Jahre Erfahrung": "Более 30 лет опыта"
+  "Über 30 Jahre Erfahrung": "Более 30 лет опыта",
+
+  /* ---- Phase 4: Export-Zollhinweise neutral ---- */
+  "Ausfuhranmeldung bei Drittländern": "Экспортная декларация для третьих стран",
+  "Ausgangsvermerk": "Отметка о вывозе",
+  "Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.": "При выезде из ЕС таможня на выезде подтверждает вывоз. Эта отметка о вывозе подтверждает, что машина экспортирована, и является основанием для экспортной поставки без НДС.",
+  "Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.": "Если машина выезжает за границу своим ходом, её можно зарегистрировать на экспортные (транзитные) номера. Для этого нужны действующий техосмотр (HU) и страховка гражданской ответственности.",
+  "Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.": "Внутри ЕС таможенных формальностей нет. Чтобы поставка осталась без НДС, покупателю нужен действующий номер плательщика НДС ЕС, а прибытие машины в страну назначения должно быть подтверждено, например подтверждением доставки (Gelangensbestätigung).",
+  "Ja. Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Да. В зависимости от страны назначения мы организуем автоперевозку или морскую доставку.",
+  "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "В зависимости от страны назначения мы организуем автоперевозку или морскую доставку.",
+  "So funktioniert die Verzollung beim Fahrzeugexport": "Как работает таможенное оформление при экспорте техники",
+  "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Если машина покидает ЕС, в таможню подаётся электронная экспортная декларация – в Германии через систему ATLAS. Для этого машину предъявляют в компетентном таможенном органе.",
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Растаможка, ввозные пошлины и регистрация в стране назначения регулируются местными правилами. Какие документы требуются, покупателю лучше заранее уточнить в компетентном ведомстве."
 };
