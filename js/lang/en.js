@@ -256,5 +256,15 @@
   "Urheberrecht": "Copyright",
   "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.": "The content and works created by the site operators on these pages are subject to German copyright law. Reproduction, editing, distribution and any kind of use beyond the limits of copyright law require the written consent of the respective author or creator. Downloads and copies of this site are only permitted for private, non-commercial use. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please let us know. As soon as we become aware of legal violations, we will remove such content immediately.",
   "Quelle:": "Source:",
-  "Quelle Bilder: Unsplash+": "Image source: Unsplash+"
+  "Quelle Bilder: Unsplash+": "Image source: Unsplash+",
+
+  /* ---- 404-Seite ---- */
+  "Seite nicht gefunden (404) | Elegance Car Safi": "Page not found (404) | Elegance Car Safi",
+  "Fehler 404": "Error 404",
+  "Seite nicht gefunden.": "Page not found.",
+  "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "The page you requested does not exist or is no longer available. One of these pages may help you.",
+  "Fahrzeuge im Bestand": "Vehicles in stock",
+  "So läuft ein Ankauf ab": "How we buy your vehicle",
+  "Export und Verzollung": "Export and customs clearance",
+  "Häufige Fragen": "Frequently asked questions"
 };

@@ -243,5 +243,15 @@
   "Urheberrecht": "حقوق النشر",
   "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.": "يخضع المحتوى والأعمال التي أنشأها مشغّلو الموقع لقانون حقوق النشر الألماني. ويتطلب النسخ والتعديل والتوزيع وأي استخدام خارج حدود حقوق النشر موافقة خطية من المؤلف أو المنشئ المعني. ولا يُسمح بتنزيل هذا الموقع أو نسخه إلا للاستخدام الخاص غير التجاري. وبقدر ما لم يُنشأ المحتوى من قبل المشغّل، تُحترم حقوق النشر الخاصة بأطراف ثالثة، ويُشار إلى محتوى الأطراف الثالثة على هذا النحو. وإذا لاحظت مع ذلك أي انتهاك لحقوق النشر، نرجو إبلاغنا. وعند علمنا بانتهاكات سنزيل هذا المحتوى فورًا.",
   "Quelle:": "المصدر:",
-  "Quelle Bilder: Unsplash+": "مصدر الصور: Unsplash+"
+  "Quelle Bilder: Unsplash+": "مصدر الصور: Unsplash+",
+
+  /* ---- 404-Seite ---- */
+  "Seite nicht gefunden (404) | Elegance Car Safi": "الصفحة غير موجودة (404) | Elegance Car Safi",
+  "Fehler 404": "خطأ 404",
+  "Seite nicht gefunden.": "الصفحة غير موجودة.",
+  "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "الصفحة المطلوبة غير موجودة أو لم تعد متاحة. ربما تساعدك إحدى هذه الصفحات.",
+  "Fahrzeuge im Bestand": "المركبات المتوفرة",
+  "So läuft ein Ankauf ab": "كيف تتم عملية الشراء",
+  "Export und Verzollung": "التصدير والتخليص الجمركي",
+  "Häufige Fragen": "الأسئلة الشائعة"
 };

@@ -243,5 +243,15 @@
   "Urheberrecht": "Derechos de autor",
   "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.": "Los contenidos y obras creados por los operadores de este sitio están sujetos a la legislación alemana sobre derechos de autor. La reproducción, edición, distribución y cualquier tipo de explotación fuera de los límites de los derechos de autor requieren el consentimiento por escrito del autor o creador correspondiente. Las descargas y copias de este sitio solo están permitidas para uso privado y no comercial. En la medida en que los contenidos no hayan sido creados por el operador, se respetan los derechos de autor de terceros. En particular, los contenidos de terceros se identifican como tales. Si, a pesar de ello, detecta una infracción de derechos de autor, le rogamos que nos lo comunique. En cuanto tengamos conocimiento de infracciones, eliminaremos dichos contenidos de inmediato.",
   "Quelle:": "Fuente:",
-  "Quelle Bilder: Unsplash+": "Fuente de las imágenes: Unsplash+"
+  "Quelle Bilder: Unsplash+": "Fuente de las imágenes: Unsplash+",
+
+  /* ---- 404-Seite ---- */
+  "Seite nicht gefunden (404) | Elegance Car Safi": "Página no encontrada (404) | Elegance Car Safi",
+  "Fehler 404": "Error 404",
+  "Seite nicht gefunden.": "Página no encontrada.",
+  "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "La página solicitada no existe o ya no está disponible. Quizá le sirva una de estas páginas.",
+  "Fahrzeuge im Bestand": "Vehículos en stock",
+  "So läuft ein Ankauf ab": "Así funciona la compra de su vehículo",
+  "Export und Verzollung": "Exportación y despacho aduanero",
+  "Häufige Fragen": "Preguntas frecuentes"
 };

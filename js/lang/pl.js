@@ -243,5 +243,15 @@
   "Urheberrecht": "Prawa autorskie",
   "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.": "Treści i utwory stworzone przez operatorów strony podlegają niemieckiemu prawu autorskiemu. Powielanie, opracowywanie, rozpowszechnianie i wszelkie formy wykorzystania wykraczające poza granice prawa autorskiego wymagają pisemnej zgody autora lub twórcy. Pobieranie i kopiowanie tej strony jest dozwolone wyłącznie do prywatnego, niekomercyjnego użytku. O ile treści na tej stronie nie zostały stworzone przez operatora, przestrzegane są prawa autorskie osób trzecich. W szczególności treści osób trzecich są oznaczone jako takie. Jeśli mimo to zauważysz naruszenie praw autorskich, prosimy o informację. Po uzyskaniu informacji o naruszeniach prawa niezwłocznie usuniemy takie treści.",
   "Quelle:": "Źródło:",
-  "Quelle Bilder: Unsplash+": "Źródło zdjęć: Unsplash+"
+  "Quelle Bilder: Unsplash+": "Źródło zdjęć: Unsplash+",
+
+  /* ---- 404-Seite ---- */
+  "Seite nicht gefunden (404) | Elegance Car Safi": "Nie znaleziono strony (404) | Elegance Car Safi",
+  "Fehler 404": "Błąd 404",
+  "Seite nicht gefunden.": "Nie znaleziono strony.",
+  "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "Wybrana strona nie istnieje lub nie jest już dostępna. Być może pomoże Państwu jedna z poniższych stron.",
+  "Fahrzeuge im Bestand": "Pojazdy w ofercie",
+  "So läuft ein Ankauf ab": "Jak przebiega skup pojazdu",
+  "Export und Verzollung": "Eksport i odprawa celna",
+  "Häufige Fragen": "Najczęstsze pytania"
 };

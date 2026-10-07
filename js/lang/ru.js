@@ -243,5 +243,15 @@
   "Urheberrecht": "Авторское право",
   "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.": "Контент и материалы, созданные операторами сайта, охраняются авторским правом Германии. Воспроизведение, переработка, распространение и любое использование за пределами авторского права требуют письменного согласия автора или создателя. Скачивание и копирование материалов сайта разрешены только для личного некоммерческого использования. Если контент на сайте создан не оператором, авторские права третьих лиц соблюдаются, а такой контент обозначается соответствующим образом. Если вы всё же заметите нарушение авторских прав, просим сообщить нам. Как только нам станет известно о нарушениях, мы незамедлительно удалим такой контент.",
   "Quelle:": "Источник:",
-  "Quelle Bilder: Unsplash+": "Источник изображений: Unsplash+"
+  "Quelle Bilder: Unsplash+": "Источник изображений: Unsplash+",
+
+  /* ---- 404-Seite ---- */
+  "Seite nicht gefunden (404) | Elegance Car Safi": "Страница не найдена (404) | Elegance Car Safi",
+  "Fehler 404": "Ошибка 404",
+  "Seite nicht gefunden.": "Страница не найдена.",
+  "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "Запрошенная страница не существует или больше недоступна. Возможно, вам поможет одна из этих страниц.",
+  "Fahrzeuge im Bestand": "Автомобили в наличии",
+  "So läuft ein Ankauf ab": "Как проходит выкуп",
+  "Export und Verzollung": "Экспорт и таможенное оформление",
+  "Häufige Fragen": "Частые вопросы"
 };

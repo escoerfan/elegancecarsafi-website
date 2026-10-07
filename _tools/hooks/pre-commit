@@ -1,0 +1,4 @@
+#!/bin/sh
+# Vor jedem Commit: Sitemap neu erzeugen und mitcommitten.
+# Aktiviert über:  git config core.hooksPath _tools/hooks
+python3 _tools/sitemap.py >/dev/null && git add sitemap.xml

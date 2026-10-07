@@ -980,6 +980,18 @@ body .vw-section * {
 .page-hero--compact { padding-block: 150px 48px; }
 .page-hero--compact .page-hero__title { font-size: clamp(30px, 3.4vw, 48px); margin-bottom: 0; }
 
+/* 404-Seite: Buttons und Linkliste zu den Hauptseiten */
+.notfound__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px; }
+.notfound__links {
+  list-style: none; margin: 56px 0 0; padding: 0; max-width: 640px;
+  border-top: 1px solid var(--line-strong);
+}
+.notfound__links a {
+  display: block; padding: 16px 0; border-bottom: 1px solid var(--line-strong);
+  color: var(--white); font-size: 18px; transition: color 0.2s ease;
+}
+.notfound__links a:hover { color: var(--text); }
+
 /* Seiten, die direkt mit einem Inhaltsabschnitt beginnen */
 .process--page { padding-top: 190px; }
 .contact--page { padding-top: 190px; }
