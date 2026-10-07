@@ -253,5 +253,18 @@
   "Fahrzeuge im Bestand": "المركبات المتوفرة",
   "So läuft ein Ankauf ab": "كيف تتم عملية الشراء",
   "Export und Verzollung": "التصدير والتخليص الجمركي",
-  "Häufige Fragen": "الأسئلة الشائعة"
+  "Häufige Fragen": "الأسئلة الشائعة",
+
+  /* ---- Phase 3: Titel und Überschriften ---- */
+  "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "شراء وبيع المركبات التجارية بالقرب من هانوفر | ECS GmbH",
+  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "من نحن: تجارة المركبات التجارية في غيردن | ECS GmbH",
+  "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "شراء مركبات تجارية مستعملة: المتوفر | ECS GmbH",
+  "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "كيف نعمل: الشراء والبيع والتصدير | ECS GmbH",
+  "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "تصدير المركبات التجارية مع التخليص الجمركي | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "اتصل بنا: اعرض مركبتك أو اطلب مركبة | ECS GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "الأسئلة الشائعة حول شراء المركبات التجارية والتصدير | ECS GmbH",
+  "Ankauf und Verkauf von Nutzfahrzeugen": "شراء وبيع المركبات التجارية",
+  "Nutzfahrzeuge aus Gehrden.": "المركبات التجارية من غيردن.",
+  "Gebrauchte Nutzfahrzeuge im Bestand": "مركبات تجارية مستعملة متوفرة",
+  "Häufige Fragen zu Ankauf, Verkauf und Export": "أسئلة شائعة حول الشراء والبيع والتصدير"
 };

@@ -253,5 +253,18 @@
   "Fahrzeuge im Bestand": "Автомобили в наличии",
   "So läuft ein Ankauf ab": "Как проходит выкуп",
   "Export und Verzollung": "Экспорт и таможенное оформление",
-  "Häufige Fragen": "Частые вопросы"
+  "Häufige Fragen": "Частые вопросы",
+
+  /* ---- Phase 3: Titel und Überschriften ---- */
+  "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Покупка и продажа коммерческого транспорта под Ганновером | ECS GmbH",
+  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "О нас: торговля коммерческим транспортом в Гердене | ECS GmbH",
+  "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Купить б/у коммерческий транспорт: наличие | ECS GmbH",
+  "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "Как мы работаем: выкуп, продажа, экспорт | ECS GmbH",
+  "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Экспорт коммерческого транспорта с растаможкой | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Контакты: предложить или запросить автомобиль | ECS GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "Вопросы о выкупе коммерческого транспорта и экспорте | ECS GmbH",
+  "Ankauf und Verkauf von Nutzfahrzeugen": "покупке и продаже коммерческого транспорта",
+  "Nutzfahrzeuge aus Gehrden.": "коммерческому транспорту из Гердена.",
+  "Gebrauchte Nutzfahrzeuge im Bestand": "Б/у коммерческий транспорт в наличии",
+  "Häufige Fragen zu Ankauf, Verkauf und Export": "Частые вопросы о покупке, продаже и экспорте"
 };

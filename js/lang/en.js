@@ -266,5 +266,18 @@
   "Fahrzeuge im Bestand": "Vehicles in stock",
   "So läuft ein Ankauf ab": "How we buy your vehicle",
   "Export und Verzollung": "Export and customs clearance",
-  "Häufige Fragen": "Frequently asked questions"
+  "Häufige Fragen": "Frequently asked questions",
+
+  /* ---- Phase 3: Titel und Überschriften ---- */
+  "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Commercial vehicles bought & sold near Hanover | ECS GmbH",
+  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "About us: commercial vehicle dealer in Gehrden | ECS GmbH",
+  "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Buy used commercial vehicles: stock | ECS GmbH",
+  "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "How we work: buying, selling, export | ECS GmbH",
+  "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Commercial vehicle export incl. customs | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Contact: offer or request a vehicle | ECS GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "FAQ on selling commercial vehicles and export | ECS GmbH",
+  "Ankauf und Verkauf von Nutzfahrzeugen": "buying and selling commercial vehicles",
+  "Nutzfahrzeuge aus Gehrden.": "commercial vehicles from Gehrden.",
+  "Gebrauchte Nutzfahrzeuge im Bestand": "Used commercial vehicles in stock",
+  "Häufige Fragen zu Ankauf, Verkauf und Export": "Frequently asked questions on buying, selling and export"
 };

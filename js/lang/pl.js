@@ -253,5 +253,18 @@
   "Fahrzeuge im Bestand": "Pojazdy w ofercie",
   "So läuft ein Ankauf ab": "Jak przebiega skup pojazdu",
   "Export und Verzollung": "Eksport i odprawa celna",
-  "Häufige Fragen": "Najczęstsze pytania"
+  "Häufige Fragen": "Najczęstsze pytania",
+
+  /* ---- Phase 3: Titel und Überschriften ---- */
+  "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Skup i sprzedaż pojazdów użytkowych koło Hanoweru | ECS GmbH",
+  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "O nas: handel pojazdami użytkowymi w Gehrden | ECS GmbH",
+  "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Używane pojazdy użytkowe: oferta | ECS GmbH",
+  "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "Jak pracujemy: skup, sprzedaż, eksport | ECS GmbH",
+  "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Eksport pojazdów użytkowych z odprawą celną | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Kontakt: zaoferuj lub zapytaj o pojazd | ECS GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "FAQ: skup pojazdów użytkowych i eksport | ECS GmbH",
+  "Ankauf und Verkauf von Nutzfahrzeugen": "skupu i sprzedaży pojazdów użytkowych",
+  "Nutzfahrzeuge aus Gehrden.": "pojazdów użytkowych z Gehrden.",
+  "Gebrauchte Nutzfahrzeuge im Bestand": "Używane pojazdy użytkowe w ofercie",
+  "Häufige Fragen zu Ankauf, Verkauf und Export": "Najczęstsze pytania o skup, sprzedaż i eksport"
 };

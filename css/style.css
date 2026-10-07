@@ -935,7 +935,8 @@ body .vw-section * {
   color: var(--text);
   max-width: 340px;
 }
-.site-footer h3 {
+.site-footer h3,
+.site-footer__heading {
   font-size: 22px;
   font-weight: 500;
   color: var(--white);
