@@ -31,9 +31,7 @@
 <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/favicon-512.png">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css?v=20261007a">
 <link rel="stylesheet" href="css/export-globe.css?v=20260913p">
 <link rel="stylesheet" href="css/bestand.css?v=20260913n">
@@ -70,7 +68,7 @@
 <header class="site-header" id="site-header">
   <div class="container site-header__inner">
     <a class="site-header__logo" href="/" aria-label="Elegance Car Safi – Startseite">
-      <img src="assets/img/logo-ecs.png" alt="Logo ECS" width="250" height="141">
+      <picture><source type="image/webp" srcset="assets/img/opt/logo-ecs-360.webp"><img src="assets/img/opt/logo-ecs-360.png" width="360" height="202" alt="Logo ECS"></picture>
     </a>
 
     <nav class="site-nav" id="site-nav">
@@ -105,7 +103,11 @@
 <!-- ================================================================= Hero -->
 <section class="hero" id="start">
   <div class="hero__bg">
-    <img src="assets/img/hero-actros.png" alt="Gebrauchter Mercedes-Benz Actros LKW vor Bergpanorama" fetchpriority="high">
+    <picture>
+      <source type="image/avif" srcset="assets/img/opt/hero-actros-960.avif 960w, assets/img/opt/hero-actros-1440.avif 1440w, assets/img/opt/hero-actros-1920.avif 1920w, assets/img/opt/hero-actros-2880.avif 2880w" sizes="(max-aspect-ratio: 16/9) 178vh, 100vw">
+      <source type="image/webp" srcset="assets/img/opt/hero-actros-960.webp 960w, assets/img/opt/hero-actros-1440.webp 1440w, assets/img/opt/hero-actros-1920.webp 1920w, assets/img/opt/hero-actros-2880.webp 2880w" sizes="(max-aspect-ratio: 16/9) 178vh, 100vw">
+      <img src="assets/img/opt/hero-actros-1920.jpg" srcset="assets/img/opt/hero-actros-960.jpg 960w, assets/img/opt/hero-actros-1440.jpg 1440w, assets/img/opt/hero-actros-1920.jpg 1920w, assets/img/opt/hero-actros-2880.jpg 2880w" sizes="(max-aspect-ratio: 16/9) 178vh, 100vw" alt="Gebrauchter Mercedes-Benz Actros LKW vor Bergpanorama" width="2880" height="1620" fetchpriority="high">
+    </picture>
   </div>
 
   <div class="container hero__content">
@@ -145,23 +147,23 @@
     <div class="marquee__track">
       <div class="marquee__group">
         <img class="is-padded" src="assets/img/marke-scania.svg" alt="Scania" loading="lazy">
-        <img class="is-padded" src="assets/img/marke-iveco.png" alt="IVECO" loading="lazy">
-        <img src="assets/img/marke-ford.png" alt="Ford" loading="lazy">
-        <img src="assets/img/marke-mercedes.png" alt="Mercedes-Benz" loading="lazy">
-        <img src="assets/img/marke-man.png" alt="MAN" loading="lazy">
-        <img src="assets/img/marke-setra.png" alt="Setra" loading="lazy">
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-iveco-192.webp"><img class="is-padded" src="assets/img/opt/marke-iveco-192.png" width="192" height="192" alt="IVECO" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-ford-88.webp"><img src="assets/img/opt/marke-ford-88.png" width="235" height="88" alt="Ford" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-mercedes-88.webp"><img src="assets/img/opt/marke-mercedes-88.png" width="88" height="88" alt="Mercedes-Benz" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-man-88.webp"><img src="assets/img/opt/marke-man-88.png" width="159" height="88" alt="MAN" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-setra-88.webp"><img src="assets/img/opt/marke-setra-88.png" width="264" height="88" alt="Setra" loading="lazy"></picture>
         <img src="assets/img/marke-volvo.svg" alt="Volvo" loading="lazy">
-        <img src="assets/img/marke-vw.png" alt="Volkswagen" loading="lazy">
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-vw-88.webp"><img src="assets/img/opt/marke-vw-88.png" width="88" height="88" alt="Volkswagen" loading="lazy"></picture>
       </div>
       <div class="marquee__group" aria-hidden="true">
         <img class="is-padded" src="assets/img/marke-scania.svg" alt="" loading="lazy">
-        <img class="is-padded" src="assets/img/marke-iveco.png" alt="" loading="lazy">
-        <img src="assets/img/marke-ford.png" alt="" loading="lazy">
-        <img src="assets/img/marke-mercedes.png" alt="" loading="lazy">
-        <img src="assets/img/marke-man.png" alt="" loading="lazy">
-        <img src="assets/img/marke-setra.png" alt="" loading="lazy">
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-iveco-192.webp"><img class="is-padded" src="assets/img/opt/marke-iveco-192.png" width="192" height="192" alt="" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-ford-88.webp"><img src="assets/img/opt/marke-ford-88.png" width="235" height="88" alt="" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-mercedes-88.webp"><img src="assets/img/opt/marke-mercedes-88.png" width="88" height="88" alt="" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-man-88.webp"><img src="assets/img/opt/marke-man-88.png" width="159" height="88" alt="" loading="lazy"></picture>
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-setra-88.webp"><img src="assets/img/opt/marke-setra-88.png" width="264" height="88" alt="" loading="lazy"></picture>
         <img src="assets/img/marke-volvo.svg" alt="" loading="lazy">
-        <img src="assets/img/marke-vw.png" alt="" loading="lazy">
+        <picture><source type="image/webp" srcset="assets/img/opt/marke-vw-88.webp"><img src="assets/img/opt/marke-vw-88.png" width="88" height="88" alt="" loading="lazy"></picture>
       </div>
     </div>
   </div>
@@ -173,7 +175,11 @@
 <!-- ================================================== Fahrzeug abgeben? -->
 <section class="pitch">
   <div class="pitch__media">
-    <img src="assets/img/pitch-actros-frontal.jpg" alt="Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht" width="1672" height="941" loading="lazy">
+    <picture>
+      <source type="image/avif" srcset="assets/img/opt/pitch-actros-frontal-960.avif 960w, assets/img/opt/pitch-actros-frontal-1672.avif 1672w" sizes="100vw">
+      <source type="image/webp" srcset="assets/img/opt/pitch-actros-frontal-960.webp 960w, assets/img/opt/pitch-actros-frontal-1672.webp 1672w" sizes="100vw">
+      <img src="assets/img/opt/pitch-actros-frontal-1672.jpg" srcset="assets/img/opt/pitch-actros-frontal-960.jpg 960w, assets/img/opt/pitch-actros-frontal-1672.jpg 1672w" sizes="100vw" alt="Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht" width="1672" height="941" loading="lazy" decoding="async">
+    </picture>
   </div>
 
   <div class="container pitch__grid">
@@ -284,7 +290,7 @@
     <div class="site-footer__panel">
       <div class="site-footer__grid">
         <div>
-          <img class="site-footer__logo" src="assets/img/logo-ecs.png" alt="ECS Exclusive Commerce Services GmbH">
+          <picture><source type="image/webp" srcset="assets/img/opt/logo-ecs-360.webp"><img class="site-footer__logo" src="assets/img/opt/logo-ecs-360.png" width="360" height="202" alt="ECS Exclusive Commerce Services GmbH" loading="lazy" decoding="async"></picture>
           <p class="site-footer__about">
             Vom Reisebus bis zur Baumaschine. Wir kaufen, verkaufen und exportieren gewerbliche
             Fahrzeuge europaweit, schnell, direkt und mit über 30 Jahren Erfahrung.
