@@ -922,8 +922,8 @@ body .vw-section * {
 }
 .site-footer__grid {
   display: grid;
-  grid-template-columns: 1.3fr 0.8fr 1fr 1fr;
-  gap: 56px;
+  grid-template-columns: 1.3fr 0.8fr 1fr 1fr 1fr;
+  gap: 48px;
 }
 .site-footer__nav { display: grid; gap: 8px; }
 .site-footer__nav a { font-size: 16px; color: var(--text); transition: color 0.2s ease; }
@@ -1005,7 +1005,8 @@ body .vw-section * {
 .page-hero--compact .page-hero__title { font-size: clamp(30px, 3.4vw, 48px); margin-bottom: 0; }
 
 /* 404-Seite: Buttons und Linkliste zu den Hauptseiten */
-.notfound__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px; }
+.notfound__actions,
+.page-hero__actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 36px; }
 .notfound__links {
   list-style: none; margin: 56px 0 0; padding: 0; max-width: 640px;
   border-top: 1px solid var(--line-strong);
@@ -1437,3 +1438,26 @@ html[dir="rtl"] .contact__phone { text-align: right; }
    ==================================================================== */
 .vw-section:not(.vw-section--teaser) #vw-filter:empty { min-height: 43px; margin-bottom: 30px; }
 .vw-section:not(.vw-section--teaser) #vw-grid:has(> .vw-status:only-child) { min-height: 640px; }
+
+/* ====================================================================
+   Ankaufseiten (Reisebus, LKW, …): nur Ergänzungen zu vorhandenen Bausteinen
+   ==================================================================== */
+.about__grid--flush { margin-bottom: 0; }
+
+/* Weiterführende Links am Seitenende (dunkel, Linienliste wie im Footer-Stil) */
+.related { padding-block: 120px; background: var(--bg-gradient); border-top: 1px solid var(--line); }
+.related__title { margin-bottom: 44px; max-width: 760px; }
+.link-list {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 56px;
+  border-top: 1px solid var(--line-strong);
+}
+.link-list a {
+  display: block; padding: 18px 0; border-bottom: 1px solid var(--line-strong);
+  color: var(--white); font-size: 18px; transition: color 0.2s ease;
+}
+.link-list a:hover { color: var(--text); }
+@media (max-width: 767px) {
+  .related { padding-block: 90px; }
+  .link-list { grid-template-columns: 1fr; }
+}
