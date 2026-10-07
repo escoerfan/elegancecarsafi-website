@@ -272,3 +272,29 @@
     }
   }
 })();
+
+/* ---------------------------------------------------------- Tracking
+   Vorbereitet, aber inaktiv: Ereignisse (Anruf-Klick, WhatsApp-Klick,
+   Ankauf-Formular) landen nur im dataLayer, wenn eine Einwilligung
+   "statistics" vorliegt. Die gibt es im Cookie-Banner derzeit nicht, und es
+   wird kein Statistik-Tool geladen – deshalb passiert aktuell nichts.
+   Später: Kategorie "statistics" in js/cookie-consent.js ergänzen und das
+   Tool (z. B. GA4/Matomo) erst nach Einwilligung laden.               */
+(function () {
+  'use strict';
+
+  window.ECSTrack = function (name, data) {
+    var consent = window.ECSConsent;
+    if (!consent || !consent.has('statistics')) return;
+    var entry = { event: name };
+    for (var k in data) if (Object.prototype.hasOwnProperty.call(data, k)) entry[k] = data[k];
+    (window.dataLayer = window.dataLayer || []).push(entry);
+  };
+
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href^="tel:"], a[href*="wa.me/"]');
+    if (!a) return;
+    var where = a.closest('.mobile-cta') ? 'leiste' : (a.closest('footer') ? 'footer' : 'seite');
+    window.ECSTrack(a.href.indexOf('tel:') === 0 ? 'anruf_klick' : 'whatsapp_klick', { ort: where });
+  });
+})();

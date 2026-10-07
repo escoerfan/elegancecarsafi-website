@@ -32,12 +32,12 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261007f">
+<link rel="stylesheet" href="css/style.css?v=20261007g">
 
-<script src="js/i18n.js?v=20261007f"></script>
+<script src="js/i18n.js?v=20261007g"></script>
 </head>
 
-<body>
+<body class="has-mobile-cta">
 
 <!-- ============================================================ Kopfzeile -->
 <header class="site-header" id="site-header">
@@ -293,6 +293,18 @@
 
 </main>
 
+<!-- Feste Kontaktleiste (nur auf Handy sichtbar, siehe css/style.css) -->
+<div class="mobile-cta" role="region" aria-label="Schnellkontakt">
+  <a class="mobile-cta__btn mobile-cta__btn--call" href="tel:+491713621298">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.46.57 3.6a1 1 0 0 1-.25 1z"/></svg>
+    Anrufen
+  </a>
+  <a class="mobile-cta__btn mobile-cta__btn--wa" href="https://wa.me/491713621298" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.15l-.3-.18-3 .78.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.25-.12-1.46-.72-1.69-.8s-.39-.12-.55.12-.63.8-.78.96-.29.19-.53.06a6.7 6.7 0 0 1-3.32-2.9c-.25-.43.25-.4.71-1.33a.45.45 0 0 0-.02-.42c-.06-.12-.55-1.33-.76-1.82s-.4-.41-.55-.42h-.47a.9.9 0 0 0-.65.3 2.74 2.74 0 0 0-.85 2.03 4.75 4.75 0 0 0 1 2.52 10.9 10.9 0 0 0 4.17 3.68c1.55.67 2.16.73 2.94.61a2.5 2.5 0 0 0 1.65-1.16 2 2 0 0 0 .14-1.16c-.06-.1-.22-.16-.47-.28z"/></svg>
+    WhatsApp
+  </a>
+</div>
+
 <!-- ============================================================= Fußzeile -->
 <footer class="site-footer">
   <div class="container">
@@ -369,7 +381,8 @@
 
 <!-- Cookie-Banner; Leaflet (Karte) wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20260913i" defer></script>
-<script src="js/main.js?v=20260914b" defer></script>
+<script src="js/main.js?v=20261007a" defer></script>
 
+<script src="js/ankauf.js?v=20261007a" defer></script>
 </body>
 </html>

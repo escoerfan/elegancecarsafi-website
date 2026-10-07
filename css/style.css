@@ -1472,3 +1472,38 @@ html[dir="rtl"] .contact__phone { text-align: right; }
   color: var(--ink);
 }
 .faq__inner > .faq__group:first-child { margin-top: 0; }
+
+/* ====================================================================
+   Ankauf-Formular (Ankaufseiten) – nutzt .contact und .form-card
+   ==================================================================== */
+.ankauf { border-top: 1px solid var(--line); }
+.form-hint { margin: -4px 0 14px; font-size: 14px; line-height: 1.5; color: var(--ink-soft); }
+.ankauf-form__actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.form-card .btn--secondary { background: transparent; color: var(--ink); border-color: rgba(38, 38, 38, 0.24); -webkit-backdrop-filter: none; backdrop-filter: none; }
+.form-card .btn--secondary:hover { background: rgba(38, 38, 38, 0.06); border-color: rgba(38, 38, 38, 0.4); }
+.ankauf-form textarea { min-height: 96px; }
+@media (max-width: 640px) {
+  .ankauf-form__actions { grid-template-columns: 1fr; }
+}
+
+/* Feste Kontaktleiste unten – nur auf dem Handy und nur auf Ankaufseiten */
+.mobile-cta { display: none; }
+@media (max-width: 767px) {
+  .mobile-cta {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+    padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+    background: rgba(6, 6, 6, 0.94);
+    -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+    border-top: 1px solid var(--line-strong);
+  }
+  .mobile-cta__btn {
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    min-height: 48px; font-size: 16px; font-weight: 500;
+    border: 1px solid var(--line-strong);
+  }
+  .mobile-cta__btn svg { width: 18px; height: 18px; fill: currentColor; }
+  .mobile-cta__btn--call { background: var(--white); color: var(--ink); border-color: var(--white); }
+  .mobile-cta__btn--wa { background: transparent; color: var(--white); }
+  body.has-mobile-cta { padding-bottom: calc(70px + env(safe-area-inset-bottom)); }
+}
