@@ -711,5 +711,8 @@
   "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "В зависимости от страны назначения мы организуем автоперевозку или морскую доставку.",
   "So funktioniert die Verzollung beim Fahrzeugexport": "Как работает таможенное оформление при экспорте техники",
   "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Если машина покидает ЕС, в таможню подаётся электронная экспортная декларация – в Германии через систему ATLAS. Для этого машину предъявляют в компетентном таможенном органе.",
-  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Растаможка, ввозные пошлины и регистрация в стране назначения регулируются местными правилами. Какие документы требуются, покупателю лучше заранее уточнить в компетентном ведомстве."
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Растаможка, ввозные пошлины и регистрация в стране назначения регулируются местными правилами. Какие документы требуются, покупателю лучше заранее уточнить в компетентном ведомстве.",
+
+  /* ---- Export: Leistungstext ---- */
+  "Wir holen Fahrzeuge direkt ab und organisieren den Transport – auf Wunsch auch im Ausland.": "Мы забираем технику напрямую и организуем перевозку – по желанию и за рубежом."
 };

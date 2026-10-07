@@ -724,5 +724,8 @@
   "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Depending on the destination, we organise road transport or shipping.",
   "So funktioniert die Verzollung beim Fahrzeugexport": "How customs clearance works for vehicle exports",
   "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "If a vehicle leaves the EU, an electronic export declaration is submitted to customs – in Germany via the ATLAS system. The vehicle is presented at the competent customs office for this purpose.",
-  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Customs clearance, import duties and registration in the destination country are governed by local regulations. The buyer should check in advance with the competent authority which documents are required."
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Customs clearance, import duties and registration in the destination country are governed by local regulations. The buyer should check in advance with the competent authority which documents are required.",
+
+  /* ---- Export: Leistungstext ---- */
+  "Wir holen Fahrzeuge direkt ab und organisieren den Transport – auf Wunsch auch im Ausland.": "We collect vehicles directly and organise transport – abroad too, on request."
 };

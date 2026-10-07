@@ -711,5 +711,8 @@
   "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "W zależności od kraju docelowego organizujemy transport drogowy lub wysyłkę drogą morską.",
   "So funktioniert die Verzollung beim Fahrzeugexport": "Jak wygląda odprawa celna przy eksporcie pojazdów",
   "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Gdy pojazd opuszcza UE, w urzędzie celnym składa się elektroniczne zgłoszenie wywozowe – w Niemczech przez system ATLAS. Pojazd jest w tym celu przedstawiany we właściwym urzędzie celnym.",
-  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Odprawa celna, należności przywozowe i rejestracja w kraju docelowym podlegają tamtejszym przepisom. Jakie dokumenty są wymagane, kupujący najlepiej wyjaśni wcześniej we właściwym urzędzie."
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "Odprawa celna, należności przywozowe i rejestracja w kraju docelowym podlegają tamtejszym przepisom. Jakie dokumenty są wymagane, kupujący najlepiej wyjaśni wcześniej we właściwym urzędzie.",
+
+  /* ---- Export: Leistungstext ---- */
+  "Wir holen Fahrzeuge direkt ab und organisieren den Transport – auf Wunsch auch im Ausland.": "Odbieramy pojazdy bezpośrednio i organizujemy transport – na życzenie również za granicą."
 };

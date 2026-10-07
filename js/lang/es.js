@@ -711,5 +711,8 @@
   "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "Según el país de destino organizamos el transporte por carretera o el envío marítimo.",
   "So funktioniert die Verzollung beim Fahrzeugexport": "Así funciona el despacho aduanero en la exportación de vehículos",
   "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "Cuando un vehículo sale de la UE, se presenta una declaración de exportación electrónica en la aduana; en Alemania, a través del sistema ATLAS. Para ello, el vehículo se presenta en la oficina de aduanas competente.",
-  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "El despacho aduanero, los derechos de importación y la matriculación en el país de destino se rigen por la normativa local. Conviene que el comprador consulte de antemano con la autoridad competente qué documentos se exigen."
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "El despacho aduanero, los derechos de importación y la matriculación en el país de destino se rigen por la normativa local. Conviene que el comprador consulte de antemano con la autoridad competente qué documentos se exigen.",
+
+  /* ---- Export: Leistungstext ---- */
+  "Wir holen Fahrzeuge direkt ab und organisieren den Transport – auf Wunsch auch im Ausland.": "Recogemos los vehículos directamente y organizamos el transporte, también en el extranjero si lo desea."
 };

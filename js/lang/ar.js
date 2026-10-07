@@ -711,5 +711,8 @@
   "Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.": "حسب بلد الوجهة ننظّم النقل البري أو الشحن البحري.",
   "So funktioniert die Verzollung beim Fahrzeugexport": "كيف يتم التخليص الجمركي عند تصدير المركبات",
   "Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.": "عندما تغادر مركبة الاتحاد الأوروبي، يُقدَّم بيان تصدير إلكتروني إلى الجمارك – في ألمانيا عبر نظام ATLAS. وتُعرض المركبة لهذا الغرض على مكتب الجمارك المختص.",
-  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "يخضع التخليص الجمركي ورسوم الاستيراد والتسجيل في بلد الوجهة للأنظمة المحلية هناك. ومن الأفضل أن يستفسر المشتري مسبقًا لدى الجهة المختصة عن المستندات المطلوبة."
+  "Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.": "يخضع التخليص الجمركي ورسوم الاستيراد والتسجيل في بلد الوجهة للأنظمة المحلية هناك. ومن الأفضل أن يستفسر المشتري مسبقًا لدى الجهة المختصة عن المستندات المطلوبة.",
+
+  /* ---- Export: Leistungstext ---- */
+  "Wir holen Fahrzeuge direkt ab und organisieren den Transport – auf Wunsch auch im Ausland.": "نستلم المركبات مباشرة وننظّم النقل – وعند الطلب في الخارج أيضًا."
 };
