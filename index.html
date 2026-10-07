@@ -35,31 +35,155 @@
 <link rel="stylesheet" href="css/style.css?v=20261007g">
 <link rel="stylesheet" href="css/export-globe.css?v=20260913p">
 <link rel="stylesheet" href="css/bestand.css?v=20260913n">
+<script src="js/i18n.js?v=20261007g"></script>
+<!-- schema:start -->
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
-  "@type": "AutoDealer",
-  "name": "ECS Exclusive Commerce Services GmbH – Elegance Car Safi",
-  "url": "https://elegancecarsafi.com/",
-  "image": "https://elegancecarsafi.com/assets/img/og-hero.jpg",
-  "telephone": "+49 171 3621298",
-  "email": "info@elegancecarsafi.com",
-  "address": {
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://elegancecarsafi.com/#organization",
+   "name": "ECS Exclusive Commerce Services GmbH",
+   "legalName": "ECS Exclusive Commerce Services GmbH",
+   "alternateName": [
+    "Elegance Car Safi",
+    "ECS GmbH"
+   ],
+   "url": "https://elegancecarsafi.com/",
+   "logo": {
+    "@type": "ImageObject",
+    "url": "https://elegancecarsafi.com/assets/img/logo-ecs.png",
+    "width": 1000,
+    "height": 562
+   },
+   "email": "info@elegancecarsafi.com",
+   "telephone": "+49 171 3621298",
+   "vatID": "DE452884436",
+   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Bünteweg 13",
     "postalCode": "30989",
     "addressLocality": "Gehrden",
+    "addressRegion": "Niedersachsen",
     "addressCountry": "DE"
-  },
-  "geo": { "@type": "GeoCoordinates", "latitude": 52.3225528, "longitude": 9.5968503 },
-  "openingHours": ["Mo-Fr 09:00-19:00", "Sa-Su 10:00-18:00"],
-  "sameAs": [
+   },
+   "sameAs": [
     "https://www.instagram.com/elegancecarsafi/",
     "https://www.tiktok.com/@elegancecarsafi"
-  ]
+   ]
+  },
+  {
+   "@type": "AutoDealer",
+   "@id": "https://elegancecarsafi.com/#autodealer",
+   "name": "ECS Exclusive Commerce Services GmbH – Elegance Car Safi",
+   "parentOrganization": {
+    "@id": "https://elegancecarsafi.com/#organization"
+   },
+   "url": "https://elegancecarsafi.com/",
+   "image": "https://elegancecarsafi.com/assets/img/og-hero.jpg",
+   "logo": "https://elegancecarsafi.com/assets/img/logo-ecs.png",
+   "telephone": "+49 171 3621298",
+   "email": "info@elegancecarsafi.com",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bünteweg 13",
+    "postalCode": "30989",
+    "addressLocality": "Gehrden",
+    "addressRegion": "Niedersachsen",
+    "addressCountry": "DE"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 52.3225528,
+    "longitude": 9.5968503
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+     ],
+     "opens": "09:00",
+     "closes": "19:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Saturday",
+      "Sunday"
+     ],
+     "opens": "10:00",
+     "closes": "18:00"
+    }
+   ],
+   "areaServed": [
+    {
+     "@type": "Country",
+     "name": "Deutschland"
+    },
+    {
+     "@type": "Country",
+     "name": "Österreich"
+    },
+    {
+     "@type": "Country",
+     "name": "Schweiz"
+    },
+    {
+     "@type": "Country",
+     "name": "Tschechien"
+    }
+   ],
+   "knowsLanguage": [
+    "de",
+    "en",
+    "pl",
+    "ru",
+    "es",
+    "ar"
+   ],
+   "sameAs": [
+    "https://www.instagram.com/elegancecarsafi/",
+    "https://www.tiktok.com/@elegancecarsafi"
+   ]
+  },
+  {
+   "@type": "WebSite",
+   "@id": "https://elegancecarsafi.com/#website",
+   "url": "https://elegancecarsafi.com/",
+   "name": "Elegance Car Safi",
+   "alternateName": "ECS GmbH",
+   "inLanguage": "de-DE",
+   "publisher": {
+    "@id": "https://elegancecarsafi.com/#organization"
+   }
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://elegancecarsafi.com/#webpage",
+   "url": "https://elegancecarsafi.com/",
+   "name": "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH",
+   "description": "Reisebus, Linienbus, LKW oder Transporter verkaufen? ECS GmbH aus Gehrden bei Hannover kauft Nutzfahrzeuge an: schnelle Bewertung, Zahlung und Abholung.",
+   "inLanguage": "de-DE",
+   "isPartOf": {
+    "@id": "https://elegancecarsafi.com/#website"
+   },
+   "about": {
+    "@id": "https://elegancecarsafi.com/#autodealer"
+   },
+   "publisher": {
+    "@id": "https://elegancecarsafi.com/#organization"
+   }
+  }
+ ]
 }
 </script>
-<script src="js/i18n.js?v=20261007g"></script>
+<!-- schema:end -->
 </head>
 
 <body>

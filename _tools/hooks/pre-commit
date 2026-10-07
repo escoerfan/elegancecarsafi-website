@@ -1,4 +1,6 @@
 #!/bin/sh
-# Vor jedem Commit: Sitemap neu erzeugen und mitcommitten.
+# Vor jedem Commit: Sitemap und strukturierte Daten (JSON-LD) neu erzeugen
+# und geänderte Dateien mitcommitten.
 # Aktiviert über:  git config core.hooksPath _tools/hooks
 python3 _tools/sitemap.py >/dev/null && git add sitemap.xml
+for f in $(python3 _tools/schema.py); do git add "$f"; done
