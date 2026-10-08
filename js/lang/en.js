@@ -778,5 +778,18 @@
 
   /* ---- Phase 7: NAP und Karte ---- */
   "Telefon:": "Phone:",
-  "Route in Google Maps planen": "Plan your route in Google Maps"
+  "Route in Google Maps planen": "Plan your route in Google Maps",
+
+  /* ---- Phase 8: Impressum aktualisiert ---- */
+  "Angaben gemäß § 5 DDG": "Information pursuant to § 5 DDG (German Digital Services Act)",
+  "Geschäftsführender Gesellschafter: Martin Safi": "Managing partner: Martin Safi",
+  "Verantwortlich für die folgenden Inhalte gemäß § 18 Abs. 2 MStV: Erfan Safi": "Responsible for the following content pursuant to § 18 (2) MStV: Erfan Safi",
+  "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.": "As a service provider, we are responsible for our own content on these pages in accordance with general law pursuant to § 7 (1) DDG. According to §§ 8 to 10 DDG, however, we are not obliged as a service provider to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general law remain unaffected. However, liability in this regard is only possible from the time we become aware of a specific legal violation. As soon as we become aware of such violations, we will remove this content immediately.",
+  "Verbraucherstreitbeilegung": "Consumer dispute resolution",
+  "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.",
+
+  /* ---- Phase 8: Cookie-Banner ---- */
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "We do not use analytics or advertising cookies. The only technically necessary storage is your choice. With your consent we also load external media (location map from OpenStreetMap); your IP address is transmitted to the provider. You can change your choice at any time via “Cookie settings” in the footer.",
+  "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "Stores your cookie choice and, if applicable, your language selection in your browser. Always active.",
+  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "Location map from OpenStreetMap on the contact page, including the Leaflet map library (unpkg)."
 };

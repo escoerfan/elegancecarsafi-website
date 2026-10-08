@@ -9,12 +9,17 @@
    Andere Skripte:  window.ECSConsent.has('media')
                     window.ECSConsent.onChange(function (consent) { ... })
    Banner erneut öffnen: Element mit Attribut data-cookie-settings
+
+   Gestaltung nach den Vorgaben der Datenschutzbehörden: "Nur notwendige" und
+   "Alle akzeptieren" gleich gewichtet, keine vorausgewählten Häkchen,
+   Datenschutz und Impressum verlinkt, Widerruf jederzeit über den Footer.
+   VERSION erhöhen, wenn sich Kategorien oder Texte ändern – dann wird neu gefragt.
    ========================================================================= */
 (function () {
   'use strict';
 
   var STORAGE_KEY = 'ecs-cookie-consent';
-  var VERSION = 1;
+  var VERSION = 2;
   var listeners = [];
   var banner = null;
 
@@ -66,28 +71,33 @@
     banner.setAttribute('aria-labelledby', 'cookie-banner-title');
     banner.innerHTML =
       '<p class="cookie-banner__title" id="cookie-banner-title">Cookies &amp; Datenschutz</p>' +
-      '<p class="cookie-banner__text">' +
-        'Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir ' +
-        'zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre ' +
-        'IP-Adresse an den Anbieter übertragen. Mehr in der ' +
-        '<a href="datenschutz">Datenschutzerklärung</a>.' +
+      '<p class="cookie-banner__text" id="cookie-banner-text">' +
+        'Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern ' +
+        'Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte ' +
+        'von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl ' +
+        'können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.' +
+      '</p>' +
+      '<p class="cookie-banner__links">' +
+        '<a href="datenschutz">Datenschutzerklärung</a>' +
+        '<a href="impressum">Impressum</a>' +
       '</p>' +
       '<div class="cookie-banner__options" hidden>' +
         '<label class="cookie-option">' +
           '<input type="checkbox" checked disabled>' +
-          '<span><strong>Notwendig</strong>Speichert Ihre Cookie-Auswahl. Immer aktiv.</span>' +
+          '<span><strong>Notwendig</strong>Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.</span>' +
         '</label>' +
         '<label class="cookie-option">' +
           '<input type="checkbox" data-consent="media"' + (window.ECSConsent.has('media') ? ' checked' : '') + '>' +
-          '<span><strong>Externe Medien</strong>Standortkarte von OpenStreetMap.</span>' +
+          '<span><strong>Externe Medien</strong>Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).</span>' +
         '</label>' +
       '</div>' +
       '<div class="cookie-banner__actions">' +
         '<button class="btn btn--secondary" type="button" data-action="necessary">Nur notwendige</button>' +
-        '<button class="btn btn--primary" type="button" data-action="all">Alle akzeptieren</button>' +
+        '<button class="btn btn--secondary" type="button" data-action="all">Alle akzeptieren</button>' +
         '<button class="btn btn--secondary btn--wide" type="button" data-action="save" hidden>Auswahl speichern</button>' +
       '</div>' +
       '<button class="cookie-banner__link" type="button" data-action="settings">Einstellungen</button>';
+    banner.setAttribute('aria-describedby', 'cookie-banner-text');
 
     banner.addEventListener('click', function (e) {
       var btn = e.target.closest('[data-action]');

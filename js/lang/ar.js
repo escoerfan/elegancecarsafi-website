@@ -765,5 +765,18 @@
 
   /* ---- Phase 7: NAP und Karte ---- */
   "Telefon:": "الهاتف:",
-  "Route in Google Maps planen": "خطّط مسارك في خرائط Google"
+  "Route in Google Maps planen": "خطّط مسارك في خرائط Google",
+
+  /* ---- Phase 8: Impressum aktualisiert ---- */
+  "Angaben gemäß § 5 DDG": "بيانات وفقًا للمادة 5 من قانون الوسائط الإلكترونية الألماني (DDG)",
+  "Geschäftsführender Gesellschafter: Martin Safi": "الشريك المدير: Martin Safi",
+  "Verantwortlich für die folgenden Inhalte gemäß § 18 Abs. 2 MStV: Erfan Safi": "المسؤول عن المحتوى وفقًا للمادة 18 الفقرة 2 من MStV: Erfan Safi",
+  "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.": "بصفتنا مقدّم خدمة، نحن مسؤولون عن محتوانا الخاص على هذه الصفحات وفقًا للقوانين العامة بموجب المادة 7 الفقرة 1 من DDG. غير أننا وفقًا للمواد 8 إلى 10 من DDG غير ملزمين بمراقبة المعلومات المنقولة أو المخزنة الخاصة بأطراف ثالثة، أو بالبحث عن ظروف تشير إلى نشاط غير قانوني. ولا يمس ذلك الالتزامات بإزالة المعلومات أو حظر استخدامها وفقًا للقوانين العامة. إلا أن المسؤولية في هذا الشأن لا تقوم إلا من لحظة العلم بانتهاك قانوني محدد. وعند علمنا بمثل هذه الانتهاكات سنزيل هذا المحتوى فورًا.",
+  "Verbraucherstreitbeilegung": "تسوية نزاعات المستهلكين",
+  "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "لسنا مستعدين ولا ملزمين بالمشاركة في إجراءات تسوية النزاعات أمام هيئة تحكيم المستهلكين.",
+
+  /* ---- Phase 8: Cookie-Banner ---- */
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "لا نستخدم ملفات تعريف ارتباط للتحليل أو الإعلان. الشيء الوحيد الضروري تقنيًا هو حفظ اختياركم. وبموافقتكم نحمّل أيضًا وسائط خارجية (خريطة الموقع من OpenStreetMap)، وعندها يُنقل عنوان IP الخاص بكم إلى المزوّد. يمكنكم تغيير اختياركم في أي وقت عبر „إعدادات ملفات تعريف الارتباط“ في أسفل الصفحة.",
+  "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "يحفظ اختياركم بشأن ملفات تعريف الارتباط، وعند الحاجة اللغة المختارة، في المتصفح. نشط دائمًا.",
+  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "خريطة الموقع من OpenStreetMap في صفحة الاتصال، بما في ذلك مكتبة الخرائط Leaflet (unpkg)."
 };

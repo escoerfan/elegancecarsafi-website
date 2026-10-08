@@ -765,5 +765,18 @@
 
   /* ---- Phase 7: NAP und Karte ---- */
   "Telefon:": "Телефон:",
-  "Route in Google Maps planen": "Проложить маршрут в Google Maps"
+  "Route in Google Maps planen": "Проложить маршрут в Google Maps",
+
+  /* ---- Phase 8: Impressum aktualisiert ---- */
+  "Angaben gemäß § 5 DDG": "Сведения согласно § 5 DDG (Закон Германии о цифровых услугах)",
+  "Geschäftsführender Gesellschafter: Martin Safi": "Управляющий партнёр: Martin Safi",
+  "Verantwortlich für die folgenden Inhalte gemäß § 18 Abs. 2 MStV: Erfan Safi": "Ответственный за содержание согласно § 18 абз. 2 MStV: Erfan Safi",
+  "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.": "Как поставщик услуг мы несём ответственность за собственный контент на этих страницах в соответствии с общим законодательством согласно § 7 абз. 1 DDG. Однако согласно §§ 8–10 DDG мы как поставщик услуг не обязаны контролировать переданную или сохранённую информацию третьих лиц или выяснять обстоятельства, указывающие на противоправную деятельность. Обязанности по удалению или блокировке информации согласно общему законодательству остаются в силе. Однако ответственность в этом отношении возможна только с момента, когда нам стало известно о конкретном нарушении закона. Как только нам станет известно о таких нарушениях, мы незамедлительно удалим соответствующий контент.",
+  "Verbraucherstreitbeilegung": "Урегулирование потребительских споров",
+  "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "Мы не готовы и не обязаны участвовать в процедурах урегулирования споров в потребительской арбитражной комиссии.",
+
+  /* ---- Phase 8: Cookie-Banner ---- */
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "Мы не используем аналитические или рекламные cookie. Технически необходимо только сохранение вашего выбора. С вашего согласия мы дополнительно загружаем внешние медиа (карту OpenStreetMap); при этом ваш IP-адрес передаётся провайдеру. Изменить выбор можно в любое время через «Настройки cookie» в нижней части страницы.",
+  "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "Сохраняет в браузере ваш выбор по cookie и, при необходимости, выбранный язык. Всегда активно.",
+  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "Карта местоположения OpenStreetMap на странице контактов, включая библиотеку карт Leaflet (unpkg)."
 };

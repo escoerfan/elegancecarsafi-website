@@ -1512,3 +1512,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 .map-link { margin-top: 14px; font-size: 15px; }
 .map-link a { color: var(--text); text-decoration: underline; text-underline-offset: 3px; transition: color 0.2s ease; }
 .map-link a:hover { color: var(--white); }
+
+/* Cookie-Banner: Links zu Datenschutz und Impressum */
+.cookie-banner__links { display: flex; gap: 18px; margin-top: 10px; font-size: 14px; }
+.cookie-banner__links a { color: var(--white); text-decoration: underline; text-underline-offset: 2px; }
