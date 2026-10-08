@@ -757,5 +757,13 @@
   "Weitere Angaben": "Дополнительные сведения",
   "z. B. 2016": "напр. 2016",
   "z. B. 650.000": "напр. 650 000",
-  "z. B. Setra S 516 HD": "напр. Setra S 516 HD"
+  "z. B. Setra S 516 HD": "напр. Setra S 516 HD",
+
+  /* ---- Impressum: KI-Hinweis ---- */
+  "Bildnachweis und KI-Hinweis": "Источники изображений и указание на ИИ",
+  "Einige Bilder auf dieser Website wurden mithilfe künstlicher Intelligenz (KI) erstellt oder bearbeitet. Sie dienen der Illustration und zeigen keine konkreten Fahrzeuge aus unserem Bestand. Die Fotos im Fahrzeugbestand stammen aus den jeweiligen Fahrzeuganzeigen.": "Некоторые изображения на этом сайте созданы или обработаны с помощью искусственного интеллекта (ИИ). Они служат иллюстрацией и не показывают конкретную технику из нашего наличия. Фотографии в разделе наличия взяты из соответствующих объявлений.",
+
+  /* ---- Phase 7: NAP und Karte ---- */
+  "Telefon:": "Телефон:",
+  "Route in Google Maps planen": "Проложить маршрут в Google Maps"
 };

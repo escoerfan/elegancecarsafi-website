@@ -757,5 +757,13 @@
   "Weitere Angaben": "معلومات إضافية",
   "z. B. 2016": "مثلًا 2016",
   "z. B. 650.000": "مثلًا 650.000",
-  "z. B. Setra S 516 HD": "مثلًا Setra S 516 HD"
+  "z. B. Setra S 516 HD": "مثلًا Setra S 516 HD",
+
+  /* ---- Impressum: KI-Hinweis ---- */
+  "Bildnachweis und KI-Hinweis": "مصادر الصور وتنويه بشأن الذكاء الاصطناعي",
+  "Einige Bilder auf dieser Website wurden mithilfe künstlicher Intelligenz (KI) erstellt oder bearbeitet. Sie dienen der Illustration und zeigen keine konkreten Fahrzeuge aus unserem Bestand. Die Fotos im Fahrzeugbestand stammen aus den jeweiligen Fahrzeuganzeigen.": "تم إنشاء بعض الصور على هذا الموقع أو تعديلها بمساعدة الذكاء الاصطناعي. وهي للتوضيح فقط ولا تُظهر مركبات محددة من مخزوننا. أما صور المركبات في قسم المخزون فمصدرها إعلانات المركبات المعنية.",
+
+  /* ---- Phase 7: NAP und Karte ---- */
+  "Telefon:": "الهاتف:",
+  "Route in Google Maps planen": "خطّط مسارك في خرائط Google"
 };

@@ -770,5 +770,13 @@
   "Weitere Angaben": "Further details",
   "z. B. 2016": "e.g. 2016",
   "z. B. 650.000": "e.g. 650,000",
-  "z. B. Setra S 516 HD": "e.g. Setra S 516 HD"
+  "z. B. Setra S 516 HD": "e.g. Setra S 516 HD",
+
+  /* ---- Impressum: KI-Hinweis ---- */
+  "Bildnachweis und KI-Hinweis": "Image credits and AI notice",
+  "Einige Bilder auf dieser Website wurden mithilfe künstlicher Intelligenz (KI) erstellt oder bearbeitet. Sie dienen der Illustration und zeigen keine konkreten Fahrzeuge aus unserem Bestand. Die Fotos im Fahrzeugbestand stammen aus den jeweiligen Fahrzeuganzeigen.": "Some images on this website were created or edited with the help of artificial intelligence (AI). They serve as illustrations and do not show specific vehicles from our stock. The photos in our vehicle stock come from the respective vehicle listings.",
+
+  /* ---- Phase 7: NAP und Karte ---- */
+  "Telefon:": "Phone:",
+  "Route in Google Maps planen": "Plan your route in Google Maps"
 };

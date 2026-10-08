@@ -34,6 +34,7 @@ ADDRESS = {
 SAME_AS = [
     'https://www.instagram.com/elegancecarsafi/',
     'https://www.tiktok.com/@elegancecarsafi',
+    'https://www.google.com/search?kgmid=/g/11xt2n0_th',   # Google-Unternehmensprofil
 ]
 BUY_COUNTRIES = [{'@type': 'Country', 'name': n} for n in ('Deutschland', 'Österreich', 'Schweiz', 'Tschechien')]
 
@@ -46,7 +47,7 @@ ORGANIZATION = {
     'url': BASE,
     'logo': {'@type': 'ImageObject', 'url': BASE + 'assets/img/logo-ecs.png', 'width': 1000, 'height': 562},
     'email': 'info@elegancecarsafi.com',
-    'telephone': '+49 171 3621298',
+    'telephone': '+49 171 362 1298',
     'vatID': 'DE452884436',
     'address': ADDRESS,
     'sameAs': SAME_AS,
@@ -60,7 +61,7 @@ DEALER = {
     'url': BASE,
     'image': BASE + 'assets/img/og-hero.jpg',
     'logo': BASE + 'assets/img/logo-ecs.png',
-    'telephone': '+49 171 3621298',
+    'telephone': '+49 171 362 1298',
     'email': 'info@elegancecarsafi.com',
     'address': ADDRESS,
     'geo': {'@type': 'GeoCoordinates', 'latitude': 52.3225528, 'longitude': 9.5968503},

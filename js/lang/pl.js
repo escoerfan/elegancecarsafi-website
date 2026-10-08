@@ -757,5 +757,13 @@
   "Weitere Angaben": "Dodatkowe informacje",
   "z. B. 2016": "np. 2016",
   "z. B. 650.000": "np. 650 000",
-  "z. B. Setra S 516 HD": "np. Setra S 516 HD"
+  "z. B. Setra S 516 HD": "np. Setra S 516 HD",
+
+  /* ---- Impressum: KI-Hinweis ---- */
+  "Bildnachweis und KI-Hinweis": "Źródła zdjęć i informacja o AI",
+  "Einige Bilder auf dieser Website wurden mithilfe künstlicher Intelligenz (KI) erstellt oder bearbeitet. Sie dienen der Illustration und zeigen keine konkreten Fahrzeuge aus unserem Bestand. Die Fotos im Fahrzeugbestand stammen aus den jeweiligen Fahrzeuganzeigen.": "Niektóre zdjęcia na tej stronie zostały utworzone lub zmodyfikowane przy pomocy sztucznej inteligencji (AI). Mają charakter ilustracyjny i nie przedstawiają konkretnych pojazdów z naszej oferty. Zdjęcia w ofercie pojazdów pochodzą z odpowiednich ogłoszeń.",
+
+  /* ---- Phase 7: NAP und Karte ---- */
+  "Telefon:": "Telefon:",
+  "Route in Google Maps planen": "Zaplanuj trasę w Google Maps"
 };

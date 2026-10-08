@@ -1507,3 +1507,8 @@ html[dir="rtl"] .contact__phone { text-align: right; }
   .mobile-cta__btn--wa { background: transparent; color: var(--white); }
   body.has-mobile-cta { padding-bottom: calc(70px + env(safe-area-inset-bottom)); }
 }
+
+/* Kontakt: Textlink unter der Karte (Google Maps erst beim Klick) */
+.map-link { margin-top: 14px; font-size: 15px; }
+.map-link a { color: var(--text); text-decoration: underline; text-underline-offset: 3px; transition: color 0.2s ease; }
+.map-link a:hover { color: var(--white); }
