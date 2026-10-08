@@ -32,7 +32,7 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261008b">
+<link rel="stylesheet" href="css/style.css?v=20261008c">
 <link rel="stylesheet" href="css/bestand.css?v=20260913n">
 
 <script src="js/i18n.js?v=20261008c"></script>
@@ -210,7 +210,19 @@
     <nav class="site-nav" id="site-nav">
       <a href="ueber-uns">Über uns</a>
       <a href="fahrzeuge" aria-current="page">Fahrzeuge</a>
-      <a href="unsere-arbeit">Unsere Arbeit</a>
+      <div class="nav-item nav-item--sub">
+        <button class="nav-sub__toggle" type="button" aria-expanded="false" aria-controls="nav-sub-ankauf">Unsere Arbeit<svg class="nav-sub__chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+        <div class="nav-sub" id="nav-sub-ankauf">
+          <a href="unsere-arbeit">So läuft ein Ankauf ab</a>
+          <span class="nav-sub__sep" aria-hidden="true"></span>
+          <a href="reisebus-verkaufen">Reisebus verkaufen</a>
+          <a href="linienbus-verkaufen">Linienbus verkaufen</a>
+          <a href="lkw-verkaufen">LKW verkaufen</a>
+          <a href="transporter-verkaufen">Transporter verkaufen</a>
+          <a href="bau-und-kommunalfahrzeuge-verkaufen">Bau- und Kommunalfahrzeuge</a>
+          <a href="fuhrpark-verkaufen">Fuhrpark verkaufen</a>
+        </div>
+      </div>
       <a href="export">Export</a>
       <a href="kontakt">Kontakt</a>
       <a href="faq">FAQ</a>
@@ -342,8 +354,8 @@
     <div class="site-footer__bottom">
       <span class="site-footer__copy">© 2026 ECS Exclusive Commerce Services GmbH „Elegance Car Safi“. Alle Rechte vorbehalten.</span>
       <nav class="site-footer__legal" aria-label="Rechtliches">
-        <a href="impressum">Impressum</a>
-        <a href="datenschutz">Datenschutz</a>
+          <a href="impressum">Impressum</a>
+          <a href="datenschutz">Datenschutz</a>
         <button class="cookie-settings-link" type="button" data-cookie-settings>Cookie-Einstellungen</button>
       </nav>
     </div>
@@ -352,7 +364,7 @@
 
 <!-- Cookie-Banner; Leaflet (Karte) wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261008a" defer></script>
-<script src="js/main.js?v=20261007a" defer></script>
+<script src="js/main.js?v=20261008a" defer></script>
 <script src="js/bestand.js?v=20260914b" defer></script>
 <script src="js/bestand-schema.js?v=20261007a" defer></script>
 

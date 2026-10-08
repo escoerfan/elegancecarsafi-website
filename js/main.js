@@ -39,6 +39,38 @@
     });
   }
 
+  /* ------------------------------------------- Untermenü (Ankaufseiten)
+     "Unsere Arbeit" öffnet per Klick ein Untermenü (Desktop: Dropdown,
+     Handy: klappt im Menü auf). Klick daneben oder Escape schließt es. */
+  var subItems = document.querySelectorAll('.nav-item--sub');
+
+  var setSub = function (item, open) {
+    item.classList.toggle('is-open', open);
+    item.querySelector('.nav-sub__toggle').setAttribute('aria-expanded', String(open));
+  };
+
+  subItems.forEach(function (item) {
+    item.querySelector('.nav-sub__toggle').addEventListener('click', function (e) {
+      e.stopPropagation();
+      setSub(item, !item.classList.contains('is-open'));
+    });
+  });
+
+  document.addEventListener('click', function (e) {
+    subItems.forEach(function (item) {
+      if (item.classList.contains('is-open') && !item.contains(e.target)) setSub(item, false);
+    });
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape') return;
+    subItems.forEach(function (item) {
+      if (!item.classList.contains('is-open')) return;
+      setSub(item, false);
+      item.querySelector('.nav-sub__toggle').focus();
+    });
+  });
+
   /* ------------------------------------- Kopfzeile beim Scrollen (Glas) */
   var header = document.getElementById('site-header');
 

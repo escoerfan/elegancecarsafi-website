@@ -97,6 +97,10 @@ CRUMB = {
     'bau-und-kommunalfahrzeuge-verkaufen': 'Bau- und Kommunalfahrzeuge verkaufen',
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
 }
+# Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
+PARENT = {k: 'unsere-arbeit' for k in (
+    'reisebus-verkaufen', 'linienbus-verkaufen', 'lkw-verkaufen', 'transporter-verkaufen',
+    'bau-und-kommunalfahrzeuge-verkaufen', 'fuhrpark-verkaufen')}
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
 
 
@@ -157,9 +161,12 @@ def build(path):
                       'name': 'Elegance Car Safi', 'alternateName': 'ECS GmbH',
                       'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID}})
     else:
+        trail = [('Startseite', BASE)]
+        if slug in PARENT:                       # Ankaufseiten liegen unter "Unsere Arbeit"
+            trail.append((CRUMB[PARENT[slug]], BASE + PARENT[slug]))
+        trail.append((CRUMB.get(slug, h1), url))
         crumbs = {'@type': 'BreadcrumbList', '@id': url + '#breadcrumb', 'itemListElement': [
-            {'@type': 'ListItem', 'position': 1, 'name': 'Startseite', 'item': BASE},
-            {'@type': 'ListItem', 'position': 2, 'name': CRUMB.get(slug, h1), 'item': url},
+            {'@type': 'ListItem', 'position': i, 'name': n, 'item': u} for i, (n, u) in enumerate(trail, 1)
         ]}
         page['breadcrumb'] = {'@id': url + '#breadcrumb'}
         graph.append(crumbs)
