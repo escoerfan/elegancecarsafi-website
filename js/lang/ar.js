@@ -123,6 +123,7 @@
   "Details und technische Daten": "التفاصيل والبيانات الفنية",
   "Netto": "صافي (بدون ضريبة)",
   "Brutto: {a}": "شامل الضريبة: {a}",
+  "Brutto": "السعر الإجمالي",
   "Preis auf Anfrage": "السعر عند الطلب",
   "Erstzulassung: {a}": "أول تسجيل: {a}",
   "{a} kW ({b} PS)": "{a} كيلوواط ({b} حصان)",

@@ -123,6 +123,7 @@
   "Details und technische Daten": "Подробности и характеристики",
   "Netto": "Без НДС",
   "Brutto: {a}": "С НДС: {a}",
+  "Brutto": "Итоговая цена",
   "Preis auf Anfrage": "Цена по запросу",
   "Erstzulassung: {a}": "Первая регистрация: {a}",
   "{a} kW ({b} PS)": "{a} кВт ({b} л. с.)",

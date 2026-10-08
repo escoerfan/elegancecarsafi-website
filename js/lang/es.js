@@ -123,6 +123,7 @@
   "Details und technische Daten": "Detalles y datos técnicos",
   "Netto": "Neto",
   "Brutto: {a}": "Bruto: {a}",
+  "Brutto": "Bruto",
   "Preis auf Anfrage": "Precio a consultar",
   "Erstzulassung: {a}": "Primera matriculación: {a}",
   "{a} kW ({b} PS)": "{a} kW ({b} CV)",

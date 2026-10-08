@@ -175,22 +175,35 @@
     return parseFloat(out);
   }
 
-  function fmtPrice(val) {
-    var n = toNumber(val);
+  function fmtPrice(v) {
+    var n = toNumber(v.price);
 
     if (!n || isNaN(n)) {
       return {
         text: 'Preis auf Anfrage',
+        label: '',
         gross: '',
         onRequest: true
       };
     }
 
-    var net = PREIS_IST_NETTO ? n : n / (1 + MWST);
+    /* Ohne ausweisbare MwSt. (vat === false, z. B. Differenzbesteuerung) nur Brutto */
+    if (v.vat === false) {
+      return {
+        text: euro(n),
+        label: 'Brutto',
+        gross: '',
+        onRequest: false
+      };
+    }
+
+    var netApi = toNumber(v.priceNet);
+    var net = netApi ? netApi : (PREIS_IST_NETTO ? n : n / (1 + MWST));
     var gross = PREIS_IST_NETTO ? n * (1 + MWST) : n;
 
     return {
       text: euro(net),
+      label: 'Netto',
       gross: 'Brutto: ' + euro(gross),
       onRequest: false
     };
@@ -605,7 +618,7 @@
   function renderCard(v) {
     var imgs = v.images || [];
     var title = buildTitle(v);
-    var p = fmtPrice(v.price);
+    var p = fmtPrice(v);
     var c = catLabel(v);
     var loc = v.location || STANDORT;
 
@@ -629,9 +642,9 @@
           '<div class="vw-detail">Details und technische Daten</div>' +
           '<div class="vw-footer">' +
             '<div>' +
-              (p.onRequest ? '' : '<div class="vw-price-label">Netto</div>') +
+              (p.label ? '<div class="vw-price-label">' + p.label + '</div>' : '') +
               '<div class="vw-price' + (p.onRequest ? ' on-request' : '') + '">' + p.text + '</div>' +
-              (p.onRequest ? '' : '<div class="vw-price-gross">' + p.gross + '</div>') +
+              (p.gross ? '<div class="vw-price-gross">' + p.gross + '</div>' : '') +
             '</div>' +
             '<div class="vw-card-cta">Jetzt anfragen</div>' +
           '</div>' +
@@ -767,7 +780,7 @@
 
     var title = buildTitle(v);
     var cat = catLabel(v);
-    var p = fmtPrice(v.price);
+    var p = fmtPrice(v);
     var imgs = (v.images || []).map(bigImage);
     var sp = specsHtml(v);
     var desc = cleanText(v.description);
@@ -811,9 +824,9 @@
         '<aside class="vw-d-info">' +
           '<div class="vw-loc">' + ICO.pin + '<span>' + esc(v.location || STANDORT) + '</span></div>' +
           '<div class="vw-d-price-block">' +
-            (p.onRequest ? '' : '<div class="vw-price-label">Netto</div>') +
+            (p.label ? '<div class="vw-price-label">' + p.label + '</div>' : '') +
             '<div class="vw-d-price' + (p.onRequest ? ' on-request' : '') + '">' + p.text + '</div>' +
-            (p.onRequest ? '' : '<div class="vw-price-gross">' + p.gross + '</div>') +
+            (p.gross ? '<div class="vw-price-gross">' + p.gross + '</div>' : '') +
           '</div>' +
           (sp ? '<div class="vw-specs">' + sp + '</div>' : '') +
           '<div class="vw-d-actions">' +

@@ -130,6 +130,7 @@
   "Details und technische Daten": "Details and specifications",
   "Netto": "Net",
   "Brutto: {a}": "Gross: {a}",
+  "Brutto": "Gross",
   "Preis auf Anfrage": "Price on request",
   "Erstzulassung: {a}": "First registration: {a}",
   "{a} kW ({b} PS)": "{a} kW ({b} hp)",
