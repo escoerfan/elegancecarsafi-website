@@ -106,7 +106,7 @@
   "Verzollung, Exportdokumente und Transport – europaweit und international aus einer Hand.": "Таможенное оформление, экспортные документы и транспортировка – по Европе и миру, всё из одних рук.",
 
   "Unsere Fahrzeuge": "Наша техника",
-  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands.": "Позвоните нам сегодня. Наша команда поможет подобрать подходящую технику или продать ваш текущий автопарк.",
+  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Позвоните нам сегодня. Наша команда поможет подобрать подходящую технику или продать ваш текущий автопарк. Также возможен приём вашей техники в зачёт.",
   "Fahrzeug": "Транспортное средство",
   "Fahrzeug wird geladen …": "Загрузка …",
   "Fahrzeug wird geladen...": "Загрузка...",
@@ -685,7 +685,7 @@
   "Ein Angebot für Ihre ganze Flotte": "Одно предложение на весь автопарк",
   "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Вы экспортируете и несколько машин сразу?",
   "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Машина, экспортные документы и перевозка – от одного партнёра. Вам не нужно координировать продавца, экспедитора и таможенного брокера.",
-  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Пять шагов от первого звонка до вывоза – для отдельных машин так же, как для целых автопарков. На каждом шаге вы сами решаете, как действовать дальше.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Пять шагов от первого звонка до вывоза – для отдельных машин так же, как для целых автопарков. На каждом шаге вы сами решаете, как действовать дальше. При покупке техники из нашего наличия также возможен приём вашего автомобиля в зачёт.",
   "Gibt es Informationen für Kunden aus der EU?": "Есть ли информация для клиентов из ЕС?",
   "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Если подходящей машины сейчас нет в наличии, мы поможем найти её через нашу партнёрскую сеть.",
   "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Да. В нашем чек-листе для ЕС все документы и шаги собраны в одном месте. Он доступен в формате PDF вверху этой страницы.",

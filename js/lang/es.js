@@ -106,7 +106,7 @@
   "Verzollung, Exportdokumente und Transport – europaweit und international aus einer Hand.": "Despacho aduanero, documentos de exportación y transporte: en Europa y a nivel internacional, todo en un solo lugar.",
 
   "Unsere Fahrzeuge": "Nuestros vehículos",
-  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands.": "Llámenos hoy mismo. Nuestro equipo le ayudará a encontrar el vehículo adecuado o a vender su flota actual.",
+  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Llámenos hoy mismo. Nuestro equipo le ayudará a encontrar el vehículo adecuado o a vender su flota actual. También aceptamos su vehículo como parte del pago.",
   "Fahrzeug": "Vehículo",
   "Fahrzeug wird geladen …": "Cargando vehículo …",
   "Fahrzeug wird geladen...": "Cargando vehículo...",
@@ -685,7 +685,7 @@
   "Ein Angebot für Ihre ganze Flotte": "Una oferta para toda su flota",
   "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "¿Exportan también varios vehículos a la vez?",
   "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "El vehículo, los documentos de exportación y el transporte vienen de un solo socio. No tiene que coordinar entre concesionario, transitario y agente de aduanas.",
-  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Cinco pasos desde la primera llamada hasta la recogida, tanto para vehículos individuales como para flotas completas. En cada paso usted decide cómo continuar.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Cinco pasos desde la primera llamada hasta la recogida, tanto para vehículos individuales como para flotas completas. En cada paso usted decide cómo continuar. Al comprar un vehículo de nuestro stock, también aceptamos su vehículo como parte del pago.",
   "Gibt es Informationen für Kunden aus der EU?": "¿Hay información para clientes de la UE?",
   "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Si el vehículo adecuado no está en nuestro stock, le ayudamos a buscarlo a través de nuestra red.",
   "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Sí. En nuestra lista de control para la UE encontrará todos los documentos y pasos de un vistazo. Está disponible en PDF al principio de esta página.",

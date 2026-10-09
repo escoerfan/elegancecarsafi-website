@@ -112,7 +112,7 @@
 
   /* ---- Fahrzeuge ---- */
   "Unsere Fahrzeuge": "Our vehicles",
-  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands.": "Call us today. Our team will be happy to help you find the right vehicle or sell your current fleet.",
+  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Call us today. Our team will be happy to help you find the right vehicle or sell your current fleet. We also accept your vehicle as a trade-in.",
   "Fahrzeug": "Vehicle",
   "Fahrzeug wird geladen …": "Loading vehicle …",
   "Fahrzeug wird geladen...": "Loading vehicle...",
@@ -698,7 +698,7 @@
   "Ein Angebot für Ihre ganze Flotte": "One offer for your entire fleet",
   "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Do you also export several vehicles at once?",
   "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Vehicle, export papers and transport come from one partner. You do not have to coordinate between dealer, freight forwarder and customs agent.",
-  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Five steps from the first call to collection – for single vehicles just as for entire fleets. At every step you decide yourself how to proceed.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Five steps from the first call to collection – for single vehicles just as for entire fleets. At every step you decide yourself how to proceed. A trade-in is also possible when you buy a vehicle from our stock.",
   "Gibt es Informationen für Kunden aus der EU?": "Is there information for customers from the EU?",
   "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "If the right vehicle is not currently in our stock, we help you search through our network.",
   "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Yes. Our EU checklist shows all documents and steps at a glance. It is available as a PDF at the top of this page.",

@@ -106,7 +106,7 @@
   "Verzollung, Exportdokumente und Transport – europaweit und international aus einer Hand.": "Odprawa celna, dokumenty eksportowe i transport – w całej Europie i na świecie, wszystko z jednej ręki.",
 
   "Unsere Fahrzeuge": "Nasze pojazdy",
-  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands.": "Zadzwoń do nas jeszcze dziś. Nasz zespół chętnie pomoże Ci znaleźć odpowiedni pojazd lub sprzedać Twoją obecną flotę.",
+  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Zadzwoń do nas jeszcze dziś. Nasz zespół chętnie pomoże Ci znaleźć odpowiedni pojazd lub sprzedać Twoją obecną flotę. Możemy też przyjąć Twój pojazd w rozliczeniu.",
   "Fahrzeug": "Pojazd",
   "Fahrzeug wird geladen …": "Ładowanie pojazdu …",
   "Fahrzeug wird geladen...": "Ładowanie pojazdu...",
@@ -685,7 +685,7 @@
   "Ein Angebot für Ihre ganze Flotte": "Jedna oferta na całą flotę",
   "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "Czy eksportujecie też kilka pojazdów naraz?",
   "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "Pojazd, dokumenty eksportowe i transport od jednego partnera. Nie musisz koordynować działań między handlarzem, spedytorem i agencją celną.",
-  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "Pięć kroków od pierwszego telefonu do odbioru – dla pojedynczych pojazdów tak samo jak dla całych flot. Na każdym etapie sam decydujesz, co dalej.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Pięć kroków od pierwszego telefonu do odbioru – dla pojedynczych pojazdów tak samo jak dla całych flot. Na każdym etapie sam decydujesz, co dalej. Przy zakupie pojazdu z naszej oferty możliwe jest też rozliczenie Twojego pojazdu w ramach zapłaty.",
   "Gibt es Informationen für Kunden aus der EU?": "Czy są informacje dla klientów z UE?",
   "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "Jeśli odpowiedniego pojazdu nie ma akurat w naszej ofercie, pomożemy Ci go znaleźć dzięki naszej sieci partnerów.",
   "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "Tak. W naszej liście kontrolnej dla UE znajdziesz wszystkie dokumenty i kroki w jednym miejscu. Jest dostępna jako PDF u góry tej strony.",

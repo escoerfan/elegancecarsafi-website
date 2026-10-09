@@ -106,7 +106,7 @@
   "Verzollung, Exportdokumente und Transport – europaweit und international aus einer Hand.": "التخليص الجمركي ووثائق التصدير والنقل – في أوروبا ودوليًا من جهة واحدة.",
 
   "Unsere Fahrzeuge": "مركباتنا",
-  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands.": "اتصلوا بنا اليوم. يسعد فريقنا مساعدتكم في العثور على المركبة المناسبة أو بيع مركباتكم الحالية.",
+  "Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "اتصلوا بنا اليوم. يسعد فريقنا مساعدتكم في العثور على المركبة المناسبة أو بيع مركباتكم الحالية. كما يمكننا قبول مركبتكم كجزء من الثمن.",
   "Fahrzeug": "مركبة",
   "Fahrzeug wird geladen …": "جارٍ تحميل المركبة …",
   "Fahrzeug wird geladen...": "جارٍ تحميل المركبة...",
@@ -685,7 +685,7 @@
   "Ein Angebot für Ihre ganze Flotte": "عرض واحد لأسطولكم بالكامل",
   "Exportieren Sie auch mehrere Fahrzeuge auf einmal?": "هل تصدّرون أيضًا عدة مركبات دفعة واحدة؟",
   "Fahrzeug, Exportpapiere und Transport kommen von einem Partner. Sie müssen nicht zwischen Händler, Spedition und Zollagentur koordinieren.": "المركبة وأوراق التصدير والنقل من شريك واحد. ولا تحتاجون إلى التنسيق بين التاجر وشركة الشحن ووكيل التخليص الجمركي.",
-  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht.": "خمس خطوات من أول اتصال حتى الاستلام – للمركبات المنفردة تمامًا كما للأساطيل الكاملة. وفي كل خطوة تقررون بأنفسكم كيف تستمر العملية.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "خمس خطوات من أول اتصال حتى الاستلام – للمركبات المنفردة تمامًا كما للأساطيل الكاملة. وفي كل خطوة تقررون بأنفسكم كيف تستمر العملية. عند شراء مركبة من مخزوننا يمكننا أيضًا قبول مركبتكم كجزء من الثمن.",
   "Gibt es Informationen für Kunden aus der EU?": "هل توجد معلومات لعملاء الاتحاد الأوروبي؟",
   "Ist das passende Fahrzeug gerade nicht in unserem Bestand, helfen wir Ihnen bei der Suche über unser Netzwerk.": "إذا لم تكن المركبة المناسبة متوفرة حاليًا في مخزوننا، نساعدكم في البحث عنها عبر شبكتنا.",
   "Ja. In unserer EU-Checkliste finden Sie alle Unterlagen und Schritte auf einen Blick. Sie steht oben auf dieser Seite als PDF bereit.": "نعم. تجدون في قائمة التحقق الخاصة بالاتحاد الأوروبي جميع المستندات والخطوات بنظرة واحدة. وهي متاحة بصيغة PDF في أعلى هذه الصفحة.",
