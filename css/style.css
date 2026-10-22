@@ -592,6 +592,11 @@ body .vw-section * {
 }
 .process__intro { position: sticky; top: 120px; }
 .process__title { margin-bottom: 20px; }
+/* H1 im Ablauf (Unsere Arbeit): zweispaltig in H2-Größe wie auf den Ankaufseiten,
+   sonst bricht „So verkaufen Sie“ in der schmalen Spalte Wort für Wort um */
+@media (min-width: 1101px) {
+  .process__title.h1 { font-size: clamp(36px, 3.9vw, 56px); }
+}
 .process__lead { margin-bottom: 34px; max-width: 480px; }
 
 .steps { border-top: 1px solid var(--line); }
