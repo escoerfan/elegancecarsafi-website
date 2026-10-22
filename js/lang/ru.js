@@ -257,7 +257,7 @@
 
   /* ---- Phase 3: Titel und Überschriften ---- */
   "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Покупка и продажа коммерческого транспорта под Ганновером | ECS GmbH",
-  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "О нас: торговля коммерческим транспортом в Гердене | ECS GmbH",
+  "Über uns: ECS Exclusive Commerce Services GmbH aus Gehrden": "О нас: ECS Exclusive Commerce Services GmbH из Гердена",
   "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Купить б/у коммерческий транспорт: наличие | ECS GmbH",
   "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "Как мы работаем: выкуп, продажа, экспорт | ECS GmbH",
   "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Экспорт коммерческого транспорта с растаможкой | ECS GmbH",

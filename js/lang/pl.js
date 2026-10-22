@@ -257,7 +257,7 @@
 
   /* ---- Phase 3: Titel und Überschriften ---- */
   "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Skup i sprzedaż pojazdów użytkowych koło Hanoweru | ECS GmbH",
-  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "O nas: handel pojazdami użytkowymi w Gehrden | ECS GmbH",
+  "Über uns: ECS Exclusive Commerce Services GmbH aus Gehrden": "O nas: ECS Exclusive Commerce Services GmbH z Gehrden",
   "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Używane pojazdy użytkowe: oferta | ECS GmbH",
   "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "Jak pracujemy: skup, sprzedaż, eksport | ECS GmbH",
   "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Eksport pojazdów użytkowych z odprawą celną | ECS GmbH",

@@ -37,6 +37,7 @@ SAME_AS = [
     'https://www.instagram.com/elegancecarsafi/',
     'https://www.tiktok.com/@elegancecarsafi',
     'https://www.google.com/search?kgmid=/g/11xt2n0_th',   # Google-Unternehmensprofil
+    'https://home.mobile.de/ELEGANCECARSAFI',               # Händlerseite bei mobile.de
 ]
 BUY_COUNTRIES = [{'@type': 'Country', 'name': n} for n in ('Deutschland', 'Österreich', 'Schweiz', 'Tschechien')]
 
@@ -51,6 +52,9 @@ ORGANIZATION = {
     'email': 'info@elegancecarsafi.com',
     'telephone': '+49 171 362 1298',
     'vatID': 'DE452884436',
+    # Handelsregister wie im Impressum – verknüpft die Firma mit Registereinträgen
+    'identifier': {'@type': 'PropertyValue', 'propertyID': 'Handelsregister',
+                   'value': 'HRB 228497, Amtsgericht Hannover'},
     'address': ADDRESS,
     'sameAs': SAME_AS,
 }
@@ -184,7 +188,8 @@ def build(path):
     graph = [ORGANIZATION, DEALER]
     if not slug:
         graph.append({'@type': 'WebSite', '@id': SITE_ID, 'url': BASE,
-                      'name': 'Elegance Car Safi', 'alternateName': 'ECS GmbH',
+                      'name': 'Elegance Car Safi',
+                      'alternateName': ['ECS GmbH', 'ECS Exclusive Commerce Services GmbH'],
                       'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID}})
     else:
         trail = [('Startseite', BASE)]

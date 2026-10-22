@@ -257,7 +257,7 @@
 
   /* ---- Phase 3: Titel und Überschriften ---- */
   "Nutzfahrzeug Ankauf & Verkauf bei Hannover | ECS GmbH": "Compra y venta de vehículos industriales cerca de Hannover | ECS GmbH",
-  "Über uns: Nutzfahrzeughändler in Gehrden | ECS GmbH": "Sobre nosotros: comercio de vehículos industriales en Gehrden | ECS GmbH",
+  "Über uns: ECS Exclusive Commerce Services GmbH aus Gehrden": "Sobre nosotros: ECS Exclusive Commerce Services GmbH de Gehrden",
   "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Comprar vehículos industriales usados: stock | ECS GmbH",
   "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "Cómo trabajamos: compra, venta, exportación | ECS GmbH",
   "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Exportación de vehículos industriales con aduana | ECS GmbH",
