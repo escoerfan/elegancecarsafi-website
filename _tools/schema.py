@@ -39,6 +39,8 @@ SAME_AS = [
     'https://www.google.com/search?kgmid=/g/11xt2n0_th',   # Google-Unternehmensprofil
     'https://home.mobile.de/ELEGANCECARSAFI',               # Händlerseite bei mobile.de
 ]
+# beide Nummern wie auf der Website (die zweite steht auch im Google-Profil)
+PHONES = ['+49 171 362 1298', '+49 1514 0315387']
 BUY_COUNTRIES = [{'@type': 'Country', 'name': n} for n in ('Deutschland', 'Österreich', 'Schweiz', 'Tschechien')]
 
 ORGANIZATION = {
@@ -50,7 +52,7 @@ ORGANIZATION = {
     'url': BASE,
     'logo': {'@type': 'ImageObject', 'url': BASE + 'assets/img/logo-ecs.png', 'width': 1000, 'height': 562},
     'email': 'info@elegancecarsafi.com',
-    'telephone': '+49 171 362 1298',
+    'telephone': PHONES,
     'vatID': 'DE452884436',
     # Handelsregister wie im Impressum – verknüpft die Firma mit Registereinträgen
     'identifier': {'@type': 'PropertyValue', 'propertyID': 'Handelsregister',
@@ -71,17 +73,18 @@ DEALER = {
               BASE + 'assets/img/opt/pitch-atego-koffer-1448.jpg',
               BASE + 'assets/img/og-hero.jpg'],
     'logo': BASE + 'assets/img/logo-ecs.png',
-    'telephone': '+49 171 362 1298',
+    'telephone': PHONES,
     'email': 'info@elegancecarsafi.com',
     'address': ADDRESS,
     'geo': {'@type': 'GeoCoordinates', 'latitude': 52.3225528, 'longitude': 9.5968503},
     'openingHoursSpecification': [
+        # wie im Google-Unternehmensprofil; Sa–So geschlossen
         {'@type': 'OpeningHoursSpecification',
-         'dayOfWeek': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-         'opens': '09:00', 'closes': '19:00'},
+         'dayOfWeek': ['Monday', 'Tuesday', 'Wednesday', 'Thursday'],
+         'opens': '08:00', 'closes': '18:00'},
         {'@type': 'OpeningHoursSpecification',
-         'dayOfWeek': ['Saturday', 'Sunday'],
-         'opens': '10:00', 'closes': '18:00'},
+         'dayOfWeek': ['Friday'],
+         'opens': '08:00', 'closes': '12:00'},
     ],
     'areaServed': BUY_COUNTRIES,
     'knowsLanguage': ['de', 'en', 'pl', 'ru', 'es', 'ar'],
