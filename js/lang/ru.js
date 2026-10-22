@@ -266,6 +266,7 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "покупке и продаже коммерческого транспорта",
   "Nutzfahrzeuge aus Gehrden.": "коммерческому транспорту из Гердена.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Б/у коммерческий транспорт в наличии",
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Чёрный Mercedes-Benz Antos, вид спереди",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Частые вопросы о покупке, продаже и экспорте",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
@@ -276,6 +277,7 @@
   "Transporter verkaufen": "Продать фургон",
   "Bau- und Kommunalfahrzeuge": "Строительная и коммунальная техника",
   "Fuhrpark verkaufen": "Продать автопарк",
+  "Mercedes-Benz Atego 1522 vor einer Reihe gebrauchter LKW": "Mercedes-Benz Atego 1522 перед рядом подержанных грузовиков",
   "Baufahrzeug und Kommunalfahrzeug verkaufen | ECS GmbH": "Продать строительную или коммунальную технику | ECS GmbH",
   "Ankauf Bau- und Kommunalfahrzeuge": "Выкуп строительной и коммунальной техники",
   "Bau- und Kommunalfahrzeuge verkaufen": "Продать строительную и коммунальную технику",

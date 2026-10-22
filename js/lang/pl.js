@@ -266,6 +266,7 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "skupu i sprzedaży pojazdów użytkowych",
   "Nutzfahrzeuge aus Gehrden.": "pojazdów użytkowych z Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Używane pojazdy użytkowe w ofercie",
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Czarny Mercedes-Benz Antos, widok z przodu",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Najczęstsze pytania o skup, sprzedaż i eksport",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
@@ -276,6 +277,7 @@
   "Transporter verkaufen": "Sprzedaj samochód dostawczy",
   "Bau- und Kommunalfahrzeuge": "Pojazdy budowlane i komunalne",
   "Fuhrpark verkaufen": "Sprzedaj flotę",
+  "Mercedes-Benz Atego 1522 vor einer Reihe gebrauchter LKW": "Mercedes-Benz Atego 1522 przed rzędem używanych ciężarówek",
   "Baufahrzeug und Kommunalfahrzeug verkaufen | ECS GmbH": "Sprzedaj pojazd budowlany lub komunalny | ECS GmbH",
   "Ankauf Bau- und Kommunalfahrzeuge": "Skup pojazdów budowlanych i komunalnych",
   "Bau- und Kommunalfahrzeuge verkaufen": "Sprzedaj pojazdy budowlane i komunalne",

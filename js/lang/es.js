@@ -266,6 +266,7 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "compra y venta de vehículos industriales",
   "Nutzfahrzeuge aus Gehrden.": "vehículos industriales desde Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Vehículos industriales usados en stock",
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Mercedes-Benz Antos negro, vista frontal",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Preguntas frecuentes sobre compra, venta y exportación",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
@@ -276,6 +277,7 @@
   "Transporter verkaufen": "Vender una furgoneta",
   "Bau- und Kommunalfahrzeuge": "Vehículos de obra y municipales",
   "Fuhrpark verkaufen": "Vender su flota",
+  "Mercedes-Benz Atego 1522 vor einer Reihe gebrauchter LKW": "Mercedes-Benz Atego 1522 delante de una fila de camiones usados",
   "Baufahrzeug und Kommunalfahrzeug verkaufen | ECS GmbH": "Vender vehículos de obra y municipales | ECS GmbH",
   "Ankauf Bau- und Kommunalfahrzeuge": "Compra de vehículos de obra y municipales",
   "Bau- und Kommunalfahrzeuge verkaufen": "Vender vehículos de obra y municipales",

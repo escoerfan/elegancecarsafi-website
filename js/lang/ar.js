@@ -266,6 +266,7 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "شراء وبيع المركبات التجارية",
   "Nutzfahrzeuge aus Gehrden.": "المركبات التجارية من غيردن.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "مركبات تجارية مستعملة متوفرة",
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "مرسيدس-بنز أنتوس سوداء، منظر أمامي",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "أسئلة شائعة حول الشراء والبيع والتصدير",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
@@ -276,6 +277,7 @@
   "Transporter verkaufen": "بيع فان نقل",
   "Bau- und Kommunalfahrzeuge": "مركبات البناء والبلديات",
   "Fuhrpark verkaufen": "بيع أسطول المركبات",
+  "Mercedes-Benz Atego 1522 vor einer Reihe gebrauchter LKW": "مرسيدس-بنز أتيغو 1522 أمام صف من الشاحنات المستعملة",
   "Baufahrzeug und Kommunalfahrzeug verkaufen | ECS GmbH": "بيع مركبات البناء والبلديات | ECS GmbH",
   "Ankauf Bau- und Kommunalfahrzeuge": "شراء مركبات البناء والبلديات",
   "Bau- und Kommunalfahrzeuge verkaufen": "بيع مركبات البناء والبلديات",
