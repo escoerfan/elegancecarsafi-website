@@ -62,6 +62,7 @@
     CrossCountryBus: BUS,
     CityBus: BUS,
     CoachBus: BUS,
+    Coach: BUS,
     DoubleDeckerBus: BUS,
     Limousine: PKW,
     EstateCar: PKW,
@@ -103,7 +104,7 @@
     if (!lbl) {
       var r = raw.toLowerCase();
 
-      if (r.indexOf('bus') !== -1) {
+      if (r.indexOf('bus') !== -1 || r.indexOf('coach') !== -1) {
         lbl = BUS;
       } else if (r.indexOf('tractor') !== -1) {
         lbl = SATT;
