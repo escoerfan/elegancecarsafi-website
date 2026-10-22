@@ -916,55 +916,55 @@ body .vw-section * {
    ==================================================================== */
 /* Durchgehende Fläche über die volle Breite – keine Box */
 .site-footer {
-  padding-block: clamp(56px, 6vw, 80px) 32px;
+  padding-block: clamp(44px, 4.5vw, 60px) 24px;
   background: var(--bg-gradient);
   border-top: 1px solid var(--line);
 }
 .site-footer__grid {
   display: grid;
   grid-template-columns: 1.3fr 0.8fr 1fr 1fr 1fr;
-  gap: 48px;
+  gap: 40px;
 }
-.site-footer__nav { display: grid; gap: 8px; }
-.site-footer__nav a { font-size: 16px; color: var(--text); transition: color 0.2s ease; }
+.site-footer__nav { display: grid; gap: 6px; }
+.site-footer__nav a { font-size: 14px; color: var(--text); transition: color 0.2s ease; }
 .site-footer__nav a:hover { color: var(--white); }
-.site-footer__logo { width: 180px; height: auto; margin: -30px 0 0 -17px; } /* transparenter Rand im PNG */
+.site-footer__logo { width: 140px; height: auto; margin: -23px 0 0 -13px; } /* transparenter Rand im PNG */
 .site-footer__about {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.6;
   color: var(--text);
-  max-width: 340px;
+  max-width: 300px;
 }
 .site-footer h3,
 .site-footer__heading {
-  font-size: 22px;
+  font-size: 16px;
   font-weight: 500;
   color: var(--white);
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 .site-footer address {
   font-style: normal;
-  font-size: 17px;
+  font-size: 14px;
   line-height: 1.6;
   color: var(--white);
-  margin-bottom: 18px;
+  margin-bottom: 12px;
 }
 .site-footer__hours {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.7;
   color: var(--text);
 }
 .site-footer__phone {
   display: block;
-  font-size: clamp(22px, 2vw, 28px);
+  font-size: clamp(17px, 1.4vw, 20px);
   font-weight: 500;
   letter-spacing: -0.02em;
   color: var(--white);
   margin-bottom: 6px;
 }
-.site-footer__mail { font-size: 16px; color: var(--text); transition: color 0.2s ease; }
+.site-footer__mail { font-size: 14px; color: var(--text); transition: color 0.2s ease; }
 .site-footer__mail:hover { color: var(--white); }
-.site-footer__social { display: flex; gap: 10px; margin-top: 26px; }
+.site-footer__social { display: flex; gap: 10px; margin-top: 18px; }
 .site-footer__social .social-link { background: var(--surface-2); }
 
 /* Rechtliches-Leiste: Haarlinie, © links, Links rechts */
@@ -979,7 +979,7 @@ body .vw-section * {
   font-size: 13px;
   color: var(--muted);
 }
-.site-footer__panel + .site-footer__bottom { margin-top: 56px; }
+.site-footer__panel + .site-footer__bottom { margin-top: 40px; }
 .site-footer__legal { display: flex; flex-wrap: wrap; gap: 8px 24px; }
 .site-footer__legal a,
 .site-footer__legal .cookie-settings-link { font-size: 13px; color: var(--text); transition: color 0.2s ease; }
@@ -1338,7 +1338,7 @@ body .vw-section * {
   .step__body { padding: 0 0 26px 50px; }
   .accordion__body { padding-right: 0; }
   .map { height: 340px; }
-  .site-footer__grid { grid-template-columns: 1fr; gap: 40px; }
+  .site-footer__grid { grid-template-columns: 1fr; gap: 30px; }
   .export-doc { padding: 28px 22px; }
   .cta-band__actions, .cta-band__actions .btn { width: 100%; }
   .btn--block { white-space: normal; }
