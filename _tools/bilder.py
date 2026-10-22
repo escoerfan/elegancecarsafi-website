@@ -18,6 +18,7 @@ PHOTOS = {
     'pitch-lkw-reihe.webp': [960, 1448],
     'fuhrpark-atego-reihe.webp': [720, 1086],
     'export-amg-halle.webp': [960, 1672],
+    'fahrzeuge-antos.webp': [720, 1086],
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

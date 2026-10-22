@@ -1040,8 +1040,39 @@ body .vw-section * {
 
 /* Seiten, die direkt mit einem Inhaltsabschnitt beginnen */
 .process--page { padding-top: 190px; }
-.contact--page { padding-top: 190px; }
 .page-hero + .faq { padding-top: 90px; }
+
+/* Kontaktseite: schwarzer Seitenkopf wie FAQ, darunter weißer Bereich
+   mit Foto-Box links und Formular rechts */
+.page-hero__links { margin-top: 36px; }
+.contact-split { padding-block: 90px 120px; background: var(--white); color: var(--ink); }
+.contact-split__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 560px);
+  gap: clamp(24px, 3vw, 40px);
+  align-items: stretch;
+}
+.contact-split__media {
+  position: relative;
+  min-height: 420px;
+  overflow: hidden;
+  border: 1px solid var(--line-dark);
+}
+.contact-split__media img {
+  position: absolute;
+  inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: 50% 45%;
+}
+.contact-split .form-card { box-shadow: none; }
+.contact-split + .map-wrap { padding-top: 90px; }
+@media (max-width: 991px) {
+  .contact-split { padding-block: 64px 100px; }
+  .contact-split__grid { grid-template-columns: 1fr; }
+  .contact-split__media { min-height: 0; aspect-ratio: 4 / 5; }
+  .contact-split + .map-wrap { padding-top: 64px; }
+}
 .export-page .ecs-export-widget__inner { padding-top: clamp(130px, 12vw, 170px); }
 
 /* ====================================================================
@@ -1311,7 +1342,7 @@ body .vw-section * {
   .marquee__group img.is-padded { height: 78px; margin-block: -21px; }
   .pitch { min-height: 0; padding-block: 110px; }
   .process, .contact, .faq, .why, .about, .export-info, .cta-band { padding-block: 100px; }
-  .process--page, .contact--page { padding-top: 140px; }
+  .process--page { padding-top: 140px; }
   .page-hero + .faq { padding-top: 64px; }
   .page-hero { padding-block: 140px 64px; }
   .page-hero--compact { padding-block: 120px 36px; }

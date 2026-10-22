@@ -804,5 +804,8 @@
   "Kaufen Sie Transporter auch für den Export an?": "هل تشترون الفانات للتصدير أيضًا؟",
   "Kipper, Unimog & Kommunalfahrzeuge verkaufen | ECS GmbH": "بيع القلابات وUnimog ومركبات البلديات | ECS GmbH",
   "Bei diesen Fahrzeugen macht der Aufbau oft einen großen Teil des Werts aus. Deshalb schauen wir nicht nur auf das Fahrgestell, sondern auch auf Hersteller, Zustand und Betriebsstunden von Kran, Mischtrommel, Kehraufbau oder Streuer. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "في هذه المركبات يشكّل الهيكل المركّب غالبًا جزءًا كبيرًا من القيمة. لذلك لا ننظر إلى الشاسيه فقط، بل أيضًا إلى الشركة المصنّعة وحالة وساعات تشغيل الرافعة أو حوض الخلط أو معدات الكنس أو الموزّع. ومن Gehrden بالقرب من هانوفر نشتري في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك.",
-  "Typische Anlässe sind die Erneuerung einer Flotte, die Umstellung auf neue Antriebe, die Verkleinerung eines Standorts oder die Aufgabe eines Geschäftsbereichs. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "من الأسباب المعتادة تجديد الأسطول أو التحول إلى أنظمة دفع جديدة أو تقليص أحد المواقع أو التخلي عن مجال عمل. ومن Gehrden بالقرب من هانوفر نشتري في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك."
+  "Typische Anlässe sind die Erneuerung einer Flotte, die Umstellung auf neue Antriebe, die Verkleinerung eines Standorts oder die Aufgabe eines Geschäftsbereichs. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "من الأسباب المعتادة تجديد الأسطول أو التحول إلى أنظمة دفع جديدة أو تقليص أحد المواقع أو التخلي عن مجال عمل. ومن Gehrden بالقرب من هانوفر نشتري في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك.",
+
+  /* ---- Kontakt ---- */
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "مرسيدس-بنز أنتوس سوداء، منظر أمامي"
 };
