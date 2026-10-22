@@ -266,7 +266,6 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "شراء وبيع المركبات التجارية",
   "Nutzfahrzeuge aus Gehrden.": "المركبات التجارية من غيردن.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "مركبات تجارية مستعملة متوفرة",
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "مرسيدس-بنز أنتوس سوداء، منظر أمامي",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "أسئلة شائعة حول الشراء والبيع والتصدير",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */

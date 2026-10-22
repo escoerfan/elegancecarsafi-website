@@ -266,7 +266,6 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "skupu i sprzedaży pojazdów użytkowych",
   "Nutzfahrzeuge aus Gehrden.": "pojazdów użytkowych z Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Używane pojazdy użytkowe w ofercie",
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Czarny Mercedes-Benz Antos, widok z przodu",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Najczęstsze pytania o skup, sprzedaż i eksport",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */

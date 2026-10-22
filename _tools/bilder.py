@@ -16,7 +16,6 @@ PHOTOS = {
     'hero-actros.png': [960, 1440, 1920, 2880],
     'pitch-atego-koffer.webp': [960, 1448],
     'pitch-lkw-reihe.webp': [960, 1448],
-    'fahrzeuge-antos.webp': [720, 1086],
     'fuhrpark-atego-reihe.webp': [720, 1086],
     'export-amg-halle.webp': [960, 1672],
 }

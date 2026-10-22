@@ -280,7 +280,6 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "buying and selling commercial vehicles",
   "Nutzfahrzeuge aus Gehrden.": "commercial vehicles from Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Used commercial vehicles in stock",
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Black Mercedes-Benz Antos, front view",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Frequently asked questions on buying, selling and export",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */

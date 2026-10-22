@@ -266,7 +266,6 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "compra y venta de vehículos industriales",
   "Nutzfahrzeuge aus Gehrden.": "vehículos industriales desde Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Vehículos industriales usados en stock",
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Mercedes-Benz Antos negro, vista frontal",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Preguntas frecuentes sobre compra, venta y exportación",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */

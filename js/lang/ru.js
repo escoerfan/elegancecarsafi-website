@@ -266,7 +266,6 @@
   "Ankauf und Verkauf von Nutzfahrzeugen": "покупке и продаже коммерческого транспорта",
   "Nutzfahrzeuge aus Gehrden.": "коммерческому транспорту из Гердена.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Б/у коммерческий транспорт в наличии",
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Чёрный Mercedes-Benz Antos, вид спереди",
   "Häufige Fragen zu Ankauf, Verkauf und Export": "Частые вопросы о покупке, продаже и экспорте",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
