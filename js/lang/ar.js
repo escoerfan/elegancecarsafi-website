@@ -40,7 +40,8 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "نتعامل حصريًا بمركبات من شركات تصنيع معروفة. جودة تُثبت قيمتها يوميًا في الاستخدام التجاري.",
   "Mehr über uns": "المزيد عنا",
   "Marken, die wir handeln": "العلامات التجارية التي نتعامل بها",
-  "Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht": "مرسيدس-بنز أكتروس بصندوق تبريد، منظر أمامي",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "مرسيدس-بنز أتيغو 818 بصندوق مغلق في الساحة",
+  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "صف من شاحنات الصندوق المستعملة من مرسيدس-بنز ومان",
   "5 von 5 Sternen": "5 من 5 نجوم",
   "Über": "أكثر من",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "عامًا من الخبرة في تجارة المركبات التجارية و",
@@ -160,8 +161,6 @@
   "Kaufvertrag, Exportpapiere, Verzollung. Wir kümmern uns um die Details, damit Sie es nicht müssen.": "عقد البيع وأوراق التصدير والتخليص الجمركي. نهتم بالتفاصيل حتى لا تضطروا إلى ذلك.",
   "Übergabe oder Abholung": "التسليم أو الاستلام",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "تسليم المركبة حسب الاتفاق. يستلم سائقونا المركبات مباشرة أيضًا.",
-
-  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "شاحنة نقل سيارات تحمل سيارات رياضية ورباعية الدفع على الطريق السريع",
   "Verzollung, Transport und Verschiffung.": "التخليص الجمركي والنقل والشحن البحري.",
   "Export aus": "التصدير",
   "einer Hand.": "من جهة واحدة.",
@@ -176,7 +175,7 @@
   "Unsere Checkliste für Kunden aus der EU – alle Unterlagen und Schritte auf einen Blick.": "قائمة التحقق الخاصة بنا لعملاء الاتحاد الأوروبي – جميع المستندات والخطوات في لمحة واحدة.",
   "PDF öffnen": "فتح ملف PDF",
 
-  "Mercedes-Benz Actros, Sprinter und Reisebus in einer hellen Fahrzeughalle": "مرسيدس-بنز أكتروس وسبرينتر وحافلة سياحية في صالة مركبات مضيئة",
+  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "مرسيدس-إيه إم جي جي تي صفراء في صالة عرض",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "اتصلوا بنا أو راسلونا عبر واتساب. نرد بسرعة ونقدم عرضًا محددًا دون انتظار طويل.",
   "Vorname": "الاسم الأول",
   "Nachname": "اسم العائلة",

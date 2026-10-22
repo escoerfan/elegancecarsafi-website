@@ -40,7 +40,8 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "Мы торгуем исключительно техникой известных производителей. Качество, которое каждый день доказывает свою ценность в коммерческой эксплуатации.",
   "Mehr über uns": "Подробнее о нас",
   "Marken, die wir handeln": "Марки, которыми мы торгуем",
-  "Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht": "Mercedes-Benz Actros с рефрижераторным кузовом, вид спереди",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Mercedes-Benz Atego 818 с фургоном на площадке",
+  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Ряд подержанных грузовиков-фургонов Mercedes-Benz и MAN",
   "5 von 5 Sternen": "5 из 5 звёзд",
   "Über": "Более",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "лет опыта в торговле коммерческим транспортом и",
@@ -160,8 +161,6 @@
   "Kaufvertrag, Exportpapiere, Verzollung. Wir kümmern uns um die Details, damit Sie es nicht müssen.": "Договор купли-продажи, экспортные документы, таможня. Мы берём детали на себя, чтобы вам не пришлось.",
   "Übergabe oder Abholung": "Передача или вывоз",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Передача техники по договорённости. Наши водители также забирают технику напрямую.",
-
-  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Автовоз со спортивными автомобилями и внедорожниками на автобане",
   "Verzollung, Transport und Verschiffung.": "Таможня, транспортировка и морская отправка.",
   "Export aus": "Экспорт",
   "einer Hand.": "из одних рук.",
@@ -176,7 +175,7 @@
   "Unsere Checkliste für Kunden aus der EU – alle Unterlagen und Schritte auf einen Blick.": "Наш чек-лист для клиентов из ЕС – все документы и шаги на одной странице.",
   "PDF öffnen": "Открыть PDF",
 
-  "Mercedes-Benz Actros, Sprinter und Reisebus in einer hellen Fahrzeughalle": "Mercedes-Benz Actros, Sprinter и туристический автобус в светлом ангаре",
+  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "Жёлтый Mercedes-AMG GT в выставочном зале",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "Позвоните нам или напишите в WhatsApp. Мы быстро отвечаем и делаем конкретное предложение без долгого ожидания.",
   "Vorname": "Имя",
   "Nachname": "Фамилия",

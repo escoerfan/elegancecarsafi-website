@@ -40,7 +40,8 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "Handlujemy wyłącznie pojazdami renomowanych producentów. Jakość, która każdego dnia sprawdza się w zastosowaniach komercyjnych.",
   "Mehr über uns": "Więcej o nas",
   "Marken, die wir handeln": "Marki, którymi handlujemy",
-  "Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht": "Mercedes-Benz Actros z chłodnią, widok z przodu",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Mercedes-Benz Atego 818 z zabudową kontenerową na placu",
+  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Rząd używanych ciężarówek kontenerowych Mercedes-Benz i MAN",
   "5 von 5 Sternen": "5 na 5 gwiazdek",
   "Über": "Ponad",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "lat doświadczenia w handlu pojazdami użytkowymi i",
@@ -160,8 +161,6 @@
   "Kaufvertrag, Exportpapiere, Verzollung. Wir kümmern uns um die Details, damit Sie es nicht müssen.": "Umowa kupna, dokumenty eksportowe, odprawa celna. Zajmujemy się szczegółami, abyś Ty nie musiał.",
   "Übergabe oder Abholung": "Przekazanie lub odbiór",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Przekazanie pojazdu po uzgodnieniu terminu. Nasi kierowcy odbierają też pojazdy bezpośrednio.",
-
-  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Laweta z samochodami sportowymi i terenowymi na autostradzie",
   "Verzollung, Transport und Verschiffung.": "Odprawa celna, transport i wysyłka morska.",
   "Export aus": "Eksport",
   "einer Hand.": "z jednej ręki.",
@@ -176,7 +175,7 @@
   "Unsere Checkliste für Kunden aus der EU – alle Unterlagen und Schritte auf einen Blick.": "Nasza lista kontrolna dla klientów z UE – wszystkie dokumenty i kroki w jednym miejscu.",
   "PDF öffnen": "Otwórz PDF",
 
-  "Mercedes-Benz Actros, Sprinter und Reisebus in einer hellen Fahrzeughalle": "Mercedes-Benz Actros, Sprinter i autokar w jasnej hali",
+  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "Żółty Mercedes-AMG GT w salonie wystawowym",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "Zadzwoń lub napisz na WhatsApp. Odpowiadamy szybko i przedstawiamy konkretną ofertę bez długiego czekania.",
   "Vorname": "Imię",
   "Nachname": "Nazwisko",

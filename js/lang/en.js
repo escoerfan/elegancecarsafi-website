@@ -43,7 +43,8 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "We deal exclusively in vehicles from established manufacturers. Quality that proves its worth in commercial use every day.",
   "Mehr über uns": "More about us",
   "Marken, die wir handeln": "Brands we trade",
-  "Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht": "Mercedes-Benz Actros with refrigerated body, front view",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Mercedes-Benz Atego 818 with box body in the yard",
+  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Row of used Mercedes-Benz and MAN box trucks",
   "5 von 5 Sternen": "5 out of 5 stars",
   "Über": "Over",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "years of experience in commercial vehicle trading and",
@@ -170,7 +171,6 @@
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Vehicle handover by appointment. Our drivers can also collect vehicles directly.",
 
   /* ---- Export ---- */
-  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Car transporter carrying sports cars and SUVs on the motorway",
   "Verzollung, Transport und Verschiffung.": "Customs clearance, transport and shipping.",
   "Export aus": "Export from",
   "einer Hand.": "a single source.",
@@ -186,7 +186,7 @@
   "PDF öffnen": "Open PDF",
 
   /* ---- Kontakt ---- */
-  "Mercedes-Benz Actros, Sprinter und Reisebus in einer hellen Fahrzeughalle": "Mercedes-Benz Actros, Sprinter and coach in a bright vehicle hall",
+  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "Yellow Mercedes-AMG GT in a showroom",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "Call us or send a WhatsApp message. We respond quickly and make a concrete offer without a long wait.",
   "Vorname": "First name",
   "Nachname": "Last name",

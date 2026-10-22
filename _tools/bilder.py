@@ -14,9 +14,9 @@ OUT = os.path.join(SRC, 'opt')
 # Fotos: Datei -> Breiten
 PHOTOS = {
     'hero-actros.png': [960, 1440, 1920, 2880],
-    'pitch-actros-frontal.jpg': [960, 1672],
-    'export-autotransporter.jpg': [960, 1672],
-    'kontakt-fahrzeuge-halle.jpg': [960, 1672],
+    'pitch-atego-koffer.webp': [960, 1448],
+    'pitch-lkw-reihe.webp': [960, 1448],
+    'export-amg-halle.webp': [960, 1672],
 }
 # Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße)
 LOGOS = {

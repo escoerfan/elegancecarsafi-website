@@ -40,7 +40,8 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "Comercializamos exclusivamente vehículos de fabricantes reconocidos. Una calidad que demuestra su valor cada día en el uso profesional.",
   "Mehr über uns": "Más sobre nosotros",
   "Marken, die wir handeln": "Marcas con las que trabajamos",
-  "Mercedes-Benz Actros mit Kühlkoffer in der Frontansicht": "Mercedes-Benz Actros con caja frigorífica, vista frontal",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Mercedes-Benz Atego 818 con caja cerrada en el patio",
+  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Fila de camiones de caja usados Mercedes-Benz y MAN",
   "5 von 5 Sternen": "5 de 5 estrellas",
   "Über": "Más de",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "años de experiencia en el comercio de vehículos industriales y",
@@ -160,8 +161,6 @@
   "Kaufvertrag, Exportpapiere, Verzollung. Wir kümmern uns um die Details, damit Sie es nicht müssen.": "Contrato de compraventa, documentos de exportación, aduana. Nos ocupamos de los detalles para que usted no tenga que hacerlo.",
   "Übergabe oder Abholung": "Entrega o recogida",
   "Fahrzeugübergabe nach Vereinbarung. Unsere Fahrer holen Fahrzeuge auch direkt ab.": "Entrega del vehículo según lo acordado. Nuestros conductores también recogen vehículos directamente.",
-
-  "Autotransporter mit Sportwagen und Geländewagen auf der Autobahn": "Camión portavehículos con deportivos y todoterrenos en la autopista",
   "Verzollung, Transport und Verschiffung.": "Aduana, transporte y envío marítimo.",
   "Export aus": "Exportación",
   "einer Hand.": "integral.",
@@ -176,7 +175,7 @@
   "Unsere Checkliste für Kunden aus der EU – alle Unterlagen und Schritte auf einen Blick.": "Nuestra lista de comprobación para clientes de la UE: todos los documentos y pasos de un vistazo.",
   "PDF öffnen": "Abrir PDF",
 
-  "Mercedes-Benz Actros, Sprinter und Reisebus in einer hellen Fahrzeughalle": "Mercedes-Benz Actros, Sprinter y autocar en una nave luminosa",
+  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "Mercedes-AMG GT amarillo en una sala de exposición",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "Llámenos o escríbanos por WhatsApp. Respondemos rápido y le hacemos una oferta concreta sin largas esperas.",
   "Vorname": "Nombre",
   "Nachname": "Apellidos",
