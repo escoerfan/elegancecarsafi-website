@@ -7,6 +7,8 @@
 - Seiten mit FAQ-Akkordeon: FAQPage – Fragen/Antworten werden direkt aus dem
   sichtbaren HTML gelesen, damit Schema und Text immer übereinstimmen
 - Ankaufseiten und Export: Service
+- WebPage.primaryImageOfPage: erstes Foto im <main> mit Alt-Text als caption,
+  sonst das og:image der Seite
 Keine Bewertungen (Review/AggregateRating), weil es keine belegten gibt.
 Der Fahrzeugbestand (Vehicle/Offer) kommt per JS: js/bestand-schema.js.
 
@@ -59,7 +61,11 @@ DEALER = {
     'name': 'ECS Exclusive Commerce Services GmbH – Elegance Car Safi',
     'parentOrganization': {'@id': ORG_ID},
     'url': BASE,
-    'image': BASE + 'assets/img/og-hero.jpg',
+    # echte Hof-Fotos zuerst, dann das Vorschaubild
+    'image': [BASE + 'assets/img/opt/pitch-lkw-reihe-1448.jpg',
+              BASE + 'assets/img/opt/fuhrpark-atego-reihe-1086.jpg',
+              BASE + 'assets/img/opt/pitch-atego-koffer-1448.jpg',
+              BASE + 'assets/img/og-hero.jpg'],
     'logo': BASE + 'assets/img/logo-ecs.png',
     'telephone': '+49 171 362 1298',
     'email': 'info@elegancecarsafi.com',
@@ -117,6 +123,20 @@ def meta(head, attr, key):
     return html.unescape(m.group(1)) if m else ''
 
 
+def main_photo(body, head):
+    """Erstes Foto im <main> (ohne Logos/Markenlogos) -> (URL, Alt-Text); sonst og:image."""
+    for tag in re.findall(r'<img\b[^>]*>', body):
+        src = re.search(r'\bsrc="([^"]+)"', tag)
+        if not src:
+            continue
+        name = os.path.basename(src.group(1))
+        if name.startswith(('logo-', 'marke-')) or name.endswith('.svg'):
+            continue
+        alt = re.search(r'\balt="([^"]*)"', tag)
+        return BASE + src.group(1).lstrip('/'), html.unescape(alt.group(1)) if alt else ''
+    return meta(head, 'property', 'og:image'), meta(head, 'property', 'og:image:alt')
+
+
 def faq_items(body):
     items = []
     for m in re.finditer(r'<details class="accordion-item">([\s\S]*?)</details>', body):
@@ -143,6 +163,7 @@ def build(path):
     desc = meta(head, 'name', 'description')
     body = src[src.index('<main'):src.index('</main>')]
     h1 = text(re.search(r'<h1[^>]*>([\s\S]*?)</h1>', body).group(1))
+    img, caption = main_photo(body, head)
 
     page = {
         '@type': 'WebPage',
@@ -155,6 +176,11 @@ def build(path):
         'about': {'@id': DEALER_ID},
         'publisher': {'@id': ORG_ID},
     }
+    if img:
+        page['primaryImageOfPage'] = {'@type': 'ImageObject', '@id': url + '#primaryimage',
+                                      'url': img, 'contentUrl': img, 'caption': caption,
+                                      'inLanguage': 'de-DE'}
+        page['image'] = {'@id': url + '#primaryimage'}
     graph = [ORGANIZATION, DEALER]
     if not slug:
         graph.append({'@type': 'WebSite', '@id': SITE_ID, 'url': BASE,

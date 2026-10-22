@@ -5,6 +5,8 @@
 - URL = Canonical-URL der Seite.
 - lastmod = Datum des letzten Git-Commits der Datei; bei geänderten bzw.
   vorgemerkten (staged) Dateien das heutige Datum.
+- <image:image> = Fotos im <main> der Seite (ohne Logos und Markenlogos),
+  damit Google sie in der Bildersuche der richtigen Seite zuordnet.
 
 Läuft automatisch vor jedem Commit (_tools/hooks/pre-commit),
 manuell:  python3 _tools/sitemap.py
@@ -12,6 +14,7 @@ manuell:  python3 _tools/sitemap.py
 import datetime, glob, os, re, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = 'https://elegancecarsafi.com/'
 
 
 def git(*args):
@@ -27,6 +30,22 @@ def lastmod(name):
     return d or datetime.date.today().isoformat()
 
 
+def images(html):
+    """Fotos im <main> als absolute URLs (Logos, Markenlogos und SVGs zählen nicht)."""
+    start, end = html.find('<main'), html.find('</main>')
+    if start < 0 or end < 0:
+        return []
+    found = []
+    for src in re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', html[start:end]):
+        name = os.path.basename(src)
+        if name.startswith(('logo-', 'marke-')) or name.endswith('.svg') or src.startswith(('http', 'data:')):
+            continue
+        url = BASE + src.lstrip('/')
+        if url not in found:
+            found.append(url)
+    return found
+
+
 def main():
     entries = []
     for path in sorted(glob.glob(os.path.join(ROOT, '*.html'))):
@@ -37,13 +56,20 @@ def main():
         m = re.search(r'<link rel="canonical" href="([^"]+)"', head)
         if not m:
             continue
-        entries.append((m.group(1), lastmod(os.path.basename(path))))
+        entries.append((m.group(1), lastmod(os.path.basename(path)), images(html)))
     # Startseite zuerst, dann alphabetisch
     entries.sort(key=lambda e: (e[0].rstrip('/').count('/') > 2, e[0]))
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for loc, mod in entries:
-        lines.append('  <url><loc>%s</loc><lastmod>%s</lastmod></url>' % (loc, mod))
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"'
+             ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+    for loc, mod, imgs in entries:
+        if not imgs:
+            lines.append('  <url><loc>%s</loc><lastmod>%s</lastmod></url>' % (loc, mod))
+            continue
+        lines.append('  <url><loc>%s</loc><lastmod>%s</lastmod>' % (loc, mod))
+        for img in imgs:
+            lines.append('    <image:image><image:loc>%s</image:loc></image:image>' % img)
+        lines.append('  </url>')
     lines.append('</urlset>')
     out = '\n'.join(lines) + '\n'
     target = os.path.join(ROOT, 'sitemap.xml')

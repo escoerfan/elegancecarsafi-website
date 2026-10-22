@@ -17,7 +17,7 @@
 
   /* ---- Kopfzeile / Navigation ---- */
   "Elegance Car Safi – Startseite": "Elegance Car Safi – Home",
-  "Logo ECS": "ECS logo",
+  "Logo der ECS GmbH – Elegance Car Safi": "Logo of ECS GmbH – Elegance Car Safi",
   "Über uns": "About us",
   "Fahrzeuge": "Vehicles",
   "Unsere Arbeit": "Our work",
@@ -43,7 +43,7 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "We deal exclusively in vehicles from established manufacturers. Quality that proves its worth in commercial use every day.",
   "Mehr über uns": "More about us",
   "Marken, die wir handeln": "Brands we trade",
-  "Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Mercedes-Benz Atego 818 with box body in the yard",
+  "Gebrauchter Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Used Mercedes-Benz Atego 818 with box body in the yard",
   "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Row of used Mercedes-Benz and MAN box trucks",
   "5 von 5 Sternen": "5 out of 5 stars",
   "Über": "Over",
@@ -290,7 +290,7 @@
   "Transporter verkaufen": "Sell a van",
   "Bau- und Kommunalfahrzeuge": "Construction and municipal vehicles",
   "Fuhrpark verkaufen": "Sell your fleet",
-  "Mercedes-Benz Atego 1522 vor einer Reihe gebrauchter LKW": "Mercedes-Benz Atego 1522 in front of a row of used trucks",
+  "Fuhrpark gebrauchter Koffer-LKW, vorne ein Mercedes-Benz Atego 1522": "Fleet of used box trucks, with a Mercedes-Benz Atego 1522 in front",
   "Baufahrzeug und Kommunalfahrzeug verkaufen | ECS GmbH": "Sell construction and municipal vehicles | ECS GmbH",
   "Ankauf Bau- und Kommunalfahrzeuge": "Buying construction and municipal vehicles",
   "Bau- und Kommunalfahrzeuge verkaufen": "Sell construction and municipal vehicles",
