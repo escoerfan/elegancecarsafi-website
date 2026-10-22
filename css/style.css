@@ -1121,6 +1121,10 @@ body .vw-section * {
   margin-bottom: 90px;
 }
 .about__text { display: grid; gap: 22px; }
+/* Über uns: Text links, Foto rechts – vollständig sichtbar, ohne Zuschnitt */
+.about__grid--media { align-items: center; }
+.about__grid--media .about__text { margin-top: 36px; }
+.about__media img { width: 100%; height: auto; border: 1px solid var(--line-dark); }
 .stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
