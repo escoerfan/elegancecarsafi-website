@@ -14,14 +14,30 @@ const canvases = Array
 canvases.forEach((canvas) => {
   canvas.dataset.ecsExportInitialized = "true";
 
-  initEcsExportGlobe(canvas).catch(() => {
-    canvas.style.display = "none";
-  });
+  const start = () => {
+    initEcsExportGlobe(canvas).catch(() => {
+      canvas.style.display = "none";
+    });
+  };
+
+  /* Erst laden, wenn der Globus in die Nähe des Bildschirms kommt */
+  if (!("IntersectionObserver" in window)) {
+    start();
+    return;
+  }
+
+  const nearObserver = new IntersectionObserver((entries) => {
+    if (!entries.some((entry) => entry.isIntersecting)) return;
+    nearObserver.disconnect();
+    start();
+  }, { rootMargin: "1000px 0px" });
+
+  nearObserver.observe(canvas);
 });
 
 async function initEcsExportGlobe(canvas) {
   const THREE = await import(
-    "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"
+    "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.min.js"
   );
 
   const [
@@ -521,7 +537,21 @@ async function initEcsExportGlobe(canvas) {
   resize();
   updateRouteProgress();
 
+  /* Außerhalb des Bildschirms pausiert die Animation */
+  let onScreen = true;
+  let frameId = 0;
+
+  new IntersectionObserver((entries) => {
+    onScreen = entries[entries.length - 1].isIntersecting;
+
+    if (onScreen && !frameId && !reducedMotion) {
+      frameId = requestAnimationFrame(animate);
+    }
+  }).observe(canvas);
+
   function animate(time = 0) {
+    frameId = 0;
+
     if (!reducedMotion) {
       globeGroup.rotation.x =
         baseRotationX +
@@ -544,8 +574,8 @@ async function initEcsExportGlobe(canvas) {
     updateRouteProgress();
     renderer.render(scene, camera);
 
-    if (!reducedMotion) {
-      requestAnimationFrame(animate);
+    if (!reducedMotion && onScreen) {
+      frameId = requestAnimationFrame(animate);
     }
   }
 

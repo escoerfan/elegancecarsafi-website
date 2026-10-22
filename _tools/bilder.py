@@ -19,6 +19,12 @@ PHOTOS = {
     'fuhrpark-atego-reihe.webp': [720, 1086],
     'export-amg-halle.webp': [960, 1672],
 }
+# Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
+# Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen
+# bis zu diesem Seitenverhältnis exakt derselbe Bildbereich sichtbar.
+CROPS = {
+    'hero-actros.png': (3 / 4, 0.70, [810, 1215]),
+}
 # Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße)
 LOGOS = {
     'marke-iveco.png': 192, 'marke-ford.png': 88, 'marke-mercedes.png': 88,
@@ -32,17 +38,29 @@ def stem(name):
     return os.path.splitext(name)[0]
 
 
+def save_photo(im, widths, prefix):
+    for w in widths:
+        w = min(w, im.width)
+        h = round(im.height * w / im.width)
+        r = im.resize((w, h), Image.LANCZOS) if w != im.width else im
+        base = os.path.join(OUT, '%s-%d' % (prefix, w))
+        r.save(base + '.avif', quality=55, speed=4)
+        r.save(base + '.webp', quality=78, method=6)
+        r.save(base + '.jpg', quality=80, optimize=True, progressive=True)
+
+
 def photos():
     for name, widths in PHOTOS.items():
         im = Image.open(os.path.join(SRC, name)).convert('RGB')
-        for w in widths:
-            w = min(w, im.width)
-            h = round(im.height * w / im.width)
-            r = im.resize((w, h), Image.LANCZOS) if w != im.width else im
-            base = os.path.join(OUT, '%s-%d' % (stem(name), w))
-            r.save(base + '.avif', quality=55, speed=4)
-            r.save(base + '.webp', quality=78, method=6)
-            r.save(base + '.jpg', quality=80, optimize=True, progressive=True)
+        save_photo(im, widths, stem(name))
+
+
+def crops():
+    for name, (ratio, anchor, widths) in CROPS.items():
+        im = Image.open(os.path.join(SRC, name)).convert('RGB')
+        cw = round(im.height * ratio)
+        x0 = round(anchor * (im.width - cw))
+        save_photo(im.crop((x0, 0, x0 + cw, im.height)), widths, stem(name) + '-hoch')
 
 
 def logos(table):
@@ -61,6 +79,7 @@ def logos(table):
 if __name__ == '__main__':
     os.makedirs(OUT, exist_ok=True)
     photos()
+    crops()
     logos(LOGOS)
     logos(ECS_LOGO)
     for f in sorted(os.listdir(OUT)):
