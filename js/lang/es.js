@@ -807,5 +807,8 @@
   "Typische Anlässe sind die Erneuerung einer Flotte, die Umstellung auf neue Antriebe, die Verkleinerung eines Standorts oder die Aufgabe eines Geschäftsbereichs. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "Motivos habituales son la renovación de la flota, el cambio a nuevas motorizaciones, la reducción de una sede o el cierre de una línea de negocio. Desde Gehrden, cerca de Hannover, compramos en toda Alemania, en Austria, Suiza y la República Checa.",
 
   /* ---- Kontakt ---- */
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Mercedes-Benz Antos negro, vista frontal"
+  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Mercedes-Benz Antos negro, vista frontal",
+
+  /* ---- Unsere Arbeit ---- */
+  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Cuatro Mercedes-Benz Sprinter negros en un puente"
 };

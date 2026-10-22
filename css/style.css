@@ -1130,6 +1130,8 @@ body .vw-section * {
 .about__grid--media { align-items: center; }
 .about__grid--media .about__text { margin-top: 36px; }
 .about__media img { width: 100%; height: auto; border: 1px solid var(--line-dark); }
+/* Foto unter der Überschrift (Unsere Arbeit, Bewertung) */
+.about__intro .about__media { margin-top: 40px; }
 .stats {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
