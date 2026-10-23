@@ -195,7 +195,8 @@
   "Unverbindlich Anfragen": "Отправить запрос без обязательств",
   "Mit dem Absenden öffnet sich Ihr E-Mail-Programm mit einer vorbereiteten Nachricht an info@elegancecarsafi.com. Alternativ erreichen Sie uns direkt unter": "После отправки откроется ваша почтовая программа с подготовленным письмом на info@elegancecarsafi.com. Также вы можете позвонить нам напрямую:",
   "Karte mit dem Standort der ECS GmbH in Gehrden": "Карта с местоположением ECS GmbH в Гердене",
-  "Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "Здесь показано наше местоположение на карте OpenStreetMap. При загрузке ваш IP-адрес передаётся провайдеру. Подробнее:",
+  "Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden": "Карта Google Maps с местоположением ECS GmbH в Гердене",
+  "Hier sehen Sie unseren Standort auf einer Karte von Google Maps. Beim Laden werden Daten wie Ihre IP-Adresse an Google übertragen. Mehr in der": "Здесь показано наше местоположение на карте Google Maps. При загрузке такие данные, как ваш IP-адрес, передаются в Google. Подробнее в",
   "Karte laden": "Загрузить карту",
 
   "Häufig gestellte Fragen": "Часто задаваемые вопросы",
@@ -214,11 +215,9 @@
   "Alle gängigen Hersteller. MAN, Mercedes-Benz, Setra, Neoplan, Volvo, Scania, Iveco und weitere.": "Всеми распространёнными производителями. MAN, Mercedes-Benz, Setra, Neoplan, Volvo, Scania, Iveco и другими.",
 
   "Cookies & Datenschutz": "Cookie и конфиденциальность",
-  "Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "Мы используем только технически необходимое сохранение данных. С вашего согласия мы дополнительно загружаем внешний контент, например карту (OpenStreetMap). При этом ваш IP-адрес передаётся провайдеру. Подробнее:",
   "Notwendig": "Необходимые",
   "Speichert Ihre Cookie-Auswahl. Immer aktiv.": "Сохраняет ваш выбор cookie. Всегда активно.",
   "Externe Medien": "Внешние медиа",
-  "Standortkarte von OpenStreetMap.": "Карта местоположения OpenStreetMap.",
   "Nur notwendige": "Только необходимые",
   "Alle akzeptieren": "Принять все",
   "Auswahl speichern": "Сохранить выбор",
@@ -778,9 +777,9 @@
   "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "Мы не готовы и не обязаны участвовать в процедурах урегулирования споров в потребительской арбитражной комиссии.",
 
   /* ---- Phase 8: Cookie-Banner ---- */
-  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "Мы не используем аналитические или рекламные cookie. Технически необходимо только сохранение вашего выбора. С вашего согласия мы дополнительно загружаем внешние медиа (карту OpenStreetMap); при этом ваш IP-адрес передаётся провайдеру. Изменить выбор можно в любое время через «Настройки cookie» в нижней части страницы.",
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von Google Maps), dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "Мы не используем аналитические или рекламные cookie. Технически необходимо только сохранение вашего выбора. С вашего согласия мы дополнительно загружаем внешние медиа (карту Google Maps); при этом такие данные, как ваш IP-адрес, передаются в Google. Изменить выбор можно в любое время через «Настройки cookie» в нижней части страницы.",
   "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "Сохраняет в браузере ваш выбор по cookie и, при необходимости, выбранный язык. Всегда активно.",
-  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "Карта местоположения OpenStreetMap на странице контактов, включая библиотеку карт Leaflet (unpkg).",
+  "Standortkarte von Google Maps auf der Kontaktseite.": "Карта местоположения Google Maps на странице контактов.",
 
   /* ---- Keyword-Optimierung Ankaufseiten (09.10.2026) ---- */
   "LKW verkaufen & LKW Ankauf bei Hannover | ECS GmbH": "Продать грузовик – выкуп грузовиков под Ганновером | ECS GmbH",

@@ -228,61 +228,38 @@
   }
 
   /* ---------------------------------------------------------- Karte
-     Leaflet + OpenStreetMap werden erst nach Einwilligung "Externe Medien"
-     geladen (js/cookie-consent.js). Bis dahin steht ein Platzhalter da.   */
+     Google Maps (Einbettung ohne API-Key) wird erst nach Einwilligung
+     "Externe Medien" geladen (js/cookie-consent.js). Bis dahin steht ein
+     Platzhalter da und es geht keine Verbindung zu Google raus.          */
   var mapEl = document.getElementById('map');
   var consent = window.ECSConsent;
 
   if (mapEl) {
     var map = null;
-    var leafletLoading = null;
-
-    var loadLeaflet = function () {
-      if (window.L) return Promise.resolve();
-      if (leafletLoading) return leafletLoading;
-
-      leafletLoading = new Promise(function (resolve, reject) {
-        var css = document.createElement('link');
-        css.rel = 'stylesheet';
-        css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
-        document.head.appendChild(css);
-
-        var js = document.createElement('script');
-        js.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-        js.onload = resolve;
-        js.onerror = reject;
-        document.head.appendChild(js);
-      });
-      return leafletLoading;
-    };
+    var MAP_QUERY = 'ECS Exclusive Commerce Services GmbH, Bünteweg 13, 30989 Gehrden';
 
     var showMap = function () {
       if (map) return;
+      var lang = (document.documentElement.lang || 'de').slice(0, 2);
+
+      map = document.createElement('iframe');
+      map.src = 'https://www.google.com/maps?q=' + encodeURIComponent(MAP_QUERY) +
+        '&z=17&hl=' + lang + '&output=embed';
+      map.title = 'Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden';
+      map.loading = 'lazy';
+      map.referrerPolicy = 'no-referrer';
+      map.allowFullscreen = true;
+
       mapEl.innerHTML = '';
-
-      loadLeaflet().then(function () {
-        if (map || (consent && !consent.has('media'))) return;
-        var lat = 52.3225528;
-        var lng = 9.5968503;
-
-        map = L.map(mapEl, { scrollWheelZoom: false }).setView([lat, lng], 17);
-
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          maxZoom: 19,
-          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        }).addTo(map);
-
-        L.marker([lat, lng]).addTo(map)
-          .bindPopup('<strong>ECS GmbH</strong><br>Bünteweg 13<br>30989 Gehrden');
-      });
+      mapEl.appendChild(map);
     };
 
     var showPlaceholder = function () {
-      if (map) { map.remove(); map = null; }
+      map = null;
       mapEl.innerHTML =
         '<div class="map-consent">' +
-          '<p>Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird ' +
-          'Ihre IP-Adresse an den Anbieter übertragen. Mehr in der ' +
+          '<p>Hier sehen Sie unseren Standort auf einer Karte von Google Maps. Beim Laden werden ' +
+          'Daten wie Ihre IP-Adresse an Google übertragen. Mehr in der ' +
           '<a href="datenschutz">Datenschutzerklärung</a>.</p>' +
           '<button class="btn btn--secondary btn--sm" type="button">Karte laden</button>' +
         '</div>';

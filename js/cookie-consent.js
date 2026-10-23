@@ -3,7 +3,7 @@
    Cookie-Banner / Einwilligungsverwaltung
 
    Die Seite setzt selbst keine Tracking-Cookies. Einwilligungspflichtig sind
-   nur "Externe Medien" (Standortkarte über OpenStreetMap/unpkg). Die Auswahl
+   nur "Externe Medien" (Standortkarte über Google Maps). Die Auswahl
    wird im localStorage des Besuchers gespeichert (technisch notwendig).
 
    Andere Skripte:  window.ECSConsent.has('media')
@@ -19,7 +19,7 @@
   'use strict';
 
   var STORAGE_KEY = 'ecs-cookie-consent';
-  var VERSION = 2;
+  var VERSION = 3;
   var listeners = [];
   var banner = null;
 
@@ -74,7 +74,7 @@
       '<p class="cookie-banner__text" id="cookie-banner-text">' +
         'Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern ' +
         'Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte ' +
-        'von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl ' +
+        'von Google Maps), dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Ihre Auswahl ' +
         'können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.' +
       '</p>' +
       '<p class="cookie-banner__links">' +
@@ -88,7 +88,7 @@
         '</label>' +
         '<label class="cookie-option">' +
           '<input type="checkbox" data-consent="media"' + (window.ECSConsent.has('media') ? ' checked' : '') + '>' +
-          '<span><strong>Externe Medien</strong>Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).</span>' +
+          '<span><strong>Externe Medien</strong>Standortkarte von Google Maps auf der Kontaktseite.</span>' +
         '</label>' +
       '</div>' +
       '<div class="cookie-banner__actions">' +

@@ -195,7 +195,8 @@
   "Unverbindlich Anfragen": "Wyślij niezobowiązujące zapytanie",
   "Mit dem Absenden öffnet sich Ihr E-Mail-Programm mit einer vorbereiteten Nachricht an info@elegancecarsafi.com. Alternativ erreichen Sie uns direkt unter": "Po wysłaniu otworzy się Twój program pocztowy z przygotowaną wiadomością do info@elegancecarsafi.com. Możesz też zadzwonić bezpośrednio pod numer",
   "Karte mit dem Standort der ECS GmbH in Gehrden": "Mapa z lokalizacją ECS GmbH w Gehrden",
-  "Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "Tutaj zobaczysz naszą lokalizację na mapie OpenStreetMap. Podczas ładowania Twój adres IP zostanie przekazany dostawcy. Więcej informacji w dokumencie",
+  "Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden": "Mapa Google Maps z lokalizacją ECS GmbH w Gehrden",
+  "Hier sehen Sie unseren Standort auf einer Karte von Google Maps. Beim Laden werden Daten wie Ihre IP-Adresse an Google übertragen. Mehr in der": "Tutaj zobaczysz naszą lokalizację na mapie Google Maps. Podczas ładowania dane, takie jak Twój adres IP, są przekazywane do Google. Więcej w",
   "Karte laden": "Załaduj mapę",
 
   "Häufig gestellte Fragen": "Często zadawane pytania",
@@ -214,11 +215,9 @@
   "Alle gängigen Hersteller. MAN, Mercedes-Benz, Setra, Neoplan, Volvo, Scania, Iveco und weitere.": "Wszystkimi popularnymi producentami. MAN, Mercedes-Benz, Setra, Neoplan, Volvo, Scania, Iveco i inne.",
 
   "Cookies & Datenschutz": "Cookies i ochrona danych",
-  "Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "Używamy wyłącznie technicznie niezbędnego zapisu danych. Za Twoją zgodą ładujemy dodatkowo treści zewnętrzne, takie jak mapa lokalizacji (OpenStreetMap). Twój adres IP zostaje wtedy przekazany dostawcy. Więcej informacji w dokumencie",
   "Notwendig": "Niezbędne",
   "Speichert Ihre Cookie-Auswahl. Immer aktiv.": "Zapisuje Twój wybór dotyczący cookies. Zawsze aktywne.",
   "Externe Medien": "Media zewnętrzne",
-  "Standortkarte von OpenStreetMap.": "Mapa lokalizacji z OpenStreetMap.",
   "Nur notwendige": "Tylko niezbędne",
   "Alle akzeptieren": "Akceptuj wszystkie",
   "Auswahl speichern": "Zapisz wybór",
@@ -778,9 +777,9 @@
   "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "Nie jesteśmy gotowi ani zobowiązani do udziału w postępowaniu w sprawie rozstrzygania sporów przed konsumenckim organem arbitrażowym.",
 
   /* ---- Phase 8: Cookie-Banner ---- */
-  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "Nie używamy plików cookie analitycznych ani reklamowych. Technicznie niezbędne jest jedynie zapisanie Twojego wyboru. Za Twoją zgodą wczytujemy dodatkowo media zewnętrzne (mapę lokalizacji OpenStreetMap); Twój adres IP jest wtedy przekazywany dostawcy. Swój wybór możesz w każdej chwili zmienić w „Ustawieniach cookies” w stopce.",
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von Google Maps), dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "Nie używamy plików cookie analitycznych ani reklamowych. Technicznie niezbędne jest jedynie zapisanie Twojego wyboru. Za Twoją zgodą wczytujemy dodatkowo media zewnętrzne (mapę lokalizacji Google Maps); dane, takie jak Twój adres IP, są wtedy przekazywane do Google. Swój wybór możesz w każdej chwili zmienić w „Ustawieniach cookies” w stopce.",
   "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "Zapisuje w przeglądarce Twój wybór dotyczący cookies oraz ewentualnie wybrany język. Zawsze aktywne.",
-  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "Mapa lokalizacji OpenStreetMap na stronie kontaktowej, wraz z biblioteką map Leaflet (unpkg).",
+  "Standortkarte von Google Maps auf der Kontaktseite.": "Mapa lokalizacji Google Maps na stronie kontaktowej.",
 
   /* ---- Keyword-Optimierung Ankaufseiten (09.10.2026) ---- */
   "LKW verkaufen & LKW Ankauf bei Hannover | ECS GmbH": "Sprzedaż ciężarówki – skup ciężarówek koło Hanoweru | ECS GmbH",

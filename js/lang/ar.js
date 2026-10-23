@@ -195,7 +195,8 @@
   "Unverbindlich Anfragen": "إرسال طلب دون التزام",
   "Mit dem Absenden öffnet sich Ihr E-Mail-Programm mit einer vorbereiteten Nachricht an info@elegancecarsafi.com. Alternativ erreichen Sie uns direkt unter": "عند الإرسال يُفتح برنامج البريد الإلكتروني لديك برسالة جاهزة إلى info@elegancecarsafi.com. ويمكنك أيضًا الاتصال بنا مباشرة على",
   "Karte mit dem Standort der ECS GmbH in Gehrden": "خريطة موقع ECS GmbH في غيردن",
-  "Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "هنا ترى موقعنا على خريطة OpenStreetMap. عند التحميل يتم نقل عنوان IP الخاص بك إلى المزوّد. المزيد في",
+  "Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden": "خريطة Google Maps لموقع ECS GmbH في غيردن",
+  "Hier sehen Sie unseren Standort auf einer Karte von Google Maps. Beim Laden werden Daten wie Ihre IP-Adresse an Google übertragen. Mehr in der": "هنا ترى موقعنا على خريطة Google Maps. عند التحميل تُنقل بيانات مثل عنوان IP الخاص بك إلى Google. المزيد في",
   "Karte laden": "تحميل الخريطة",
 
   "Häufig gestellte Fragen": "الأسئلة الشائعة",
@@ -214,11 +215,9 @@
   "Alle gängigen Hersteller. MAN, Mercedes-Benz, Setra, Neoplan, Volvo, Scania, Iveco und weitere.": "جميع الشركات المصنعة الشائعة: MAN وMercedes-Benz وSetra وNeoplan وVolvo وScania وIveco وغيرها.",
 
   "Cookies & Datenschutz": "ملفات تعريف الارتباط والخصوصية",
-  "Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "نستخدم فقط التخزين الضروري تقنيًا. بموافقتك نقوم أيضًا بتحميل محتوى خارجي مثل خريطة الموقع (OpenStreetMap)، وعندها يتم نقل عنوان IP الخاص بك إلى المزوّد. المزيد في",
   "Notwendig": "ضرورية",
   "Speichert Ihre Cookie-Auswahl. Immer aktiv.": "تحفظ اختيارك لملفات تعريف الارتباط. مفعّلة دائمًا.",
   "Externe Medien": "وسائط خارجية",
-  "Standortkarte von OpenStreetMap.": "خريطة الموقع من OpenStreetMap.",
   "Nur notwendige": "الضرورية فقط",
   "Alle akzeptieren": "قبول الكل",
   "Auswahl speichern": "حفظ الاختيار",
@@ -778,9 +777,9 @@
   "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "لسنا مستعدين ولا ملزمين بالمشاركة في إجراءات تسوية النزاعات أمام هيئة تحكيم المستهلكين.",
 
   /* ---- Phase 8: Cookie-Banner ---- */
-  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "لا نستخدم ملفات تعريف ارتباط للتحليل أو الإعلان. الشيء الوحيد الضروري تقنيًا هو حفظ اختياركم. وبموافقتكم نحمّل أيضًا وسائط خارجية (خريطة الموقع من OpenStreetMap)، وعندها يُنقل عنوان IP الخاص بكم إلى المزوّد. يمكنكم تغيير اختياركم في أي وقت عبر „إعدادات ملفات تعريف الارتباط“ في أسفل الصفحة.",
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von Google Maps), dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "لا نستخدم ملفات تعريف ارتباط للتحليل أو الإعلان. الشيء الوحيد الضروري تقنيًا هو حفظ اختياركم. وبموافقتكم نحمّل أيضًا وسائط خارجية (خريطة الموقع من Google Maps)، وعندها تُنقل بيانات مثل عنوان IP الخاص بكم إلى Google. يمكنكم تغيير اختياركم في أي وقت عبر „إعدادات ملفات تعريف الارتباط“ في أسفل الصفحة.",
   "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "يحفظ اختياركم بشأن ملفات تعريف الارتباط، وعند الحاجة اللغة المختارة، في المتصفح. نشط دائمًا.",
-  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "خريطة الموقع من OpenStreetMap في صفحة الاتصال، بما في ذلك مكتبة الخرائط Leaflet (unpkg).",
+  "Standortkarte von Google Maps auf der Kontaktseite.": "خريطة الموقع من Google Maps في صفحة الاتصال.",
 
   /* ---- Keyword-Optimierung Ankaufseiten (09.10.2026) ---- */
   "LKW verkaufen & LKW Ankauf bei Hannover | ECS GmbH": "بيع شاحنة – شراء الشاحنات قرب هانوفر | ECS GmbH",

@@ -206,7 +206,8 @@
   "Unverbindlich Anfragen": "Send a non-binding enquiry",
   "Mit dem Absenden öffnet sich Ihr E-Mail-Programm mit einer vorbereiteten Nachricht an info@elegancecarsafi.com. Alternativ erreichen Sie uns direkt unter": "Submitting opens your email program with a prepared message to info@elegancecarsafi.com. Alternatively, you can reach us directly at",
   "Karte mit dem Standort der ECS GmbH in Gehrden": "Map showing the location of ECS GmbH in Gehrden",
-  "Hier sehen Sie unseren Standort auf einer Karte von OpenStreetMap. Beim Laden wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "Here you can see our location on an OpenStreetMap map. When it loads, your IP address is transmitted to the provider. More in our",
+  "Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden": "Google Maps map showing the location of ECS GmbH in Gehrden",
+  "Hier sehen Sie unseren Standort auf einer Karte von Google Maps. Beim Laden werden Daten wie Ihre IP-Adresse an Google übertragen. Mehr in der": "Here you can see our location on a Google Maps map. When it loads, data such as your IP address is transmitted to Google. More in the",
   "Karte laden": "Load map",
 
   /* ---- FAQ ---- */
@@ -227,11 +228,9 @@
 
   /* ---- Cookie-Banner ---- */
   "Cookies & Datenschutz": "Cookies & privacy",
-  "Wir verwenden nur technisch notwendige Speicherungen. Mit Ihrer Zustimmung laden wir zusätzlich externe Inhalte wie die Standortkarte (OpenStreetMap). Dabei wird Ihre IP-Adresse an den Anbieter übertragen. Mehr in der": "We only use technically necessary storage. With your consent, we also load external content such as the location map (OpenStreetMap). In doing so, your IP address is transmitted to the provider. More in our",
   "Notwendig": "Necessary",
   "Speichert Ihre Cookie-Auswahl. Immer aktiv.": "Stores your cookie choice. Always active.",
   "Externe Medien": "External media",
-  "Standortkarte von OpenStreetMap.": "Location map from OpenStreetMap.",
   "Nur notwendige": "Necessary only",
   "Alle akzeptieren": "Accept all",
   "Auswahl speichern": "Save selection",
@@ -792,9 +791,9 @@
   "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.": "We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board.",
 
   /* ---- Phase 8: Cookie-Banner ---- */
-  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von OpenStreetMap), dabei wird Ihre IP-Adresse an den Anbieter übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "We do not use analytics or advertising cookies. The only technically necessary storage is your choice. With your consent we also load external media (location map from OpenStreetMap); your IP address is transmitted to the provider. You can change your choice at any time via “Cookie settings” in the footer.",
+  "Wir setzen keine Analyse- oder Werbe-Cookies. Technisch notwendig ist nur das Speichern Ihrer Auswahl. Mit Ihrer Einwilligung laden wir zusätzlich externe Medien (Standortkarte von Google Maps), dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Ihre Auswahl können Sie jederzeit über „Cookie-Einstellungen“ im Seitenfuß ändern.": "We do not use analytics or advertising cookies. The only technically necessary storage is your choice. With your consent we also load external media (location map from Google Maps); data such as your IP address is transmitted to Google. You can change your choice at any time via “Cookie settings” in the footer.",
   "Speichert Ihre Cookie-Auswahl und gegebenenfalls Ihre Sprachwahl im Browser. Immer aktiv.": "Stores your cookie choice and, if applicable, your language selection in your browser. Always active.",
-  "Standortkarte von OpenStreetMap auf der Kontaktseite, inklusive Kartenbibliothek Leaflet (unpkg).": "Location map from OpenStreetMap on the contact page, including the Leaflet map library (unpkg).",
+  "Standortkarte von Google Maps auf der Kontaktseite.": "Location map from Google Maps on the contact page.",
 
   /* ---- Keyword-Optimierung Ankaufseiten (09.10.2026) ---- */
   "LKW verkaufen & LKW Ankauf bei Hannover | ECS GmbH": "Sell a truck – truck buying near Hanover | ECS GmbH",

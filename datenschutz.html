@@ -32,8 +32,8 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261023f">
-<script src="js/i18n.js?v=20261023e"></script>
+<link rel="stylesheet" href="css/style.css?v=20261023g">
+<script src="js/i18n.js?v=20261023g"></script>
 </head>
 
 <body>
@@ -50,7 +50,7 @@
 <main class="legal" data-i18n-note="privacy" data-no-i18n>
   <div class="container">
     <h1>Datenschutzerklärung</h1>
-    <p class="meta">ECS GmbH · Stand: 07.10.2026</p>
+    <p class="meta">ECS GmbH · Stand: 23.10.2026</p>
 
     <!-- ------------------------------------------------------------ 1 -->
     <h2>1. Datenschutz auf einen Blick</h2>
@@ -390,9 +390,8 @@
       Art. 6 Abs. 1 lit. c und f DSGVO.
     </p>
     <p>
-      <strong>Externe Medien (nur mit Einwilligung):</strong> die Standortkarte von OpenStreetMap auf
-      der Kontaktseite einschließlich der dafür nötigen Kartenbibliothek Leaflet (unpkg). Dabei wird
-      Ihre IP-Adresse an die jeweiligen Anbieter übertragen. Rechtsgrundlage ist Ihre Einwilligung
+      <strong>Externe Medien (nur mit Einwilligung):</strong> die Standortkarte von Google Maps auf
+      der Kontaktseite. Dabei werden Daten wie Ihre IP-Adresse an Google übertragen. Rechtsgrundlage ist Ihre Einwilligung
       nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG.
     </p>
     <p>
@@ -458,17 +457,29 @@
       von Google oder anderen Schriftart-Anbietern findet dabei nicht statt.
     </p>
 
-    <h3>OpenStreetMap</h3>
+    <h3>Google Maps</h3>
     <p>
-      Zur Darstellung unseres Standorts nutzen wir Kartenmaterial von OpenStreetMap. Anbieter ist
-      die OpenStreetMap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS,
-      Vereinigtes Königreich. Beim Laden der Karte wird Ihre IP-Adresse an die Server von
-      OpenStreetMap übertragen; die dafür benötigte Kartenbibliothek Leaflet wird über das Content
-      Delivery Network unpkg geladen. Die Karte wird erst angezeigt, nachdem Sie im Cookie-Banner
-      „Externe Medien“ zugestimmt oder auf „Karte laden“ geklickt haben. Rechtsgrundlage ist Ihre
-      Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie jederzeit über die
-      Cookie-Einstellungen widerrufen können. Weitere Informationen:
-      <a href="https://osmfoundation.org/wiki/Privacy_Policy" target="_blank" rel="noopener">https://osmfoundation.org/wiki/Privacy_Policy</a>.
+      Zur Darstellung unseres Standorts binden wir auf der Kontaktseite eine Karte von Google Maps
+      ein. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+      Die Karte wird erst geladen, nachdem Sie im Cookie-Banner „Externe Medien“ zugestimmt oder
+      auf „Karte laden“ geklickt haben. Vorher wird keine Verbindung zu Google hergestellt. Beim
+      Laden der Karte werden Daten wie Ihre IP-Adresse, Browser- und Geräteangaben sowie
+      gegebenenfalls Ihre Interaktion mit der Karte an Google übertragen; Google kann dabei auch
+      Cookies oder ähnliche Technologien einsetzen. Sind Sie bei Google angemeldet, kann Google den
+      Besuch Ihrem Konto zuordnen.
+    </p>
+    <p>
+      Es ist nicht auszuschließen, dass Daten auch an die Google LLC in den USA übertragen werden.
+      Die Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert, sodass für diese
+      Übermittlung ein Angemessenheitsbeschluss der EU-Kommission besteht (Art. 45 DSGVO).
+      Rechtsgrundlage für das Laden der Karte ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO,
+      § 25 Abs. 1 TDDDG), die Sie jederzeit über die Cookie-Einstellungen widerrufen können.
+    </p>
+    <p>
+      Der Link „Route in Google Maps planen“ unter der Karte ist ein einfacher Link: Erst wenn Sie
+      ihn anklicken, öffnet sich Google Maps und Google erhält die üblichen Verbindungsdaten.
+      Weitere Informationen finden Sie in der Datenschutzerklärung von Google:
+      <a href="https://policies.google.com/privacy?hl=de" target="_blank" rel="noopener">https://policies.google.com/privacy</a>.
     </p>
 
     <h3>Fahrzeugbestand und externe Skripte</h3>
@@ -502,7 +513,7 @@
   </div>
 </footer>
 
-<script src="js/cookie-consent.js?v=20261008a" defer></script>
+<script src="js/cookie-consent.js?v=20261023g" defer></script>
 
 </body>
 </html>
