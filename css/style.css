@@ -102,6 +102,9 @@ a { color: inherit; text-decoration: none; }
 button { font: inherit; letter-spacing: inherit; }
 
 h1, h2, h3, p, ul, figure { margin: 0; }
+/* Schrift nirgends fetter als 400 – auch nicht die Browser-Standards
+   für Überschriften, <strong>, <b> und Tabellenköpfe */
+h1, h2, h3, h4, h5, h6, strong, b, th { font-weight: 400; }
 ul { list-style: none; padding: 0; }
 
 :focus-visible { outline: 2px solid var(--white); outline-offset: 3px; }
@@ -117,14 +120,14 @@ ul { list-style: none; padding: 0; }
 /* ------------------------------------------------------------- Typographie */
 .h1 {
   font-size: clamp(44px, 5.6vw, 80px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.08;
   letter-spacing: -0.02em;
   color: var(--white);
 }
 .h2 {
   font-size: clamp(36px, 3.9vw, 56px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.14;
   letter-spacing: -0.015em;
   color: var(--white);
@@ -143,7 +146,7 @@ ul { list-style: none; padding: 0; }
   align-items: center;
   margin-bottom: 18px;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.3;
   color: var(--white);
 }
@@ -168,7 +171,7 @@ ul { list-style: none; padding: 0; }
   border: 1px solid transparent;
   border-radius: var(--radius);
   font-size: 17px;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.25;
   letter-spacing: -0.01em;
   cursor: pointer;
@@ -480,7 +483,7 @@ details summary::-webkit-details-marker { display: none; }
 }
 .why-item__title {
   font-size: clamp(30px, 3.6vw, 54px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.1;
   letter-spacing: -0.02em;
   color: var(--white);
@@ -513,14 +516,14 @@ details summary::-webkit-details-marker { display: none; }
   margin-bottom: 18px;
   color: var(--white);
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.02em;
   text-transform: none;
 }
 .ecs-onepage-fullwidth .ecs-export-widget__eyebrow::before { content: none; }
 .ecs-onepage-fullwidth .ecs-export-widget__headline {
   font-size: clamp(40px, 4.4vw, 64px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.08;
   letter-spacing: -0.02em;
   color: var(--white);
@@ -537,7 +540,7 @@ details summary::-webkit-details-marker { display: none; }
   gap: 14px;
   color: var(--white);
   font-size: 17px;
-  font-weight: 500;
+  font-weight: 400;
   border-bottom: 1px solid var(--line);
 }
 .ecs-onepage-fullwidth .ecs-export-widget__trust li:first-child { border-top: 1px solid var(--line); }
@@ -613,11 +616,11 @@ body .vw-section * {
   flex: 0 0 auto;
   min-width: 34px;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
-.step__label { flex: 1; font-size: clamp(20px, 1.8vw, 26px); font-weight: 500; line-height: 1.3; }
+.step__label { flex: 1; font-size: clamp(20px, 1.8vw, 26px); font-weight: 400; line-height: 1.3; }
 .step__head:hover .step__label { color: #e6e6e6; }
 .step__body {
   padding: 0 46px 34px 58px;
@@ -666,7 +669,7 @@ body .vw-section * {
 .contact__links { display: grid; gap: 6px; }
 .contact__phone {
   font-size: clamp(30px, 3vw, 44px);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.02em;
   color: var(--white);
 }
@@ -691,7 +694,7 @@ body .vw-section * {
 .field label {
   display: block;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   color: var(--ink);
   margin-bottom: 10px;
 }
@@ -789,7 +792,7 @@ body .vw-section * {
   color: var(--ink);
 }
 .accordion__head .plus { stroke: var(--ink); }
-.accordion__label { flex: 1; font-size: clamp(19px, 1.7vw, 24px); font-weight: 500; line-height: 1.35; }
+.accordion__label { flex: 1; font-size: clamp(19px, 1.7vw, 24px); font-weight: 400; line-height: 1.35; }
 .accordion__head:hover .accordion__label { color: var(--ink-soft); }
 .accordion__body {
   padding: 0 48px 30px 0;
@@ -859,7 +862,7 @@ body .vw-section * {
   to   { opacity: 1; transform: none; }
 }
 .cookie-banner [hidden] { display: none !important; }
-.cookie-banner__title { font-size: 20px; font-weight: 500; color: var(--white); margin-bottom: 10px; }
+.cookie-banner__title { font-size: 20px; font-weight: 400; color: var(--white); margin-bottom: 10px; }
 .cookie-banner__text { font-size: 14px; line-height: 1.6; }
 .cookie-banner__text a { color: var(--white); text-decoration: underline; text-underline-offset: 2px; }
 
@@ -874,7 +877,7 @@ body .vw-section * {
   line-height: 1.5;
   cursor: pointer;
 }
-.cookie-option strong { display: block; color: var(--white); font-weight: 500; margin-bottom: 2px; }
+.cookie-option strong { display: block; color: var(--white); font-weight: 400; margin-bottom: 2px; }
 .cookie-option input {
   appearance: none;
   -webkit-appearance: none;
@@ -943,7 +946,7 @@ body .vw-section * {
 .site-footer h3,
 .site-footer__heading {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 400;
   color: var(--white);
   margin-bottom: 14px;
 }
@@ -962,7 +965,7 @@ body .vw-section * {
 .site-footer__phone {
   display: block;
   font-size: clamp(17px, 1.4vw, 20px);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.02em;
   color: var(--white);
   margin-bottom: 6px;
@@ -1145,7 +1148,7 @@ body .vw-section * {
 .stat + .stat { padding-left: 32px; border-left: 1px solid var(--line-dark); }
 .stat__value {
   font-size: clamp(40px, 4.4vw, 64px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1;
   letter-spacing: -0.02em;
   color: var(--ink);
@@ -1195,7 +1198,7 @@ body .vw-section * {
 .export-info__item h3,
 .export-doc h3 {
   font-size: clamp(20px, 1.8vw, 26px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.3;
   color: var(--ink);
   margin-bottom: 12px;
@@ -1233,7 +1236,7 @@ body .vw-section * {
 .legal .container { max-width: 960px; }
 .legal h1 {
   font-size: clamp(40px, 5vw, 64px);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.02em;
   line-height: 1.1;
   color: var(--ink);
@@ -1244,21 +1247,21 @@ body .vw-section * {
 }
 .legal h2 {
   font-size: clamp(24px, 2.4vw, 30px);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.02em;
   color: var(--ink);
   margin: 56px 0 16px;
   padding-top: 32px;
   border-top: 1px solid var(--line-dark);
 }
-.legal h3 { font-size: 20px; font-weight: 500; color: var(--ink); margin: 30px 0 10px; }
+.legal h3 { font-size: 20px; font-weight: 400; color: var(--ink); margin: 30px 0 10px; }
 .legal p, .legal li {
   font-size: 16px;
   line-height: 1.7;
   color: var(--ink-soft);
   margin-bottom: 14px;
 }
-.legal strong { color: var(--ink); font-weight: 500; }
+.legal strong { color: var(--ink); font-weight: 400; }
 .legal ul { list-style: disc; padding-left: 22px; margin-bottom: 18px; }
 .legal a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; word-break: break-word; }
 .legal .meta { font-size: 14px; color: var(--ink-soft); }
@@ -1326,7 +1329,7 @@ body .vw-section * {
   .site-nav.is-open { opacity: 1; visibility: visible; }
   .site-nav a {
     font-size: clamp(34px, 9vw, 48px);
-    font-weight: 500;
+    font-weight: 400;
     letter-spacing: -0.02em;
     opacity: 1;
     padding-block: 6px;
@@ -1401,7 +1404,7 @@ body .vw-section * {
   border: 1px solid var(--line);
   background: rgba(26, 26, 26, 0.72);
   color: var(--white);
-  font: 500 13px/1 var(--font);
+  font: 400 13px/1 var(--font);
   letter-spacing: 0.04em;
   cursor: pointer;
   transition: background-color 0.25s ease, border-color 0.25s ease;
@@ -1441,7 +1444,7 @@ body .vw-section * {
 }
 .lang-switch__menu button:hover,
 .lang-switch__menu button:focus-visible { background: rgba(255, 255, 255, 0.07); color: var(--white); outline: none; }
-.lang-switch__menu button[aria-checked="true"] { color: var(--white); font-weight: 500; }
+.lang-switch__menu button[aria-checked="true"] { color: var(--white); font-weight: 400; }
 .lang-switch__menu button[aria-checked="true"]::after {
   content: "";
   width: 6px; height: 6px;
@@ -1529,7 +1532,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 .faq__group {
   margin: 72px 0 8px;
   font-size: clamp(26px, 2.4vw, 34px);
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.2;
   letter-spacing: -0.01em;
   color: var(--ink);
@@ -1562,7 +1565,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
   }
   .mobile-cta__btn {
     display: flex; align-items: center; justify-content: center; gap: 8px;
-    min-height: 48px; font-size: 16px; font-weight: 500;
+    min-height: 48px; font-size: 16px; font-weight: 400;
     border: 1px solid var(--line-strong);
   }
   .mobile-cta__btn svg { width: 18px; height: 18px; fill: currentColor; }
@@ -1631,7 +1634,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 @media (max-width: 991px) {
   .site-nav { justify-content: safe center; overflow-y: auto; }
   .nav-sub__toggle {
-    font-size: clamp(34px, 9vw, 48px); font-weight: 500; letter-spacing: -0.02em;
+    font-size: clamp(34px, 9vw, 48px); font-weight: 400; letter-spacing: -0.02em;
     opacity: 1; padding-block: 6px;
   }
   .nav-sub__toggle::after { display: none; }

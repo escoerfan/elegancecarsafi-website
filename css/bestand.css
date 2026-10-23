@@ -43,7 +43,7 @@
 .vw-filter-btn {
     font-family: 'Figtree', system-ui, sans-serif;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 400;
     color: #262626;
     background: #ffffff;
     border: 1px solid #dcdcdc;
@@ -67,7 +67,7 @@
 .vw-filter-cnt {
     opacity: 0.55;
     margin-left: 5px;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .vw-grid {
@@ -127,7 +127,7 @@
     top: 14px;
     left: 14px;
     font-size: 13px;
-    font-weight: 600;
+    font-weight: 400;
     color: #262626;
     background: #ffffff;
     padding: 5px 11px;
@@ -146,7 +146,7 @@
     color: #ffffff;
     font-family: var(--font, 'DM Sans', system-ui, sans-serif);
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0.14em;
     line-height: 1;
     text-transform: uppercase;
@@ -173,7 +173,7 @@
 
 .vw-title {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
     color: #262626;
     line-height: 1.35;
     margin-bottom: 8px;
@@ -222,7 +222,7 @@
 
 .vw-detail {
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 400;
     color: #262626;
     text-decoration: underline;
     text-underline-offset: 3px;
@@ -245,7 +245,7 @@
 
 .vw-price {
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 400;
     color: #262626;
     font-variant-numeric: tabular-nums;
     line-height: 1.15;
@@ -260,13 +260,13 @@
 
 .vw-price.on-request {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 400;
     color: #3d3d3d;
 }
 
 .vw-card-cta {
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 400;
     color: #ffffff;
     background: linear-gradient(180deg, #262626 0%, #060606 100%);
     border: 1px solid #262626;
@@ -306,7 +306,7 @@
 .vw-back {
     display: inline-block;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 400;
     color: #262626;
     text-decoration: underline;
     text-underline-offset: 3px;
@@ -369,7 +369,7 @@
 
 .vw-d-counter {
     font-size: 13px;
-    font-weight: 600;
+    font-weight: 400;
     color: #262626;
     background: #ffffff;
     border: 1px solid #e0e0e0;
@@ -431,7 +431,7 @@
 
 .vw-d-price {
     font-size: 34px;
-    font-weight: 500;
+    font-weight: 400;
     color: #262626;
     font-variant-numeric: tabular-nums;
     line-height: 1.15;
@@ -439,7 +439,7 @@
 
 .vw-d-price.on-request {
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .vw-d-info .vw-specs {
@@ -459,7 +459,7 @@
     min-height: 50px;
     padding: 12px 22px;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 400;
     text-decoration: none;
     cursor: pointer;
     white-space: nowrap;
@@ -489,7 +489,7 @@
 
 .vw-d-desc h2 {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 400;
     color: #262626;
     margin-bottom: 18px;
 }
