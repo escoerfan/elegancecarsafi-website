@@ -816,5 +816,13 @@
   "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Подержанный чёрный седельный тягач MAN TGX 18.500 на площадке",
   "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Подержанный белый туристический автобус Magelys на площадке",
   "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Подержанный самосвал Mercedes-Benz Arocs с поднятым кузовом",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "Белый Mercedes-Benz Actros в вечернем свете"
+  "Weißer Mercedes-Benz Actros im Abendlicht": "Белый Mercedes-Benz Actros в вечернем свете",
+
+  /* ---- Keyword-Runde 25.10.2026 ---- */
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "Экспорт коммерческого транспорта: автобусы и грузовики | ECS GmbH",
+  "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "Мы поставляем технику по всей Европе, включая Восточную Европу, на Ближний Восток, в Азию и Африку, а также на другие международные рынки. Покупая машину из нашего наличия, вы получаете машину, экспортные документы и перевозку из одних рук.",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Б/у коммерческий транспорт: автобусы, грузовики, Sprinter | ECS GmbH",
+  "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Как дилер коммерческого транспорта и автобусов из Герден под Ганновером мы продаём б/у туристические и городские автобусы, грузовики, седельные тягачи и фургоны, в том числе на экспорт. Позвоните нам сегодня. Наша команда поможет подобрать подходящую технику или продать ваш текущий автопарк. Также возможен приём вашей техники в зачёт.",
+  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Торговля коммерческим транспортом, выкуп и экспорт под Ганновером",
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Наша компания находится в Герден в регионе Ганновер, Нижняя Саксония. Отсюда мы работаем более чем с 250 партнёрами и ведём торговлю коммерческим транспортом, импорт и экспорт по всей Европе и за её пределами."
 };

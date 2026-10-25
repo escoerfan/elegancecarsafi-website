@@ -6,7 +6,8 @@
 - Unterseiten: BreadcrumbList (Startseite > Seite)
 - Seiten mit FAQ-Akkordeon: FAQPage – Fragen/Antworten werden direkt aus dem
   sichtbaren HTML gelesen, damit Schema und Text immer übereinstimmen
-- Ankaufseiten und Export: Service
+- Ankaufseiten und Export: Service (Ankaufseiten mit Service.brand)
+- WebPage.keywords: Suchbegriffe, Marken und Modelle aus _tools/seo_begriffe.py
 - WebPage.primaryImageOfPage: erstes Foto im <main> mit Alt-Text als caption,
   sonst das og:image der Seite
 Keine Bewertungen (Review/AggregateRating), weil es keine belegten gibt.
@@ -16,6 +17,8 @@ Der Block steht zwischen <!-- schema:start --> und <!-- schema:end --> im <head>
 Aufruf:  python3 _tools/schema.py   (läuft auch im pre-commit-Hook)
 """
 import glob, html, json, os, re
+
+from seo_begriffe import brands, keywords
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://elegancecarsafi.com/'
@@ -87,13 +90,17 @@ DEALER = {
          'opens': '08:00', 'closes': '12:00'},
     ],
     'areaServed': BUY_COUNTRIES,
+    # Kerngebiete wie auf der Website (Ankaufseiten, Bestand, Export)
+    'knowsAbout': ['Nutzfahrzeughandel', 'Import und Export von Nutzfahrzeugen', 'Reisebusse',
+                   'Linienbusse', 'Kleinbusse', 'LKW', 'Sattelzugmaschinen', 'Transporter',
+                   'Bau- und Kommunalfahrzeuge', 'Verzollung und Exportabwicklung'],
     'knowsLanguage': ['de', 'en', 'pl', 'ru', 'es', 'ar'],
     'sameAs': SAME_AS,
 }
 
 # Service-Angaben je Seite (Seite -> Name, serviceType)
 SERVICES = {
-    'reisebus-verkaufen': ('Ankauf von Reisebussen', 'Ankauf gebrauchter Reisebusse'),
+    'reisebus-verkaufen': ('Ankauf von Reisebussen und Kleinbussen', 'Ankauf gebrauchter Reisebusse'),
     'linienbus-verkaufen': ('Ankauf von Linienbussen', 'Ankauf gebrauchter Linienbusse'),
     'lkw-verkaufen': ('Ankauf von LKW und Sattelzugmaschinen', 'Ankauf gebrauchter LKW'),
     'transporter-verkaufen': ('Ankauf von Transportern', 'Ankauf gebrauchter Transporter'),
@@ -115,6 +122,7 @@ PARENT = {k: 'unsere-arbeit' for k in (
     'reisebus-verkaufen', 'linienbus-verkaufen', 'lkw-verkaufen', 'transporter-verkaufen',
     'bau-und-kommunalfahrzeuge-verkaufen', 'fuhrpark-verkaufen')}
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
+EXPORT_AREA += [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
 
 
 def text(fragment):
@@ -182,6 +190,8 @@ def build(path):
         'isPartOf': {'@id': SITE_ID},
         'about': {'@id': DEALER_ID},
         'publisher': {'@id': ORG_ID},
+        # Suchbegriffe, Marken und Modelle – nur hier, nicht im sichtbaren Text (_tools/seo_begriffe.py)
+        'keywords': ', '.join(keywords(slug)),
     }
     if img:
         page['primaryImageOfPage'] = {'@type': 'ImageObject', '@id': url + '#primaryimage',
@@ -211,6 +221,8 @@ def build(path):
         graph.append({'@type': 'Service', '@id': url + '#service', 'name': name, 'serviceType': stype,
                       'description': desc, 'url': url, 'provider': {'@id': DEALER_ID},
                       'areaServed': EXPORT_AREA if slug == 'export' else BUY_COUNTRIES})
+        if brands(slug):
+            graph[-1]['brand'] = brands(slug)
 
     faqs = faq_items(body)
     if faqs:

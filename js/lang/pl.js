@@ -816,5 +816,13 @@
   "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Używany czarny ciągnik siodłowy MAN TGX 18.500 na placu",
   "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Używany biały autokar Magelys na placu",
   "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Używana wywrotka Mercedes-Benz Arocs z podniesioną skrzynią",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "Biały Mercedes-Benz Actros w wieczornym świetle"
+  "Weißer Mercedes-Benz Actros im Abendlicht": "Biały Mercedes-Benz Actros w wieczornym świetle",
+
+  /* ---- Keyword-Runde 25.10.2026 ---- */
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "Eksport pojazdów użytkowych: autobusy i ciężarówki | ECS GmbH",
+  "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "Dostarczamy pojazdy w całej Europie, w tym do Europy Wschodniej, na Bliski Wschód, do Azji i Afryki, a także na inne rynki międzynarodowe. Kupując pojazd z naszej oferty, otrzymujesz pojazd, dokumenty eksportowe i transport z jednej ręki.",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Używane pojazdy użytkowe: autobusy, ciężarówki, Sprinter | ECS GmbH",
+  "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Jako handlarz pojazdów użytkowych i autobusów z Gehrden koło Hanoweru sprzedajemy używane autokary, autobusy miejskie, ciężarówki, ciągniki siodłowe i dostawczaki, również na eksport. Zadzwoń do nas jeszcze dziś. Nasz zespół chętnie pomoże Ci znaleźć odpowiedni pojazd lub sprzedać Twoją obecną flotę. Możemy też przyjąć Twój pojazd w rozliczeniu.",
+  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Handel pojazdami użytkowymi, skup i eksport koło Hanoweru",
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Nasza siedziba znajduje się w Gehrden w regionie Hanoweru, w Dolnej Saksonii. Stąd współpracujemy z ponad 250 partnerami i prowadzimy handel pojazdami użytkowymi, import i eksport w całej Europie i poza nią."
 };

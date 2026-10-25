@@ -830,5 +830,13 @@
   "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Used black MAN TGX 18.500 tractor unit in the yard",
   "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Used white Magelys coach in the yard",
   "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Used Mercedes-Benz Arocs tipper with raised body",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "White Mercedes-Benz Actros in the evening light"
+  "Weißer Mercedes-Benz Actros im Abendlicht": "White Mercedes-Benz Actros in the evening light",
+
+  /* ---- Keyword-Runde 25.10.2026 ---- */
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "Commercial vehicle export: bus & truck export | ECS GmbH",
+  "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "We deliver throughout Europe including Eastern Europe, to the Middle East, Asia and Africa as well as other international markets. If you buy a vehicle from our stock, you get the vehicle, export papers and transport from a single source.",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Used commercial vehicles for sale: buses, trucks, Sprinter | ECS GmbH",
+  "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "As a commercial vehicle and bus dealer from Gehrden near Hanover, we sell used coaches, city buses, trucks, tractor units and vans, also for export. Call us today. Our team will be happy to help you find the right vehicle or sell your current fleet. We also accept your vehicle as a trade-in.",
+  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Commercial vehicle trading, buying & export near Hanover",
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "We are based in Gehrden in the Hanover region, Lower Saxony. From here we work with over 250 partners and handle commercial vehicle trading, import and export throughout Europe and beyond."
 };

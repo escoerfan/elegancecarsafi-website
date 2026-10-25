@@ -816,5 +816,13 @@
   "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "شاحنة جرّ مستعملة MAN TGX 18.500 باللون الأسود في الساحة",
   "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "حافلة سياحية مستعملة Magelys باللون الأبيض في الساحة",
   "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "شاحنة قلّابة مستعملة مرسيدس-بنز أروكس مع صندوق مرفوع",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "مرسيدس-بنز أكتروس بيضاء في ضوء المساء"
+  "Weißer Mercedes-Benz Actros im Abendlicht": "مرسيدس-بنز أكتروس بيضاء في ضوء المساء",
+
+  /* ---- Keyword-Runde 25.10.2026 ---- */
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "تصدير المركبات التجارية: الحافلات والشاحنات | ECS GmbH",
+  "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "نورّد في جميع أنحاء أوروبا بما فيها أوروبا الشرقية وإلى الشرق الأوسط وآسيا وأفريقيا وأسواق دولية أخرى. ومن يشتري مركبة من مخزوننا يحصل على المركبة وأوراق التصدير والنقل من جهة واحدة.",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "مركبات تجارية مستعملة للبيع: حافلات وشاحنات وسبرينتر | ECS GmbH",
+  "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "بصفتنا تاجر مركبات تجارية وحافلات من غيردن بالقرب من هانوفر، نبيع الحافلات السياحية وحافلات المدن والشاحنات والقاطرات وسيارات النقل المستعملة، وكذلك للتصدير. اتصلوا بنا اليوم. يسعد فريقنا مساعدتكم في العثور على المركبة المناسبة أو بيع مركباتكم الحالية. كما يمكننا قبول مركبتكم كجزء من الثمن.",
+  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | تجارة المركبات التجارية والشراء والتصدير بالقرب من هانوفر",
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "يقع مقرنا في غيردن في منطقة هانوفر بولاية سكسونيا السفلى. من هنا نعمل مع أكثر من 250 شريكًا ونمارس تجارة المركبات التجارية والاستيراد والتصدير في جميع أنحاء أوروبا وخارجها."
 };
