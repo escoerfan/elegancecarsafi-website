@@ -1126,12 +1126,14 @@ body .vw-section * {
   gap: clamp(40px, 7vw, 110px);
   margin-bottom: 90px;
 }
-.about__text { display: grid; gap: 22px; }
+/* align-content: start – Absätze bleiben zusammen, auch wenn die linke Spalte
+   (Überschrift mit Foto darunter) höher ist als der Text */
+.about__text { display: grid; gap: 22px; align-content: start; }
 /* Über uns: Text links, Foto rechts – vollständig sichtbar, ohne Zuschnitt */
 .about__grid--media { align-items: center; }
 .about__grid--media .about__text { margin-top: 36px; }
 .about__media img { width: 100%; height: auto; border: 1px solid var(--line-dark); }
-/* Foto unter der Überschrift (Unsere Arbeit, Bewertung) */
+/* Foto unter der Überschrift (Unsere Arbeit, Ankaufseiten, Export) */
 .about__intro .about__media { margin-top: 40px; }
 .stats {
   display: grid;

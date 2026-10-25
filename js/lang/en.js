@@ -821,8 +821,14 @@
   "Typische Anlässe sind die Erneuerung einer Flotte, die Umstellung auf neue Antriebe, die Verkleinerung eines Standorts oder die Aufgabe eines Geschäftsbereichs. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "Typical reasons are fleet renewal, the switch to new drive systems, downsizing a site or giving up a line of business. From Gehrden near Hanover we buy throughout Germany, in Austria, Switzerland and the Czech Republic.",
 
   /* ---- Kontakt ---- */
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Black Mercedes-Benz Antos, front view",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau in der Frontansicht": "Black Mercedes-Benz Actros with curtainsider body, front view",
 
   /* ---- Unsere Arbeit ---- */
-  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Four black Mercedes-Benz Sprinters on a bridge"
+  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Four black Mercedes-Benz Sprinters on a bridge",
+
+  /* ---- Fotos Ankaufseiten und Export ---- */
+  "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Used black MAN TGX 18.500 tractor unit in the yard",
+  "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Used white Magelys coach in the yard",
+  "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Used Mercedes-Benz Arocs tipper with raised body",
+  "Weißer Mercedes-Benz Actros im Abendlicht": "White Mercedes-Benz Actros in the evening light"
 };

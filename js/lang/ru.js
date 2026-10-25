@@ -807,8 +807,14 @@
   "Typische Anlässe sind die Erneuerung einer Flotte, die Umstellung auf neue Antriebe, die Verkleinerung eines Standorts oder die Aufgabe eines Geschäftsbereichs. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "Типичные поводы – обновление парка, переход на новые виды привода, сокращение площадки или отказ от направления бизнеса. Из Гердена под Ганновером мы выкупаем технику по всей Германии, в Австрии, Швейцарии и Чехии.",
 
   /* ---- Kontakt ---- */
-  "Schwarzer Mercedes-Benz Antos in der Frontansicht": "Чёрный Mercedes-Benz Antos, вид спереди",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau in der Frontansicht": "Чёрный Mercedes-Benz Actros с тентованным кузовом, вид спереди",
 
   /* ---- Unsere Arbeit ---- */
-  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Четыре чёрных Mercedes-Benz Sprinter на мосту"
+  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Четыре чёрных Mercedes-Benz Sprinter на мосту",
+
+  /* ---- Fotos Ankaufseiten und Export ---- */
+  "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Подержанный чёрный седельный тягач MAN TGX 18.500 на площадке",
+  "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Подержанный белый туристический автобус Magelys на площадке",
+  "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Подержанный самосвал Mercedes-Benz Arocs с поднятым кузовом",
+  "Weißer Mercedes-Benz Actros im Abendlicht": "Белый Mercedes-Benz Actros в вечернем свете"
 };
