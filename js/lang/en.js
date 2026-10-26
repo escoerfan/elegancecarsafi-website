@@ -838,5 +838,12 @@
   "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Used commercial vehicles for sale: buses, trucks, Sprinter | ECS GmbH",
   "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "As a commercial vehicle and bus dealer from Gehrden near Hanover, we sell used coaches, city buses, trucks, tractor units and vans, also for export. Call us today. Our team will be happy to help you find the right vehicle or sell your current fleet. We also accept your vehicle as a trade-in.",
   "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Commercial vehicle trading, buying & export near Hanover",
-  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "We are based in Gehrden in the Hanover region, Lower Saxony. From here we work with over 250 partners and handle commercial vehicle trading, import and export throughout Europe and beyond."
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "We are based in Gehrden in the Hanover region, Lower Saxony. From here we work with over 250 partners and handle commercial vehicle trading, import and export throughout Europe and beyond.",
+
+  /* ---- Ablauf-Fotos ---- */
+  "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Black MAN TGX tractor unit in the ECS GmbH yard",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Black Mercedes-Benz Actros with curtainside body in the yard",
+  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Blue Mercedes-Benz Axor with loading crane and flatbed",
+  "Grüner MAN TGM Absetzkipper im Schnee": "Green MAN TGM skip loader in the snow",
+  "Weißer MAN TGL mit Kofferaufbau": "White MAN TGL with box body"
 };

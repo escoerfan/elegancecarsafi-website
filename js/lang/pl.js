@@ -824,5 +824,12 @@
   "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Używane pojazdy użytkowe: autobusy, ciężarówki, Sprinter | ECS GmbH",
   "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Jako handlarz pojazdów użytkowych i autobusów z Gehrden koło Hanoweru sprzedajemy używane autokary, autobusy miejskie, ciężarówki, ciągniki siodłowe i dostawczaki, również na eksport. Zadzwoń do nas jeszcze dziś. Nasz zespół chętnie pomoże Ci znaleźć odpowiedni pojazd lub sprzedać Twoją obecną flotę. Możemy też przyjąć Twój pojazd w rozliczeniu.",
   "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Handel pojazdami użytkowymi, skup i eksport koło Hanoweru",
-  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Nasza siedziba znajduje się w Gehrden w regionie Hanoweru, w Dolnej Saksonii. Stąd współpracujemy z ponad 250 partnerami i prowadzimy handel pojazdami użytkowymi, import i eksport w całej Europie i poza nią."
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Nasza siedziba znajduje się w Gehrden w regionie Hanoweru, w Dolnej Saksonii. Stąd współpracujemy z ponad 250 partnerami i prowadzimy handel pojazdami użytkowymi, import i eksport w całej Europie i poza nią.",
+
+  /* ---- Ablauf-Fotos ---- */
+  "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Czarny ciągnik siodłowy MAN TGX na placu ECS GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Czarny Mercedes-Benz Actros z zabudową plandekową na placu",
+  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Niebieski Mercedes-Benz Axor z żurawiem i skrzynią ładunkową",
+  "Grüner MAN TGM Absetzkipper im Schnee": "Zielony bramowiec MAN TGM na śniegu",
+  "Weißer MAN TGL mit Kofferaufbau": "Biały MAN TGL z zabudową kontenerową"
 };

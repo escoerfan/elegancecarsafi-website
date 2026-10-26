@@ -33,9 +33,9 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261025a">
+<link rel="stylesheet" href="css/style.css?v=20261026a">
 
-<script src="js/i18n.js?v=20261025b"></script>
+<script src="js/i18n.js?v=20261026a"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -422,60 +422,66 @@
 </section>
 
 <!-- ================================================================ Ablauf -->
-<section class="process" id="ablauf">
-  <div class="container process__grid">
-    <div class="process__intro reveal">
-      <p class="eyebrow">Ablauf</p>
-      <h2 class="h2 process__title">So übernehmen wir Ihren Fuhrpark</h2>
-      <p class="lead process__lead">Ein strukturierter Ablauf, der zu den Abläufen in Ihrem Unternehmen passt.</p>
-      <a class="btn btn--primary" href="unsere-arbeit">Ablauf im Detail</a>
+<section class="process process--media" id="ablauf">
+  <div class="container">
+    <div class="process__head">
+      <div class="process__intro reveal">
+        <p class="eyebrow">Ablauf</p>
+        <h2 class="h2 process__title">So übernehmen wir Ihren Fuhrpark</h2>
+        <p class="lead process__lead">Ein strukturierter Ablauf, der zu den Abläufen in Ihrem Unternehmen passt.</p>
+        <a class="btn btn--primary" href="unsere-arbeit">Ablauf im Detail</a>
+      </div>
     </div>
 
-    <div class="steps reveal">
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">01</span>
-          <span class="step__label">Fahrzeugliste</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Sie schicken uns eine Liste Ihrer Fahrzeuge, gern als Excel-Datei: Fahrzeugart, Hersteller, Modell, Erstzulassung, Kilometerstand, Fahrgestellnummer und Standort. Fotos können Sie nachreichen.</div>
-      </details>
+    <div class="process__body">
+      <ol class="steps reveal">
+        <li class="step">
+          <span class="step__num" aria-hidden="true">01</span>
+          <div class="step__card">
+            <h3 class="step__label">Fahrzeugliste</h3>
+            <p class="step__body">Sie schicken uns eine Liste Ihrer Fahrzeuge, gern als Excel-Datei: Fahrzeugart, Hersteller, Modell, Erstzulassung, Kilometerstand, Fahrgestellnummer und Standort. Fotos können Sie nachreichen.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">02</span>
-          <span class="step__label">Bewertung</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Wir bewerten jedes Fahrzeug auf der Liste und fassen das Ergebnis übersichtlich zusammen. Offene Fragen klären wir mit Ihrem Fuhrparkverantwortlichen.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">02</span>
+          <div class="step__card">
+            <h3 class="step__label">Bewertung</h3>
+            <p class="step__body">Wir bewerten jedes Fahrzeug auf der Liste und fassen das Ergebnis übersichtlich zusammen. Offene Fragen klären wir mit Ihrem Fuhrparkverantwortlichen.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">03</span>
-          <span class="step__label">Paketangebot</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">03</span>
+          <div class="step__card">
+            <h3 class="step__label">Paketangebot</h3>
+            <p class="step__body">Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">04</span>
-          <span class="step__label">Vertrag und Zahlung</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">04</span>
+          <div class="step__card">
+            <h3 class="step__label">Vertrag und Zahlung</h3>
+            <p class="step__body">Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">05</span>
-          <span class="step__label">Gestaffelte Abholung</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">05</span>
+          <div class="step__card">
+            <h3 class="step__label">Gestaffelte Abholung</h3>
+            <p class="step__body">Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.</p>
+          </div>
+        </li>
+      </ol>
+      <div class="process__media reveal">
+          <picture>
+            <source type="image/avif" srcset="assets/img/opt/ablauf-man-tgl-koffer-960.avif 960w, assets/img/opt/ablauf-man-tgl-koffer-1448.avif 1448w" sizes="(max-width: 1100px) 100vw, 40vw">
+            <source type="image/webp" srcset="assets/img/opt/ablauf-man-tgl-koffer-960.webp 960w, assets/img/opt/ablauf-man-tgl-koffer-1448.webp 1448w" sizes="(max-width: 1100px) 100vw, 40vw">
+            <img src="assets/img/opt/ablauf-man-tgl-koffer-1448.jpg" srcset="assets/img/opt/ablauf-man-tgl-koffer-960.jpg 960w, assets/img/opt/ablauf-man-tgl-koffer-1448.jpg 1448w" sizes="(max-width: 1100px) 100vw, 40vw" alt="Weißer MAN TGL mit Kofferaufbau" width="1448" height="1086" style="object-position: 42% 50%" loading="lazy" decoding="async">
+          </picture>
+      </div>
     </div>
   </div>
 </section>
@@ -522,20 +528,24 @@
       <a class="btn btn--primary" href="kontakt">Kontakt aufnehmen</a>
     </div>
 
-    <ul class="why__list">
+    <ul class="why__list reveal">
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 21s7-6.2 7-12a7 7 0 0 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></span>
         <h3 class="why-item__title">Telematik und Ortung abmelden</h3>
         <p class="why-item__text">Kündigen oder übertragen Sie Telematik- und Ortungsdienste, damit nach der Übergabe keine Daten mehr an Ihr Unternehmen gesendet werden.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M2 5h20v14H2z"/><path d="M2 10h20M6 15h4"/></svg></span>
         <h3 class="why-item__title">Tankkarten und Mautgeräte</h3>
         <p class="why-item__text">Sperren Sie fahrzeuggebundene Tankkarten und melden Sie Mautgeräte wie die On-Board-Unit von Toll Collect ab.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3.5 18a9 9 0 1 1 17 0"/><path d="m12 14 4.5-4.5"/></svg></span>
         <h3 class="why-item__title">Fahrtenschreiber</h3>
         <p class="why-item__text">Bei LKW und Bussen: Daten des Fahrtenschreibers auslesen und die Unternehmenssperre aufheben.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6z"/></svg></span>
         <h3 class="why-item__title">Versicherung und Abmeldung</h3>
         <p class="why-item__text">Lassen Sie den Versicherungsschutz bis zur Abmeldung bestehen. Den Ablauf der Abmeldung stimmen wir für alle Fahrzeuge gemeinsam mit Ihnen ab.</p>
       </li>
@@ -831,7 +841,7 @@
 
 <!-- Cookie-Banner; Google-Maps-Karte wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261023g" defer></script>
-<script src="js/main.js?v=20261023g" defer></script>
+<script src="js/main.js?v=20261026a" defer></script>
 
 <script src="js/ankauf.js?v=20261007a" defer></script>
 </body>

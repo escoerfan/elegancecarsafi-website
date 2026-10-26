@@ -25,6 +25,12 @@ PHOTOS = {
     'reisebus-magelys.webp': [960, 1448],
     'bau-arocs-kipper.webp': [960, 1448],
     'export-actros-weiss.webp': [960, 1672],
+    # Ablauf-Abschnitte (Foto neben der Überschrift)
+    'ablauf-man-tgx.webp': [960, 1672],
+    'ablauf-actros-planen.webp': [960, 1672],
+    'ablauf-axor-kran.webp': [960, 1672],
+    'ablauf-man-absetzkipper.webp': [960, 1672],
+    'ablauf-man-tgl-koffer.webp': [960, 1448],
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

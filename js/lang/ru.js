@@ -824,5 +824,12 @@
   "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Б/у коммерческий транспорт: автобусы, грузовики, Sprinter | ECS GmbH",
   "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Как дилер коммерческого транспорта и автобусов из Герден под Ганновером мы продаём б/у туристические и городские автобусы, грузовики, седельные тягачи и фургоны, в том числе на экспорт. Позвоните нам сегодня. Наша команда поможет подобрать подходящую технику или продать ваш текущий автопарк. Также возможен приём вашей техники в зачёт.",
   "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Торговля коммерческим транспортом, выкуп и экспорт под Ганновером",
-  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Наша компания находится в Герден в регионе Ганновер, Нижняя Саксония. Отсюда мы работаем более чем с 250 партнёрами и ведём торговлю коммерческим транспортом, импорт и экспорт по всей Европе и за её пределами."
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Наша компания находится в Герден в регионе Ганновер, Нижняя Саксония. Отсюда мы работаем более чем с 250 партнёрами и ведём торговлю коммерческим транспортом, импорт и экспорт по всей Европе и за её пределами.",
+
+  /* ---- Ablauf-Fotos ---- */
+  "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Чёрный седельный тягач MAN TGX на площадке ECS GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Чёрный Mercedes-Benz Actros с тентованным кузовом на площадке",
+  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Синий Mercedes-Benz Axor с краном-манипулятором и бортовой платформой",
+  "Grüner MAN TGM Absetzkipper im Schnee": "Зелёный бункеровоз MAN TGM на снегу",
+  "Weißer MAN TGL mit Kofferaufbau": "Белый MAN TGL с фургоном"
 };

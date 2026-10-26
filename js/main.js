@@ -149,41 +149,6 @@
     });
   }
 
-  /* -------------------------------------------------------- Vorteile
-     Der Vorteil, der der Bildschirmmitte am nächsten ist, leuchtet auf. */
-  var why = document.querySelector('.why');
-  var whyItems = why ? why.querySelectorAll('.why-item') : [];
-
-  if (whyItems.length) {
-    why.classList.add('is-interactive');
-    var ticking = false;
-
-    var updateWhy = function () {
-      ticking = false;
-      var mid = window.innerHeight / 2;
-      var best = null;
-      var bestDist = Infinity;
-
-      whyItems.forEach(function (item) {
-        var r = item.getBoundingClientRect();
-        var dist = Math.abs(r.top + r.height / 2 - mid);
-        if (dist < bestDist) { bestDist = dist; best = item; }
-      });
-
-      whyItems.forEach(function (item) {
-        item.classList.toggle('is-active', item === best);
-      });
-    };
-
-    var requestWhy = function () {
-      if (!ticking) { ticking = true; window.requestAnimationFrame(updateWhy); }
-    };
-
-    updateWhy();
-    window.addEventListener('scroll', requestWhy, { passive: true });
-    window.addEventListener('resize', requestWhy);
-  }
-
   /* --------------------------------------------------- Kontaktformular
      Statische Seite ohne Server: die Anfrage wird als vorbereitete
      E-Mail im Mailprogramm des Besuchers geöffnet.

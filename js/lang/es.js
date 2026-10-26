@@ -824,5 +824,12 @@
   "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Vehículos industriales de ocasión: autobuses, camiones, Sprinter | ECS GmbH",
   "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "Como concesionario de vehículos industriales y autobuses de Gehrden, cerca de Hannover, vendemos autocares, autobuses urbanos, camiones, cabezas tractoras y furgonetas de ocasión, también para la exportación. Llámenos hoy mismo. Nuestro equipo le ayudará a encontrar el vehículo adecuado o a vender su flota actual. También aceptamos su vehículo como parte del pago.",
   "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Comercio de vehículos industriales, compra y exportación cerca de Hannover",
-  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Nuestra sede está en Gehrden, en la región de Hannover, Baja Sajonia. Desde aquí trabajamos con más de 250 socios y gestionamos comercio, importación y exportación de vehículos industriales en toda Europa y más allá."
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "Nuestra sede está en Gehrden, en la región de Hannover, Baja Sajonia. Desde aquí trabajamos con más de 250 socios y gestionamos comercio, importación y exportación de vehículos industriales en toda Europa y más allá.",
+
+  /* ---- Ablauf-Fotos ---- */
+  "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Cabeza tractora MAN TGX negra en el patio de ECS GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Mercedes-Benz Actros negro con caja de lona en el patio",
+  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Mercedes-Benz Axor azul con grúa de carga y plataforma",
+  "Grüner MAN TGM Absetzkipper im Schnee": "Portacontenedores MAN TGM verde en la nieve",
+  "Weißer MAN TGL mit Kofferaufbau": "MAN TGL blanco con caja cerrada"
 };

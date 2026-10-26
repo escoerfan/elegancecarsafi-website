@@ -824,5 +824,12 @@
   "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "مركبات تجارية مستعملة للبيع: حافلات وشاحنات وسبرينتر | ECS GmbH",
   "Als Nutzfahrzeughändler und Bushändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "بصفتنا تاجر مركبات تجارية وحافلات من غيردن بالقرب من هانوفر، نبيع الحافلات السياحية وحافلات المدن والشاحنات والقاطرات وسيارات النقل المستعملة، وكذلك للتصدير. اتصلوا بنا اليوم. يسعد فريقنا مساعدتكم في العثور على المركبة المناسبة أو بيع مركباتكم الحالية. كما يمكننا قبول مركبتكم كجزء من الثمن.",
   "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | تجارة المركبات التجارية والشراء والتصدير بالقرب من هانوفر",
-  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "يقع مقرنا في غيردن في منطقة هانوفر بولاية سكسونيا السفلى. من هنا نعمل مع أكثر من 250 شريكًا ونمارس تجارة المركبات التجارية والاستيراد والتصدير في جميع أنحاء أوروبا وخارجها."
+  "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "يقع مقرنا في غيردن في منطقة هانوفر بولاية سكسونيا السفلى. من هنا نعمل مع أكثر من 250 شريكًا ونمارس تجارة المركبات التجارية والاستيراد والتصدير في جميع أنحاء أوروبا وخارجها.",
+
+  /* ---- Ablauf-Fotos ---- */
+  "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "رأس قاطرة MAN TGX سوداء في ساحة ECS GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "مرسيدس-بنز أكتروس سوداء بهيكل مغطى بالقماش في الساحة",
+  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "مرسيدس-بنز أكسور زرقاء برافعة تحميل وصندوق مفتوح",
+  "Grüner MAN TGM Absetzkipper im Schnee": "شاحنة حاويات MAN TGM خضراء في الثلج",
+  "Weißer MAN TGL mit Kofferaufbau": "شاحنة MAN TGL بيضاء بصندوق مغلق"
 };

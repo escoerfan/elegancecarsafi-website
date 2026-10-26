@@ -33,10 +33,10 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261025a">
+<link rel="stylesheet" href="css/style.css?v=20261026a">
 <link rel="stylesheet" href="css/export-globe.css?v=20261023f">
 
-<script src="js/i18n.js?v=20261025b"></script>
+<script src="js/i18n.js?v=20261026a"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -483,60 +483,66 @@
 </section>
 
 <!-- ================================================================ Ablauf -->
-<section class="process" id="ablauf">
-  <div class="container process__grid">
-    <div class="process__intro reveal">
-      <p class="eyebrow">Ablauf</p>
-      <h2 class="h2 process__title">So läuft ein Export mit uns ab</h2>
-      <p class="lead process__lead">Vom Fahrzeug bis zu den Papieren begleiten wir Ihren Export Schritt für Schritt.</p>
-      <a class="btn btn--primary" href="kontakt">Kontakt aufnehmen</a>
+<section class="process process--media" id="ablauf">
+  <div class="container">
+    <div class="process__head">
+      <div class="process__intro reveal">
+        <p class="eyebrow">Ablauf</p>
+        <h2 class="h2 process__title">So läuft ein Export mit uns ab</h2>
+        <p class="lead process__lead">Vom Fahrzeug bis zu den Papieren begleiten wir Ihren Export Schritt für Schritt.</p>
+        <a class="btn btn--primary" href="kontakt">Kontakt aufnehmen</a>
+      </div>
     </div>
 
-    <div class="steps reveal">
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">01</span>
-          <span class="step__label">Anfrage</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Sie nennen uns das gewünschte Fahrzeug – aus unserem Bestand oder nach Ihren Vorgaben – sowie das Zielland und den Empfänger.</div>
-      </details>
+    <div class="process__body">
+      <ol class="steps reveal">
+        <li class="step">
+          <span class="step__num" aria-hidden="true">01</span>
+          <div class="step__card">
+            <h3 class="step__label">Anfrage</h3>
+            <p class="step__body">Sie nennen uns das gewünschte Fahrzeug – aus unserem Bestand oder nach Ihren Vorgaben – sowie das Zielland und den Empfänger.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">02</span>
-          <span class="step__label">Angebot</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Sie erhalten ein Angebot für das Fahrzeug und die gewünschten Leistungen, etwa Exportpapiere, Transport oder Verschiffung.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">02</span>
+          <div class="step__card">
+            <h3 class="step__label">Angebot</h3>
+            <p class="step__body">Sie erhalten ein Angebot für das Fahrzeug und die gewünschten Leistungen, etwa Exportpapiere, Transport oder Verschiffung.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">03</span>
-          <span class="step__label">Ausfuhrpapiere</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Wir erstellen die nötigen Dokumente und übernehmen die Zollabwicklung in Deutschland. Für Lieferungen innerhalb der EU gelten andere Unterlagen als für den Export in Drittländer.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">03</span>
+          <div class="step__card">
+            <h3 class="step__label">Ausfuhrpapiere</h3>
+            <p class="step__body">Wir erstellen die nötigen Dokumente und übernehmen die Zollabwicklung in Deutschland. Für Lieferungen innerhalb der EU gelten andere Unterlagen als für den Export in Drittländer.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">04</span>
-          <span class="step__label">Transport</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">04</span>
+          <div class="step__card">
+            <h3 class="step__label">Transport</h3>
+            <p class="step__body">Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.</p>
+          </div>
+        </li>
 
-      <details class="step">
-        <summary class="step__head">
-          <span class="step__num">05</span>
-          <span class="step__label">Übergabe</span>
-          <svg class="plus" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
-        </summary>
-        <div class="step__body">Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.</div>
-      </details>
+        <li class="step">
+          <span class="step__num" aria-hidden="true">05</span>
+          <div class="step__card">
+            <h3 class="step__label">Übergabe</h3>
+            <p class="step__body">Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.</p>
+          </div>
+        </li>
+      </ol>
+      <div class="process__media reveal">
+          <picture>
+            <source type="image/avif" srcset="assets/img/opt/ablauf-man-tgx-960.avif 960w, assets/img/opt/ablauf-man-tgx-1672.avif 1672w" sizes="(max-width: 1100px) 100vw, 40vw">
+            <source type="image/webp" srcset="assets/img/opt/ablauf-man-tgx-960.webp 960w, assets/img/opt/ablauf-man-tgx-1672.webp 1672w" sizes="(max-width: 1100px) 100vw, 40vw">
+            <img src="assets/img/opt/ablauf-man-tgx-1672.jpg" srcset="assets/img/opt/ablauf-man-tgx-960.jpg 960w, assets/img/opt/ablauf-man-tgx-1672.jpg 1672w" sizes="(max-width: 1100px) 100vw, 40vw" alt="Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH" width="1672" height="941" style="object-position: 28% 50%" loading="lazy" decoding="async">
+          </picture>
+      </div>
     </div>
   </div>
 </section>
@@ -572,24 +578,29 @@
       <a class="btn btn--primary" href="kontakt">Kontakt aufnehmen</a>
     </div>
 
-    <ul class="why__list">
+    <ul class="why__list reveal">
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M2 5h12v11H2z"/><path d="M14 9h4l4 4v3h-8"/><circle cx="6" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg></span>
         <h3 class="why-item__title">Lieferung in ein EU-Land</h3>
         <p class="why-item__text">Innerhalb der EU gibt es keine Zollformalitäten. Damit die Lieferung umsatzsteuerfrei bleibt, braucht der Käufer eine gültige Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland muss nachgewiesen werden, zum Beispiel mit einer Gelangensbestätigung.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14 3H5v18h14V8z"/><path d="M14 3v5h5"/><path d="M8.5 13h7M8.5 17h7"/></svg></span>
         <h3 class="why-item__title">Ausfuhranmeldung bei Drittländern</h3>
         <p class="why-item__text">Verlässt ein Fahrzeug die EU, wird beim Zoll eine elektronische Ausfuhranmeldung abgegeben, in Deutschland über das System ATLAS. Das Fahrzeug wird dazu bei der zuständigen Zollstelle vorgeführt.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14 3H5v18h14V8z"/><path d="M14 3v5h5"/><path d="m9 15 2 2 4-4.5"/></svg></span>
         <h3 class="why-item__title">Ausgangsvermerk</h3>
         <p class="why-item__text">Beim Verlassen der EU bestätigt die Ausgangszollstelle die Ausfuhr. Dieser Ausgangsvermerk belegt, dass das Fahrzeug ausgeführt wurde, und ist die Grundlage für die umsatzsteuerfreie Ausfuhrlieferung.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M2 7h20v10H2z"/><path d="M6 12h4M13 12h5"/></svg></span>
         <h3 class="why-item__title">Ausfuhrkennzeichen</h3>
         <p class="why-item__text">Fährt das Fahrzeug auf eigener Achse ins Ausland, kann es mit einem Ausfuhrkennzeichen zugelassen werden. Voraussetzung sind eine gültige Hauptuntersuchung und eine Kfz-Haftpflichtversicherung.</p>
       </li>
       <li class="why-item">
+        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.5 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.5-3.8-9S9.5 5.5 12 3z"/></svg></span>
         <h3 class="why-item__title">Einfuhr im Zielland</h3>
         <p class="why-item__text">Verzollung, Einfuhrabgaben und Zulassung im Zielland richten sich nach den dortigen Vorschriften. Welche Unterlagen verlangt werden, klärt der Käufer am besten vorab mit der zuständigen Behörde.</p>
       </li>
@@ -780,7 +791,7 @@
 
 <!-- Cookie-Banner; Google-Maps-Karte wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261023g" defer></script>
-<script src="js/main.js?v=20261023g" defer></script>
+<script src="js/main.js?v=20261026a" defer></script>
 
 <script type="module" src="js/export-globe.js?v=20261023a"></script>
 
