@@ -173,7 +173,7 @@
 
 .vw-title {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 600;  /* Ausnahme von der 400-Regel: Titel heben sich im Bestand ab */
     color: #262626;
     line-height: 1.35;
     margin-bottom: 8px;
