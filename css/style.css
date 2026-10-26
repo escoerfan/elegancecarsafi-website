@@ -606,54 +606,73 @@ body .vw-section * {
 
 /* ====================================================================
    6 – Prozess
-   Kopf: Überschrift links, Text und Button rechts. Darunter die Schritte
-   als senkrechte Zeitleiste (nummerierte Quadrate, verbunden durch eine
-   Linie), rechts daneben ein Hof-Foto, das beim Scrollen stehen bleibt.
-   Ohne Foto stehen Titel und Text eines Schritts nebeneinander.
+   Kopf: mit Foto Text links und Hof-Foto (3:2) rechts, ohne Foto
+   Überschrift links und Text rechts. Darunter die Schritte als Zeilen
+   (Nummer | Titel | Text); die Textspalte fluchtet mit der rechten
+   Kopfspalte. Die Quadrate sind durch eine senkrechte Linie verbunden.
    ==================================================================== */
-.process { padding-block: 150px; background: var(--bg-gradient); }
-.process__head { margin-bottom: clamp(56px, 6vw, 88px); }
-.process__intro {
+.process {
+  --process-gap: clamp(48px, 7vw, 120px);
+  padding-block: 150px 0;
+  background: var(--bg-gradient);
+}
+.process__head {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  column-gap: clamp(48px, 7vw, 120px);
-  align-items: start;
+  gap: var(--process-gap);
+  align-items: center;
+  margin-bottom: clamp(64px, 7vw, 104px);
 }
-.process__intro .eyebrow { grid-column: 1 / -1; }
-.process__title { grid-column: 1; grid-row: 2 / span 2; margin: 0; }
+.process:not(.process--media) .process__head { grid-template-columns: minmax(0, 1fr); }
+.process__title { margin-bottom: 20px; }
 /* H1 im Ablauf (Unsere Arbeit): in H2-Größe wie auf den Ankaufseiten */
 @media (min-width: 1101px) {
   .process__title.h1 { font-size: clamp(36px, 3.9vw, 56px); }
 }
-.process__lead { grid-column: 2; margin-bottom: 28px; max-width: 520px; }
-.process__intro .btn { grid-column: 2; justify-self: start; }
+.process__lead { margin-bottom: 34px; max-width: 520px; }
 
-.process__body {
+/* Ohne Foto: Überschrift links, Text und Button rechts */
+.process:not(.process--media) .process__intro {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
-  gap: clamp(48px, 7vw, 120px);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: var(--process-gap);
   align-items: start;
-  padding-top: clamp(48px, 5vw, 72px);
-  border-top: 1px solid var(--line);
 }
-.process:not(.process--media) .process__body { grid-template-columns: minmax(0, 1fr); }
-.process__media { position: sticky; top: 120px; }
+.process:not(.process--media) .process__intro .eyebrow { grid-column: 1 / -1; }
+.process:not(.process--media) .process__title { grid-column: 1; grid-row: 2 / span 2; margin: 0; }
+.process:not(.process--media) .process__lead { grid-column: 2; margin-bottom: 28px; }
+.process:not(.process--media) .process__intro .btn { grid-column: 2; justify-self: start; }
+
 .process__media img {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 3 / 2;
   object-fit: cover;
   border: 1px solid var(--line);
 }
 
+/* Schritte auf weißer Fläche über die volle Breite
+   (box-shadow + clip-path: kein horizontaler Überlauf) */
+.process__body {
+  padding-block: clamp(72px, 8vw, 120px);
+  background: var(--white);
+  box-shadow: 0 0 0 100vmax var(--white);
+  clip-path: inset(0 -100vmax);
+}
+/* Folgt ein weißer Abschnitt, trennt eine feine Linie statt doppeltem Abstand */
+.process:has(+ .export-info, + .about) .process__body {
+  padding-bottom: clamp(64px, 7vw, 100px);
+  border-bottom: 1px solid var(--line-dark);
+}
+.process + .export-info, .process + .about { padding-top: clamp(64px, 7vw, 100px); }
 .steps { margin: 0; padding: 0; list-style: none; }
 .step {
   position: relative;
   display: grid;
-  grid-template-columns: 48px minmax(0, 1fr);
-  column-gap: 32px;
-  padding-bottom: 52px;
+  grid-template-columns: 48px minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: max(20px, calc(var(--process-gap) / 2 - 24px));
+  padding-bottom: 56px;
 }
 .step:last-child { padding-bottom: 0; }
 .step:not(:last-child)::before {
@@ -663,38 +682,28 @@ body .vw-section * {
   bottom: 0;
   inset-inline-start: 24px;
   width: 1px;
-  background: var(--line-strong);
+  background: rgba(38, 38, 38, 0.2);
 }
 .step__num {
   display: grid;
   place-items: center;
   width: 48px;
   height: 48px;
-  border: 1px solid var(--line-strong);
+  border: 1px solid rgba(38, 38, 38, 0.28);
   font-size: 15px;
-  color: var(--white);
+  color: var(--ink);
   font-variant-numeric: tabular-nums;
 }
-.step:last-child .step__num { background: var(--white); border-color: var(--white); color: var(--ink); }
-.step__card { padding-top: 8px; }
+.step:last-child .step__num { background: var(--ink); border-color: var(--ink); color: var(--white); }
+.step__card { display: contents; }
 .step__label {
-  margin-bottom: 12px;
+  padding-top: 8px;
   font-size: clamp(22px, 1.9vw, 28px);
   font-weight: 400;
   line-height: 1.25;
-  color: var(--white);
+  color: var(--ink);
 }
-.step__body { max-width: 580px; font-size: 17px; line-height: 1.65; color: var(--text); }
-/* Ohne Foto: Titel | Text; die Textspalte fluchtet mit der rechten Kopfspalte */
-@media (min-width: 641px) {
-  .process:not(.process--media) .step {
-    grid-template-columns: 48px minmax(0, 1fr) minmax(0, 1fr);
-    column-gap: max(20px, calc(clamp(48px, 7vw, 120px) / 2 - 24px));
-  }
-  .process:not(.process--media) .step__card { display: contents; }
-  .process:not(.process--media) .step__label,
-  .process:not(.process--media) .step__body { padding-top: 8px; }
-}
+.step__body { padding-top: 10px; font-size: 17px; line-height: 1.65; color: var(--ink-soft); }
 
 /* ====================================================================
    7 – Kontakt
@@ -1361,12 +1370,11 @@ body .vw-section * {
 @media (max-width: 1100px) {
   .why__list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .why__list > .why-item { grid-column: auto !important; }
-  .process__intro { grid-template-columns: minmax(0, 1fr); }
-  .process__title { grid-row: auto; margin-bottom: 20px; }
-  .process__lead, .process__intro .btn { grid-column: 1; }
-  .process__body { grid-template-columns: minmax(0, 1fr); }
-  .process__media { position: static; order: -1; }
-  .process__media img { aspect-ratio: 16 / 10; }
+  .process__head { grid-template-columns: minmax(0, 1fr); }
+  .process:not(.process--media) .process__intro { grid-template-columns: minmax(0, 1fr); }
+  .process:not(.process--media) .process__title { grid-row: auto; margin-bottom: 20px; }
+  .process:not(.process--media) .process__lead,
+  .process:not(.process--media) .process__intro .btn { grid-column: 1; }
   .contact__grid { grid-template-columns: 1fr; }
   .about__grid { grid-template-columns: 1fr; gap: 24px; margin-bottom: 64px; }
   .form-card { max-width: 640px; }
@@ -1426,6 +1434,7 @@ body .vw-section * {
   .marquee__group img.is-padded { height: 78px; margin-block: -21px; }
   .pitch { min-height: 0; padding-block: 110px; }
   .process, .contact, .faq, .why, .about, .export-info, .cta-band { padding-block: 100px; }
+  .process { padding-bottom: 0; }
   .process--page { padding-top: 140px; }
   .page-hero + .faq { padding-top: 64px; }
   .page-hero { padding-block: 140px 64px; }
@@ -1451,9 +1460,8 @@ body .vw-section * {
   .step { grid-template-columns: 40px minmax(0, 1fr); column-gap: 18px; padding-bottom: 40px; }
   .step__num { width: 40px; height: 40px; }
   .step:not(:last-child)::before { top: 40px; inset-inline-start: 20px; }
-  .step__card { padding-top: 5px; }
-  .step__label { font-size: 21px; }
-  .step__body { font-size: 16px; }
+  .step__label { grid-column: 2; padding-top: 5px; font-size: 21px; }
+  .step__body { grid-column: 2; font-size: 16px; }
   .site-nav a::after { display: none; }
   .hero__actions { width: 100%; }
   .hero__actions .btn { flex: 1 1 100%; }
