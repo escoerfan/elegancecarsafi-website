@@ -694,7 +694,6 @@ body .vw-section * {
   color: var(--ink);
   font-variant-numeric: tabular-nums;
 }
-.step:last-child .step__num { background: var(--ink); border-color: var(--ink); color: var(--white); }
 .step__card { display: contents; }
 .step__label {
   padding-top: 8px;
