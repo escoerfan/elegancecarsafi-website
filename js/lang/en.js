@@ -845,5 +845,13 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Black Mercedes-Benz Actros with curtainside body in the yard",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Blue Mercedes-Benz Axor with loading crane and flatbed",
   "Grüner MAN TGM Absetzkipper im Schnee": "Green MAN TGM skip loader in the snow",
-  "Weißer MAN TGL mit Kofferaufbau": "White MAN TGL with box body"
+  "Weißer MAN TGL mit Kofferaufbau": "White MAN TGL with box body",
+
+  /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
+  "Erklärfilm": "Explainer video",
+  "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "You send us photos, we assess quickly and make a firm offer. Payment is made directly and our driver collects the vehicle. We also handle export and customs clearance.",
+  "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Explainer video: how ECS buys your vehicle",
+  "Erklärfilm abspielen": "Play explainer video",
+  "Der Ankauf": "Selling to us",
+  "in 30 Sekunden.": "in 30 seconds."
 };

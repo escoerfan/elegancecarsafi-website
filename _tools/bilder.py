@@ -31,6 +31,9 @@ PHOTOS = {
     'ablauf-axor-kran.webp': [960, 1672],
     'ablauf-man-absetzkipper.webp': [960, 1672],
     'ablauf-man-tgl-koffer.webp': [960, 1448],
+    # Vorschaubild des Erklärfilms (Startseite, Unsere Arbeit)
+    'erklaerfilm-poster.webp': [960, 1920],
+    'erklaerfilm-poster-hoch.webp': [720, 1080],   # Handy: Hochformat-Film
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

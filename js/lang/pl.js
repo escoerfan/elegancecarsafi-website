@@ -831,5 +831,13 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Czarny Mercedes-Benz Actros z zabudową plandekową na placu",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Niebieski Mercedes-Benz Axor z żurawiem i skrzynią ładunkową",
   "Grüner MAN TGM Absetzkipper im Schnee": "Zielony bramowiec MAN TGM na śniegu",
-  "Weißer MAN TGL mit Kofferaufbau": "Biały MAN TGL z zabudową kontenerową"
+  "Weißer MAN TGL mit Kofferaufbau": "Biały MAN TGL z zabudową kontenerową",
+
+  /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
+  "Erklärfilm": "Film instruktażowy",
+  "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "Wysyłasz nam zdjęcia, my szybko wyceniamy i składamy wiążącą ofertę. Płatność następuje bezpośrednio, a nasz kierowca odbiera pojazd. Zajmujemy się też eksportem i odprawą celną.",
+  "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Film instruktażowy: jak ECS skupuje Twój pojazd",
+  "Erklärfilm abspielen": "Odtwórz film",
+  "Der Ankauf": "Skup",
+  "in 30 Sekunden.": "w 30 sekund."
 };

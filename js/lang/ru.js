@@ -831,5 +831,13 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Чёрный Mercedes-Benz Actros с тентованным кузовом на площадке",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Синий Mercedes-Benz Axor с краном-манипулятором и бортовой платформой",
   "Grüner MAN TGM Absetzkipper im Schnee": "Зелёный бункеровоз MAN TGM на снегу",
-  "Weißer MAN TGL mit Kofferaufbau": "Белый MAN TGL с фургоном"
+  "Weißer MAN TGL mit Kofferaufbau": "Белый MAN TGL с фургоном",
+
+  /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
+  "Erklärfilm": "Видеоролик",
+  "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "Вы присылаете нам фото, мы быстро оцениваем и делаем твёрдое предложение. Оплата напрямую, наш водитель забирает транспорт. Экспорт и таможенное оформление мы тоже берём на себя.",
+  "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Видеоролик: как ECS выкупает ваш транспорт",
+  "Erklärfilm abspielen": "Воспроизвести видео",
+  "Der Ankauf": "Выкуп",
+  "in 30 Sekunden.": "за 30 секунд."
 };

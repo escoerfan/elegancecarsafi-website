@@ -831,5 +831,13 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "مرسيدس-بنز أكتروس سوداء بهيكل مغطى بالقماش في الساحة",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "مرسيدس-بنز أكسور زرقاء برافعة تحميل وصندوق مفتوح",
   "Grüner MAN TGM Absetzkipper im Schnee": "شاحنة حاويات MAN TGM خضراء في الثلج",
-  "Weißer MAN TGL mit Kofferaufbau": "شاحنة MAN TGL بيضاء بصندوق مغلق"
+  "Weißer MAN TGL mit Kofferaufbau": "شاحنة MAN TGL بيضاء بصندوق مغلق",
+
+  /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
+  "Erklärfilm": "فيديو توضيحي",
+  "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "ترسلون لنا الصور، فنقيّم بسرعة ونقدّم عرضاً ثابتاً. الدفع مباشر، وسائقنا يستلم المركبة. ونتولى أيضاً التصدير والتخليص الجمركي.",
+  "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "فيديو توضيحي: كيف تشتري ECS مركبتكم",
+  "Erklärfilm abspielen": "تشغيل الفيديو التوضيحي",
+  "Der Ankauf": "الشراء",
+  "in 30 Sekunden.": "في 30 ثانية."
 };

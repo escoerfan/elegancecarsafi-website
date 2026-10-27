@@ -99,6 +99,42 @@
     revealables.forEach(function (el) { el.classList.add('is-visible'); });
   }
 
+  /* -------------------------------------------------------- Erklärfilm
+     Das Video lädt erst beim Klick auf das Vorschaubild. Untertitel folgen
+     der Seitensprache (i18n.js setzt <html lang>), sonst Deutsch. Die
+     Hochformat-Fassung (Handy) hat eingebrannte Untertitel – dort keine. */
+  document.querySelectorAll('.film').forEach(function (box) {
+    var video = box.querySelector('video');
+    var play = box.querySelector('.film__play');
+    if (!video || !play) return;
+
+    var syncSubs = function () {
+      var tracks = video.textTracks;
+      var burned = video.currentSrc ? /-hoch\./.test(video.currentSrc)
+        : window.matchMedia('(max-width: 767px)').matches;
+      var want = burned ? '' : 'de';
+      for (var i = 0; i < tracks.length; i++) {
+        if (!burned && tracks[i].language === document.documentElement.lang) want = tracks[i].language;
+      }
+      for (var k = 0; k < tracks.length; k++) {
+        tracks[k].mode = tracks[k].language === want ? 'showing' : 'disabled';
+      }
+    };
+
+    play.addEventListener('click', function () {
+      video.controls = true;
+      box.classList.add('is-playing');
+      syncSubs();
+      video.play();
+      video.focus();
+    });
+    video.addEventListener('loadedmetadata', syncSubs);
+
+    new MutationObserver(function () {
+      if (box.classList.contains('is-playing')) syncSubs();
+    }).observe(document.documentElement, { attributes: true, attributeFilter: ['lang'] });
+  });
+
   /* ------------------------------------------------------------ Zähler
      <span class="count" data-count="250">250</span> zählt beim ersten
      Sichtbarwerden von 0 hoch. Im HTML steht der Endwert – ohne JS oder
