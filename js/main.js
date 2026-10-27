@@ -100,9 +100,10 @@
   }
 
   /* -------------------------------------------------------- Erklärfilm
-     Das Video lädt erst beim Klick auf das Vorschaubild. Untertitel folgen
-     der Seitensprache (i18n.js setzt <html lang>), sonst Deutsch. Die
-     Hochformat-Fassung (Handy) hat eingebrannte Untertitel – dort keine. */
+     Das Video lädt erst beim Klick auf das Vorschaubild. Untertitel nur in
+     Fremdsprachen, passend zur Seitensprache (i18n.js setzt <html lang>);
+     auf Deutsch keine. Die Hochformat-Fassung (Handy) hat eingebrannte
+     deutsche Untertitel – dort ebenfalls keine zusätzlichen.            */
   document.querySelectorAll('.film').forEach(function (box) {
     var video = box.querySelector('video');
     var play = box.querySelector('.film__play');
@@ -112,10 +113,8 @@
       var tracks = video.textTracks;
       var burned = video.currentSrc ? /-hoch\./.test(video.currentSrc)
         : window.matchMedia('(max-width: 767px)').matches;
-      var want = burned ? '' : 'de';
-      for (var i = 0; i < tracks.length; i++) {
-        if (!burned && tracks[i].language === document.documentElement.lang) want = tracks[i].language;
-      }
+      var lang = document.documentElement.lang;
+      var want = burned || lang === 'de' ? '' : lang;
       for (var k = 0; k < tracks.length; k++) {
         tracks[k].mode = tracks[k].language === want ? 'showing' : 'disabled';
       }

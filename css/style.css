@@ -1212,8 +1212,11 @@ body .vw-section * {
 /* Foto unter der Überschrift (Unsere Arbeit, Ankaufseiten, Export) */
 .about__intro .about__media { margin-top: 40px; }
 /* Erklärfilm: Video statt Foto, Vorschaubild mit Abspiel-Knopf (main.js) */
-.film { position: relative; aspect-ratio: 16 / 9; background: var(--bg); border: 1px solid var(--line-dark); }
-.film__video { display: block; width: 100%; height: 100%; }
+.film { position: relative; aspect-ratio: 16 / 9; background: var(--white); border: 1px solid var(--line-dark); }
+/* cover statt contain: keine dunklen Balken, wenn die Box minimal vom Filmformat abweicht */
+.film__video { display: block; width: 100%; height: 100%; object-fit: cover; background: var(--white); }
+/* main.js setzt nach dem Start den Fokus aufs Video – ohne schwarzen Rahmen */
+.about .film__video:focus { outline: none; }
 .film__play { position: absolute; inset: 0; padding: 0; border: 0; background: none; cursor: pointer; }
 .film__play img { display: block; height: 100%; object-fit: cover; border: 0; }
 .film__icon {
