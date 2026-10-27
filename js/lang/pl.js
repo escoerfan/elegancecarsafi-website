@@ -839,5 +839,8 @@
   "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Film instruktażowy: jak ECS skupuje Twój pojazd",
   "Erklärfilm abspielen": "Odtwórz film",
   "Der Ankauf": "Skup",
-  "in 30 Sekunden.": "w 30 sekund."
+  "in 30 Sekunden.": "w 30 sekund.",
+
+  /* ---- Kontakt: Foto Atego-Reihe ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Białe ciężarówki z zabudową kontenerową w rzędzie na placu, z przodu Mercedes-Benz Atego"
 };

@@ -839,5 +839,8 @@
   "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Видеоролик: как ECS выкупает ваш транспорт",
   "Erklärfilm abspielen": "Воспроизвести видео",
   "Der Ankauf": "Выкуп",
-  "in 30 Sekunden.": "за 30 секунд."
+  "in 30 Sekunden.": "за 30 секунд.",
+
+  /* ---- Kontakt: Foto Atego-Reihe ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Белые грузовики с фургонным кузовом в ряд на площадке, впереди Mercedes-Benz Atego"
 };

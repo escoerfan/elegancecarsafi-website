@@ -839,5 +839,8 @@
   "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Vídeo explicativo: así compra ECS su vehículo",
   "Erklärfilm abspielen": "Reproducir vídeo explicativo",
   "Der Ankauf": "La compra",
-  "in 30 Sekunden.": "en 30 segundos."
+  "in 30 Sekunden.": "en 30 segundos.",
+
+  /* ---- Kontakt: Foto Atego-Reihe ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Camiones blancos con caja cerrada en fila en el patio, delante un Mercedes-Benz Atego"
 };

@@ -853,5 +853,8 @@
   "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "Explainer video: how ECS buys your vehicle",
   "Erklärfilm abspielen": "Play explainer video",
   "Der Ankauf": "Selling to us",
-  "in 30 Sekunden.": "in 30 seconds."
+  "in 30 Sekunden.": "in 30 seconds.",
+
+  /* ---- Kontakt: Foto Atego-Reihe ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "White box trucks lined up in the yard, a Mercedes-Benz Atego in front"
 };

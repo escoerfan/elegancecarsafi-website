@@ -839,5 +839,8 @@
   "Erklärfilm: So kauft ECS Ihr Fahrzeug an": "فيديو توضيحي: كيف تشتري ECS مركبتكم",
   "Erklärfilm abspielen": "تشغيل الفيديو التوضيحي",
   "Der Ankauf": "الشراء",
-  "in 30 Sekunden.": "في 30 ثانية."
+  "in 30 Sekunden.": "في 30 ثانية.",
+
+  /* ---- Kontakt: Foto Atego-Reihe ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "شاحنات بيضاء بصندوق مغلق مصطفة في الساحة، وفي المقدمة مرسيدس-بنز أتيغو"
 };

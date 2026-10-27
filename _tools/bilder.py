@@ -34,14 +34,14 @@ PHOTOS = {
     # Vorschaubild des Erklärfilms (Startseite, Unsere Arbeit)
     'erklaerfilm-poster.webp': [960, 1920],
     'erklaerfilm-poster-hoch.webp': [720, 1080],   # Handy: Hochformat-Film
+    # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
+    'kontakt-atego-reihe.webp': [720, 1086],
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen
 # bis zu diesem Seitenverhältnis exakt derselbe Bildbereich sichtbar.
 CROPS = {
     'hero-actros.png': (3 / 4, 0.70, [810, 1215]),
-    # Foto-Box neben dem Kontaktformular (Desktop ca. 0,86, Handy 4:5)
-    'kontakt-actros.webp': (0.9, 0.215, [720, 847]),
 }
 # Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße)
 LOGOS = {
