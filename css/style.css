@@ -623,11 +623,7 @@ details summary::-webkit-details-marker { display: none; }
   padding-block: 12px;   /* Platz für das Anheben beim Hover */
 }
 .reviews__marquee::-webkit-scrollbar { display: none; }
-.reviews__marquee.is-running {
-  overflow: hidden;
-  -webkit-mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
-          mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
-}
+.reviews__marquee.is-running { overflow: hidden; }
 .reviews__track { display: flex; width: max-content; }
 .reviews__marquee.is-running .reviews__track { animation: marquee 90s linear infinite; }
 .reviews__marquee.is-running:hover .reviews__track { animation-play-state: paused; }
