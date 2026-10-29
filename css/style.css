@@ -526,6 +526,23 @@ details summary::-webkit-details-marker { display: none; }
   color: var(--text);
 }
 
+/* Helle Variante (Über uns): weiße Fläche, dunkle Schrift und Karten mit Haarlinie */
+.why--light { background: var(--white); color: var(--ink-soft); }
+.why--light .h2, .why--light .eyebrow { color: var(--ink); }
+.why--light .btn--primary { background: var(--bg-gradient); color: var(--white); border-color: var(--ink); }
+.why--light .btn--primary:hover { background: #3a3a3a; border-color: #3a3a3a; }
+.why--light .why-item { background: rgba(38, 38, 38, 0.03); border-color: var(--line-dark); }
+.why--light .why-item:hover { background: rgba(38, 38, 38, 0.05); border-color: rgba(38, 38, 38, 0.24); }
+.why--light .why-item__icon { border-color: rgba(38, 38, 38, 0.24); color: var(--ink); }
+.why--light .why-item__title { color: var(--ink); }
+.why--light .why-item__text { color: var(--ink-soft); }
+.why--light :focus-visible { outline-color: var(--ink); }
+/* Folgt auf einen weißen Abschnitt: feine Linie statt doppeltem Abstand */
+.about:has(+ .why--light) { padding-bottom: clamp(64px, 7vw, 100px); }
+.about + .why--light { padding-top: clamp(64px, 7vw, 100px); border-top: 1px solid var(--line-dark); }
+.why--light:has(+ .cta-band) { padding-bottom: clamp(64px, 7vw, 100px); }
+.why--light + .cta-band { padding-top: clamp(64px, 7vw, 100px); }
+
 /* ====================================================================
    4 – Export (3D-Globus)
    Nur Schrift/Text neben dem Globus – Globus-Code bleibt unverändert.
