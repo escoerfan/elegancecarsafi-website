@@ -834,5 +834,13 @@
   "in 30 Sekunden.": "за 30 секунд.",
 
   /* ---- Kontakt: Foto Atego-Reihe ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Белые грузовики с фургонным кузовом в ряд на площадке, впереди Mercedes-Benz Atego"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Белые грузовики с фургонным кузовом в ряд на площадке, впереди Mercedes-Benz Atego",
+
+  /* ---- Startseite: Bewertungen (mobile.de) ---- */
+  "Bewertungen": "Отзывы",
+  "Das sagen unsere Käufer.": "Что говорят наши покупатели.",
+  "Echte Bewertungen von Käufern auf mobile.de, unverändert übernommen.": "Настоящие отзывы покупателей с mobile.de, без изменений.",
+  "Alle Bewertungen auf mobile.de": "Все отзывы на mobile.de",
+  "mobile.de Nutzer": "Пользователь mobile.de",
+  "mobile.de Bewertung": "Отзыв на mobile.de"
 };

@@ -595,6 +595,84 @@ details summary::-webkit-details-marker { display: none; }
   background: var(--white);
 }
 
+/* ====================================================================
+   5b – Bewertungen (mobile.de) – weiße Karten im Laufband
+   Ohne JS bzw. bei reduzierter Bewegung: waagerecht scrollbare Reihe.
+   js/main.js hängt eine zweite Kopie an und setzt .is-running.
+   ==================================================================== */
+.reviews {
+  --gold: #d4a62a;
+  padding-block: 140px;
+  background: var(--bg-gradient);
+  overflow: hidden;
+}
+.reviews__head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 32px 64px;
+  flex-wrap: wrap;
+  margin-bottom: 64px;
+}
+.reviews__head .h2 { margin: 0; }
+.reviews__side { display: grid; gap: 22px; justify-items: start; max-width: 460px; }
+
+.reviews__marquee {
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-block: 12px;   /* Platz für das Anheben beim Hover */
+}
+.reviews__marquee::-webkit-scrollbar { display: none; }
+.reviews__marquee.is-running {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+}
+.reviews__track { display: flex; width: max-content; }
+.reviews__marquee.is-running .reviews__track { animation: marquee 90s linear infinite; }
+.reviews__marquee.is-running:hover .reviews__track { animation-play-state: paused; }
+.reviews__group {
+  display: flex;
+  align-items: stretch;
+  gap: 24px;
+  padding-inline: var(--gutter) 0;
+  padding-right: 24px;
+}
+.reviews__marquee.is-running .reviews__group { padding-left: 0; }
+
+.review {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 0;
+  padding: 32px 32px 26px;
+  background: var(--white);
+  color: var(--ink-soft);
+  transition: transform 0.5s var(--ease), box-shadow 0.5s var(--ease);
+}
+.review:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
+}
+.review__stars { display: flex; gap: 3px; margin-bottom: 20px; color: var(--gold); }
+.review__stars svg { width: 18px; height: 18px; fill: currentColor; }
+.review__text {
+  margin: 0 0 28px;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+.review__foot {
+  display: grid;
+  gap: 4px;
+  margin-top: auto;
+  padding-top: 20px;
+  border-top: 1px solid var(--line-dark);
+}
+.review__name { font-size: 17px; color: var(--ink); }
+.review__meta { font-size: 13px; color: var(--muted); }
+.review__meta time::before { content: "·"; margin-inline: 8px; }
+
 /* Einheitliche Schrift (DM Sans) und eckige Boxen auch im Fahrzeug-Widget.
    Reine CSS-Ergänzung – Code, Daten und Kategorien des Widgets bleiben
    unverändert. Zum Rückgängigmachen einfach diesen Block löschen. */
@@ -1381,6 +1459,7 @@ body .vw-section * {
   .reveal { opacity: 1; transform: none; transition: none; }
   .hero__bg img { animation: none; }
   .marquee__track { animation: none; }
+  .review { transition: none; }
   .why-item { transition: none; }
 }
 
@@ -1468,6 +1547,8 @@ body .vw-section * {
   .export-info__item, .export-info__item + .export-info__item { padding: 28px 0; border-left: 0; border-bottom: 1px solid var(--line-dark); }
   .fleet-more { padding-bottom: 90px; }
   .fleet-head { padding-block: 80px 8px; }
+  .reviews { padding-block: 100px; }
+  .reviews__head { margin-bottom: 44px; }
 }
 
 @media (max-width: 640px) {
@@ -1498,6 +1579,10 @@ body .vw-section * {
   .site-footer__grid { grid-template-columns: 1fr; gap: 30px; }
   .export-doc { padding: 28px 22px; }
   .cta-band__actions, .cta-band__actions .btn { width: 100%; }
+  .review { width: 300px; padding: 26px 24px 22px; }
+  .review__text { font-size: 16px; }
+  .reviews__group { gap: 16px; padding-right: 16px; }
+  .reviews__marquee.is-running .reviews__track { animation-duration: 70s; }
   .btn--block { white-space: normal; }
 }
 
@@ -1587,7 +1672,8 @@ html[dir="rtl"] .legal-header__inner .lang-switch + .legal-back { margin-right: 
 html[dir="rtl"] .hero,
 html[dir="rtl"] .pitch,
 html[dir="rtl"] .ecs-export-widget,
-html[dir="rtl"] .marquee { direction: ltr; }
+html[dir="rtl"] .marquee,
+html[dir="rtl"] .reviews__marquee { direction: ltr; }
 html[dir="rtl"] .hero__copy,
 html[dir="rtl"] .hero__actions,
 html[dir="rtl"] .pitch__content,

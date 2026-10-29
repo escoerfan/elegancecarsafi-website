@@ -848,5 +848,13 @@
   "in 30 Sekunden.": "in 30 seconds.",
 
   /* ---- Kontakt: Foto Atego-Reihe ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "White box trucks lined up in the yard, a Mercedes-Benz Atego in front"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "White box trucks lined up in the yard, a Mercedes-Benz Atego in front",
+
+  /* ---- Startseite: Bewertungen (mobile.de) ---- */
+  "Bewertungen": "Reviews",
+  "Das sagen unsere Käufer.": "What our buyers say.",
+  "Echte Bewertungen von Käufern auf mobile.de, unverändert übernommen.": "Genuine reviews from buyers on mobile.de, published unchanged.",
+  "Alle Bewertungen auf mobile.de": "All reviews on mobile.de",
+  "mobile.de Nutzer": "mobile.de user",
+  "mobile.de Bewertung": "mobile.de review"
 };

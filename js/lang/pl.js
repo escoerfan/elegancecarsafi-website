@@ -834,5 +834,13 @@
   "in 30 Sekunden.": "w 30 sekund.",
 
   /* ---- Kontakt: Foto Atego-Reihe ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Białe ciężarówki z zabudową kontenerową w rzędzie na placu, z przodu Mercedes-Benz Atego"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "Białe ciężarówki z zabudową kontenerową w rzędzie na placu, z przodu Mercedes-Benz Atego",
+
+  /* ---- Startseite: Bewertungen (mobile.de) ---- */
+  "Bewertungen": "Opinie",
+  "Das sagen unsere Käufer.": "Co mówią nasi kupujący.",
+  "Echte Bewertungen von Käufern auf mobile.de, unverändert übernommen.": "Prawdziwe opinie kupujących z mobile.de, przejęte bez zmian.",
+  "Alle Bewertungen auf mobile.de": "Wszystkie opinie na mobile.de",
+  "mobile.de Nutzer": "Użytkownik mobile.de",
+  "mobile.de Bewertung": "Opinia z mobile.de"
 };

@@ -834,5 +834,13 @@
   "in 30 Sekunden.": "في 30 ثانية.",
 
   /* ---- Kontakt: Foto Atego-Reihe ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "شاحنات بيضاء بصندوق مغلق مصطفة في الساحة، وفي المقدمة مرسيدس-بنز أتيغو"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof, vorne ein Mercedes-Benz Atego": "شاحنات بيضاء بصندوق مغلق مصطفة في الساحة، وفي المقدمة مرسيدس-بنز أتيغو",
+
+  /* ---- Startseite: Bewertungen (mobile.de) ---- */
+  "Bewertungen": "التقييمات",
+  "Das sagen unsere Käufer.": "ماذا يقول المشترون عنا.",
+  "Echte Bewertungen von Käufern auf mobile.de, unverändert übernommen.": "تقييمات حقيقية من مشترين على mobile.de، منقولة دون تعديل.",
+  "Alle Bewertungen auf mobile.de": "جميع التقييمات على mobile.de",
+  "mobile.de Nutzer": "مستخدم mobile.de",
+  "mobile.de Bewertung": "تقييم على mobile.de"
 };

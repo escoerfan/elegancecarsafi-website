@@ -142,6 +142,18 @@
   var reduceMotion = window.matchMedia &&
     window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  /* --------------------------------------------- Bewertungen-Laufband
+     Zweite Kopie der Karten anhängen, damit das Band nahtlos läuft. Bei
+     "Bewegung reduzieren" bleibt es eine scrollbare Reihe.            */
+  var reviewsBand = document.querySelector('.reviews__marquee');
+  if (reviewsBand && !reduceMotion) {
+    var reviewsGroup = reviewsBand.querySelector('.reviews__group');
+    var reviewsCopy = reviewsGroup.cloneNode(true);
+    reviewsCopy.setAttribute('aria-hidden', 'true');
+    reviewsGroup.parentNode.appendChild(reviewsCopy);
+    reviewsBand.classList.add('is-running');
+  }
+
   if (counters.length && 'IntersectionObserver' in window && !reduceMotion) {
     var runCounter = function (el) {
       var target = parseInt(el.getAttribute('data-count'), 10);
