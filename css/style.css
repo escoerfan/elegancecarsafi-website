@@ -716,10 +716,6 @@ body .vw-section * {
 }
 .process:not(.process--media) .process__head { grid-template-columns: minmax(0, 1fr); }
 .process__title { margin-bottom: 20px; }
-/* H1 im Ablauf (Unsere Arbeit): in H2-Größe wie auf den Ankaufseiten */
-@media (min-width: 1101px) {
-  .process__title.h1 { font-size: clamp(36px, 3.9vw, 56px); }
-}
 .process__lead { margin-bottom: 34px; max-width: 520px; }
 
 /* Ohne Foto: Überschrift links, Text und Button rechts */
@@ -1193,6 +1189,14 @@ body .vw-section * {
   .page-hero__media { inset: 0; opacity: 0.35; }
 }
 .page-hero__title { max-width: 900px; margin-bottom: 22px; }
+/* Seitenköpfe aller Unterseiten: Textgrößen wie "Weltweiter Export." (Globus) */
+.page-hero__title,
+.process--page .process__title { font-size: clamp(40px, 4.4vw, 64px); }
+.page-hero .eyebrow, .page-hero__title,
+.process--page .eyebrow, .process--page .process__title { letter-spacing: -0.02em; }
+.page-hero .eyebrow, .process--page .eyebrow { line-height: 1.5; }
+.page-hero .page-hero__lead,
+.process--page .process__lead { font-size: 18px; letter-spacing: -0.32px; }
 .page-hero__lead { max-width: 640px; }
 .page-hero--compact { padding-block: 150px 48px; }
 .page-hero--compact .page-hero__title { font-size: clamp(30px, 3.4vw, 48px); margin-bottom: 0; }
