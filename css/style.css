@@ -1197,36 +1197,46 @@ body .vw-section * {
 .process--page { padding-top: 190px; }
 .page-hero + .faq { padding-top: 90px; }
 
-/* Kontaktseite: schwarzer Seitenkopf wie FAQ, darunter weißer Bereich
-   mit Foto-Box links und Formular rechts */
+/* Kontaktseite: schwarzer Seitenkopf wie FAQ, darunter das Formular über dem
+   vollflächigen Hof-Foto mit dunklem Overlay (Karte rechts) */
 .page-hero__links { margin-top: 36px; }
-.contact-split { padding-block: 90px 120px; background: var(--white); color: var(--ink); }
-.contact-split__grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 560px);
-  gap: clamp(24px, 3vw, 40px);
-  align-items: stretch;
+.dark-block > .page-hero { border-bottom: 0; }
+.contact-split {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding-block: 120px;
 }
 .contact-split__media {
-  position: relative;
-  min-height: 420px;
-  overflow: hidden;
-  border: 1px solid var(--line-dark);
-}
-.contact-split__media img {
   position: absolute;
   inset: 0;
+  z-index: -1;
+}
+.contact-split__media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(6, 6, 6, 0.45) 0%, rgba(6, 6, 6, 0.6) 55%, rgba(6, 6, 6, 0.75) 100%);
+}
+.contact-split__media img {
   width: 100%; height: 100%;
   object-fit: cover;
-  object-position: 50% 45%;
+  object-position: 30% 40%;
 }
-.contact-split .form-card { box-shadow: none; }
-.contact-split + .map-wrap { padding-top: 90px; }
+.contact-split__grid { display: flex; justify-content: flex-end; }
+.contact-split .form-card { width: 100%; max-width: 560px; }
+.contact-split + .map-wrap,
+.dark-block + .map-wrap { padding-top: 90px; }
 @media (max-width: 991px) {
-  .contact-split { padding-block: 64px 100px; }
-  .contact-split__grid { grid-template-columns: 1fr; }
-  .contact-split__media { min-height: 0; aspect-ratio: 4 / 5; }
-  .contact-split + .map-wrap { padding-top: 64px; }
+  /* Handy/Tablet: Foto oben als Block, die Karte schiebt sich darüber */
+  .contact-split { padding-block: 0 64px; }
+  .contact-split__media { position: relative; inset: auto; aspect-ratio: 4 / 3; }
+  .contact-split__media::after { background: rgba(6, 6, 6, 0.5); }
+  .contact-split__media img { object-position: 30% 55%; }
+  .contact-split__grid { justify-content: center; margin-top: -18vw; }
+  .contact-split .form-card { max-width: 640px; }
+  .contact-split + .map-wrap,
+  .dark-block + .map-wrap { padding-top: 64px; }
 }
 .export-page .ecs-export-widget__inner { padding-top: clamp(130px, 12vw, 170px); }
 
@@ -1667,12 +1677,14 @@ html[dir="rtl"] .legal-header__inner .lang-switch + .legal-back { margin-right: 
    wie im Original angeordnet – nur der Text darin läuft von rechts nach links */
 html[dir="rtl"] .hero,
 html[dir="rtl"] .pitch,
+html[dir="rtl"] .contact-split,
 html[dir="rtl"] .ecs-export-widget,
 html[dir="rtl"] .marquee,
 html[dir="rtl"] .reviews__marquee { direction: ltr; }
 html[dir="rtl"] .hero__copy,
 html[dir="rtl"] .hero__actions,
 html[dir="rtl"] .pitch__content,
+html[dir="rtl"] .contact-split .form-card,
 html[dir="rtl"] .ecs-export-widget__copy { direction: rtl; }
 html[dir="rtl"] .vw-body { text-align: right; }
 html[dir="rtl"] .vw-title,
