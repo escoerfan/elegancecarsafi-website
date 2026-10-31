@@ -84,7 +84,6 @@
 
   "Ihr Partner für": "Su socio en",
   "Nutzfahrzeuge.": "vehículos industriales.",
-  "Über 30 Jahre Erfahrung, 250 Partner und ein Ziel: Fahrzeuge schnell, fair und ohne Umwege handeln.": "Más de 30 años de experiencia, 250 socios y un objetivo: comerciar vehículos de forma rápida, justa y directa.",
   "Wer wir sind": "Quiénes somos",
   "Wir handeln seit über 30 Jahren mit Fahrzeugen jeder Art. Vom Reisebus bis zur Baumaschine kaufen, verkaufen und exportieren wir gewerbliche Fahrzeuge – schnell, direkt und zuverlässig.": "Desde hace más de 30 años comercializamos vehículos de todo tipo. Desde autocares hasta maquinaria de construcción, compramos, vendemos y exportamos vehículos industriales de forma rápida, directa y fiable.",
   "Unser Sitz ist in Gehrden bei Hannover. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Geschäfte in ganz Europa und darüber hinaus ab.": "Nuestra sede está en Gehrden, cerca de Hannover. Desde aquí trabajamos con más de 250 socios y cerramos operaciones en toda Europa y más allá.",
@@ -212,7 +211,6 @@
   "Karte laden": "Cargar mapa",
 
   "Häufig gestellte Fragen": "Preguntas frecuentes",
-  "Die wichtigsten Antworten rund um Ankauf, Verkauf und Export. Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Las respuestas más importantes sobre compra, venta y exportación. ¿No encuentra su pregunta? Llámenos.",
   "Kauft ihr auch Einzelfahrzeuge an?": "¿Compran también vehículos sueltos?",
   "Ja. Wir kaufen Einzelfahrzeuge genauso wie ganze Flotten. Einfach anrufen und kurz beschreiben, um was es geht.": "Sí. Compramos tanto vehículos sueltos como flotas completas. Basta con llamar y describir brevemente de qué se trata.",
   "In welche Länder exportiert ihr?": "¿A qué países exportan?",
@@ -275,9 +273,7 @@
   "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Contacto: ofrecer o solicitar un vehículo | ECS GmbH",
   "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "Preguntas frecuentes: compra de vehículos industriales y exportación | ECS GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "compra y venta de vehículos industriales",
-  "Nutzfahrzeuge aus Gehrden.": "vehículos industriales desde Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Vehículos industriales usados en stock",
-  "Häufige Fragen zu Ankauf, Verkauf und Export": "Preguntas frecuentes sobre compra, venta y exportación",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
   "Fahrzeug verkaufen": "Vender su vehículo",
@@ -1083,7 +1079,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH, de Gehrden cerca de Hannover, compra vehículos industriales usados.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Camiones, autobuses, furgonetas, hormigoneras, bombas de hormigón, maquinaria de construcción o una flota completa: valoramos, hacemos una oferta clara y recogemos el vehículo.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Estos son los vehículos que vendemos una y otra vez.",
-  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Autocares, autobuses urbanos, camiones, cabezas tractoras y furgonetas, también para exportación.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Como concesionario de vehículos industriales de Gehrden, cerca de Hannover, le ayudamos con gusto a encontrar el vehículo adecuado o a vender su flota actual. También es posible entregar su vehículo como parte del pago. Llámenos hoy mismo.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "Con los documentos correctos, la entrega sigue exenta de IVA.",
   "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "¿Compra como empresa de un país de la UE un autobús, camión o furgoneta a ECS Exclusive Commerce Services GmbH en Gehrden, cerca de Hannover? Le indicamos qué documentos necesita para que la exportación se desarrolle sin problemas.",
@@ -1105,5 +1100,14 @@
   "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Mercedes-Benz Econic blanco con caja cerrada en nuestras instalaciones",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Once tipos de vehículos que se encuentran una y otra vez en nuestras instalaciones, con modelos típicos.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Vendemos camiones usados, desde el de 7,5 toneladas para distribución hasta la cabeza tractora, además de volquetes, semirremolques, furgonetas, minibuses, autocares, autobuses urbanos, cargadoras de ruedas y vehículos especiales.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Camiones de distribución, cabezas tractoras, volquetes, semirremolques, furgonetas, autobuses, cargadoras de ruedas y vehículos especiales: lo que hay ahora en nuestras instalaciones de Gehrden, cerca de Hannover, lo muestra nuestro stock actual."
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Camiones de distribución, cabezas tractoras, volquetes, semirremolques, furgonetas, autobuses, cargadoras de ruedas y vehículos especiales: lo que hay ahora en nuestras instalaciones de Gehrden, cerca de Hannover, lo muestra nuestro stock actual.",
+
+  /* ---- Seitenköpfe einzeilig ---- */
+  "Fahrzeug gesucht oder anzubieten?": "¿Busca un vehículo o quiere venderlo?",
+  "So verkaufen Sie Ihr Nutzfahrzeug.": "Cómo vender su vehículo industrial.",
+  "Ihr Partner für Nutzfahrzeuge.": "Su socio en vehículos industriales.",
+  "Schnell, fair und ohne Umwege.": "Rápido, justo y sin rodeos.",
+  "Fragen zu Ankauf, Verkauf und Export": "Preguntas sobre compra, venta y exportación",
+  "Ihre Frage ist nicht dabei? Rufen Sie uns an.": "¿No encuentra su pregunta? Llámenos.",
+  "Reisebusse, Linienbusse, LKW und Transporter, auch für den Export.": "Autocares, autobuses urbanos, camiones y furgonetas, también para exportación."
 };

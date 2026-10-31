@@ -89,7 +89,6 @@
   /* ---- Über uns ---- */
   "Ihr Partner für": "Your partner for",
   "Nutzfahrzeuge.": "commercial vehicles.",
-  "Über 30 Jahre Erfahrung, 250 Partner und ein Ziel: Fahrzeuge schnell, fair und ohne Umwege handeln.": "Over 30 years of experience, 250 partners and one goal: trading vehicles quickly, fairly and directly.",
   "Wer wir sind": "Who we are",
   "Wir handeln seit über 30 Jahren mit Fahrzeugen jeder Art. Vom Reisebus bis zur Baumaschine kaufen, verkaufen und exportieren wir gewerbliche Fahrzeuge – schnell, direkt und zuverlässig.": "We have been trading vehicles of all kinds for over 30 years. From coaches to construction machinery, we buy, sell and export commercial vehicles – fast, direct and reliable.",
   "Unser Sitz ist in Gehrden bei Hannover. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Geschäfte in ganz Europa und darüber hinaus ab.": "We are based in Gehrden near Hanover. From here we work with over 250 partners and handle business throughout Europe and beyond.",
@@ -224,7 +223,6 @@
 
   /* ---- FAQ ---- */
   "Häufig gestellte Fragen": "Frequently asked questions",
-  "Die wichtigsten Antworten rund um Ankauf, Verkauf und Export. Ihre Frage ist nicht dabei? Rufen Sie uns an.": "The most important answers about buying, selling and export. Your question isn't here? Give us a call.",
   "Kauft ihr auch Einzelfahrzeuge an?": "Do you also buy single vehicles?",
   "Ja. Wir kaufen Einzelfahrzeuge genauso wie ganze Flotten. Einfach anrufen und kurz beschreiben, um was es geht.": "Yes. We buy single vehicles as well as entire fleets. Just call and briefly describe what it's about.",
   "In welche Länder exportiert ihr?": "Which countries do you export to?",
@@ -289,9 +287,7 @@
   "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Contact: offer or request a vehicle | ECS GmbH",
   "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "FAQ on selling commercial vehicles and export | ECS GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "buying and selling commercial vehicles",
-  "Nutzfahrzeuge aus Gehrden.": "commercial vehicles from Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Used commercial vehicles in stock",
-  "Häufige Fragen zu Ankauf, Verkauf und Export": "Frequently asked questions on buying, selling and export",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
   "Fahrzeug verkaufen": "Sell your vehicle",
@@ -1097,7 +1093,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH from Gehrden near Hanover buys used commercial vehicles.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Trucks, buses, vans, concrete mixers, concrete pumps, construction machinery or an entire fleet: we value, make a clear offer and collect the vehicle.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "These are the vehicles we sell again and again.",
-  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Coaches, city buses, trucks, tractor units and vans, also for export.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "As a commercial vehicle dealer from Gehrden near Hanover, we are happy to help you find the right vehicle or sell your current fleet. A trade-in of your vehicle is also possible. Call us today.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "With the right documents, the delivery remains VAT-exempt.",
   "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "Are you a company from an EU country buying a bus, truck or van from ECS Exclusive Commerce Services GmbH in Gehrden near Hanover? We tell you which documents you need so that the export runs smoothly.",
@@ -1119,5 +1114,14 @@
   "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "White Mercedes-Benz Econic with box body on the yard",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Eleven vehicle types that keep turning up on our yard, with typical models.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "We sell used trucks from the 7.5-tonner for distribution to the tractor unit, plus tippers, semi-trailers, vans, minibuses, coaches, city buses, wheel loaders and special vehicles.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses, wheel loaders and special vehicles: what is currently on our yard in Gehrden near Hanover is shown in our current stock."
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses, wheel loaders and special vehicles: what is currently on our yard in Gehrden near Hanover is shown in our current stock.",
+
+  /* ---- Seitenköpfe einzeilig ---- */
+  "Fahrzeug gesucht oder anzubieten?": "Looking for a vehicle or selling one?",
+  "So verkaufen Sie Ihr Nutzfahrzeug.": "How to sell your commercial vehicle.",
+  "Ihr Partner für Nutzfahrzeuge.": "Your partner for commercial vehicles.",
+  "Schnell, fair und ohne Umwege.": "Fast, fair and straightforward.",
+  "Fragen zu Ankauf, Verkauf und Export": "Questions on buying, selling and export",
+  "Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Your question is not listed? Give us a call.",
+  "Reisebusse, Linienbusse, LKW und Transporter, auch für den Export.": "Coaches, city buses, trucks and vans, also for export."
 };

@@ -84,7 +84,6 @@
 
   "Ihr Partner für": "شريككم في",
   "Nutzfahrzeuge.": "المركبات التجارية.",
-  "Über 30 Jahre Erfahrung, 250 Partner und ein Ziel: Fahrzeuge schnell, fair und ohne Umwege handeln.": "أكثر من 30 عامًا من الخبرة، و250 شريكًا، وهدف واحد: تجارة المركبات بسرعة وعدل ودون تعقيد.",
   "Wer wir sind": "من نحن",
   "Wir handeln seit über 30 Jahren mit Fahrzeugen jeder Art. Vom Reisebus bis zur Baumaschine kaufen, verkaufen und exportieren wir gewerbliche Fahrzeuge – schnell, direkt und zuverlässig.": "نتاجر منذ أكثر من 30 عامًا بالمركبات من جميع الأنواع. من الحافلات السياحية إلى معدات البناء، نشتري ونبيع ونصدّر المركبات التجارية بسرعة ومباشرة وموثوقية.",
   "Unser Sitz ist in Gehrden bei Hannover. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Geschäfte in ganz Europa und darüber hinaus ab.": "يقع مقرنا في غيردن بالقرب من هانوفر. من هنا نعمل مع أكثر من 250 شريكًا وننجز الصفقات في جميع أنحاء أوروبا وخارجها.",
@@ -212,7 +211,6 @@
   "Karte laden": "تحميل الخريطة",
 
   "Häufig gestellte Fragen": "الأسئلة الشائعة",
-  "Die wichtigsten Antworten rund um Ankauf, Verkauf und Export. Ihre Frage ist nicht dabei? Rufen Sie uns an.": "أهم الإجابات حول الشراء والبيع والتصدير. لم تجد سؤالك؟ اتصل بنا.",
   "Kauft ihr auch Einzelfahrzeuge an?": "هل تشترون مركبات منفردة أيضًا؟",
   "Ja. Wir kaufen Einzelfahrzeuge genauso wie ganze Flotten. Einfach anrufen und kurz beschreiben, um was es geht.": "نعم. نشتري المركبات المنفردة وكذلك الأساطيل الكاملة. ما عليك سوى الاتصال ووصف ما لديك باختصار.",
   "In welche Länder exportiert ihr?": "إلى أي دول تصدّرون؟",
@@ -275,9 +273,7 @@
   "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "اتصل بنا: اعرض مركبتك أو اطلب مركبة | ECS GmbH",
   "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "الأسئلة الشائعة حول شراء المركبات التجارية والتصدير | ECS GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "شراء وبيع المركبات التجارية",
-  "Nutzfahrzeuge aus Gehrden.": "المركبات التجارية من غيردن.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "مركبات تجارية مستعملة متوفرة",
-  "Häufige Fragen zu Ankauf, Verkauf und Export": "أسئلة شائعة حول الشراء والبيع والتصدير",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
   "Fahrzeug verkaufen": "بيع مركبتكم",
@@ -1083,7 +1079,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "تشتري شركة ECS GmbH من غيردن قرب هانوفر المركبات التجارية المستعملة.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "شاحنات أو حافلات أو مركبات نقل أو خلاطات خرسانة أو مضخات خرسانة أو آلات بناء أو أسطول كامل: نقيّم ونقدم عرضًا واضحًا ونستلم المركبة.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "هذه هي المركبات التي نبيعها مرارًا وتكرارًا.",
-  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "حافلات سياحية وحافلات مدن وشاحنات ورؤوس قاطرات ومركبات نقل، وأيضًا للتصدير.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "بصفتنا تاجر مركبات تجارية من غيردن قرب هانوفر، يسعدنا مساعدتكم في العثور على المركبة المناسبة أو في بيع أسطولكم الحالي. كما يمكن قبول مركبتكم كجزء من الثمن. اتصلوا بنا اليوم.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "مع المستندات الصحيحة يبقى التسليم معفى من ضريبة القيمة المضافة.",
   "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "هل تشترون كشركة من دولة في الاتحاد الأوروبي حافلة أو شاحنة أو مركبة نقل من ECS Exclusive Commerce Services GmbH في غيردن قرب هانوفر؟ نخبركم بالمستندات التي تحتاجونها لكي يتم التصدير بسلاسة.",
@@ -1105,5 +1100,14 @@
   "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "مرسيدس-بنز إيكونيك أبيض بصندوق مغلق في ساحتنا",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "أحد عشر نوعًا من المركبات تتواجد باستمرار في ساحتنا، مع طرازات نموذجية.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "نبيع شاحنات مستعملة من شاحنات التوزيع بوزن 7.5 طن حتى الشاحنات القاطرة، بالإضافة إلى القلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات الصغيرة والحافلات السياحية وحافلات النقل العام واللوادر ذات العجلات والمركبات الخاصة.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والشاحنات القاطرة والقلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات واللوادر ذات العجلات والمركبات الخاصة: ما هو متوفر حاليًا في ساحتنا في غيردن بالقرب من هانوفر يظهر في مخزوننا الحالي."
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والشاحنات القاطرة والقلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات واللوادر ذات العجلات والمركبات الخاصة: ما هو متوفر حاليًا في ساحتنا في غيردن بالقرب من هانوفر يظهر في مخزوننا الحالي.",
+
+  /* ---- Seitenköpfe einzeilig ---- */
+  "Fahrzeug gesucht oder anzubieten?": "تبحث عن مركبة أو تريد بيعها؟",
+  "So verkaufen Sie Ihr Nutzfahrzeug.": "كيف تبيع مركبتك التجارية.",
+  "Ihr Partner für Nutzfahrzeuge.": "شريكك في المركبات التجارية.",
+  "Schnell, fair und ohne Umwege.": "بسرعة وعدل ودون تعقيد.",
+  "Fragen zu Ankauf, Verkauf und Export": "أسئلة حول الشراء والبيع والتصدير",
+  "Ihre Frage ist nicht dabei? Rufen Sie uns an.": "لم تجد سؤالك؟ اتصل بنا.",
+  "Reisebusse, Linienbusse, LKW und Transporter, auch für den Export.": "حافلات سياحية وحافلات نقل عام وشاحنات وسيارات فان، أيضًا للتصدير."
 };

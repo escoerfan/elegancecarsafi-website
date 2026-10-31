@@ -1174,13 +1174,13 @@ body .vw-section * {
   background:
     var(--bg-gradient);
 }
-.page-hero__title { max-width: 900px; margin-bottom: 22px; }
+.page-hero__title { margin-bottom: 22px; }
 /* Seitenköpfe aller Unterseiten: Textgrößen wie "Weltweiter Export." (Globus) */
 .page-hero__title { font-size: clamp(40px, 4.4vw, 64px); }
 .page-hero .eyebrow, .page-hero__title { letter-spacing: -0.02em; }
 .page-hero .eyebrow { line-height: 1.5; }
 .page-hero .page-hero__lead { font-size: 18px; letter-spacing: -0.32px; }
-.page-hero__lead { max-width: 640px; }
+.page-hero__lead { max-width: 760px; }
 .page-hero--compact { padding-block: 150px 48px; }
 .page-hero--compact .page-hero__title { font-size: clamp(30px, 3.4vw, 48px); margin-bottom: 0; }
 

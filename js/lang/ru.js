@@ -84,7 +84,6 @@
 
   "Ihr Partner für": "Ваш партнёр по",
   "Nutzfahrzeuge.": "коммерческому транспорту.",
-  "Über 30 Jahre Erfahrung, 250 Partner und ein Ziel: Fahrzeuge schnell, fair und ohne Umwege handeln.": "Более 30 лет опыта, 250 партнёров и одна цель: торговать техникой быстро, честно и без посредников.",
   "Wer wir sind": "Кто мы",
   "Wir handeln seit über 30 Jahren mit Fahrzeugen jeder Art. Vom Reisebus bis zur Baumaschine kaufen, verkaufen und exportieren wir gewerbliche Fahrzeuge – schnell, direkt und zuverlässig.": "Более 30 лет мы торгуем транспортными средствами любого типа. От туристического автобуса до строительной техники – мы покупаем, продаём и экспортируем коммерческий транспорт быстро, напрямую и надёжно.",
   "Unser Sitz ist in Gehrden bei Hannover. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Geschäfte in ganz Europa und darüber hinaus ab.": "Наша компания находится в Герден под Ганновером. Отсюда мы работаем более чем с 250 партнёрами и проводим сделки по всей Европе и за её пределами.",
@@ -212,7 +211,6 @@
   "Karte laden": "Загрузить карту",
 
   "Häufig gestellte Fragen": "Часто задаваемые вопросы",
-  "Die wichtigsten Antworten rund um Ankauf, Verkauf und Export. Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Главные ответы о выкупе, продаже и экспорте. Не нашли свой вопрос? Позвоните нам.",
   "Kauft ihr auch Einzelfahrzeuge an?": "Вы выкупаете и отдельные машины?",
   "Ja. Wir kaufen Einzelfahrzeuge genauso wie ganze Flotten. Einfach anrufen und kurz beschreiben, um was es geht.": "Да. Мы покупаем как отдельные машины, так и целые автопарки. Просто позвоните и коротко опишите, о чём речь.",
   "In welche Länder exportiert ihr?": "В какие страны вы экспортируете?",
@@ -275,9 +273,7 @@
   "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Контакты: предложить или запросить автомобиль | ECS GmbH",
   "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "Вопросы о выкупе коммерческого транспорта и экспорте | ECS GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "покупке и продаже коммерческого транспорта",
-  "Nutzfahrzeuge aus Gehrden.": "коммерческому транспорту из Гердена.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Б/у коммерческий транспорт в наличии",
-  "Häufige Fragen zu Ankauf, Verkauf und Export": "Частые вопросы о покупке, продаже и экспорте",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
   "Fahrzeug verkaufen": "Продать технику",
@@ -1083,7 +1079,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH из Гердена под Ганновером выкупает подержанную коммерческую технику.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Грузовики, автобусы, фургоны, бетоносмесители, бетононасосы, строительная техника или целый автопарк: мы оцениваем, делаем чёткое предложение и вывозим технику.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Эту технику мы продаём снова и снова.",
-  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Туристические и городские автобусы, грузовики, седельные тягачи и фургоны, в том числе на экспорт.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Как дилер коммерческой техники из Гердена под Ганновером мы с радостью поможем вам найти подходящую машину или продать ваш текущий автопарк. Возможен также зачёт вашей машины. Позвоните нам сегодня.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "С правильными документами поставка остаётся освобождённой от НДС.",
   "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "Вы покупаете как компания из страны ЕС автобус, грузовик или фургон у ECS Exclusive Commerce Services GmbH в Гердене под Ганновером? Мы подскажем, какие документы нужны, чтобы экспорт прошёл без проблем.",
@@ -1105,5 +1100,14 @@
   "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Белый Mercedes-Benz Econic с фургонной надстройкой на площадке",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Одиннадцать типов техники, которые регулярно стоят на нашей площадке, с типичными моделями.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Мы продаём подержанные грузовики — от 7,5-тонников для развозных перевозок до седельных тягачей, а также самосвалы, полуприцепы, фургоны, микроавтобусы, туристические и городские автобусы, фронтальные погрузчики и спецтехнику.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Развозные грузовики, седельные тягачи, самосвалы, полуприцепы, фургоны, автобусы, фронтальные погрузчики и спецтехника: что сейчас стоит на нашей площадке в Гердене под Ганновером, показывает актуальный каталог."
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Развозные грузовики, седельные тягачи, самосвалы, полуприцепы, фургоны, автобусы, фронтальные погрузчики и спецтехника: что сейчас стоит на нашей площадке в Гердене под Ганновером, показывает актуальный каталог.",
+
+  /* ---- Seitenköpfe einzeilig ---- */
+  "Fahrzeug gesucht oder anzubieten?": "Ищете технику или хотите продать?",
+  "So verkaufen Sie Ihr Nutzfahrzeug.": "Как продать коммерческий автомобиль.",
+  "Ihr Partner für Nutzfahrzeuge.": "Ваш партнёр по коммерческой технике.",
+  "Schnell, fair und ohne Umwege.": "Быстро, честно и без лишних хлопот.",
+  "Fragen zu Ankauf, Verkauf und Export": "Вопросы о выкупе, продаже и экспорте",
+  "Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Не нашли свой вопрос? Позвоните нам.",
+  "Reisebusse, Linienbusse, LKW und Transporter, auch für den Export.": "Туристические и городские автобусы, грузовики и фургоны, также на экспорт."
 };

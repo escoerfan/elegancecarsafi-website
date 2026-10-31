@@ -84,7 +84,6 @@
 
   "Ihr Partner für": "Twój partner w zakresie",
   "Nutzfahrzeuge.": "pojazdów użytkowych.",
-  "Über 30 Jahre Erfahrung, 250 Partner und ein Ziel: Fahrzeuge schnell, fair und ohne Umwege handeln.": "Ponad 30 lat doświadczenia, 250 partnerów i jeden cel: handel pojazdami szybko, uczciwie i bez zbędnych pośredników.",
   "Wer wir sind": "Kim jesteśmy",
   "Wir handeln seit über 30 Jahren mit Fahrzeugen jeder Art. Vom Reisebus bis zur Baumaschine kaufen, verkaufen und exportieren wir gewerbliche Fahrzeuge – schnell, direkt und zuverlässig.": "Od ponad 30 lat handlujemy pojazdami wszelkiego rodzaju. Od autokaru po maszynę budowlaną – kupujemy, sprzedajemy i eksportujemy pojazdy użytkowe szybko, bezpośrednio i niezawodnie.",
   "Unser Sitz ist in Gehrden bei Hannover. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Geschäfte in ganz Europa und darüber hinaus ab.": "Nasza siedziba znajduje się w Gehrden koło Hanoweru. Stąd współpracujemy z ponad 250 partnerami i realizujemy transakcje w całej Europie i poza nią.",
@@ -212,7 +211,6 @@
   "Karte laden": "Załaduj mapę",
 
   "Häufig gestellte Fragen": "Często zadawane pytania",
-  "Die wichtigsten Antworten rund um Ankauf, Verkauf und Export. Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Najważniejsze odpowiedzi dotyczące skupu, sprzedaży i eksportu. Nie ma tu Twojego pytania? Zadzwoń do nas.",
   "Kauft ihr auch Einzelfahrzeuge an?": "Czy skupujecie też pojedyncze pojazdy?",
   "Ja. Wir kaufen Einzelfahrzeuge genauso wie ganze Flotten. Einfach anrufen und kurz beschreiben, um was es geht.": "Tak. Kupujemy zarówno pojedyncze pojazdy, jak i całe floty. Wystarczy zadzwonić i krótko opisać, o co chodzi.",
   "In welche Länder exportiert ihr?": "Do jakich krajów eksportujecie?",
@@ -275,9 +273,7 @@
   "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Kontakt: zaoferuj lub zapytaj o pojazd | ECS GmbH",
   "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "FAQ: skup pojazdów użytkowych i eksport | ECS GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "skupu i sprzedaży pojazdów użytkowych",
-  "Nutzfahrzeuge aus Gehrden.": "pojazdów użytkowych z Gehrden.",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Używane pojazdy użytkowe w ofercie",
-  "Häufige Fragen zu Ankauf, Verkauf und Export": "Najczęstsze pytania o skup, sprzedaż i eksport",
 
   /* ---- Phase 4: Ankaufseiten, Ablauf, Export, FAQ ---- */
   "Fahrzeug verkaufen": "Sprzedaj pojazd",
@@ -1083,7 +1079,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH z Gehrden koło Hanoweru skupuje używane pojazdy użytkowe.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Ciężarówki, autobusy, auta dostawcze, betoniarki, pompy do betonu, maszyny budowlane czy cała flota: wyceniamy, składamy jasną ofertę i odbieramy pojazd.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Te pojazdy sprzedajemy regularnie.",
-  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Autokary, autobusy miejskie, ciężarówki, ciągniki siodłowe i auta dostawcze, także na eksport.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Jako dealer pojazdów użytkowych z Gehrden koło Hanoweru chętnie pomożemy Ci znaleźć odpowiedni pojazd lub sprzedać obecną flotę. Możliwe jest także przyjęcie Twojego pojazdu w rozliczeniu. Zadzwoń do nas jeszcze dziś.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "Z odpowiednimi dokumentami dostawa pozostaje zwolniona z VAT.",
   "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "Kupujesz jako firma z kraju UE autobus, ciężarówkę lub auto dostawcze w ECS Exclusive Commerce Services GmbH w Gehrden koło Hanoweru? Powiemy Ci, jakich dokumentów potrzebujesz, aby eksport przebiegł sprawnie.",
@@ -1105,5 +1100,14 @@
   "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Biały Mercedes-Benz Econic z zabudową kontenerową na placu",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Jedenaście typów pojazdów, które regularnie stoją na naszym placu, wraz z typowymi modelami.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Sprzedajemy używane ciężarówki od 7,5-tonowych pojazdów dystrybucyjnych po ciągniki siodłowe, a także wywrotki, naczepy, furgony, minibusy, autokary, autobusy miejskie, ładowarki kołowe i pojazdy specjalne.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Ciężarówki dystrybucyjne, ciągniki siodłowe, wywrotki, naczepy, furgony, autobusy, ładowarki kołowe i pojazdy specjalne: co aktualnie stoi na naszym placu w Gehrden koło Hanoweru, pokazuje aktualna oferta."
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Ciężarówki dystrybucyjne, ciągniki siodłowe, wywrotki, naczepy, furgony, autobusy, ładowarki kołowe i pojazdy specjalne: co aktualnie stoi na naszym placu w Gehrden koło Hanoweru, pokazuje aktualna oferta.",
+
+  /* ---- Seitenköpfe einzeilig ---- */
+  "Fahrzeug gesucht oder anzubieten?": "Szukasz pojazdu lub chcesz go sprzedać?",
+  "So verkaufen Sie Ihr Nutzfahrzeug.": "Jak sprzedać pojazd użytkowy.",
+  "Ihr Partner für Nutzfahrzeuge.": "Twój partner w zakresie pojazdów użytkowych.",
+  "Schnell, fair und ohne Umwege.": "Szybko, uczciwie i bez zbędnych formalności.",
+  "Fragen zu Ankauf, Verkauf und Export": "Pytania o skup, sprzedaż i eksport",
+  "Ihre Frage ist nicht dabei? Rufen Sie uns an.": "Nie ma tu Twojego pytania? Zadzwoń do nas.",
+  "Reisebusse, Linienbusse, LKW und Transporter, auch für den Export.": "Autokary, autobusy miejskie, ciężarówki i furgony, także na eksport."
 };
