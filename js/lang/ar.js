@@ -832,6 +832,9 @@
 
   /* ---- Ablauf-Fotos ---- */
   "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "رأس قاطرة MAN TGX سوداء في ساحة ECS GmbH",
+  "Rote Sattelzugmaschine Mercedes-Benz Actros von vorne": "رأس قاطرة مرسيدس-بنز أكتروس حمراء من الأمام",
+  "Weißer Mercedes-Benz Atego 1230 mit Planenaufbau": "مرسيدس-بنز أتيغو 1230 بيضاء بهيكل مغطى بالقماش",
+  "Schwarze Sattelzugmaschine Mercedes-Benz Actros auf dem Hof": "رأس قاطرة مرسيدس-بنز أكتروس سوداء في الساحة",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "مرسيدس-بنز أكتروس سوداء بهيكل مغطى بالقماش في الساحة",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "مرسيدس-بنز أكسور زرقاء برافعة تحميل وصندوق مفتوح",
   "Grüner MAN TGM Absetzkipper im Schnee": "شاحنة حاويات MAN TGM خضراء في الثلج",

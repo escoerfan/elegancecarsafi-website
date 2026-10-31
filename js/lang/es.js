@@ -832,6 +832,9 @@
 
   /* ---- Ablauf-Fotos ---- */
   "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Cabeza tractora MAN TGX negra en el patio de ECS GmbH",
+  "Rote Sattelzugmaschine Mercedes-Benz Actros von vorne": "Cabeza tractora Mercedes-Benz Actros roja vista de frente",
+  "Weißer Mercedes-Benz Atego 1230 mit Planenaufbau": "Mercedes-Benz Atego 1230 blanco con caja de lona",
+  "Schwarze Sattelzugmaschine Mercedes-Benz Actros auf dem Hof": "Cabeza tractora Mercedes-Benz Actros negra en el patio",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Mercedes-Benz Actros negro con caja de lona en el patio",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Mercedes-Benz Axor azul con grúa de carga y plataforma",
   "Grüner MAN TGM Absetzkipper im Schnee": "Portacontenedores MAN TGM verde en la nieve",

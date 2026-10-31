@@ -832,6 +832,9 @@
 
   /* ---- Ablauf-Fotos ---- */
   "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Czarny ciągnik siodłowy MAN TGX na placu ECS GmbH",
+  "Rote Sattelzugmaschine Mercedes-Benz Actros von vorne": "Czerwony ciągnik siodłowy Mercedes-Benz Actros od przodu",
+  "Weißer Mercedes-Benz Atego 1230 mit Planenaufbau": "Biały Mercedes-Benz Atego 1230 z zabudową plandekową",
+  "Schwarze Sattelzugmaschine Mercedes-Benz Actros auf dem Hof": "Czarny ciągnik siodłowy Mercedes-Benz Actros na placu",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Czarny Mercedes-Benz Actros z zabudową plandekową na placu",
   "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Niebieski Mercedes-Benz Axor z żurawiem i skrzynią ładunkową",
   "Grüner MAN TGM Absetzkipper im Schnee": "Zielony bramowiec MAN TGM na śniegu",

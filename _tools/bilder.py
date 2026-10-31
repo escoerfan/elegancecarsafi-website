@@ -34,6 +34,10 @@ PHOTOS = {
     # Vorschaubild des Erklärfilms (Startseite, Unsere Arbeit)
     'erklaerfilm-poster.webp': [960, 1920],
     'erklaerfilm-poster-hoch.webp': [720, 1080],   # Handy: Hochformat-Film
+    # Export-Unterseiten EU / Drittland (Instagram-Fotos, 1320 px breit)
+    'export-eu-actros-rot.webp': [960, 1320],
+    'export-eu-atego-plane.webp': [960, 1320],
+    'export-drittland-actros-schwarz.webp': [960, 1320],
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
 }
