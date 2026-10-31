@@ -35,7 +35,7 @@
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css?v=20261031b">
 
-<script src="js/i18n.js?v=20261031a"></script>
+<script src="js/i18n.js?v=20261031c"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -469,7 +469,15 @@
 
     <nav class="site-nav" id="site-nav">
       <a href="ueber-uns">Über uns</a>
-      <a href="fahrzeuge">Fahrzeuge</a>
+      <div class="nav-item nav-item--sub">
+        <button class="nav-sub__toggle" type="button" aria-expanded="false" aria-controls="nav-sub-fahrzeuge">Fahrzeuge</button>
+        <div class="nav-sub" id="nav-sub-fahrzeuge">
+          <a href="fahrzeuge">Fahrzeuge im Bestand</a>
+          <span class="nav-sub__sep" aria-hidden="true"></span>
+          <a href="gebrauchte-nutzfahrzeuge">Was wir regelmäßig anbieten</a>
+          <a href="nutzfahrzeug-ankauf">Was wir ankaufen</a>
+        </div>
+      </div>
       <div class="nav-item nav-item--sub is-current">
         <button class="nav-sub__toggle" type="button" aria-expanded="false" aria-controls="nav-sub-ankauf">Unsere Arbeit</button>
         <div class="nav-sub" id="nav-sub-ankauf">
@@ -936,6 +944,7 @@
             <li><a href="/">Startseite</a></li>
             <li><a href="ueber-uns">Über uns</a></li>
             <li><a href="fahrzeuge">Fahrzeuge</a></li>
+            <li><a href="gebrauchte-nutzfahrzeuge">Was wir regelmäßig anbieten</a></li>
             <li><a href="unsere-arbeit">Unsere Arbeit</a></li>
             <li><a href="export">Export</a></li>
             <li><a href="kontakt">Kontakt</a></li>
@@ -946,6 +955,7 @@
         <div>
           <p class="site-footer__heading">Fahrzeug verkaufen</p>
           <ul class="site-footer__nav">
+            <li><a href="nutzfahrzeug-ankauf">Was wir ankaufen</a></li>
             <li><a href="reisebus-verkaufen">Reisebus verkaufen</a></li>
             <li><a href="linienbus-verkaufen">Linienbus verkaufen</a></li>
             <li><a href="lkw-verkaufen">LKW verkaufen</a></li>

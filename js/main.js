@@ -39,8 +39,8 @@
     });
   }
 
-  /* ------------------------------------ Untermenüs (Ankauf- und Exportseiten)
-     "Unsere Arbeit" und "Export": Desktop mit Maus – Hover (oder Tastatur-Fokus) klappt das
+  /* ------------------------------------ Untermenüs (Fahrzeug-, Ankauf- und Exportseiten)
+     "Fahrzeuge", "Unsere Arbeit" und "Export": Desktop mit Maus – Hover (oder Tastatur-Fokus) klappt das
      Dropdown auf, Klick öffnet direkt den ersten Unterpunkt. Handy/Touch – Antippen klappt
      im Menü auf. Klick daneben oder Escape schließt es; es ist immer nur eins offen. */
   var subItems = document.querySelectorAll('.nav-item--sub');

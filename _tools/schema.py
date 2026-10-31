@@ -109,6 +109,8 @@ SERVICES = {
     'export': ('Export und Verzollung von Nutzfahrzeugen', 'Export gebrauchter Nutzfahrzeuge'),
     'export-eu': ('Export von Nutzfahrzeugen in die EU', 'Innergemeinschaftliche Lieferung gebrauchter Nutzfahrzeuge'),
     'export-drittland': ('Export von Nutzfahrzeugen in Drittländer', 'Ausfuhr und Zollabfertigung gebrauchter Nutzfahrzeuge'),
+    'gebrauchte-nutzfahrzeuge': ('Verkauf gebrauchter Nutzfahrzeuge', 'Verkauf gebrauchter LKW, Busse und Transporter'),
+    'nutzfahrzeug-ankauf': ('Ankauf von Nutzfahrzeugen', 'Ankauf gebrauchter Nutzfahrzeuge, Betontechnik und Baumaschinen'),
 }
 # Kurznamen für die Brotkrumen (wie in Navigation und Footer)
 CRUMB = {
@@ -119,12 +121,14 @@ CRUMB = {
     'bau-und-kommunalfahrzeuge-verkaufen': 'Bau- und Kommunalfahrzeuge verkaufen',
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
     'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
+    'gebrauchte-nutzfahrzeuge': 'Was wir regelmäßig anbieten', 'nutzfahrzeug-ankauf': 'Was wir ankaufen',
 }
 # Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
 PARENT = {k: 'unsere-arbeit' for k in (
     'reisebus-verkaufen', 'linienbus-verkaufen', 'lkw-verkaufen', 'transporter-verkaufen',
     'bau-und-kommunalfahrzeuge-verkaufen', 'fuhrpark-verkaufen')}
 PARENT.update({'export-eu': 'export', 'export-drittland': 'export'})   # Untermenü "Export"
+PARENT.update({'gebrauchte-nutzfahrzeuge': 'fahrzeuge', 'nutzfahrzeug-ankauf': 'fahrzeuge'})   # Untermenü "Fahrzeuge"
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
 EXPORT_AREA += [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
 AREA = {
@@ -132,6 +136,7 @@ AREA = {
     'export-eu': [{'@type': 'Place', 'name': 'Europäische Union'}],
     'export-drittland': [{'@type': 'Continent', 'name': n} for n in ('Asien', 'Afrika')]
                         + [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')],
+    'gebrauchte-nutzfahrzeuge': [{'@type': 'Country', 'name': 'Deutschland'}] + EXPORT_AREA,
 }
 
 

@@ -2,6 +2,8 @@
 
 schema.py schreibt daraus WebPage.keywords und, auf Seiten mit Service, Service.brand.
 Erfans Wunsch (25.10.2026): Fahrzeugnamen nicht als Text auf der Website, nur im Hintergrund.
+Ausnahme (31.10.2026, Erfans Auftrag): /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf nennen
+typische Modelle aus der Software sichtbar (Actros MP1–MP5, Betontechnik, Radlader).
 Bewusst nicht enthalten: Zustand (Defekt, Unfall, hohe Laufleistung) und Sofortzahlung.
 """
 
@@ -116,6 +118,19 @@ VARIANTEN_TRANSPORTER = ['Kastenwagen', 'Hochdach', 'Maxi', 'L2H2', 'L3H2', 'L3H
 KOMMUNAL = ['Kehrmaschine', 'Müllwagen', 'Saugwagen', 'Kanalreinigungsfahrzeug', 'Winterdienstfahrzeug', 'Streuer',
             'Hubsteiger', 'Arbeitsbühne', 'Feuerwehrfahrzeug', 'Baumaschinen', 'Kommunaltechnik']
 
+# Typen aus der Software (Verkäufe und Einkäufe, Stand 31.10.2026)
+ANGEBOT = [
+    ('MAN', 'TGL, TGM, TGS, TGS 6x4, TGX'),
+    ('Mercedes-Benz', 'Atego, Actros, Arocs, Sprinter, Travego, Tourino'),
+    ('Scania', 'R 500'), ('Volvo', 'FH'), ('Iveco', 'Eurocargo, S-Way'),
+    ('Krone', ''), ('Schmitz Cargobull', 'Kippmulde'), ('Langendorf', ''), ('Meiller', 'Kipper'),
+    ('VW', 'Crafter'), ('Ford', 'Transit Custom'),
+]
+ANKAUF = ANGEBOT + [
+    ('Mercedes-Benz', 'Actros MP1, Actros MP2, Actros MP3, Actros MP4, Actros MP5, Antos, Axor, Econic, Citaro, Integro, Tourismo'),
+    ('MAN', 'Lion’s City'), ('Setra', ''), ('DAF', ''),
+]
+
 # Seite -> (Marken/Modelle, weitere Begriffe)
 SEITEN = {
     '': ([], TYPEN + REGION),
@@ -132,6 +147,20 @@ SEITEN = {
                               'Ausfuhrbegleitdokument', 'Ausgangsvermerk', 'Ausfuhrkennzeichen', 'Ausfuhrlieferung',
                               'Verzollung', 'Busexport', 'LKW Export', 'Export Afrika', 'Export Naher Osten',
                               'Export Osteuropa', 'Fahrzeuge exportieren']),
+    'gebrauchte-nutzfahrzeuge': (ANGEBOT, ['Nutzfahrzeuge gebraucht kaufen', 'LKW gebraucht kaufen', 'gebrauchte LKW',
+                                 'Verteiler LKW gebraucht', '7,5 Tonner gebraucht', '12 Tonner gebraucht',
+                                 'Koffer LKW mit Ladebordwand', 'Sattelzugmaschine gebraucht', 'Kipper gebraucht',
+                                 'Sattelauflieger gebraucht', 'Kippmulde Auflieger', 'Sprinter gebraucht',
+                                 'Kastenwagen gebraucht', 'Reisebus gebraucht', 'Kleinbus gebraucht',
+                                 'Nutzfahrzeughändler', 'Nutzfahrzeuge Hannover', 'LKW Händler Hannover']),
+    'nutzfahrzeug-ankauf': (ANKAUF, ['Nutzfahrzeug Ankauf', 'Nutzfahrzeuge Ankauf Hannover', 'Nutzfahrzeug verkaufen',
+                            'LKW Ankauf', 'Bus Ankauf', 'Linienbus Ankauf', 'Transporter Ankauf',
+                            'Betonmischer verkaufen', 'Betonmischer Ankauf', 'Fahrmischer Ankauf',
+                            'Betonpumpe verkaufen', 'Autobetonpumpe Ankauf', 'Radlader verkaufen', 'Radlader Ankauf',
+                            'Baumaschinen Ankauf', 'Baumaschinen verkaufen', 'Aufsitzmäher Ankauf',
+                            'Kehrmaschine verkaufen', 'Kommunalfahrzeuge verkaufen', 'Sattelauflieger verkaufen',
+                            'Actros MP1 verkaufen', 'Actros MP2 verkaufen', 'Actros MP3 verkaufen',
+                            'Actros MP4 verkaufen', 'Actros MP5 verkaufen', 'Antos verkaufen', 'Flotte verkaufen', 'Ankauf mit Abholung']),
     'unsere-arbeit': ([], ['Nutzfahrzeug Ankauf', 'Nutzfahrzeug verkaufen', 'Ankauf mit Abholung']),
     'faq': ([], ['Nutzfahrzeug Ankauf', 'Nutzfahrzeug verkaufen']),
     'kontakt': ([], REGION),

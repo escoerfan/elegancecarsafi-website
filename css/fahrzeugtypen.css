@@ -1,0 +1,149 @@
+/* ====================================================================
+   Fahrzeug-Unterseiten: /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf
+   Bewusst anders als die übrigen Unterseiten (Erfans Wunsch, 31.10.2026):
+   Seitenkopf mit Hof-Foto und Overlay, ruhiger Textblock, große Typo-Liste
+   der Fahrzeugtypen, Actros-Abschnitt mit Foto.
+   Schrift höchstens 400 wie überall.
+   ==================================================================== */
+
+/* ------------------------------------------- Seitenkopf mit Foto + Overlay */
+.page-hero--photo {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  min-height: min(88vh, 820px);
+  display: flex;
+  align-items: flex-end;
+  padding-block: 190px 96px;
+}
+.page-hero--photo .page-hero__bg { position: absolute; inset: 0; z-index: -2; }
+.page-hero--photo .page-hero__bg picture { display: block; height: 100%; }
+.page-hero--photo .page-hero__bg img { width: 100%; height: 100%; object-fit: cover; }
+.page-hero--photo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(90deg, rgba(6, 6, 6, 0.86) 0%, rgba(6, 6, 6, 0.6) 55%, rgba(6, 6, 6, 0.4) 100%),
+    linear-gradient(0deg, rgba(6, 6, 6, 0.7) 0%, rgba(6, 6, 6, 0) 45%);
+}
+.page-hero--photo .container { width: 100%; }
+.page-hero--photo .page-hero__lead { color: rgba(255, 255, 255, 0.86); }
+
+/* ------------------------------------------------ Textblock (weiß, ohne Foto) */
+.statement { padding-block: 130px 140px; background: var(--white); color: var(--ink-soft); }
+.statement__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(40px, 7vw, 110px);
+}
+.statement .eyebrow, .statement .h2 { color: var(--ink); }
+.statement__text { display: grid; gap: 22px; align-content: start; padding-top: 6px; }
+.statement__text .lead { color: var(--ink-soft); font-size: 20px; }
+.statement :focus-visible { outline-color: var(--ink); }
+
+/* -------------------------------------------------- Typo-Liste Fahrzeugtypen
+   Weiße Fläche, Titel in normaler Schreibweise, große Fotos rechts (Erfans Wunsch).
+   Typ ohne eigenes Foto: Titel und Text nebeneinander, ohne Platzhalter. */
+.typo { padding-block: 130px 150px; background: var(--white); color: var(--ink-soft); }
+.statement + .typo { border-top: 1px solid var(--line-dark); padding-top: clamp(64px, 7vw, 100px); }
+.statement:has(+ .typo) { padding-bottom: clamp(64px, 7vw, 100px); }
+.typo .eyebrow, .typo .h2 { color: var(--ink); }
+.typo .lead { color: var(--ink-soft); }
+.typo .btn--primary { background: var(--bg-gradient); color: var(--white); border-color: var(--ink); }
+.typo .btn--primary:hover { background: #3a3a3a; border-color: #3a3a3a; }
+.typo :focus-visible { outline-color: var(--ink); }
+.typo__head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 48px;
+  align-items: end;
+  margin-bottom: 64px;
+}
+.typo__head .eyebrow { grid-column: 1 / -1; }
+.typo__head .lead { max-width: 640px; margin-top: 18px; }
+.typo__list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line-dark); }
+.typo__row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: clamp(40px, 6vw, 96px);
+  align-items: center;
+  padding-block: 56px;
+  border-bottom: 1px solid var(--line-dark);
+}
+/* Titel und Text als ein Block, senkrecht mittig neben dem Foto */
+.typo__body { display: grid; gap: 20px; max-width: 560px; }
+/* Typ ohne Foto: Titel links, Text rechts – fluchtet mit den Foto-Spalten */
+.typo__row--plain { padding-block: 44px; align-items: start; }
+.typo__row--plain .typo__body {
+  grid-column: 1 / -1;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: clamp(40px, 6vw, 96px);
+  max-width: none;
+}
+.typo__title {
+  font-size: clamp(30px, 3.2vw, 48px);
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  overflow-wrap: break-word;   /* nur trennen, wenn ein Wort sonst überläuft */
+}
+.typo__sub { margin-top: 10px; font-size: 17px; color: #7a7a7a; }
+.typo__text { font-size: 19px; line-height: 1.6; color: var(--ink-soft); }
+.typo__media { position: relative; aspect-ratio: 3 / 2; overflow: hidden; background: #f2f2f2; }
+.typo__media picture { display: block; height: 100%; }
+.typo__media img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s var(--ease);
+}
+@media (hover: hover) {
+  .typo__row:hover .typo__media img { transform: scale(1.04); }
+}
+
+/* ------------------------------------------------ Actros: Foto mit Overlay */
+.mp-feature {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  padding-block: 150px;
+  border-top: 1px solid var(--line);
+}
+.mp-feature__bg { position: absolute; inset: 0; z-index: -2; }
+.mp-feature__bg picture { display: block; height: 100%; }
+.mp-feature__bg img { width: 100%; height: 100%; object-fit: cover; object-position: 60% 50%; }
+.mp-feature::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(90deg, rgba(6, 6, 6, 0.88) 0%, rgba(6, 6, 6, 0.7) 50%, rgba(6, 6, 6, 0.35) 100%);
+}
+.mp-feature__content { max-width: 640px; }
+.mp-feature__text { display: grid; gap: 16px; margin-top: 28px; }
+.mp-feature__text .lead { color: rgba(255, 255, 255, 0.86); }
+
+/* ------------------------------------------------------------------- Handy */
+/* Handy und kleines Tablet: Titel, Text, Foto in voller Breite untereinander */
+@media (max-width: 767px) {
+  .typo__row, .typo__row--plain { grid-template-columns: minmax(0, 1fr); row-gap: 22px; padding-block: 36px; }
+  .typo__row--plain .typo__body { grid-template-columns: minmax(0, 1fr); }
+  .typo__title { font-size: clamp(26px, 7vw, 32px); }
+  .typo__text { font-size: 17px; }
+}
+@media (max-width: 991px) {
+  .statement__grid { grid-template-columns: minmax(0, 1fr); gap: 28px; }
+}
+@media (max-width: 640px) {
+  .page-hero--photo { min-height: 0; padding-block: 150px 64px; }
+  .statement, .typo { padding-block: 90px 100px; }
+  .typo__head { grid-template-columns: minmax(0, 1fr); row-gap: 24px; margin-bottom: 40px; }
+  .mp-feature { padding-block: 100px; }
+  .mp-feature::after { background: rgba(6, 6, 6, 0.72); }
+}
+
+/* Arabisch (rtl): Bildflächen bleiben links-nach-rechts angeordnet wie auf den übrigen Seiten */
+html[dir="rtl"] .page-hero--photo::after,
+html[dir="rtl"] .mp-feature::after { transform: scaleX(-1); }
