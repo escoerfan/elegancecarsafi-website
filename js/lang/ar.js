@@ -1067,5 +1067,31 @@
   "Bagger, Radlader, Aufsitzmäher und Maschinen aus dem Garten- und Landschaftsbau.": "حفارات ولوادر وجزازات عشب راكبة وآلات تنسيق الحدائق.",
   "Mercedes-Benz Sprinter Kleinbus in Braun von hinten": "حافلة صغيرة مرسيدس-بنز سبرينتر بنية من الخلف",
   "Linienbus Mercedes-Benz Citaro in Weiß": "حافلة نقل عام مرسيدس-بنز سيتارو بيضاء",
-  "Radlader Caterpillar 924H auf einem Tieflader": "لودر كاتربيلر 924H على مقطورة منخفضة"
+  "Radlader Caterpillar 924H auf einem Tieflader": "لودر كاتربيلر 924H على مقطورة منخفضة",
+
+  /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
+  "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "نشتري الشاحنات المستعملة من شركات الشحن والشركات.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "رأس قاطرة أو شاحنة توزيع أو قلاب: تحصلون على عرض واضح ودفع بالتحويل البنكي أو نقدًا واستلام من قِبل سائقينا.",
+  "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "نشتري الحافلات السياحية المستعملة مباشرة من شركات الحافلات.",
+  "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "سواء كانت حافلة سياحية واحدة أو عدة حافلات: تحصلون على تقييم سريع ودفع واضح واستلام من قِبل سائقينا.",
+  "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "نشتري حافلات المدن والحافلات المفصلية وحافلات الخطوط بين المدن من شركات النقل.",
+  "Ihre Linienbusse werden ausgemustert, weil eine Konzession endet oder neue Fahrzeuge kommen? Wir übernehmen sie einzeln oder als ganze Serie.": "هل يتم إخراج حافلات الخطوط لديكم من الخدمة لانتهاء امتياز أو لوصول مركبات جديدة؟ نستلمها منفردة أو كسلسلة كاملة.",
+  "Wir kaufen Transporter und Kastenwagen von Unternehmen an.": "نشتري مركبات النقل الخفيفة والفانات المغلقة من الشركات.",
+  "Ob einzelner Kastenwagen oder mehrere Fahrzeuge aus Ihrem Betrieb: Wir kaufen Transporter wie Mercedes-Benz Sprinter, VW Crafter und Ford Transit an – unkompliziert und mit Abholung durch unsere Fahrer.": "سواء كانت فانًا واحدًا أو عدة مركبات من شركتكم: نشتري مركبات النقل مثل Mercedes-Benz Sprinter وVW Crafter وFord Transit – دون تعقيد ومع الاستلام من قِبل سائقينا.",
+  "Wir kaufen Fahrzeuge von Bauunternehmen, Kommunen und Dienstleistern an.": "نشتري المركبات من شركات البناء والبلديات ومقدمي الخدمات.",
+  "Kipper, Betonmischer, Unimog oder Winterdienstfahrzeug: Wir bewerten auch die Aufbauten, zahlen klar und holen das Fahrzeug mit unseren Fahrern ab.": "قلاب أو خلاطة خرسانة أو Unimog أو مركبة خدمات شتوية: نقيّم الهياكل أيضًا وندفع بوضوح ونستلم المركبة بسائقينا.",
+  "Wir übernehmen ganze Flotten in einem Paket.": "نستلم أساطيل كاملة في صفقة واحدة.",
+  "Sie möchten mehrere Firmenfahrzeuge oder einen ganzen Fuhrpark abgeben? Sie bekommen eine Bewertung für alle Fahrzeuge, einen Vertrag und eine Abholung nach Ihrem Zeitplan.": "هل تريدون التخلي عن عدة مركبات للشركة أو عن أسطول كامل؟ تحصلون على تقييم واحد لجميع المركبات وعقد واحد واستلام وفق جدولكم الزمني.",
+  "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "تشتري شركة ECS GmbH من غيردن قرب هانوفر المركبات التجارية المستعملة.",
+  "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "شاحنات أو حافلات أو مركبات نقل أو خلاطات خرسانة أو مضخات خرسانة أو آلات بناء أو أسطول كامل: نقيّم ونقدم عرضًا واضحًا ونستلم المركبة.",
+  "Diese Fahrzeuge verkaufen wir immer wieder.": "هذه هي المركبات التي نبيعها مرارًا وتكرارًا.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع ورؤوس القاطرات والقلابات والمقطورات النصفية ومركبات النقل والحافلات واللوادر ذات العجلات: ما يقف حاليًا في ساحتنا في غيردن قرب هانوفر يعرضه المخزون الحالي.",
+  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "حافلات سياحية وحافلات مدن وشاحنات ورؤوس قاطرات ومركبات نقل، وأيضًا للتصدير.",
+  "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "بصفتنا تاجر مركبات تجارية من غيردن قرب هانوفر، يسعدنا مساعدتكم في العثور على المركبة المناسبة أو في بيع أسطولكم الحالي. كما يمكن قبول مركبتكم كجزء من الثمن. اتصلوا بنا اليوم.",
+  "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "مع المستندات الصحيحة يبقى التسليم معفى من ضريبة القيمة المضافة.",
+  "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "هل تشترون كشركة من دولة في الاتحاد الأوروبي حافلة أو شاحنة أو مركبة نقل من ECS Exclusive Commerce Services GmbH في غيردن قرب هانوفر؟ نخبركم بالمستندات التي تحتاجونها لكي يتم التصدير بسلاسة.",
+  "Ausfuhrpapiere und Zollabwicklung in Deutschland aus einer Hand.": "أوراق التصدير والتخليص الجمركي في ألمانيا من مصدر واحد.",
+  "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt alles von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "هل ستذهب حافلتكم أو شاحنتكم أو مركبة النقل إلى بلد خارج الاتحاد الأوروبي؟ تتولى ECS Exclusive Commerce Services GmbH في غيردن قرب هانوفر كل شيء، من بيان التصدير حتى تأشيرة الخروج.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung.": "خمس خطوات من أول اتصال حتى الاستلام.",
+  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "للمركبات المنفردة تمامًا كما للأساطيل الكاملة. في كل خطوة تقررون بأنفسكم كيف تستمرون. كما يمكن قبول مركبة كجزء من الثمن عند شراء مركبة من مخزوننا."
 };

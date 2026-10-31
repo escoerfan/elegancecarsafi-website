@@ -1081,5 +1081,31 @@
   "Bagger, Radlader, Aufsitzmäher und Maschinen aus dem Garten- und Landschaftsbau.": "Excavators, wheel loaders, ride-on mowers and landscaping machines.",
   "Mercedes-Benz Sprinter Kleinbus in Braun von hinten": "Brown Mercedes-Benz Sprinter minibus from behind",
   "Linienbus Mercedes-Benz Citaro in Weiß": "White Mercedes-Benz Citaro city bus",
-  "Radlader Caterpillar 924H auf einem Tieflader": "Caterpillar 924H wheel loader on a low-loader"
+  "Radlader Caterpillar 924H auf einem Tieflader": "Caterpillar 924H wheel loader on a low-loader",
+
+  /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
+  "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "We buy used trucks from haulage companies and businesses.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "Tractor unit, distribution truck or tipper: you get a clear offer, payment by bank transfer or in cash, and collection by our drivers.",
+  "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "We buy used coaches directly from bus companies.",
+  "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "Whether a single coach or several buses: you get a fast valuation, clear payment and collection by our own drivers.",
+  "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "We buy city, articulated and intercity buses from transport companies.",
+  "Ihre Linienbusse werden ausgemustert, weil eine Konzession endet oder neue Fahrzeuge kommen? Wir übernehmen sie einzeln oder als ganze Serie.": "Are your city buses being retired because a concession is ending or new vehicles are arriving? We take them over individually or as an entire series.",
+  "Wir kaufen Transporter und Kastenwagen von Unternehmen an.": "We buy vans and panel vans from businesses.",
+  "Ob einzelner Kastenwagen oder mehrere Fahrzeuge aus Ihrem Betrieb: Wir kaufen Transporter wie Mercedes-Benz Sprinter, VW Crafter und Ford Transit an – unkompliziert und mit Abholung durch unsere Fahrer.": "Whether a single panel van or several vehicles from your business: we buy vans such as the Mercedes-Benz Sprinter, VW Crafter and Ford Transit – uncomplicated and with collection by our drivers.",
+  "Wir kaufen Fahrzeuge von Bauunternehmen, Kommunen und Dienstleistern an.": "We buy vehicles from construction companies, municipalities and service providers.",
+  "Kipper, Betonmischer, Unimog oder Winterdienstfahrzeug: Wir bewerten auch die Aufbauten, zahlen klar und holen das Fahrzeug mit unseren Fahrern ab.": "Tipper, concrete mixer, Unimog or winter service vehicle: we also value the bodies, pay clearly and collect the vehicle with our drivers.",
+  "Wir übernehmen ganze Flotten in einem Paket.": "We take over entire fleets in one package.",
+  "Sie möchten mehrere Firmenfahrzeuge oder einen ganzen Fuhrpark abgeben? Sie bekommen eine Bewertung für alle Fahrzeuge, einen Vertrag und eine Abholung nach Ihrem Zeitplan.": "Do you want to hand over several company vehicles or an entire fleet? You get one valuation for all vehicles, one contract and collection on your schedule.",
+  "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH from Gehrden near Hanover buys used commercial vehicles.",
+  "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Trucks, buses, vans, concrete mixers, concrete pumps, construction machinery or an entire fleet: we value, make a clear offer and collect the vehicle.",
+  "Diese Fahrzeuge verkaufen wir immer wieder.": "These are the vehicles we sell again and again.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses and wheel loaders: what is currently on our yard in Gehrden near Hanover is shown in our current stock.",
+  "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Coaches, city buses, trucks, tractor units and vans, also for export.",
+  "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "As a commercial vehicle dealer from Gehrden near Hanover, we are happy to help you find the right vehicle or sell your current fleet. A trade-in of your vehicle is also possible. Call us today.",
+  "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "With the right documents, the delivery remains VAT-exempt.",
+  "Sie kaufen als Unternehmen aus einem EU-Land einen Bus, LKW oder Transporter bei der ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover? Wir sagen Ihnen, welche Unterlagen Sie brauchen, damit der Export reibungslos läuft.": "Are you a company from an EU country buying a bus, truck or van from ECS Exclusive Commerce Services GmbH in Gehrden near Hanover? We tell you which documents you need so that the export runs smoothly.",
+  "Ausfuhrpapiere und Zollabwicklung in Deutschland aus einer Hand.": "Export papers and customs clearance in Germany from a single source.",
+  "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt alles von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "Is your bus, truck or van going to a country outside the EU? ECS Exclusive Commerce Services GmbH in Gehrden near Hanover handles everything from the export declaration to the exit endorsement.",
+  "Fünf Schritte vom ersten Anruf bis zur Abholung.": "Five steps from the first call to collection.",
+  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "For single vehicles just as for entire fleets. At every step you decide yourself how to proceed. A trade-in when buying a vehicle from our stock is also possible."
 };
