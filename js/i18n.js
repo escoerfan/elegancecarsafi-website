@@ -21,7 +21,7 @@
   ];
   var RTL = { ar: true };
   var STORE_KEY = 'ecs-lang';
-  var VERSION = '20261031g';
+  var VERSION = '20261031h';
   var ATTRS = ['alt', 'aria-label', 'placeholder', 'title'];
   var SKIP_TAGS = { SCRIPT: 1, STYLE: 1, NOSCRIPT: 1, svg: 1, SVG: 1, TEXTAREA: 1 };
 

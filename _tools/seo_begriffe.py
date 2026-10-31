@@ -125,6 +125,7 @@ ANGEBOT = [
     ('Scania', 'R 500'), ('Volvo', 'FH'), ('Iveco', 'Eurocargo, S-Way'),
     ('Krone', ''), ('Schmitz Cargobull', 'Kippmulde'), ('Langendorf', ''), ('Meiller', 'Kipper'),
     ('VW', 'Crafter'), ('Ford', 'Transit Custom'),
+    ('Mercedes-Benz', 'Citaro, Integro, Sprinter Kleinbus'), ('MAN', 'Lion’s City'), ('Caterpillar', '924H'),
 ]
 ANKAUF = ANGEBOT + [
     ('Mercedes-Benz', 'Actros MP1, Actros MP2, Actros MP3, Actros MP4, Actros MP5, Antos, Axor, Econic, Citaro, Integro, Tourismo'),
@@ -151,12 +152,13 @@ SEITEN = {
                                  'Verteiler LKW gebraucht', '7,5 Tonner gebraucht', '12 Tonner gebraucht',
                                  'Koffer LKW mit Ladebordwand', 'Sattelzugmaschine gebraucht', 'Kipper gebraucht',
                                  'Sattelauflieger gebraucht', 'Kippmulde Auflieger', 'Sprinter gebraucht',
-                                 'Kastenwagen gebraucht', 'Reisebus gebraucht', 'Kleinbus gebraucht',
+                                 'Kastenwagen gebraucht', 'Reisebus gebraucht', 'Omnibus gebraucht', 'Kleinbus gebraucht',
+                                 'Linienbus gebraucht', 'Citaro gebraucht', 'Radlader gebraucht', 'Bagger gebraucht',
                                  'Nutzfahrzeughändler', 'Nutzfahrzeuge Hannover', 'LKW Händler Hannover']),
     'nutzfahrzeug-ankauf': (ANKAUF, ['Nutzfahrzeug Ankauf', 'Nutzfahrzeuge Ankauf Hannover', 'Nutzfahrzeug verkaufen',
                             'LKW Ankauf', 'Bus Ankauf', 'Linienbus Ankauf', 'Transporter Ankauf',
                             'Betonmischer verkaufen', 'Betonmischer Ankauf', 'Fahrmischer Ankauf',
-                            'Betonpumpe verkaufen', 'Autobetonpumpe Ankauf', 'Radlader verkaufen', 'Radlader Ankauf',
+                            'Betonpumpe verkaufen', 'Autobetonpumpe Ankauf', 'Radlader verkaufen', 'Radlader Ankauf', 'Bagger verkaufen', 'Kleinbus verkaufen', 'Omnibus verkaufen',
                             'Baumaschinen Ankauf', 'Baumaschinen verkaufen', 'Aufsitzmäher Ankauf',
                             'Kehrmaschine verkaufen', 'Kommunalfahrzeuge verkaufen', 'Sattelauflieger verkaufen',
                             'Actros MP1 verkaufen', 'Actros MP2 verkaufen', 'Actros MP3 verkaufen',

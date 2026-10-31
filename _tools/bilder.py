@@ -40,6 +40,9 @@ PHOTOS = {
     'export-drittland-actros-schwarz.webp': [960, 1320],
     # Gebrauchte Nutzfahrzeuge: Sattelauflieger mit Kippmulde (Foto aus dem Chat, nur 1024 px)
     'angebot-auflieger-kippmulde.webp': [720, 1024],
+    'angebot-kleinbus-sprinter.webp': [960, 1448],
+    'angebot-radlader-cat.webp': [720, 877],        # nur 877 px aus dem Chat
+    'angebot-linienbus-citaro.webp': [720, 889],    # nur 889 px aus dem Chat
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
 }
