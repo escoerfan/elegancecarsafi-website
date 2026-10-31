@@ -103,31 +103,31 @@
   .typo__row:hover .typo__media img { transform: scale(1.04); }
 }
 
-/* ------------------------------------------------ Actros: Foto mit Overlay */
+/* ---------------------------------------- Actros: weiß, Text links, kleines Foto rechts */
 .mp-feature {
-  position: relative;
-  overflow: hidden;
-  isolation: isolate;
-  padding-block: 150px;
-  border-top: 1px solid var(--line);
+  padding-block: clamp(64px, 7vw, 100px) 130px;
+  background: var(--white);
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line-dark);
 }
-.mp-feature__bg { position: absolute; inset: 0; z-index: -2; }
-.mp-feature__bg picture { display: block; height: 100%; }
-.mp-feature__bg img { width: 100%; height: 100%; object-fit: cover; object-position: 60% 50%; }
-.mp-feature::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: -1;
-  background: linear-gradient(90deg, rgba(6, 6, 6, 0.88) 0%, rgba(6, 6, 6, 0.7) 50%, rgba(6, 6, 6, 0.35) 100%);
+.mp-feature .eyebrow, .mp-feature .h2 { color: var(--ink); }
+.mp-feature__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 440px);
+  gap: clamp(40px, 7vw, 110px);
+  align-items: center;
 }
-.mp-feature__content { max-width: 640px; }
+.mp-feature__content { max-width: 680px; }
 .mp-feature__text { display: grid; gap: 16px; margin-top: 28px; }
-.mp-feature__text .lead { color: rgba(255, 255, 255, 0.86); }
+.mp-feature__text .lead { color: var(--ink-soft); }
+.mp-feature__media { aspect-ratio: 3 / 2; overflow: hidden; }
+.mp-feature__media picture { display: block; height: 100%; }
+.mp-feature__media img { width: 100%; height: 100%; object-fit: cover; }
+.mp-feature + .faq { border-top: 1px solid var(--line-dark); }
 
-/* ------------------------------------------------------------------- Handy */
 /* Handy und kleines Tablet: Titel, Text, Foto in voller Breite untereinander */
 @media (max-width: 767px) {
+  .mp-feature__grid { grid-template-columns: minmax(0, 1fr); gap: 32px; }
   .typo__row, .typo__row--plain { grid-template-columns: minmax(0, 1fr); row-gap: 22px; padding-block: 36px; }
   .typo__row--plain .typo__body { grid-template-columns: minmax(0, 1fr); }
   .typo__title { font-size: clamp(26px, 7vw, 32px); }
@@ -140,10 +140,8 @@
   .page-hero--photo { min-height: 0; padding-block: 150px 64px; }
   .statement, .typo { padding-block: 90px 100px; }
   .typo__head { grid-template-columns: minmax(0, 1fr); row-gap: 24px; margin-bottom: 40px; }
-  .mp-feature { padding-block: 100px; }
-  .mp-feature::after { background: rgba(6, 6, 6, 0.72); }
+  .mp-feature { padding-block: 64px 90px; }
 }
 
 /* Arabisch (rtl): Bildflächen bleiben links-nach-rechts angeordnet wie auf den übrigen Seiten */
-html[dir="rtl"] .page-hero--photo::after,
-html[dir="rtl"] .mp-feature::after { transform: scaleX(-1); }
+html[dir="rtl"] .page-hero--photo::after { transform: scaleX(-1); }
