@@ -38,6 +38,8 @@ PHOTOS = {
     'export-eu-actros-rot.webp': [960, 1320],
     'export-eu-atego-plane.webp': [960, 1320],
     'export-drittland-actros-schwarz.webp': [960, 1320],
+    # Gebrauchte Nutzfahrzeuge: Sattelauflieger mit Kippmulde (Foto aus dem Chat, nur 1024 px)
+    'angebot-auflieger-kippmulde.webp': [720, 1024],
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
 }

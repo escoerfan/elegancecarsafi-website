@@ -1069,5 +1069,8 @@
   "Verteiler-LKW": "Distribution trucks",
   "7,5 bis 12 Tonnen": "7.5 to 12 tonnes",
   "Mittelschwere LKW": "Medium-duty trucks",
-  "12 bis 18 Tonnen": "12 to 18 tonnes"
+  "12 bis 18 Tonnen": "12 to 18 tonnes",
+
+  /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
+  "Sattelauflieger mit Kippmulde auf dem Hof": "Semi-trailer with tipping body on the yard"
 };

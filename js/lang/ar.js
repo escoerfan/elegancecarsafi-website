@@ -1055,5 +1055,8 @@
   "Verteiler-LKW": "شاحنات التوزيع",
   "7,5 bis 12 Tonnen": "من 7.5 إلى 12 طنًا",
   "Mittelschwere LKW": "شاحنات متوسطة",
-  "12 bis 18 Tonnen": "من 12 إلى 18 طنًا"
+  "12 bis 18 Tonnen": "من 12 إلى 18 طنًا",
+
+  /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
+  "Sattelauflieger mit Kippmulde auf dem Hof": "نصف مقطورة بصندوق قلاب في الساحة"
 };

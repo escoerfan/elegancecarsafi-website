@@ -1055,5 +1055,8 @@
   "Verteiler-LKW": "Ciężarówki dystrybucyjne",
   "7,5 bis 12 Tonnen": "7,5–12 ton",
   "Mittelschwere LKW": "Średnie ciężarówki",
-  "12 bis 18 Tonnen": "12–18 ton"
+  "12 bis 18 Tonnen": "12–18 ton",
+
+  /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
+  "Sattelauflieger mit Kippmulde auf dem Hof": "Naczepa z wywrotką na placu"
 };

@@ -1055,5 +1055,8 @@
   "Verteiler-LKW": "Camiones de reparto",
   "7,5 bis 12 Tonnen": "de 7,5 a 12 toneladas",
   "Mittelschwere LKW": "Camiones medios",
-  "12 bis 18 Tonnen": "de 12 a 18 toneladas"
+  "12 bis 18 Tonnen": "de 12 a 18 toneladas",
+
+  /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
+  "Sattelauflieger mit Kippmulde auf dem Hof": "Semirremolque con caja basculante en nuestras instalaciones"
 };

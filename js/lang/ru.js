@@ -1055,5 +1055,8 @@
   "Verteiler-LKW": "Развозные грузовики",
   "7,5 bis 12 Tonnen": "от 7,5 до 12 тонн",
   "Mittelschwere LKW": "Среднетоннажные грузовики",
-  "12 bis 18 Tonnen": "от 12 до 18 тонн"
+  "12 bis 18 Tonnen": "от 12 до 18 тонн",
+
+  /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
+  "Sattelauflieger mit Kippmulde auf dem Hof": "Самосвальный полуприцеп на площадке"
 };
