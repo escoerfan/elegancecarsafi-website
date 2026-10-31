@@ -618,7 +618,6 @@ details summary::-webkit-details-marker { display: none; }
    js/main.js hängt eine zweite Kopie an und setzt .is-running.
    ==================================================================== */
 .reviews {
-  --gold: #d4a62a;
   padding-block: 140px;
   background: var(--bg-gradient);
   overflow: hidden;
@@ -667,8 +666,12 @@ details summary::-webkit-details-marker { display: none; }
   transform: translateY(-8px);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
 }
-.review__stars { display: flex; gap: 3px; margin-bottom: 20px; color: var(--gold); }
-.review__stars svg { width: 18px; height: 18px; fill: currentColor; }
+.review__stars { display: flex; gap: 3px; margin-bottom: 20px; }
+/* Sterne im schwarzen Verlauf der Website (#star-gradient in index.html) */
+.review__stars svg { width: 18px; height: 18px; fill: url(#star-gradient) var(--bg); }
+.reviews__defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+#star-gradient stop:first-child { stop-color: var(--bg-top); }
+#star-gradient stop:last-child { stop-color: var(--bg-bottom); }
 .review__text {
   margin: 0 0 28px;
   font-size: 17px;
