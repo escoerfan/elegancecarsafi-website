@@ -43,6 +43,7 @@ PHOTOS = {
     'angebot-kleinbus-sprinter.webp': [960, 1448],
     'angebot-radlader-cat.webp': [720, 877],        # nur 877 px aus dem Chat
     'angebot-linienbus-citaro.webp': [720, 889],    # nur 889 px aus dem Chat
+    'angebot-spezial-econic.webp': [960, 1448],
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
 }

@@ -970,22 +970,23 @@ body .vw-section * {
 /* ====================================================================
    9 – Karte
    ==================================================================== */
-.map-wrap { padding-bottom: 24px; }
+/* Weißer Abschnitt unter dem Kontaktformular */
+.map-section { padding-block: 90px; background: var(--white); color: var(--ink-soft); }
 .map {
   height: 460px;
   width: 100%;
   border-radius: var(--radius);
   overflow: hidden;
-  background: var(--surface);
-  border: 1px solid var(--line);
+  background: #f2f2f2;
+  border: 1px solid rgba(38, 38, 38, 0.12);
 }
-/* Google-Maps-Einbettung in Schwarz-Weiß, passend zum Design */
+/* Google-Maps-Einbettung in Graustufen, passend zum Design */
 .map iframe {
   display: block;
   width: 100%;
   height: 100%;
   border: 0;
-  filter: grayscale(1) invert(1) brightness(0.88) contrast(0.9);
+  filter: grayscale(1);
 }
 
 /* Platzhalter, solange keine Einwilligung für die Karte vorliegt */
@@ -999,8 +1000,11 @@ body .vw-section * {
   padding: 32px;
   text-align: center;
 }
-.map-consent p { max-width: 520px; font-size: 15px; line-height: 1.6; color: var(--text); }
-.map-consent a { color: var(--white); text-decoration: underline; text-underline-offset: 2px; }
+.map-consent p { max-width: 520px; font-size: 15px; line-height: 1.6; color: var(--ink-soft); }
+.map-consent a { color: var(--ink); text-decoration: underline; text-underline-offset: 2px; }
+.map-section :focus-visible { outline-color: var(--ink); }
+.map-section .btn--secondary { background: transparent; color: var(--ink); border-color: rgba(38, 38, 38, 0.24); -webkit-backdrop-filter: none; backdrop-filter: none; }
+.map-section .btn--secondary:hover { background: rgba(38, 38, 38, 0.06); border-color: rgba(38, 38, 38, 0.4); }
 
 /* ====================================================================
    Cookie-Banner (js/cookie-consent.js)
@@ -1265,8 +1269,6 @@ body .vw-section * {
 }
 .contact-split__grid { display: flex; justify-content: flex-end; }
 .contact-split .form-card { width: 100%; max-width: 560px; }
-.contact-split + .map-wrap,
-.dark-block + .map-wrap { padding-top: 90px; }
 @media (max-width: 991px) {
   /* Handy/Tablet: Foto oben als Block, die Karte schiebt sich darüber */
   .contact-split { padding-block: 0 64px; }
@@ -1275,8 +1277,7 @@ body .vw-section * {
   .contact-split__media img { object-position: 30% 55%; }
   .contact-split__grid { justify-content: center; margin-top: -18vw; }
   .contact-split .form-card { max-width: 640px; }
-  .contact-split + .map-wrap,
-  .dark-block + .map-wrap { padding-top: 64px; }
+  .map-section { padding-block: 64px; }
 }
 .export-page .ecs-export-widget__inner { padding-top: clamp(130px, 12vw, 170px); }
 
@@ -1821,8 +1822,8 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 
 /* Kontakt: Textlink unter der Karte (Google Maps erst beim Klick) */
 .map-link { margin-top: 14px; font-size: 15px; }
-.map-link a { color: var(--text); text-decoration: underline; text-underline-offset: 3px; transition: color 0.2s ease; }
-.map-link a:hover { color: var(--white); }
+.map-link a { color: var(--ink-soft); text-decoration: underline; text-underline-offset: 3px; transition: color 0.2s ease; }
+.map-link a:hover { color: var(--ink); }
 
 /* Cookie-Banner: Links zu Datenschutz und Impressum */
 .cookie-banner__links { display: flex; gap: 18px; margin-top: 10px; font-size: 14px; }

@@ -978,11 +978,9 @@
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والقاطرات والقلابات والمقطورات والفانات والحافلات واللوادر: هذه هي المركبات التي نبيعها باستمرار. أما ما هو متوفر حاليًا في ساحتنا في غيردن قرب هانوفر فيعرضه المخزون الحالي.",
   "Unser Angebot": "عرضنا",
   "Vom 7,5-Tonner bis zum Reisebus": "من شاحنة 7.5 طن حتى حافلة السياحة",
-  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse sowie Radlader.": "نبيع شاحنات مستعملة من شاحنة 7.5 طن للتوزيع حتى القاطرة، إضافة إلى القلابات ونصف المقطورات والفانات والحافلات الصغيرة وحافلات السياحة والنقل العام واللوادر.",
   "Im Angebot sind Fahrzeuge von Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW und Ford.": "يشمل عرضنا مركبات من مرسيدس-بنز ومان وسكانيا وفولفو وإيفيكو وفولكس فاجن وفورد.",
   "Was gerade verfügbar ist, steht mit Bildern, Daten und Preisen im aktuellen Bestand. Ist Ihr Fahrzeug nicht dabei, nennen Sie uns Typ und Aufbau. Weil wir laufend ankaufen, kommen passende Fahrzeuge regelmäßig nach.": "ما هو متوفر الآن تجده مع الصور والبيانات والأسعار في المخزون الحالي. إذا لم تجد مركبتك، أخبرنا بالنوع والهيكل. ولأننا نشتري باستمرار، تصل مركبات مناسبة بانتظام.",
   "Diese Fahrzeuge verkaufen wir regelmäßig": "هذه هي المركبات التي نبيعها بانتظام",
-  "Zehn Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "عشرة أنواع من المركبات تتواجد في ساحتنا باستمرار، مع طرازات نموذجية.",
   "MAN TGL und Mercedes-Benz Atego, meist mit Kofferaufbau und Ladebordwand. Für Verteilerverkehr, Handel und Handwerk.": "مان TGL ومرسيدس-بنز أتيغو، غالبًا بصندوق مغلق ورافعة خلفية. للتوزيع والتجارة والحِرف.",
   "MAN TGM und Iveco Eurocargo für den regionalen Güterverkehr.": "مان TGM وإيفيكو يوروكارغو للنقل الإقليمي للبضائع.",
   "Sattelzugmaschinen": "القاطرات",
@@ -1085,7 +1083,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "تشتري شركة ECS GmbH من غيردن قرب هانوفر المركبات التجارية المستعملة.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "شاحنات أو حافلات أو مركبات نقل أو خلاطات خرسانة أو مضخات خرسانة أو آلات بناء أو أسطول كامل: نقيّم ونقدم عرضًا واضحًا ونستلم المركبة.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "هذه هي المركبات التي نبيعها مرارًا وتكرارًا.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع ورؤوس القاطرات والقلابات والمقطورات النصفية ومركبات النقل والحافلات واللوادر ذات العجلات: ما يقف حاليًا في ساحتنا في غيردن قرب هانوفر يعرضه المخزون الحالي.",
   "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "حافلات سياحية وحافلات مدن وشاحنات ورؤوس قاطرات ومركبات نقل، وأيضًا للتصدير.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "بصفتنا تاجر مركبات تجارية من غيردن قرب هانوفر، يسعدنا مساعدتكم في العثور على المركبة المناسبة أو في بيع أسطولكم الحالي. كما يمكن قبول مركبتكم كجزء من الثمن. اتصلوا بنا اليوم.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "مع المستندات الصحيحة يبقى التسليم معفى من ضريبة القيمة المضافة.",
@@ -1100,5 +1097,13 @@
   "Persönlich, schnell und ohne Umwege.": "تواصل شخصي وسريع ودون تعقيد.",
 
   /* ---- Export: Weltkarte unten (01.11.2026) ---- */
-  "Von Deutschland in die Welt.": "من ألمانيا إلى العالم."
+  "Von Deutschland in die Welt.": "من ألمانيا إلى العالم.",
+
+  /* ---- Spezialfahrzeuge (Econic) ---- */
+  "Spezialfahrzeuge": "مركبات خاصة",
+  "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "مرسيدس-بنز إيكونيك وهياكل أخرى بتجهيزات خاصة، على سبيل المثال من الاستخدام البلدي.",
+  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "مرسيدس-بنز إيكونيك أبيض بصندوق مغلق في ساحتنا",
+  "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "أحد عشر نوعًا من المركبات تتواجد باستمرار في ساحتنا، مع طرازات نموذجية.",
+  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "نبيع شاحنات مستعملة من شاحنات التوزيع بوزن 7.5 طن حتى الشاحنات القاطرة، بالإضافة إلى القلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات الصغيرة والحافلات السياحية وحافلات النقل العام واللوادر ذات العجلات والمركبات الخاصة.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والشاحنات القاطرة والقلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات واللوادر ذات العجلات والمركبات الخاصة: ما هو متوفر حاليًا في ساحتنا في غيردن بالقرب من هانوفر يظهر في مخزوننا الحالي."
 };

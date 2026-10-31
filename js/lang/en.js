@@ -992,11 +992,9 @@
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses and wheel loaders: these are the vehicles we sell again and again. What is currently on our yard in Gehrden near Hanover is shown in our current stock.",
   "Unser Angebot": "Our range",
   "Vom 7,5-Tonner bis zum Reisebus": "From 7.5-tonners to coaches",
-  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse sowie Radlader.": "We sell used trucks from the 7.5-tonner for distribution to the tractor unit, plus tippers, semi-trailers, vans, minibuses, coaches, city buses and wheel loaders.",
   "Im Angebot sind Fahrzeuge von Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW und Ford.": "Our range includes vehicles from Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW and Ford.",
   "Was gerade verfügbar ist, steht mit Bildern, Daten und Preisen im aktuellen Bestand. Ist Ihr Fahrzeug nicht dabei, nennen Sie uns Typ und Aufbau. Weil wir laufend ankaufen, kommen passende Fahrzeuge regelmäßig nach.": "What is available right now is listed in our current stock with photos, data and prices. If your vehicle is not there, tell us the type and body. Because we buy continuously, suitable vehicles come in regularly.",
   "Diese Fahrzeuge verkaufen wir regelmäßig": "These are the vehicles we sell regularly",
-  "Zehn Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Ten vehicle types that keep turning up on our yard, with typical models.",
   "MAN TGL und Mercedes-Benz Atego, meist mit Kofferaufbau und Ladebordwand. Für Verteilerverkehr, Handel und Handwerk.": "MAN TGL and Mercedes-Benz Atego, mostly with box body and tail lift. For distribution, retail and trades.",
   "MAN TGM und Iveco Eurocargo für den regionalen Güterverkehr.": "MAN TGM and Iveco Eurocargo for regional haulage.",
   "Sattelzugmaschinen": "Tractor units",
@@ -1099,7 +1097,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH from Gehrden near Hanover buys used commercial vehicles.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Trucks, buses, vans, concrete mixers, concrete pumps, construction machinery or an entire fleet: we value, make a clear offer and collect the vehicle.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "These are the vehicles we sell again and again.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses and wheel loaders: what is currently on our yard in Gehrden near Hanover is shown in our current stock.",
   "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Coaches, city buses, trucks, tractor units and vans, also for export.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "As a commercial vehicle dealer from Gehrden near Hanover, we are happy to help you find the right vehicle or sell your current fleet. A trade-in of your vehicle is also possible. Call us today.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "With the right documents, the delivery remains VAT-exempt.",
@@ -1114,5 +1111,13 @@
   "Persönlich, schnell und ohne Umwege.": "Personal, fast and straightforward.",
 
   /* ---- Export: Weltkarte unten (01.11.2026) ---- */
-  "Von Deutschland in die Welt.": "From Germany to the world."
+  "Von Deutschland in die Welt.": "From Germany to the world.",
+
+  /* ---- Spezialfahrzeuge (Econic) ---- */
+  "Spezialfahrzeuge": "Special vehicles",
+  "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "Mercedes-Benz Econic and other chassis with special bodies, for example from municipal use.",
+  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "White Mercedes-Benz Econic with box body on the yard",
+  "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Eleven vehicle types that keep turning up on our yard, with typical models.",
+  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "We sell used trucks from the 7.5-tonner for distribution to the tractor unit, plus tippers, semi-trailers, vans, minibuses, coaches, city buses, wheel loaders and special vehicles.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses, wheel loaders and special vehicles: what is currently on our yard in Gehrden near Hanover is shown in our current stock."
 };

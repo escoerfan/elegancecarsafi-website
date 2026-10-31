@@ -154,6 +154,7 @@ SEITEN = {
                                  'Sattelauflieger gebraucht', 'Kippmulde Auflieger', 'Sprinter gebraucht',
                                  'Kastenwagen gebraucht', 'Reisebus gebraucht', 'Omnibus gebraucht', 'Kleinbus gebraucht',
                                  'Linienbus gebraucht', 'Citaro gebraucht', 'Radlader gebraucht', 'Bagger gebraucht',
+                                 'Spezialfahrzeug gebraucht', 'Econic gebraucht', 'Mercedes-Benz Econic',
                                  'Nutzfahrzeughändler', 'Nutzfahrzeuge Hannover', 'LKW Händler Hannover']),
     'nutzfahrzeug-ankauf': (ANKAUF, ['Nutzfahrzeug Ankauf', 'Nutzfahrzeuge Ankauf Hannover', 'Nutzfahrzeug verkaufen',
                             'LKW Ankauf', 'Bus Ankauf', 'Linienbus Ankauf', 'Transporter Ankauf',

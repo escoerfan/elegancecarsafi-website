@@ -978,11 +978,9 @@
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Развозные грузовики, седельные тягачи, самосвалы, полуприцепы, фургоны, автобусы и фронтальные погрузчики: эти машины мы продаём постоянно. Что сейчас стоит на площадке в Гердене под Ганновером, показывает текущий ассортимент.",
   "Unser Angebot": "Наш ассортимент",
   "Vom 7,5-Tonner bis zum Reisebus": "От 7,5-тонника до туристического автобуса",
-  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse sowie Radlader.": "Мы продаём б/у грузовики от 7,5-тонника для развозных перевозок до седельного тягача, а также самосвалы, полуприцепы, фургоны, микроавтобусы, туристические и городские автобусы и фронтальные погрузчики.",
   "Im Angebot sind Fahrzeuge von Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW und Ford.": "В ассортименте — машины Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW и Ford.",
   "Was gerade verfügbar ist, steht mit Bildern, Daten und Preisen im aktuellen Bestand. Ist Ihr Fahrzeug nicht dabei, nennen Sie uns Typ und Aufbau. Weil wir laufend ankaufen, kommen passende Fahrzeuge regelmäßig nach.": "Что есть в наличии сейчас, вы найдёте в текущем ассортименте с фото, данными и ценами. Если нужной машины там нет, назовите нам тип и кузов. Поскольку мы постоянно закупаем, подходящие машины поступают регулярно.",
   "Diese Fahrzeuge verkaufen wir regelmäßig": "Эти машины мы продаём регулярно",
-  "Zehn Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Десять типов машин, которые постоянно стоят у нас на площадке, с типичными моделями.",
   "MAN TGL und Mercedes-Benz Atego, meist mit Kofferaufbau und Ladebordwand. Für Verteilerverkehr, Handel und Handwerk.": "MAN TGL и Mercedes-Benz Atego, чаще всего с фургоном и гидробортом. Для развозных перевозок, торговли и ремесла.",
   "MAN TGM und Iveco Eurocargo für den regionalen Güterverkehr.": "MAN TGM и Iveco Eurocargo для региональных грузоперевозок.",
   "Sattelzugmaschinen": "Седельные тягачи",
@@ -1085,7 +1083,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH из Гердена под Ганновером выкупает подержанную коммерческую технику.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Грузовики, автобусы, фургоны, бетоносмесители, бетононасосы, строительная техника или целый автопарк: мы оцениваем, делаем чёткое предложение и вывозим технику.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Эту технику мы продаём снова и снова.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Развозные грузовики, седельные тягачи, самосвалы, полуприцепы, фургоны, автобусы и колёсные погрузчики: что сейчас стоит на нашей площадке в Гердене под Ганновером, показывает актуальный каталог.",
   "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Туристические и городские автобусы, грузовики, седельные тягачи и фургоны, в том числе на экспорт.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Как дилер коммерческой техники из Гердена под Ганновером мы с радостью поможем вам найти подходящую машину или продать ваш текущий автопарк. Возможен также зачёт вашей машины. Позвоните нам сегодня.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "С правильными документами поставка остаётся освобождённой от НДС.",
@@ -1100,5 +1097,13 @@
   "Persönlich, schnell und ohne Umwege.": "Лично, быстро и без лишних сложностей.",
 
   /* ---- Export: Weltkarte unten (01.11.2026) ---- */
-  "Von Deutschland in die Welt.": "Из Германии по всему миру."
+  "Von Deutschland in die Welt.": "Из Германии по всему миру.",
+
+  /* ---- Spezialfahrzeuge (Econic) ---- */
+  "Spezialfahrzeuge": "Спецтехника",
+  "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "Mercedes-Benz Econic и другие шасси со специальными надстройками, например после эксплуатации в коммунальных службах.",
+  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Белый Mercedes-Benz Econic с фургонной надстройкой на площадке",
+  "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Одиннадцать типов техники, которые регулярно стоят на нашей площадке, с типичными моделями.",
+  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Мы продаём подержанные грузовики — от 7,5-тонников для развозных перевозок до седельных тягачей, а также самосвалы, полуприцепы, фургоны, микроавтобусы, туристические и городские автобусы, фронтальные погрузчики и спецтехнику.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Развозные грузовики, седельные тягачи, самосвалы, полуприцепы, фургоны, автобусы, фронтальные погрузчики и спецтехника: что сейчас стоит на нашей площадке в Гердене под Ганновером, показывает актуальный каталог."
 };

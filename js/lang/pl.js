@@ -978,11 +978,9 @@
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Ciężarówki dystrybucyjne, ciągniki siodłowe, wywrotki, naczepy, samochody dostawcze, autobusy i ładowarki kołowe: te pojazdy sprzedajemy regularnie. Co aktualnie stoi na placu w Gehrden koło Hanoweru, pokazuje aktualny stan.",
   "Unser Angebot": "Nasza oferta",
   "Vom 7,5-Tonner bis zum Reisebus": "Od 7,5-tonówki po autokar",
-  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse sowie Radlader.": "Sprzedajemy używane ciężarówki od 7,5-tonówki do dystrybucji po ciągnik siodłowy, a do tego wywrotki, naczepy, samochody dostawcze, minibusy, autokary, autobusy miejskie i ładowarki kołowe.",
   "Im Angebot sind Fahrzeuge von Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW und Ford.": "W ofercie są pojazdy marek Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW i Ford.",
   "Was gerade verfügbar ist, steht mit Bildern, Daten und Preisen im aktuellen Bestand. Ist Ihr Fahrzeug nicht dabei, nennen Sie uns Typ und Aufbau. Weil wir laufend ankaufen, kommen passende Fahrzeuge regelmäßig nach.": "To, co jest teraz dostępne, znajdziesz w aktualnym stanie ze zdjęciami, danymi i cenami. Jeśli nie ma tam Twojego pojazdu, podaj nam typ i zabudowę. Ponieważ stale skupujemy, odpowiednie pojazdy pojawiają się regularnie.",
   "Diese Fahrzeuge verkaufen wir regelmäßig": "Te pojazdy sprzedajemy regularnie",
-  "Zehn Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Dziesięć rodzajów pojazdów, które regularnie stoją na naszym placu, z typowymi modelami.",
   "MAN TGL und Mercedes-Benz Atego, meist mit Kofferaufbau und Ladebordwand. Für Verteilerverkehr, Handel und Handwerk.": "MAN TGL i Mercedes-Benz Atego, zwykle z kontenerem i windą załadowczą. Do dystrybucji, handlu i rzemiosła.",
   "MAN TGM und Iveco Eurocargo für den regionalen Güterverkehr.": "MAN TGM i Iveco Eurocargo do regionalnego transportu towarów.",
   "Sattelzugmaschinen": "Ciągniki siodłowe",
@@ -1085,7 +1083,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH z Gehrden koło Hanoweru skupuje używane pojazdy użytkowe.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Ciężarówki, autobusy, auta dostawcze, betoniarki, pompy do betonu, maszyny budowlane czy cała flota: wyceniamy, składamy jasną ofertę i odbieramy pojazd.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Te pojazdy sprzedajemy regularnie.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Ciężarówki dystrybucyjne, ciągniki siodłowe, wywrotki, naczepy, auta dostawcze, autobusy i ładowarki kołowe: co aktualnie stoi na naszym placu w Gehrden koło Hanoweru, pokazuje aktualna oferta.",
   "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Autokary, autobusy miejskie, ciężarówki, ciągniki siodłowe i auta dostawcze, także na eksport.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Jako dealer pojazdów użytkowych z Gehrden koło Hanoweru chętnie pomożemy Ci znaleźć odpowiedni pojazd lub sprzedać obecną flotę. Możliwe jest także przyjęcie Twojego pojazdu w rozliczeniu. Zadzwoń do nas jeszcze dziś.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "Z odpowiednimi dokumentami dostawa pozostaje zwolniona z VAT.",
@@ -1100,5 +1097,13 @@
   "Persönlich, schnell und ohne Umwege.": "Osobiście, szybko i bez zbędnych formalności.",
 
   /* ---- Export: Weltkarte unten (01.11.2026) ---- */
-  "Von Deutschland in die Welt.": "Z Niemiec w świat."
+  "Von Deutschland in die Welt.": "Z Niemiec w świat.",
+
+  /* ---- Spezialfahrzeuge (Econic) ---- */
+  "Spezialfahrzeuge": "Pojazdy specjalne",
+  "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "Mercedes-Benz Econic i inne podwozia z zabudową specjalną, na przykład z eksploatacji komunalnej.",
+  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Biały Mercedes-Benz Econic z zabudową kontenerową na placu",
+  "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Jedenaście typów pojazdów, które regularnie stoją na naszym placu, wraz z typowymi modelami.",
+  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Sprzedajemy używane ciężarówki od 7,5-tonowych pojazdów dystrybucyjnych po ciągniki siodłowe, a także wywrotki, naczepy, furgony, minibusy, autokary, autobusy miejskie, ładowarki kołowe i pojazdy specjalne.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Ciężarówki dystrybucyjne, ciągniki siodłowe, wywrotki, naczepy, furgony, autobusy, ładowarki kołowe i pojazdy specjalne: co aktualnie stoi na naszym placu w Gehrden koło Hanoweru, pokazuje aktualna oferta."
 };

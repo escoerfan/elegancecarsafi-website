@@ -978,11 +978,9 @@
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Camiones de reparto, cabezas tractoras, volquetes, semirremolques, furgonetas, autobuses y cargadoras de ruedas: estos son los vehículos que vendemos una y otra vez. Lo que hay ahora en nuestras instalaciones de Gehrden, cerca de Hannover, lo muestra el stock actual.",
   "Unser Angebot": "Nuestra oferta",
   "Vom 7,5-Tonner bis zum Reisebus": "Desde 7,5 toneladas hasta el autocar",
-  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse sowie Radlader.": "Vendemos camiones usados desde el de 7,5 toneladas para reparto hasta la cabeza tractora, además de volquetes, semirremolques, furgonetas, minibuses, autocares, autobuses urbanos y cargadoras de ruedas.",
   "Im Angebot sind Fahrzeuge von Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW und Ford.": "En nuestra oferta hay vehículos de Mercedes-Benz, MAN, Scania, Volvo, Iveco, VW y Ford.",
   "Was gerade verfügbar ist, steht mit Bildern, Daten und Preisen im aktuellen Bestand. Ist Ihr Fahrzeug nicht dabei, nennen Sie uns Typ und Aufbau. Weil wir laufend ankaufen, kommen passende Fahrzeuge regelmäßig nach.": "Lo que está disponible ahora aparece con fotos, datos y precios en el stock actual. Si su vehículo no está, díganos el tipo y la carrocería. Como compramos continuamente, llegan vehículos adecuados con regularidad.",
   "Diese Fahrzeuge verkaufen wir regelmäßig": "Estos son los vehículos que vendemos regularmente",
-  "Zehn Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Diez tipos de vehículos que se encuentran una y otra vez en nuestras instalaciones, con modelos típicos.",
   "MAN TGL und Mercedes-Benz Atego, meist mit Kofferaufbau und Ladebordwand. Für Verteilerverkehr, Handel und Handwerk.": "MAN TGL y Mercedes-Benz Atego, normalmente con caja cerrada y trampilla elevadora. Para reparto, comercio y oficios.",
   "MAN TGM und Iveco Eurocargo für den regionalen Güterverkehr.": "MAN TGM e Iveco Eurocargo para el transporte regional de mercancías.",
   "Sattelzugmaschinen": "Cabezas tractoras",
@@ -1085,7 +1083,6 @@
   "Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an.": "ECS GmbH, de Gehrden cerca de Hannover, compra vehículos industriales usados.",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Camiones, autobuses, furgonetas, hormigoneras, bombas de hormigón, maquinaria de construcción o una flota completa: valoramos, hacemos una oferta clara y recogemos el vehículo.",
   "Diese Fahrzeuge verkaufen wir immer wieder.": "Estos son los vehículos que vendemos una y otra vez.",
-  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Camiones de distribución, cabezas tractoras, volquetes, semirremolques, furgonetas, autobuses y palas cargadoras: lo que hay ahora mismo en nuestras instalaciones de Gehrden, cerca de Hannover, lo muestra el stock actual.",
   "Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export.": "Autocares, autobuses urbanos, camiones, cabezas tractoras y furgonetas, también para exportación.",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover helfen wir Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich. Rufen Sie uns noch heute an.": "Como concesionario de vehículos industriales de Gehrden, cerca de Hannover, le ayudamos con gusto a encontrar el vehículo adecuado o a vender su flota actual. También es posible entregar su vehículo como parte del pago. Llámenos hoy mismo.",
   "Mit den richtigen Unterlagen bleibt die Lieferung umsatzsteuerfrei.": "Con los documentos correctos, la entrega sigue exenta de IVA.",
@@ -1100,5 +1097,13 @@
   "Persönlich, schnell und ohne Umwege.": "Trato personal, rápido y sin rodeos.",
 
   /* ---- Export: Weltkarte unten (01.11.2026) ---- */
-  "Von Deutschland in die Welt.": "De Alemania al mundo."
+  "Von Deutschland in die Welt.": "De Alemania al mundo.",
+
+  /* ---- Spezialfahrzeuge (Econic) ---- */
+  "Spezialfahrzeuge": "Vehículos especiales",
+  "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "Mercedes-Benz Econic y otros chasis con carrocería especial, por ejemplo procedentes de uso municipal.",
+  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "Mercedes-Benz Econic blanco con caja cerrada en nuestras instalaciones",
+  "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Once tipos de vehículos que se encuentran una y otra vez en nuestras instalaciones, con modelos típicos.",
+  "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "Vendemos camiones usados, desde el de 7,5 toneladas para distribución hasta la cabeza tractora, además de volquetes, semirremolques, furgonetas, minibuses, autocares, autobuses urbanos, cargadoras de ruedas y vehículos especiales.",
+  "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Camiones de distribución, cabezas tractoras, volquetes, semirremolques, furgonetas, autobuses, cargadoras de ruedas y vehículos especiales: lo que hay ahora en nuestras instalaciones de Gehrden, cerca de Hannover, lo muestra nuestro stock actual."
 };
