@@ -40,20 +40,55 @@
   }
 
   /* ------------------------------------ Untermenüs (Ankauf- und Exportseiten)
-     "Unsere Arbeit" und "Export" öffnen per Klick ein Untermenü (Desktop: Dropdown,
-     Handy: klappt im Menü auf). Klick daneben oder Escape schließt es; es ist immer nur eins offen. */
+     "Unsere Arbeit" und "Export": Desktop mit Maus – Hover (oder Tastatur-Fokus) klappt das
+     Dropdown auf, Klick öffnet direkt den ersten Unterpunkt. Handy/Touch – Antippen klappt
+     im Menü auf. Klick daneben oder Escape schließt es; es ist immer nur eins offen. */
   var subItems = document.querySelectorAll('.nav-item--sub');
+  var hoverNav = window.matchMedia('(hover: hover) and (min-width: 992px)');
 
   var setSub = function (item, open) {
     item.classList.toggle('is-open', open);
     item.querySelector('.nav-sub__toggle').setAttribute('aria-expanded', String(open));
   };
 
+  var openOnly = function (item) {
+    subItems.forEach(function (other) { if (other !== item) setSub(other, false); });
+    setSub(item, true);
+  };
+
   subItems.forEach(function (item) {
+    var closeTimer = null;
+
     item.querySelector('.nav-sub__toggle').addEventListener('click', function (e) {
       e.stopPropagation();
-      subItems.forEach(function (other) { if (other !== item) setSub(other, false); });
-      setSub(item, !item.classList.contains('is-open'));
+      var first = item.querySelector('.nav-sub a');
+      if (hoverNav.matches && first) {
+        window.location.href = first.href;
+        return;
+      }
+      if (item.classList.contains('is-open')) setSub(item, false);
+      else openOnly(item);
+    });
+
+    item.addEventListener('mouseenter', function () {
+      if (!hoverNav.matches) return;
+      clearTimeout(closeTimer);
+      openOnly(item);
+    });
+
+    item.addEventListener('mouseleave', function () {
+      if (!hoverNav.matches) return;
+      closeTimer = setTimeout(function () {
+        if (!item.contains(document.activeElement)) setSub(item, false);
+      }, 180);
+    });
+
+    item.addEventListener('focusin', function () {
+      if (hoverNav.matches) openOnly(item);
+    });
+
+    item.addEventListener('focusout', function (e) {
+      if (hoverNav.matches && !item.contains(e.relatedTarget) && !item.matches(':hover')) setSub(item, false);
     });
   });
 

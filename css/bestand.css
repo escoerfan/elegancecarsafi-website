@@ -101,6 +101,50 @@
     border-color: #262626;
 }
 
+/* Umschalter Liste / Raster */
+.vw-view {
+    display: flex;
+    flex: 0 0 auto;
+}
+
+.vw-view button {
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #262626;
+    background: #ffffff;
+    border: 1px solid #dcdcdc;
+    cursor: pointer;
+    transition: border-color 0.15s;
+}
+
+.vw-view button:first-child {
+    border-radius: 8px 0 0 8px;
+}
+
+.vw-view button:last-child {
+    border-radius: 0 8px 8px 0;
+    margin-left: -1px;
+}
+
+.vw-view button:hover {
+    border-color: #262626;
+    position: relative;
+}
+
+.vw-view button.active {
+    color: #ffffff;
+    background: linear-gradient(180deg, #262626 0%, #060606 100%);
+    border-color: #262626;
+    position: relative;
+}
+
+html[dir="rtl"] .vw-view {
+    direction: ltr;
+}
+
 html[dir="rtl"] .vw-search svg {
     left: auto;
     right: 14px;
@@ -365,6 +409,43 @@ html[dir="rtl"] .vw-sort {
     opacity: 0.82;
 }
 
+/* Listenansicht (fahrzeuge.html): Foto links, Daten rechts, ein Fahrzeug pro Zeile */
+.vw-grid--list {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+}
+
+.vw-grid--list .vw-card {
+    flex-direction: row;
+}
+
+.vw-grid--list .vw-img-wrap {
+    flex: 0 0 40%;
+    width: 40%;
+    aspect-ratio: auto;
+    min-height: 100%;
+}
+
+.vw-grid--list .vw-img-wrap img,
+.vw-grid--list .vw-img-placeholder {
+    position: absolute;
+    inset: 0;
+}
+
+.vw-grid--list .vw-body {
+    padding: 26px 30px 28px;
+    min-width: 0;
+}
+
+.vw-grid--list .vw-title {
+    font-size: 20px;
+    min-height: 0;
+}
+
+.vw-grid--list .vw-specs {
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+}
+
 .vw-status {
     grid-column: 1/-1;
     text-align: left;
@@ -591,6 +672,19 @@ html[dir="rtl"] .vw-sort {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
+    .vw-grid--list {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .vw-grid--list .vw-img-wrap {
+        flex-basis: 44%;
+        width: 44%;
+    }
+
+    .vw-grid--list .vw-body {
+        padding: 22px 24px 24px;
+    }
+
     .vw-d-grid {
         grid-template-columns: 1fr;
         gap: 28px;
@@ -601,9 +695,32 @@ html[dir="rtl"] .vw-sort {
     }
 }
 
+/* Listenansicht schmaler: Foto über den Daten, sonst würde es hochkant */
+@media (max-width: 960px) {
+    .vw-grid--list .vw-card {
+        flex-direction: column;
+    }
+
+    .vw-grid--list .vw-img-wrap {
+        flex: none;
+        width: 100%;
+        aspect-ratio: 16/10;
+        min-height: 0;
+    }
+
+    .vw-grid--list .vw-title {
+        font-size: 18px;
+    }
+}
+
 @media (max-width: 700px) {
     .vw-grid {
         grid-template-columns: 1fr;
+    }
+
+    /* Auf dem Handy stehen die Karten ohnehin untereinander – Umschalter ausblenden */
+    .vw-view {
+        display: none;
     }
 
     .vw-tools {

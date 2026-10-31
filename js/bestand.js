@@ -5,6 +5,7 @@
                  data-limit="3" zeigt nur die ersten n Fahrzeuge
                  #vw-filter (optional) = Kategorie-Filter
                  #vw-search / #vw-sort (optional) = Suche und Sortierung
+                 #vw-view (optional) = Umschalter Liste / Raster
    - #vw-detail  Einzelseite eines Fahrzeugs (fahrzeug.html?id=…)
    Karten öffnen die Einzelseite in einem neuen Tab.
    ========================================================================= */
@@ -850,6 +851,43 @@
     renderGrid(grid, limit);
   }
 
+  /* Ansicht Liste (untereinander, Standard) oder Raster (3 nebeneinander).
+     Die Wahl merkt sich der Browser; ohne Speicher gilt die Liste. */
+  var VIEW_KEY = 'ecs-bestand-ansicht';
+
+  function initView(grid, viewEl) {
+    var view = 'list';
+
+    try {
+      if (localStorage.getItem(VIEW_KEY) === 'grid') view = 'grid';
+    } catch (e) {}
+
+    function apply() {
+      grid.classList.toggle('vw-grid--list', view === 'list');
+
+      var btns = viewEl.querySelectorAll('[data-view]');
+
+      for (var i = 0; i < btns.length; i++) {
+        var on = btns[i].getAttribute('data-view') === view;
+        btns[i].classList.toggle('active', on);
+        btns[i].setAttribute('aria-pressed', on ? 'true' : 'false');
+      }
+    }
+
+    viewEl.addEventListener('click', function (e) {
+      var btn = e.target.closest('[data-view]');
+      if (!btn) return;
+      view = btn.getAttribute('data-view');
+      apply();
+
+      try {
+        localStorage.setItem(VIEW_KEY, view);
+      } catch (err) {}
+    });
+
+    apply();
+  }
+
   /* ------------------------------------------------------------ Einzelseite */
   function initDetail(box, vehicles) {
     var id = new URLSearchParams(window.location.search).get('id');
@@ -970,6 +1008,9 @@
   var detail = document.getElementById('vw-detail');
 
   if (!grid && !detail) return;
+
+  var viewEl = document.getElementById('vw-view');
+  if (grid && viewEl) initView(grid, viewEl);
 
   function showError(msg) {
     var target = grid || detail;

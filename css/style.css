@@ -1844,6 +1844,10 @@ html[dir="rtl"] .contact__phone { text-align: right; }
   opacity: 0; visibility: hidden; transform: translateY(-6px);
   transition: opacity 0.25s ease, transform 0.25s var(--ease), visibility 0s linear 0.25s;
 }
+.nav-sub::before {
+  /* Brücke über den Abstand zum Menüpunkt, damit das Hover-Dropdown nicht zuklappt */
+  content: ""; position: absolute; left: 0; right: 0; top: -17px; height: 17px;
+}
 .nav-item--sub.is-open .nav-sub {
   opacity: 1; visibility: visible; transform: none;
   transition: opacity 0.25s ease, transform 0.25s var(--ease), visibility 0s;
@@ -1865,6 +1869,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
     opacity: 1; padding-block: 6px;
   }
   .nav-sub__toggle::after { display: none; }
+  .nav-sub::before { display: none; }
   .nav-sub {
     position: static; min-width: 0; padding: 4px 0 10px 4px;
     background: none; border: 0; box-shadow: none;
