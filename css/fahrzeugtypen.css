@@ -1,35 +1,10 @@
 /* ====================================================================
    Fahrzeug-Unterseiten: /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf
    Bewusst anders als die übrigen Unterseiten (Erfans Wunsch, 31.10.2026):
-   Seitenkopf mit Hof-Foto und Overlay, ruhiger Textblock, große Typo-Liste
-   der Fahrzeugtypen, Actros-Abschnitt mit Foto.
+   Seitenkopf mit Verlauf wie die übrigen Seiten, ruhiger Textblock, große
+   Typo-Liste der Fahrzeugtypen, Actros-Abschnitt mit kleinem Foto.
    Schrift höchstens 400 wie überall.
    ==================================================================== */
-
-/* ------------------------------------------- Seitenkopf mit Foto + Overlay */
-.page-hero--photo {
-  position: relative;
-  overflow: hidden;
-  isolation: isolate;
-  min-height: min(88vh, 820px);
-  display: flex;
-  align-items: flex-end;
-  padding-block: 190px 96px;
-}
-.page-hero--photo .page-hero__bg { position: absolute; inset: 0; z-index: -2; }
-.page-hero--photo .page-hero__bg picture { display: block; height: 100%; }
-.page-hero--photo .page-hero__bg img { width: 100%; height: 100%; object-fit: cover; }
-.page-hero--photo::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  z-index: -1;
-  background:
-    linear-gradient(90deg, rgba(6, 6, 6, 0.86) 0%, rgba(6, 6, 6, 0.6) 55%, rgba(6, 6, 6, 0.4) 100%),
-    linear-gradient(0deg, rgba(6, 6, 6, 0.7) 0%, rgba(6, 6, 6, 0) 45%);
-}
-.page-hero--photo .container { width: 100%; }
-.page-hero--photo .page-hero__lead { color: rgba(255, 255, 255, 0.86); }
 
 /* ------------------------------------------------ Textblock (weiß, ohne Foto) */
 .statement { padding-block: 130px 140px; background: var(--white); color: var(--ink-soft); }
@@ -137,11 +112,8 @@
   .statement__grid { grid-template-columns: minmax(0, 1fr); gap: 28px; }
 }
 @media (max-width: 640px) {
-  .page-hero--photo { min-height: 0; padding-block: 150px 64px; }
   .statement, .typo { padding-block: 90px 100px; }
   .typo__head { grid-template-columns: minmax(0, 1fr); row-gap: 24px; margin-bottom: 40px; }
   .mp-feature { padding-block: 64px 90px; }
 }
 
-/* Arabisch (rtl): Bildflächen bleiben links-nach-rechts angeordnet wie auf den übrigen Seiten */
-html[dir="rtl"] .page-hero--photo::after { transform: scaleX(-1); }
