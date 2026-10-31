@@ -39,9 +39,9 @@
     });
   }
 
-  /* ------------------------------------------- Untermenü (Ankaufseiten)
-     "Unsere Arbeit" öffnet per Klick ein Untermenü (Desktop: Dropdown,
-     Handy: klappt im Menü auf). Klick daneben oder Escape schließt es. */
+  /* ------------------------------------ Untermenüs (Ankauf- und Exportseiten)
+     "Unsere Arbeit" und "Export" öffnen per Klick ein Untermenü (Desktop: Dropdown,
+     Handy: klappt im Menü auf). Klick daneben oder Escape schließt es; es ist immer nur eins offen. */
   var subItems = document.querySelectorAll('.nav-item--sub');
 
   var setSub = function (item, open) {
@@ -52,6 +52,7 @@
   subItems.forEach(function (item) {
     item.querySelector('.nav-sub__toggle').addEventListener('click', function (e) {
       e.stopPropagation();
+      subItems.forEach(function (other) { if (other !== item) setSub(other, false); });
       setSub(item, !item.classList.contains('is-open'));
     });
   });

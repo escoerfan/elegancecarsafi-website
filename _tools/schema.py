@@ -107,6 +107,8 @@ SERVICES = {
     'bau-und-kommunalfahrzeuge-verkaufen': ('Ankauf von Bau- und Kommunalfahrzeugen', 'Ankauf gebrauchter Bau- und Kommunalfahrzeuge'),
     'fuhrpark-verkaufen': ('Ankauf von Fuhrparks', 'Ankauf von Firmenfahrzeugen und Flotten'),
     'export': ('Export und Verzollung von Nutzfahrzeugen', 'Export gebrauchter Nutzfahrzeuge'),
+    'export-eu': ('Export von Nutzfahrzeugen in die EU', 'Innergemeinschaftliche Lieferung gebrauchter Nutzfahrzeuge'),
+    'export-drittland': ('Export von Nutzfahrzeugen in Drittländer', 'Ausfuhr und Zollabfertigung gebrauchter Nutzfahrzeuge'),
 }
 # Kurznamen für die Brotkrumen (wie in Navigation und Footer)
 CRUMB = {
@@ -116,13 +118,21 @@ CRUMB = {
     'lkw-verkaufen': 'LKW verkaufen', 'transporter-verkaufen': 'Transporter verkaufen',
     'bau-und-kommunalfahrzeuge-verkaufen': 'Bau- und Kommunalfahrzeuge verkaufen',
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
+    'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
 }
 # Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
 PARENT = {k: 'unsere-arbeit' for k in (
     'reisebus-verkaufen', 'linienbus-verkaufen', 'lkw-verkaufen', 'transporter-verkaufen',
     'bau-und-kommunalfahrzeuge-verkaufen', 'fuhrpark-verkaufen')}
+PARENT.update({'export-eu': 'export', 'export-drittland': 'export'})   # Untermenü "Export"
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
 EXPORT_AREA += [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
+AREA = {
+    'export': EXPORT_AREA,
+    'export-eu': [{'@type': 'Place', 'name': 'Europäische Union'}],
+    'export-drittland': [{'@type': 'Continent', 'name': n} for n in ('Asien', 'Afrika')]
+                        + [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')],
+}
 
 
 def text(fragment):
@@ -206,7 +216,7 @@ def build(path):
                       'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID}})
     else:
         trail = [('Startseite', BASE)]
-        if slug in PARENT:                       # Ankaufseiten liegen unter "Unsere Arbeit"
+        if slug in PARENT:                       # Ankaufseiten unter "Unsere Arbeit", Export-Unterseiten unter "Export"
             trail.append((CRUMB[PARENT[slug]], BASE + PARENT[slug]))
         trail.append((CRUMB.get(slug, h1), url))
         crumbs = {'@type': 'BreadcrumbList', '@id': url + '#breadcrumb', 'itemListElement': [
@@ -220,7 +230,7 @@ def build(path):
         name, stype = SERVICES[slug]
         graph.append({'@type': 'Service', '@id': url + '#service', 'name': name, 'serviceType': stype,
                       'description': desc, 'url': url, 'provider': {'@id': DEALER_ID},
-                      'areaServed': EXPORT_AREA if slug == 'export' else BUY_COUNTRIES})
+                      'areaServed': AREA.get(slug, BUY_COUNTRIES)})
         if brands(slug):
             graph[-1]['brand'] = brands(slug)
 
