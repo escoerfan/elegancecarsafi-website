@@ -43,7 +43,7 @@
 
 .vw-search {
     position: relative;
-    flex: 0 1 420px;
+    flex: 1 1 auto;
     min-width: 0;
 }
 
