@@ -33,6 +33,90 @@
     margin: 0 auto;
 }
 
+/* Suche + Sortierung (nur fahrzeuge.html) */
+.vw-tools {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.vw-search {
+    position: relative;
+    flex: 0 1 420px;
+    min-width: 0;
+}
+
+.vw-search svg {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+
+.vw-search input,
+.vw-sort {
+    width: 100%;
+    height: 42px;
+    font-family: 'Figtree', system-ui, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #262626;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.15s;
+}
+
+.vw-search input {
+    padding: 0 14px 0 40px;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.vw-search input::placeholder {
+    color: #8a8a8a;
+    opacity: 1;
+}
+
+.vw-sort {
+    flex: 0 0 auto;
+    width: auto;
+    margin-left: auto;
+    padding: 0 40px 0 14px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23262626' stroke-width='2.2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+}
+
+.vw-search input:hover,
+.vw-search input:focus,
+.vw-sort:hover,
+.vw-sort:focus {
+    border-color: #262626;
+}
+
+html[dir="rtl"] .vw-search svg {
+    left: auto;
+    right: 14px;
+}
+
+html[dir="rtl"] .vw-search input {
+    padding: 0 40px 0 14px;
+}
+
+html[dir="rtl"] .vw-sort {
+    margin-left: 0;
+    margin-right: auto;
+    padding: 0 14px 0 40px;
+    background-position: left 14px center;
+}
+
 .vw-filter {
     display: flex;
     gap: 8px;
@@ -520,6 +604,31 @@
 @media (max-width: 700px) {
     .vw-grid {
         grid-template-columns: 1fr;
+    }
+
+    .vw-tools {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+    }
+
+    .vw-search {
+        flex: none;
+    }
+
+    /* unter 16px zoomt iOS beim Antippen ins Feld */
+    .vw-search input,
+    .vw-sort {
+        font-size: 16px;
+    }
+
+    .vw-sort {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    html[dir="rtl"] .vw-sort {
+        margin-right: 0;
     }
 
     .vw-section {

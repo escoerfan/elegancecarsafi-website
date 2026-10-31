@@ -4,6 +4,7 @@
    - #vw-grid    Kartenliste (fahrzeuge.html, Vorschau auf index.html)
                  data-limit="3" zeigt nur die ersten n Fahrzeuge
                  #vw-filter (optional) = Kategorie-Filter
+                 #vw-search / #vw-sort (optional) = Suche und Sortierung
    - #vw-detail  Einzelseite eines Fahrzeugs (fahrzeug.html?id=…)
    Karten öffnen die Einzelseite in einem neuen Tab.
    ========================================================================= */
@@ -184,7 +185,8 @@
         text: 'Preis auf Anfrage',
         label: '',
         gross: '',
-        onRequest: true
+        onRequest: true,
+        value: null
       };
     }
 
@@ -194,7 +196,8 @@
         text: euro(n),
         label: 'Brutto',
         gross: '',
-        onRequest: false
+        onRequest: false,
+        value: n
       };
     }
 
@@ -206,7 +209,8 @@
       text: euro(net),
       label: 'Netto',
       gross: 'Brutto: ' + euro(gross),
-      onRequest: false
+      onRequest: false,
+      value: net
     };
   }
 
@@ -613,6 +617,8 @@
   var _all = [];
   var _cats = [];
   var _aktiv = 'Alle';
+  var _query = '';
+  var _sort = 'standard';
 
   var RESERVED_HTML = '<div class="vw-reserved">Reserviert</div>';
 
@@ -683,21 +689,90 @@
     filterEl.innerHTML = html;
   }
 
+  /* Suche: Kleinschreibung, Umlaute ausgeschrieben, Bindestriche als Leerzeichen –
+     „mercedes benz“ findet „MERCEDES-BENZ“, „kuehl“ findet „KÜHL“ */
+  function searchNorm(s) {
+    return String(s || '')
+      .toLowerCase()
+      .split('\u00e4').join('ae')
+      .split('\u00f6').join('oe')
+      .split('\u00fc').join('ue')
+      .split('\u00df').join('ss')
+      .split('-').join(' ');
+  }
+
+  function matchesQuery(v) {
+    if (!_query) return true;
+
+    var hay = searchNorm([
+      buildTitle(v),
+      v.make,
+      v.model,
+      catLabel(v),
+      v.category,
+      fmtFuel(v),
+      String(v.firstRegistration || '').slice(0, 4)
+    ].join(' '));
+
+    var words = _query.split(' ');
+
+    for (var i = 0; i < words.length; i++) {
+      if (words[i] && hay.indexOf(words[i]) === -1) return false;
+    }
+
+    return true;
+  }
+
+  /* Sortierung: „standard“ = Reihenfolge aus bestand.json.
+     Preis nach der groß angezeigten Zahl (netto bzw. brutto), „Preis auf Anfrage“ immer am Ende.
+     Inserierungsdatum aus v.listed; fehlt es, gilt die Reihenfolge aus bestand.json. */
+  function sortList(list) {
+    if (_sort === 'standard') return list;
+
+    var rows = list.map(function (v, i) {
+      var t = Date.parse(v.listed || '');
+      return { v: v, i: i, price: fmtPrice(v).value, listed: isNaN(t) ? null : t };
+    });
+
+    rows.sort(function (a, b) {
+      var d = 0;
+
+      if (_sort === 'price-asc' || _sort === 'price-desc') {
+        if (a.price === null || b.price === null) {
+          d = (a.price === null ? 1 : 0) - (b.price === null ? 1 : 0);
+        } else {
+          d = _sort === 'price-asc' ? a.price - b.price : b.price - a.price;
+        }
+      } else if (_sort === 'new' || _sort === 'old') {
+        d = a.listed !== null && b.listed !== null ? a.listed - b.listed : a.i - b.i;
+        if (_sort === 'new') d = -d;
+      }
+
+      return d || a.i - b.i;
+    });
+
+    return rows.map(function (r) { return r.v; });
+  }
+
   function renderGrid(grid, limit) {
     var list = [];
 
     for (var i = 0; i < _all.length; i++) {
-      if (_aktiv === 'Alle' || catLabel(_all[i]) === _aktiv) {
+      if ((_aktiv === 'Alle' || catLabel(_all[i]) === _aktiv) && matchesQuery(_all[i])) {
         list.push(_all[i]);
       }
     }
+
+    list = sortList(list);
 
     if (limit) {
       list = list.slice(0, limit);
     }
 
     if (!list.length) {
-      grid.innerHTML = '<div class="vw-status">Keine Fahrzeuge in dieser Kategorie.</div>';
+      grid.innerHTML = _query
+        ? '<div class="vw-status">Keine Fahrzeuge gefunden.</div>'
+        : '<div class="vw-status">Keine Fahrzeuge in dieser Kategorie.</div>';
       return;
     }
 
@@ -752,6 +827,25 @@
         renderGrid(grid, limit);
       });
     }
+
+    var searchEl = document.getElementById('vw-search');
+    var sortEl = document.getElementById('vw-sort');
+
+    /* Werte auch beim Start übernehmen – der Browser stellt sie beim Zurückgehen teils wieder her */
+    function readTools() {
+      if (searchEl) _query = searchNorm(searchEl.value).split(' ').filter(Boolean).join(' ');
+      if (sortEl) _sort = sortEl.value || 'standard';
+    }
+
+    function onTools() {
+      readTools();
+      renderGrid(grid, limit);
+    }
+
+    if (searchEl) searchEl.addEventListener('input', onTools);
+    if (sortEl) sortEl.addEventListener('change', onTools);
+
+    readTools();
 
     renderGrid(grid, limit);
   }
