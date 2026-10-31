@@ -1093,5 +1093,9 @@
   "Ausfuhrpapiere und Zollabwicklung in Deutschland aus einer Hand.": "أوراق التصدير والتخليص الجمركي في ألمانيا من مصدر واحد.",
   "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt alles von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "هل ستذهب حافلتكم أو شاحنتكم أو مركبة النقل إلى بلد خارج الاتحاد الأوروبي؟ تتولى ECS Exclusive Commerce Services GmbH في غيردن قرب هانوفر كل شيء، من بيان التصدير حتى تأشيرة الخروج.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung.": "خمس خطوات من أول اتصال حتى الاستلام.",
-  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "للمركبات المنفردة تمامًا كما للأساطيل الكاملة. في كل خطوة تقررون بأنفسكم كيف تستمرون. كما يمكن قبول مركبة كجزء من الثمن عند شراء مركبة من مخزوننا."
+  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "للمركبات المنفردة تمامًا كما للأساطيل الكاملة. في كل خطوة تقررون بأنفسكم كيف تستمرون. كما يمكن قبول مركبة كجزء من الثمن عند شراء مركبة من مخزوننا.",
+
+  /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
+  "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "مركبات تجارية من ألمانيا لعملاء في جميع أنحاء العالم.",
+  "Persönlich, schnell und ohne Umwege.": "تواصل شخصي وسريع ودون تعقيد."
 };

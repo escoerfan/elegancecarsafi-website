@@ -1093,5 +1093,9 @@
   "Ausfuhrpapiere und Zollabwicklung in Deutschland aus einer Hand.": "Dokumenty wywozowe i odprawa celna w Niemczech z jednej ręki.",
   "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt alles von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "Twój autobus, ciężarówka lub dostawczak ma trafić do kraju spoza UE? ECS Exclusive Commerce Services GmbH w Gehrden koło Hanoweru zajmuje się wszystkim – od zgłoszenia wywozowego po potwierdzenie wyprowadzenia.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung.": "Pięć kroków od pierwszego telefonu do odbioru.",
-  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Dla pojedynczych pojazdów tak samo jak dla całych flot. Na każdym etapie sam decydujesz, co dalej. Możliwe jest także przyjęcie pojazdu w rozliczeniu przy zakupie pojazdu z naszej oferty."
+  "Für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie entscheiden in jedem Schritt selbst, wie es weitergeht. Auch eine Inzahlungnahme beim Kauf eines Fahrzeugs aus unserem Bestand ist möglich.": "Dla pojedynczych pojazdów tak samo jak dla całych flot. Na każdym etapie sam decydujesz, co dalej. Możliwe jest także przyjęcie pojazdu w rozliczeniu przy zakupie pojazdu z naszej oferty.",
+
+  /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
+  "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "Pojazdy użytkowe z Niemiec dla klientów na całym świecie.",
+  "Persönlich, schnell und ohne Umwege.": "Osobiście, szybko i bez zbędnych formalności."
 };
