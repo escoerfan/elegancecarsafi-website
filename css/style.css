@@ -1207,12 +1207,7 @@ body .vw-section * {
 .page-intro .btn--secondary { background: transparent; color: var(--ink); border-color: rgba(38, 38, 38, 0.24); -webkit-backdrop-filter: none; backdrop-filter: none; }
 .page-intro .btn--secondary:hover { background: rgba(38, 38, 38, 0.06); border-color: rgba(38, 38, 38, 0.4); }
 .page-intro :focus-visible { outline-color: var(--ink); }
-/* Leistungsliste (Export) und Telefon/E-Mail (Kontakt) auf Weiß */
-.page-intro__list {
-  list-style: none; margin: 36px 0 0; padding: 0; max-width: 760px;
-  border-top: 1px solid var(--line-dark);
-}
-.page-intro__list li { padding: 18px 0; border-bottom: 1px solid var(--line-dark); color: var(--ink); font-size: 18px; }
+/* Telefon und E-Mail auf Weiß (Kontakt) */
 .page-intro__links { margin-top: 32px; }
 .page-intro .contact__phone { color: var(--ink); }
 .page-intro .contact__mail { color: var(--ink-soft); }

@@ -1097,5 +1097,8 @@
 
   /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
   "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "Коммерческая техника из Германии для клиентов по всему миру.",
-  "Persönlich, schnell und ohne Umwege.": "Лично, быстро и без лишних сложностей."
+  "Persönlich, schnell und ohne Umwege.": "Лично, быстро и без лишних сложностей.",
+
+  /* ---- Export: Weltkarte unten (01.11.2026) ---- */
+  "Von Deutschland in die Welt.": "Из Германии по всему миру."
 };

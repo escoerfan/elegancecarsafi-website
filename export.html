@@ -33,9 +33,10 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261101b">
+<link rel="stylesheet" href="css/style.css?v=20261101c">
+<link rel="stylesheet" href="css/export-globe.css?v=20261023f">
 
-<script src="js/i18n.js?v=20261101b"></script>
+<script src="js/i18n.js?v=20261101c"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -413,11 +414,6 @@
 <section class="page-intro">
   <div class="container reveal">
     <p class="page-intro__text">Wir exportieren Nutzfahrzeuge, Busse, LKW und Transporter zuverlässig von Deutschland aus nach Europa, Asien, Afrika und weitere internationale Märkte.</p>
-    <ul class="page-intro__list" aria-label="ECS Export Leistungen">
-      <li>Verzollung &amp; Exportdokumente</li>
-      <li>Europaweite und internationale Abwicklung</li>
-      <li>Direkter Ankauf, Verkauf und Transport</li>
-    </ul>
   </div>
 </section>
 
@@ -695,6 +691,33 @@
   </div>
 </section>
 
+<!-- ============================================================ Weltkarte -->
+<div class="ecs-onepage-fullwidth">
+  <section class="ecs-export-widget" aria-labelledby="ecs-export-title">
+    <div class="ecs-export-widget__inner">
+      <div class="ecs-export-widget__copy">
+        <p class="ecs-export-widget__eyebrow">
+          Export &amp; Abwicklung
+        </p>
+
+        <h2 class="ecs-export-widget__headline" id="ecs-export-title">
+          Von Deutschland in die Welt.
+        </h2>
+
+        <ul class="ecs-export-widget__trust" aria-label="ECS Export Leistungen">
+          <li>Verzollung &amp; Exportdokumente</li>
+          <li>Europaweite und internationale Abwicklung</li>
+          <li>Direkter Ankauf, Verkauf und Transport</li>
+        </ul>
+      </div>
+
+      <div class="ecs-export-widget__visual" aria-hidden="true">
+        <canvas class="ecs-export-widget__canvas" data-ecs-export-globe></canvas>
+      </div>
+    </div>
+  </section>
+</div>
+
 <!-- ============================================================ Kontakt-Band -->
 <section class="cta-band">
   <div class="container cta-band__inner reveal">
@@ -800,5 +823,6 @@
 <script src="js/main.js?v=20261031b" defer></script>
 
 
+<script src="js/export-globe.js?v=20261023a" defer></script>
 </body>
 </html>

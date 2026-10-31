@@ -1111,5 +1111,8 @@
 
   /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
   "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "Commercial vehicles from Germany for customers all over the world.",
-  "Persönlich, schnell und ohne Umwege.": "Personal, fast and straightforward."
+  "Persönlich, schnell und ohne Umwege.": "Personal, fast and straightforward.",
+
+  /* ---- Export: Weltkarte unten (01.11.2026) ---- */
+  "Von Deutschland in die Welt.": "From Germany to the world."
 };

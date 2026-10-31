@@ -1097,5 +1097,8 @@
 
   /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
   "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "مركبات تجارية من ألمانيا لعملاء في جميع أنحاء العالم.",
-  "Persönlich, schnell und ohne Umwege.": "تواصل شخصي وسريع ودون تعقيد."
+  "Persönlich, schnell und ohne Umwege.": "تواصل شخصي وسريع ودون تعقيد.",
+
+  /* ---- Export: Weltkarte unten (01.11.2026) ---- */
+  "Von Deutschland in die Welt.": "من ألمانيا إلى العالم."
 };

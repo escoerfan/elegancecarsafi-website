@@ -1097,5 +1097,8 @@
 
   /* ---- Export und Kontakt: Seitenkopf kurz (01.11.2026) ---- */
   "Nutzfahrzeuge aus Deutschland für Kunden in aller Welt.": "Pojazdy użytkowe z Niemiec dla klientów na całym świecie.",
-  "Persönlich, schnell und ohne Umwege.": "Osobiście, szybko i bez zbędnych formalności."
+  "Persönlich, schnell und ohne Umwege.": "Osobiście, szybko i bez zbędnych formalności.",
+
+  /* ---- Export: Weltkarte unten (01.11.2026) ---- */
+  "Von Deutschland in die Welt.": "Z Niemiec w świat."
 };
