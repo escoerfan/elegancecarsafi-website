@@ -1181,6 +1181,13 @@ body .vw-section * {
 .page-hero .eyebrow { line-height: 1.5; }
 .page-hero .page-hero__lead { font-size: 18px; letter-spacing: -0.32px; }
 .page-hero__lead { max-width: 760px; }
+/* Handy/Tablet: Titel und Satz brechen je nach Länge um. Damit alle Seitenköpfe
+   gleich hoch sind, gilt eine Mindesthöhe für den längsten Kopf; der Text
+   bleibt oben, kürzere Köpfe bekommen unten mehr Luft. */
+@media (max-width: 991px) { .page-hero:not(.page-hero--compact):not(.notfound) { min-height: 411px; } }
+@media (max-width: 479px) { .page-hero:not(.page-hero--compact):not(.notfound) { min-height: 454px; } }
+@media (max-width: 413px) { .page-hero:not(.page-hero--compact):not(.notfound) { min-height: 482px; } }
+@media (max-width: 359px) { .page-hero:not(.page-hero--compact):not(.notfound) { min-height: 534px; } }
 .page-hero--compact { padding-block: 150px 48px; }
 .page-hero--compact .page-hero__title { font-size: clamp(30px, 3.4vw, 48px); margin-bottom: 0; }
 
