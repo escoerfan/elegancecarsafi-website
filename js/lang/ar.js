@@ -1293,5 +1293,8 @@
   /* ---- Busfotos (01.11.2026) ---- */
   "Roter Scania Reisebus auf dem Hof": "حافلة سياحية سكانيا حمراء في الساحة",
   "Weißer Setra Reisebus mit drei Achsen": "حافلة سياحية سيترا بيضاء بثلاثة محاور",
-  "Weißer Volvo Reisebus mit geöffneter Tür": "حافلة سياحية فولفو بيضاء بباب مفتوح"
+  "Weißer Volvo Reisebus mit geöffneter Tür": "حافلة سياحية فولفو بيضاء بباب مفتوح",
+
+  /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "شاحنات صندوقية بيضاء مصطفة في ساحة شركة ECS GmbH في غيردن"
 };

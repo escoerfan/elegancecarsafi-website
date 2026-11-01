@@ -1293,5 +1293,8 @@
   /* ---- Busfotos (01.11.2026) ---- */
   "Roter Scania Reisebus auf dem Hof": "Autocar Scania rojo en el patio",
   "Weißer Setra Reisebus mit drei Achsen": "Autocar Setra blanco de tres ejes",
-  "Weißer Volvo Reisebus mit geöffneter Tür": "Autocar Volvo blanco con la puerta abierta"
+  "Weißer Volvo Reisebus mit geöffneter Tür": "Autocar Volvo blanco con la puerta abierta",
+
+  /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "Camiones de caja blanca en fila en el patio de ECS GmbH en Gehrden"
 };
