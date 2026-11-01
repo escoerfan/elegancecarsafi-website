@@ -135,6 +135,39 @@
     revealables.forEach(function (el) { el.classList.add('is-visible'); });
   }
 
+  /* ------------------------------------------------ Ablauf-Zeitleiste
+     Die Linie füllt sich bis zur Bildschirmmitte (etwas darunter), jede
+     erreichte Nummer wird schwarz. */
+  var timelines = document.querySelectorAll('.timeline');
+
+  if (timelines.length) {
+    var tlQueued = false;
+    var updateTimelines = function () {
+      tlQueued = false;
+      var mark = window.innerHeight * 0.6;
+      timelines.forEach(function (tl) {
+        var box = tl.getBoundingClientRect();
+        var nums = tl.querySelectorAll('.tl-step__num');
+        var first = nums[0].getBoundingClientRect();
+        var last = nums[nums.length - 1].getBoundingClientRect();
+        var start = first.top + first.height / 2;
+        var end = last.top + last.height / 2;       /* Linie endet an der letzten Nummer */
+        tl.style.setProperty('--tl-end', Math.max(0, box.bottom - end) + 'px');
+        tl.style.setProperty('--tl-fill', Math.max(0, Math.min(end, mark) - start) + 'px');
+        nums.forEach(function (num) {
+          var r = num.getBoundingClientRect();
+          num.classList.toggle('is-done', r.top + r.height / 2 <= mark);
+        });
+      });
+    };
+    var queueTimelines = function () {
+      if (!tlQueued) { tlQueued = true; requestAnimationFrame(updateTimelines); }
+    };
+    updateTimelines();
+    window.addEventListener('scroll', queueTimelines, { passive: true });
+    window.addEventListener('resize', queueTimelines);
+  }
+
   /* -------------------------------------------------------- Erklärfilm
      Das Video lädt erst beim Klick auf das Vorschaubild. Untertitel nur in
      Fremdsprachen, passend zur Seitensprache (i18n.js setzt <html lang>);

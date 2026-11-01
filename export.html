@@ -33,10 +33,10 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261101f">
+<link rel="stylesheet" href="css/style.css?v=20261101g">
 <link rel="stylesheet" href="css/export-globe.css?v=20261023f">
 
-<script src="js/i18n.js?v=20261101e"></script>
+<script src="js/i18n.js?v=20261101f"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -500,45 +500,46 @@
     </div>
 
     <div class="process__body">
-      <ol class="steps reveal">
-        <li class="step">
-          <span class="step__num" aria-hidden="true">01</span>
-          <div class="step__card">
-            <h3 class="step__label">Anfrage</h3>
-            <p class="step__body">Sie nennen uns das gewünschte Fahrzeug – aus unserem Bestand oder nach Ihren Vorgaben – sowie das Zielland und den Empfänger.</p>
-          </div>
+      <ol class="timeline">
+        <li class="tl-step" style="--n: 1">
+          <span class="tl-step__num" aria-hidden="true">01</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--chat" aria-hidden="true"><div class="mk-scene"><span class="mk-ghost mk-ghost--1"></span><span class="mk-ghost mk-ghost--2"></span><div class="mk-card mk-note mk-in"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/></svg></span><div class="mk-note__text"><p class="mk-title">Neue Anfrage</p><p class="mk-text"><span data-no-i18n>Mercedes-Benz Actros · DE → GE</span></p><div class="mk-thumbs"><span class="mk-thumb"><img src="assets/img/opt/export-eu-actros-rot-960.webp" alt="" style="transform-origin: 50% 50%; scale: 1" loading="lazy" decoding="async"></span><span class="mk-thumb"><img src="assets/img/opt/export-eu-actros-rot-960.webp" alt="" style="transform-origin: 30% 45%; scale: 2.2" loading="lazy" decoding="async"></span><span class="mk-thumb"><img src="assets/img/opt/export-eu-actros-rot-960.webp" alt="" style="transform-origin: 75% 75%; scale: 2.6" loading="lazy" decoding="async"></span><span><span data-no-i18n>+5</span></span></div></div><span class="mk-time"><span data-no-i18n>09:41</span></span></div></div></div>
+            <h3 class="tl-card__title">Anfrage</h3>
+            <p class="tl-card__body">Sie nennen uns das gewünschte Fahrzeug – aus unserem Bestand oder nach Ihren Vorgaben – sowie das Zielland und den Empfänger.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">02</span>
-          <div class="step__card">
-            <h3 class="step__label">Angebot</h3>
-            <p class="step__body">Sie erhalten ein Angebot für das Fahrzeug und die gewünschten Leistungen, etwa Exportpapiere, Transport oder Verschiffung.</p>
-          </div>
+        <li class="tl-step" style="--n: 2">
+          <span class="tl-step__num" aria-hidden="true">02</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--doc" aria-hidden="true"><div class="mk-scene"><span class="mk-sheet mk-sheet--ghost"></span><div class="mk-sheet "><div class="mk-bar"><img src="assets/img/opt/logo-ecs-360.webp" alt="" width="360" height="202" loading="lazy"><span>Angebot</span></div><span class="mk-lines"><i style="width:78%"></i><i style="width:92%"></i><i style="width:64%"></i></span><ul class="mk-rows"><li class="mk-in" style="--d:150ms"><span>Fahrzeug</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:270ms"><span>Exportpapiere</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:390ms"><span>Transport</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li></ul><div class="mk-sum"><span>Gesamtpreis</span><b><span data-no-i18n>€ ••.•••</span></b></div></div><span class="mk-chip mk-chip--float mk-in" style="--d:350ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Unverbindlich</span></div></div>
+            <h3 class="tl-card__title">Angebot</h3>
+            <p class="tl-card__body">Sie erhalten ein Angebot für das Fahrzeug und die gewünschten Leistungen, etwa Exportpapiere, Transport oder Verschiffung.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">03</span>
-          <div class="step__card">
-            <h3 class="step__label">Ausfuhrpapiere</h3>
-            <p class="step__body">Wir erstellen die nötigen Dokumente und übernehmen die Zollabwicklung in Deutschland. Für Lieferungen innerhalb der EU gelten andere Unterlagen als für den Export in Drittländer.</p>
-          </div>
+        <li class="tl-step" style="--n: 3">
+          <span class="tl-step__num" aria-hidden="true">03</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--list" aria-hidden="true"><div class="mk-scene"><span class="mk-ghost mk-ghost--1"></span><div class="mk-card mk-listcard "><div class="mk-listcard__head"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4M9 12h6M9 16h6"/></svg></span><p class="mk-title">Ausfuhrpapiere</p></div><ul><li class="mk-in" style="--d:120ms"><span>Rechnung</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:230ms"><span>Fahrzeugpapiere</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:340ms"><span>Zollabwicklung</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:450ms"><span>EU oder Drittland</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li></ul></div></div></div>
+            <h3 class="tl-card__title">Ausfuhrpapiere</h3>
+            <p class="tl-card__body">Wir erstellen die nötigen Dokumente und übernehmen die Zollabwicklung in Deutschland. Für Lieferungen innerhalb der EU gelten andere Unterlagen als für den Export in Drittländer.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">04</span>
-          <div class="step__card">
-            <h3 class="step__label">Transport</h3>
-            <p class="step__body">Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.</p>
-          </div>
+        <li class="tl-step" style="--n: 4">
+          <span class="tl-step__num" aria-hidden="true">04</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--route" aria-hidden="true"><div class="mk-scene"><svg class="mk-route" viewBox="0 0 40 25" fill="none" preserveAspectRatio="none"><path class="mk-route__base" d="M5 19.5 C 14 19.5, 13 9, 22 10 S 30 6.5, 35 5.5"/><path class="mk-route__line" pathLength="1" d="M5 19.5 C 14 19.5, 13 9, 22 10 S 30 6.5, 35 5.5"/></svg><div class="mk-card mk-pin mk-pin--a"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></span><span><span data-no-i18n>Gehrden</span></span></div><div class="mk-card mk-pin mk-pin--b mk-in" style="--d:700ms"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg></span><span>Zielland</span></div><span class="mk-truck mk-in" style="--d:400ms"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M2 6h12v10H2z"/><path d="M14 9h4l4 4v3h-8z"/><circle cx="6" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/></svg></span><div class="mk-chips"><span class="mk-chip"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Straße</span><span class="mk-chip"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Verschiffung</span></div></div></div>
+            <h3 class="tl-card__title">Transport</h3>
+            <p class="tl-card__body">Je nach Zielland organisieren wir den Transport auf der Straße oder die Verschiffung.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">05</span>
-          <div class="step__card">
-            <h3 class="step__label">Übergabe</h3>
-            <p class="step__body">Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.</p>
-          </div>
+        <li class="tl-step" style="--n: 5">
+          <span class="tl-step__num" aria-hidden="true">05</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--photo" aria-hidden="true"><div class="mk-scene"><picture><source type="image/avif" srcset="assets/img/opt/export-eu-actros-rot-960.avif 960w, assets/img/opt/export-eu-actros-rot-1320.avif 1320w" sizes="(max-width: 991px) 92vw, 600px"><source type="image/webp" srcset="assets/img/opt/export-eu-actros-rot-960.webp 960w, assets/img/opt/export-eu-actros-rot-1320.webp 1320w" sizes="(max-width: 991px) 92vw, 600px"><img class="mk-photo" src="assets/img/opt/export-eu-actros-rot-1320.jpg" srcset="assets/img/opt/export-eu-actros-rot-960.jpg 960w, assets/img/opt/export-eu-actros-rot-1320.jpg 1320w" sizes="(max-width: 991px) 92vw, 600px" alt="" style="object-position: 50% 55%" loading="lazy" decoding="async"></picture><div class="mk-card mk-badge mk-in"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><circle cx="8" cy="12" r="4"/><path d="M12 12h9M18 12v3M21 12v2"/></svg></span><div><p class="mk-title">Übergabe</p><p class="mk-text">Mit allen Papieren</p></div></div></div></div>
+            <h3 class="tl-card__title">Übergabe</h3>
+            <p class="tl-card__body">Das Fahrzeug wird mit allen Papieren an den Empfänger übergeben.</p>
+          </article>
         </li>
       </ol>
     </div>
@@ -820,7 +821,7 @@
 
 <!-- Cookie-Banner; Google-Maps-Karte wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261023g" defer></script>
-<script src="js/main.js?v=20261031b" defer></script>
+<script src="js/main.js?v=20261101a" defer></script>
 
 
 <script src="js/export-globe.js?v=20261023a" defer></script>

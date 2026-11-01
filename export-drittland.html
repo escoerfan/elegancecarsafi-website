@@ -33,9 +33,9 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261101f">
+<link rel="stylesheet" href="css/style.css?v=20261101g">
 
-<script src="js/i18n.js?v=20261101e"></script>
+<script src="js/i18n.js?v=20261101f"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -433,45 +433,46 @@
     </div>
 
     <div class="process__body">
-      <ol class="steps reveal">
-        <li class="step">
-          <span class="step__num" aria-hidden="true">01</span>
-          <div class="step__card">
-            <h3 class="step__label">Angebot und Unterlagen</h3>
-            <p class="step__body">Sie wählen ein Fahrzeug und nennen uns Käufer, Empfänger und Zielland. Dazu brauchen wir eine Kopie des Reisepasses oder Ausweises und bei Firmen die Firmendaten.</p>
-          </div>
+      <ol class="timeline">
+        <li class="tl-step" style="--n: 1">
+          <span class="tl-step__num" aria-hidden="true">01</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--list" aria-hidden="true"><div class="mk-scene"><span class="mk-ghost mk-ghost--1"></span><div class="mk-card mk-listcard "><div class="mk-listcard__head"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4M9 12h6M9 16h6"/></svg></span><p class="mk-title">Unterlagen</p></div><ul><li class="mk-in" style="--d:120ms"><span>Käufer</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:230ms"><span>Empfänger</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:340ms"><span>Zielland</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:450ms"><span>Reisepass oder Ausweis</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li><li class="mk-in" style="--d:560ms"><span>Firmendaten</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li></ul></div></div></div>
+            <h3 class="tl-card__title">Angebot und Unterlagen</h3>
+            <p class="tl-card__body">Sie wählen ein Fahrzeug und nennen uns Käufer, Empfänger und Zielland. Dazu brauchen wir eine Kopie des Reisepasses oder Ausweises und bei Firmen die Firmendaten.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">02</span>
-          <div class="step__card">
-            <h3 class="step__label">Ausfuhranmeldung</h3>
-            <p class="step__body">Die Ausfuhr wird beim Zoll elektronisch angemeldet, in Deutschland über das System ATLAS.</p>
-          </div>
+        <li class="tl-step" style="--n: 2">
+          <span class="tl-step__num" aria-hidden="true">02</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--list" aria-hidden="true"><div class="mk-scene"><span class="mk-ghost mk-ghost--1"></span><div class="mk-card mk-listcard "><div class="mk-listcard__head"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M4 8V4h4M16 4h4v4M20 16v4h-4M8 20H4v-4M7 12h10"/></svg></span><p class="mk-title">Ausfuhranmeldung</p><span class="mk-chip"><span data-no-i18n>ATLAS</span></span></div><ul><li class="mk-in" style="--d:120ms"><span>MRN</span><b><span data-no-i18n>26DE••••••••••••</span></b></li><li class="mk-in" style="--d:230ms"><span>Zoll</span><b><span data-no-i18n>ATLAS</span></b></li><li class="mk-in" style="--d:340ms"><span>Übermittelt</span><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span></li></ul></div></div></div>
+            <h3 class="tl-card__title">Ausfuhranmeldung</h3>
+            <p class="tl-card__body">Die Ausfuhr wird beim Zoll elektronisch angemeldet, in Deutschland über das System ATLAS.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">03</span>
-          <div class="step__card">
-            <h3 class="step__label">Ausfuhrabfertigung</h3>
-            <p class="step__body">Das Fahrzeug wird bei der zuständigen Zollstelle vorgeführt. Nach der Abfertigung gibt es das Ausfuhrbegleitdokument (ABD), das mit dem Fahrzeug bis zur Grenze reist.</p>
-          </div>
+        <li class="tl-step" style="--n: 3">
+          <span class="tl-step__num" aria-hidden="true">03</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--doc tl-visual--wide" aria-hidden="true"><div class="mk-scene"><span class="mk-sheet mk-sheet--ghost"></span><div class="mk-sheet "><div class="mk-bar"><img src="assets/img/opt/logo-ecs-360.webp" alt="" width="360" height="202" loading="lazy"><span>Ausfuhrbegleitdokument</span></div><span class="mk-lines"><i style="width:80%"></i><i style="width:66%"></i></span><span class="mk-barcode"></span><span class="mk-lines"><i style="width:90%"></i><i style="width:74%"></i><i style="width:52%"></i></span><span class="mk-stamp mk-stamp--big mk-in" style="--d:400ms">Zoll<small><span data-no-i18n>✓</span></small></span></div></div></div>
+            <h3 class="tl-card__title">Ausfuhrabfertigung</h3>
+            <p class="tl-card__body">Das Fahrzeug wird bei der zuständigen Zollstelle vorgeführt. Nach der Abfertigung gibt es das Ausfuhrbegleitdokument (ABD), das mit dem Fahrzeug bis zur Grenze reist.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">04</span>
-          <div class="step__card">
-            <h3 class="step__label">Kennzeichen und Transport</h3>
-            <p class="step__body">Auf eigener Achse fährt das Fahrzeug mit Ausfuhrkennzeichen, gültiger Hauptuntersuchung (TÜV) und Versicherung. Alternativ wird es per Tieflader transportiert oder verschifft.</p>
-          </div>
+        <li class="tl-step" style="--n: 4">
+          <span class="tl-step__num" aria-hidden="true">04</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--plate" aria-hidden="true"><div class="mk-scene"><div class="mk-plate mk-in" data-no-i18n><span class="mk-plate__eu">D</span><span class="mk-plate__nr">H 0123A</span><span class="mk-plate__date">11<br>26</span></div><div class="mk-chips"><span class="mk-chip mk-in" style="--d:250ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Hauptuntersuchung</span><span class="mk-chip mk-in" style="--d:370ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Versicherung</span><span class="mk-chip mk-in" style="--d:490ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Tieflader</span><span class="mk-chip mk-in" style="--d:610ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Verschiffung</span></div></div></div>
+            <h3 class="tl-card__title">Kennzeichen und Transport</h3>
+            <p class="tl-card__body">Auf eigener Achse fährt das Fahrzeug mit Ausfuhrkennzeichen, gültiger Hauptuntersuchung (TÜV) und Versicherung. Alternativ wird es per Tieflader transportiert oder verschifft.</p>
+          </article>
         </li>
-
-        <li class="step">
-          <span class="step__num" aria-hidden="true">05</span>
-          <div class="step__card">
-            <h3 class="step__label">Ausgangsvermerk</h3>
-            <p class="step__body">An der letzten Grenze der EU oder im Hafen wird das Fahrzeug mit dem Ausfuhrbegleitdokument beim Zoll gestellt. Der Zoll bestätigt den Ausgang und erteilt den Ausgangsvermerk.</p>
-          </div>
+        <li class="tl-step" style="--n: 5">
+          <span class="tl-step__num" aria-hidden="true">05</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--exit" aria-hidden="true"><div class="mk-scene"><span class="mk-sheet mk-sheet--ghost"></span><div class="mk-card mk-exit mk-in"><span class="mk-exit__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M12 3l8 3v6c0 4.5-3.4 8-8 9-4.6-1-8-4.5-8-9V6z"/><path d="M8.5 12l2.5 2.5 4.5-5"/></svg></span><p class="mk-title">Ausgangsvermerk</p><p class="mk-text">Ausgang bestätigt</p><span class="mk-lines"><i style="width:84%"></i><i style="width:62%"></i></span></div></div></div>
+            <h3 class="tl-card__title">Ausgangsvermerk</h3>
+            <p class="tl-card__body">An der letzten Grenze der EU oder im Hafen wird das Fahrzeug mit dem Ausfuhrbegleitdokument beim Zoll gestellt. Der Zoll bestätigt den Ausgang und erteilt den Ausgangsvermerk.</p>
+          </article>
         </li>
       </ol>
     </div>
@@ -713,7 +714,7 @@
 
 <!-- Cookie-Banner; Google-Maps-Karte wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261023g" defer></script>
-<script src="js/main.js?v=20261031b" defer></script>
+<script src="js/main.js?v=20261101a" defer></script>
 
 </body>
 </html>
