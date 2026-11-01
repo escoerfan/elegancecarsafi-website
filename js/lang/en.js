@@ -1226,5 +1226,10 @@
   "Drittland-Checkliste": "Non-EU checklist",
   "Checkliste öffnen": "Open checklist",
   "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "All documents at a glance, in German and English – to print or forward to your accounts department.",
-  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "A PDF overview for customers from the EU with all documents and steps. You will find it on the page Export to the EU."
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "A PDF overview for customers from the EU with all documents and steps. You will find it on the page Export to the EU.",
+
+  /* ---- Export: neue Fotos (01.11.) ---- */
+  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "White Scania R 520 flatbed truck with loading crane and trailer in the ECS GmbH yard",
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH": "Red Mercedes-Benz Antos from the front in the ECS GmbH yard",
+  "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "White Mercedes-Benz Actros 1842 tractor unit from the front"
 };

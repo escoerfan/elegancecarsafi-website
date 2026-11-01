@@ -1808,6 +1808,10 @@ body .vw-section * {
 .about__grid--media { align-items: center; }
 .about__grid--media .about__text { margin-top: 36px; }
 .about__media img { width: 100%; height: auto; border: 1px solid var(--line-dark); }
+/* Zwei Fotos nebeneinander, gleich hoch: Spalten im Verhältnis der Seitenformate (0,75 : 1,128) */
+.about__media--pair { display: grid; grid-template-columns: 750fr 1128fr; gap: 12px; align-items: start; }
+.about__media--pair picture { display: block; }  /* sonst landen die <source>-Tags im Raster (picture: contents) */
+.about__media--pair img { display: block; }
 /* Foto unter der Überschrift (Unsere Arbeit, Ankaufseiten, Export) */
 .about__intro .about__media { margin-top: 40px; }
 /* Erklärfilm: Video statt Foto, Vorschaubild mit Abspiel-Knopf (main.js) */

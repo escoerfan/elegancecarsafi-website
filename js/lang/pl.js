@@ -1212,5 +1212,10 @@
   "Drittland-Checkliste": "Lista kontrolna – kraje trzecie",
   "Checkliste öffnen": "Otwórz listę kontrolną",
   "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "Wszystkie dokumenty w skrócie, po niemiecku i angielsku – do wydruku lub przekazania księgowości.",
-  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "To przegląd w formacie PDF dla klientów z UE ze wszystkimi dokumentami i krokami. Znajdą go Państwo na stronie Eksport do UE."
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "To przegląd w formacie PDF dla klientów z UE ze wszystkimi dokumentami i krokami. Znajdą go Państwo na stronie Eksport do UE.",
+
+  /* ---- Export: neue Fotos (01.11.) ---- */
+  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "Biała ciężarówka Scania R 520 ze skrzynią, żurawiem i przyczepą na placu ECS GmbH",
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH": "Czerwony Mercedes-Benz Antos od przodu na placu ECS GmbH",
+  "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "Biały ciągnik siodłowy Mercedes-Benz Actros 1842 od przodu"
 };

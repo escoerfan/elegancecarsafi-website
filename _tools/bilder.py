@@ -39,6 +39,10 @@ PHOTOS = {
     'export-eu-actros-rot.webp': [960, 1320],
     'export-eu-atego-plane.webp': [960, 1320],
     'export-drittland-actros-schwarz.webp': [960, 1320],
+    # Export-Hauptseite: Ablauf-Foto + Bildpaar bei „Welche Fahrzeuge wir exportieren“
+    'export-ablauf-scania-kran.webp': [960, 1473],
+    'export-actros-weiss-front.webp': [720, 1332],
+    'export-antos-rot.webp': [540, 1086],
     # Gebrauchte Nutzfahrzeuge: Sattelauflieger mit Kippmulde (Foto aus dem Chat, nur 1024 px)
     'angebot-auflieger-kippmulde.webp': [720, 1024],
     'angebot-kleinbus-sprinter.webp': [960, 1448],

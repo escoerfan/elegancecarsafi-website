@@ -1212,5 +1212,10 @@
   "Drittland-Checkliste": "Чек-лист для третьих стран",
   "Checkliste öffnen": "Открыть чек-лист",
   "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "Все документы в одном месте, на немецком и английском – для печати или передачи в бухгалтерию.",
-  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "Это обзор в формате PDF для клиентов из ЕС со всеми документами и шагами. Вы найдёте его на странице «Экспорт в ЕС»."
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "Это обзор в формате PDF для клиентов из ЕС со всеми документами и шагами. Вы найдёте его на странице «Экспорт в ЕС».",
+
+  /* ---- Export: neue Fotos (01.11.) ---- */
+  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "Белый бортовой грузовик Scania R 520 с краном-манипулятором и прицепом на площадке ECS GmbH",
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH": "Красный Mercedes-Benz Antos спереди на площадке ECS GmbH",
+  "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "Белый седельный тягач Mercedes-Benz Actros 1842 спереди"
 };
