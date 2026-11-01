@@ -1666,7 +1666,8 @@ body .vw-section * {
 .page-intro + .vw-section { border-top: 1px solid var(--line-dark); }
 
 /* Ankauf: Deutschlandkarte im Globus-Look (dunkel, Länder mit Verlauf),
-   rechts Text. Karte: assets/img/deutschland-karte.svg, Pin per HTML. */
+   rechts Text. Karte: deutschland-karte-600/1260.webp (aus deutschland-karte.svg gerastert –
+   das SVG ließ beim Scrollen ruckeln), Pin per HTML. */
 .de-reach { padding-block: clamp(96px, 10vw, 140px); background: var(--bg-gradient); color: var(--text); }
 .de-reach__grid { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1fr); gap: clamp(48px, 7vw, 112px); align-items: center; }
 .de-reach__map { position: relative; width: min(100%, 500px); justify-self: center; }
