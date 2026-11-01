@@ -1180,5 +1180,14 @@
   "Vorab klären": "يُوضَّح مسبقاً",
   "Verzollung": "التخليص الجمركي",
   "Einfuhrabgaben": "رسوم الاستيراد",
-  "Zulassung": "التسجيل"
+  "Zulassung": "التسجيل",
+  "Was beim Export in ein Land außerhalb der EU passiert, von der Ausfuhranmeldung bis zur Einfuhr im Zielland.": "ما يحدث عند التصدير إلى دولة خارج الاتحاد الأوروبي، من بيان التصدير حتى الاستيراد في بلد الوجهة.",
+  "Warenverkehrsbescheinigung EUR.1": "شهادة حركة البضائع EUR.1",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle. Beantragt wird die Bescheinigung bei der Ausfuhr: Der Ausführer füllt das Formular aus, der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Auf Anfrage übernehmen wir den Antrag für Sie.": "تثبت شهادة EUR.1 أن المركبة ذات منشأ تفضيلي من الاتحاد الأوروبي. إذا كان لبلد الوجهة اتفاقية تفضيلية مع الاتحاد الأوروبي، يدفع المشتري رسوم استيراد مخفضة أو لا يدفع أي رسوم. يُقدَّم طلب الشهادة عند التصدير: يملأ المصدِّر النموذج، وتتحقق الجمارك من المنشأ وتصادق على EUR.1 بختم. عند الطلب نتولى تقديم الطلب عنكم.",
+  "Begleitet das Fahrzeug": "ترافق المركبة",
+  "Warenverkehrsbescheinigung": "شهادة حركة البضائع",
+  "Auf Anfrage": "عند الطلب",
+  "Ausgangszollstelle": "مكتب جمارك الخروج",
+  "Grenzübergang": "معبر حدودي",
+  "Seehafen": "ميناء بحري"
 };

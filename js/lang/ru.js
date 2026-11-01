@@ -1180,5 +1180,14 @@
   "Vorab klären": "Уточнить заранее",
   "Verzollung": "Растаможка",
   "Einfuhrabgaben": "Ввозные пошлины",
-  "Zulassung": "Регистрация"
+  "Zulassung": "Регистрация",
+  "Was beim Export in ein Land außerhalb der EU passiert, von der Ausfuhranmeldung bis zur Einfuhr im Zielland.": "Что происходит при экспорте в страну за пределами ЕС – от экспортной декларации до ввоза в стране назначения.",
+  "Warenverkehrsbescheinigung EUR.1": "Сертификат о происхождении EUR.1",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle. Beantragt wird die Bescheinigung bei der Ausfuhr: Der Ausführer füllt das Formular aus, der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Auf Anfrage übernehmen wir den Antrag für Sie.": "EUR.1 подтверждает, что транспортное средство имеет преференциальное происхождение из ЕС. Если у страны назначения есть преференциальное соглашение с ЕС, покупатель платит сниженные пошлины или не платит их вовсе. Сертификат оформляется при вывозе: экспортёр заполняет форму, таможня проверяет происхождение и заверяет EUR.1 печатью. По запросу мы возьмём оформление на себя.",
+  "Begleitet das Fahrzeug": "Сопровождает автомобиль",
+  "Warenverkehrsbescheinigung": "Сертификат о происхождении",
+  "Auf Anfrage": "По запросу",
+  "Ausgangszollstelle": "Таможня выезда",
+  "Grenzübergang": "Пограничный переход",
+  "Seehafen": "Морской порт"
 };

@@ -1180,5 +1180,14 @@
   "Vorab klären": "Wyjaśnić wcześniej",
   "Verzollung": "Odprawa celna",
   "Einfuhrabgaben": "Opłaty importowe",
-  "Zulassung": "Rejestracja"
+  "Zulassung": "Rejestracja",
+  "Was beim Export in ein Land außerhalb der EU passiert, von der Ausfuhranmeldung bis zur Einfuhr im Zielland.": "Co dzieje się przy eksporcie do kraju spoza UE – od zgłoszenia wywozowego po przywóz w kraju docelowym.",
+  "Warenverkehrsbescheinigung EUR.1": "Świadectwo przewozowe EUR.1",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle. Beantragt wird die Bescheinigung bei der Ausfuhr: Der Ausführer füllt das Formular aus, der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Auf Anfrage übernehmen wir den Antrag für Sie.": "EUR.1 potwierdza, że pojazd ma preferencyjne pochodzenie z UE. Jeśli kraj docelowy ma z UE umowę preferencyjną, kupujący płaci obniżone cła importowe lub nie płaci ich wcale. O świadectwo wnioskuje się przy wywozie: eksporter wypełnia formularz, urząd celny sprawdza pochodzenie i potwierdza EUR.1 pieczęcią. Na życzenie złożymy wniosek za Państwa.",
+  "Begleitet das Fahrzeug": "Towarzyszy pojazdowi",
+  "Warenverkehrsbescheinigung": "Świadectwo przewozowe",
+  "Auf Anfrage": "Na życzenie",
+  "Ausgangszollstelle": "Urząd celny wyprowadzenia",
+  "Grenzübergang": "Przejście graniczne",
+  "Seehafen": "Port morski"
 };

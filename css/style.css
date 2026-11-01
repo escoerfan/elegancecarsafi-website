@@ -555,7 +555,7 @@ details summary::-webkit-details-marker { display: none; }
   color: var(--ink-soft);
   border-top: 1px solid var(--line-dark);
 }
-.about:has(+ .tips) { padding-bottom: clamp(64px, 7vw, 100px); }
+.about:has(+ .tips), .export-info:has(+ .tips) { padding-bottom: clamp(64px, 7vw, 100px); }
 .tips + .faq { padding-top: clamp(64px, 7vw, 100px); border-top: 1px solid var(--line-dark); }
 .tips__head { max-width: 900px; margin: 0 auto clamp(40px, 5vw, 64px); text-align: center; }
 .tips__title { color: var(--ink); }
@@ -567,6 +567,7 @@ details summary::-webkit-details-marker { display: none; }
   margin: 0;
   padding: 0;
   list-style: none;
+  grid-auto-flow: row dense;
 }
 .tip {
   display: grid;
@@ -583,7 +584,12 @@ details summary::-webkit-details-marker { display: none; }
 .tip__title { margin-bottom: 12px; font-size: clamp(21px, 1.6vw, 25px); font-weight: 400; line-height: 1.25; color: var(--ink); }
 .tip__text { font-size: 16px; line-height: 1.65; }
 .tip .tip__visual { background: transparent; }
-.tip:not(.tip--wide):not(.tip--tall) { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.tip--half { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.tip--full { grid-column: 1 / -1; grid-template-columns: minmax(0, 1fr) minmax(0, 0.62fr); }
+.tip--full .tip__body { max-width: 680px; }
+/* Hohe Karte rechts (gespiegelter Block); dense füllt die Lücke links davon */
+.tip--end { grid-column: 5 / -1; }
+.tip.is-visible .mk-route__line { stroke-dashoffset: 0; }
 .tip.is-visible .mk-in { opacity: 1; translate: none; }
 .tips__foot { display: grid; justify-items: center; gap: 26px; margin-top: clamp(40px, 5vw, 56px); text-align: center; }
 .tips__note { font-size: 18px; line-height: 1.6; }
@@ -615,6 +621,29 @@ details summary::-webkit-details-marker { display: none; }
 .mk-mrn > span:first-child { color: var(--muted); }
 .tl-visual--atlas .mk-chip--float { right: 2em; bottom: 2.2em; }
 .tl-visual--dest .mk-ghost--1 { left: 8.5em; right: 8.5em; top: 2.2em; height: 3em; }
+.mk-scene .mk-chip > svg { flex: none; width: 1.3em; height: 1.3em; }
+.mk-mrn--top { margin-top: 0 !important; padding-top: 0; border-top: 0; }
+.tip .tl-visual--doc .mk-chip--float { top: auto; right: 2.6em; bottom: 3.4em; }
+/* EUR.1: grünes Formular mit nummerierten Feldern und Zollstempel */
+.mk-eur1 {
+  left: 6em;
+  right: 6em;
+  top: 2em;
+  padding: 1.3em 1.4em 1.6em;
+  background: repeating-linear-gradient(45deg, rgba(47, 93, 62, 0.06) 0 0.15em, transparent 0.15em 0.6em), #e2eee0;
+  color: #2f5d3e;
+}
+.mk-eur1__head { display: flex; align-items: flex-start; justify-content: space-between; gap: 1em; margin-bottom: 1em; }
+.mk-eur1__name { max-width: 9em; font-size: 0.9em; line-height: 1.25; }
+.mk-eur1__id { display: grid; justify-items: end; font-size: 2.2em; line-height: 1; letter-spacing: 0.04em; color: var(--ink); }
+.mk-eur1__id small { margin-top: 0.35em; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.36em; letter-spacing: 0.06em; color: #2f5d3e; }
+.mk-eur1__grid { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid rgba(47, 93, 62, 0.4); border-left: 1px solid rgba(47, 93, 62, 0.4); }
+.mk-box { position: relative; display: grid; align-content: end; height: 4.4em; padding: 1.4em 0.8em 0.8em; border-right: 1px solid rgba(47, 93, 62, 0.4); border-bottom: 1px solid rgba(47, 93, 62, 0.4); }
+.mk-box small { position: absolute; left: 0.5em; top: 0.35em; font-size: 0.75em; }
+.mk-box .mk-lines { gap: 0.45em; }
+.mk-box .mk-lines i { height: 0.4em; background: rgba(47, 93, 62, 0.22); }
+.tl-visual--eur1 .mk-stamp--big { right: 1.2em; top: auto; bottom: 1.4em; color: #1f3f8a; border-color: #1f3f8a; }
+.tl-visual--eur1 .mk-chip--float { left: 2.4em; bottom: 2.4em; }
 
 /* ====================================================================
    4 – Export (3D-Globus)
@@ -2288,12 +2317,12 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 /* Gut zu wissen (Bento): Tablet eine Spalte mit Text | Bild, Handy Bild oben */
 @media (max-width: 1100px) {
   .tips__grid { grid-template-columns: minmax(0, 1fr); }
-  .tip, .tip--wide, .tip--tall { grid-column: auto; grid-row: auto; grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr); grid-template-rows: none; align-items: center; }
+  .tip, .tip--wide, .tip--tall, .tip--full { grid-column: auto; grid-row: auto; grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr); grid-template-rows: none; align-items: center; }
   .tip--tall .tip__visual { order: 2; }
   .tip--tall .tip__body { align-self: center; padding-top: clamp(28px, 2.8vw, 40px); }
 }
 @media (max-width: 640px) {
-  .tip, .tip--wide, .tip--tall, .tip:not(.tip--wide):not(.tip--tall) { grid-template-columns: minmax(0, 1fr); }
+  .tip, .tip--wide, .tip--tall, .tip--half, .tip--full { grid-template-columns: minmax(0, 1fr); }
   .tip .tip__visual { order: -1; }
   .tip .tip__body, .tip--tall .tip__body { padding: 4px 24px 30px; }
   .tips__lead, .tips__note { font-size: 17px; }

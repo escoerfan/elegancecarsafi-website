@@ -1194,5 +1194,14 @@
   "Vorab klären": "Clarify in advance",
   "Verzollung": "Customs clearance",
   "Einfuhrabgaben": "Import duties",
-  "Zulassung": "Registration"
+  "Zulassung": "Registration",
+  "Was beim Export in ein Land außerhalb der EU passiert, von der Ausfuhranmeldung bis zur Einfuhr im Zielland.": "What happens when exporting to a country outside the EU, from the export declaration to import in the destination country.",
+  "Warenverkehrsbescheinigung EUR.1": "EUR.1 movement certificate",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle. Beantragt wird die Bescheinigung bei der Ausfuhr: Der Ausführer füllt das Formular aus, der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Auf Anfrage übernehmen wir den Antrag für Sie.": "The EUR.1 proves that a vehicle has EU preferential origin. If the destination country has a preferential agreement with the EU, the buyer pays reduced or no import duties. The certificate is applied for at export: the exporter completes the form, customs checks the origin and endorses the EUR.1 with a stamp. On request, we handle the application for you.",
+  "Begleitet das Fahrzeug": "Accompanies the vehicle",
+  "Warenverkehrsbescheinigung": "Movement certificate",
+  "Auf Anfrage": "On request",
+  "Ausgangszollstelle": "Customs office of exit",
+  "Grenzübergang": "Border crossing",
+  "Seehafen": "Seaport"
 };
