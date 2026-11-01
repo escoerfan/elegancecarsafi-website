@@ -233,7 +233,6 @@
   "Einstellungen": "Настройки",
 
   "Angaben gemäß § 5 TMG": "Сведения согласно § 5 TMG (Закон Германии о телемедиа)",
-  "Gesellschaftender Geschäftsführer: Martin Safi": "Управляющий партнёр: Martin Safi",
   "Adresse: Bünteweg 13, 30989 Gehrden": "Адрес: Bünteweg 13, 30989 Gehrden, Германия",
   "Handelsregister: HRB228497": "Торговый реестр: HRB228497",
   "Registergericht: Amtsgericht Hannover": "Регистрационный суд: Amtsgericht Hannover (участковый суд Ганновера)",

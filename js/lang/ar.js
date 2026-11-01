@@ -233,7 +233,6 @@
   "Einstellungen": "الإعدادات",
 
   "Angaben gemäß § 5 TMG": "بيانات وفقًا للمادة 5 من قانون الوسائط الإلكترونية الألماني (TMG)",
-  "Gesellschaftender Geschäftsführer: Martin Safi": "الشريك المدير: Martin Safi",
   "Adresse: Bünteweg 13, 30989 Gehrden": "العنوان: Bünteweg 13, 30989 Gehrden، ألمانيا",
   "Handelsregister: HRB228497": "السجل التجاري: HRB228497",
   "Registergericht: Amtsgericht Hannover": "محكمة التسجيل: Amtsgericht Hannover (محكمة هانوفر الابتدائية)",

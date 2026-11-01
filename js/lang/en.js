@@ -247,7 +247,6 @@
 
   /* ---- Impressum ---- */
   "Angaben gemäß § 5 TMG": "Information pursuant to § 5 TMG (German Telemedia Act)",
-  "Gesellschaftender Geschäftsführer: Martin Safi": "Managing partner: Martin Safi",
   "Adresse: Bünteweg 13, 30989 Gehrden": "Address: Bünteweg 13, 30989 Gehrden, Germany",
   "Handelsregister: HRB228497": "Commercial register: HRB228497",
   "Registergericht: Amtsgericht Hannover": "Registry court: Amtsgericht Hannover (Hanover Local Court)",
