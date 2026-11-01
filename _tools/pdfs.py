@@ -130,34 +130,35 @@ CSS = """
 @page { size: A4; margin: 0; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-body { font-family: "DM Sans", Arial, sans-serif; color: #1a1a1a; font-size: 10pt; }
+body { font-family: "DM Sans", Arial, sans-serif; color: #1a1a1a; font-size: 11pt; }
 
-.page { position: relative; width: 595.28pt; height: 841.89pt; padding: 0 56.7pt; overflow: hidden;
+/* Briefränder nach DIN 5008: links 25 mm, rechts 20 mm */
+.page { position: relative; width: 595.28pt; height: 841.89pt; padding: 0 56.7pt 0 70.9pt; overflow: hidden;
   break-after: page; }
 .page:last-child { break-after: auto; }
 
-.head { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 51pt; height: 113.6pt; margin-bottom: 21.3pt; }
-.head img { width: 77.3pt; height: auto; display: block; }
+.head { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 51pt; height: 122pt; margin-bottom: 26pt; }
+.head img { width: 85pt; height: auto; display: block; }
 .head__side { display: flex; align-items: center; gap: 8pt; margin-top: 11pt; }
 .head__side svg { width: 21pt; height: 14pt; display: block; }
-.head p { font-size: 8.5pt; font-weight: 500; letter-spacing: 0.17em;
+.head p { font-size: 9pt; font-weight: 500; letter-spacing: 0.17em;
   text-transform: uppercase; color: #888; }
 
 .card { position: relative; border: 0.75pt solid #ddd;
-  padding: 9pt 15.7pt 12pt; margin-bottom: 17pt; }
-.card__flag { position: absolute; top: 14pt; right: 15.7pt; height: 13pt; }
-.card__flag svg { height: 13pt; width: auto; display: block; border: 0.5pt solid #ddd; }
-.card h2 { padding-right: 36pt; font-size: 13.5pt; font-weight: 500; line-height: 1.5; color: #1a1a1a; margin-bottom: 4pt; }
-.card p { color: #555; line-height: 1.55; margin-bottom: 4.5pt; }
-.card ol { list-style: none; margin: 7pt 0 7pt; }
-.card li { position: relative; padding-left: 16.5pt; line-height: 1.5; margin-bottom: 4.5pt; }
+  padding: 26pt 28pt 22pt; }
+.card__flag { position: absolute; top: 31.5pt; right: 28pt; height: 14pt; }
+.card__flag svg { height: 14pt; width: auto; display: block; border: 0.5pt solid #ddd; }
+.card h2 { padding-right: 40pt; font-size: 16pt; font-weight: 500; line-height: 1.45; color: #1a1a1a; margin-bottom: 12pt; }
+.card p { color: #555; line-height: 1.65; margin-bottom: 10pt; }
+.card ol { list-style: none; margin: 18pt 0 18pt; }
+.card li { position: relative; padding-left: 20pt; line-height: 1.6; margin-bottom: 13pt; }
 .card li span { position: absolute; left: 0; top: 0; font-weight: 500; color: ACCENT; }
 
-.foot { position: absolute; left: 56.7pt; right: 56.7pt; top: 785.2pt; display: flex;
-  justify-content: space-between; font-size: 8pt; }
+.foot { position: absolute; left: 70.9pt; right: 56.7pt; top: 785.2pt; display: flex;
+  justify-content: space-between; font-size: 8.5pt; }
 .foot p { border-top: 0.75pt solid #eee; padding-top: 5pt; }
-.foot p:first-child { width: 226.8pt; font-weight: 500; color: #555; }
-.foot p:last-child { width: 170.1pt; text-align: right; color: #888; }
+.foot p:first-child { width: 48%; font-weight: 500; color: #555; }
+.foot p:last-child { width: 36%; text-align: right; color: #888; }
 """.replace('ACCENT', SCHWARZ)
 
 
@@ -273,6 +274,7 @@ def main():
                 page.evaluate('document.fonts.ready')
                 # Karten dürfen nicht in die Fußzeile laufen
                 luft = page.evaluate("[...document.querySelectorAll('.page')].map(p => p.querySelector('.foot').getBoundingClientRect().top - p.querySelector('.card').getBoundingClientRect().bottom)")
+                print('  Abstand Karte–Fußzeile je Seite (px):', [round(x) for x in luft])
                 if min(luft) < 10:
                     raise SystemExit(f"{doc['datei']}: Karte läuft in die Fußzeile, Abstand je Seite in px: {luft}")
                 ziel = os.path.join(OUT, doc['datei'])
