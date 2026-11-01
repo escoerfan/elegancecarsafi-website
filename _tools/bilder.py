@@ -31,6 +31,7 @@ PHOTOS = {
     'ablauf-axor-kran.webp': [960, 1672],
     'ablauf-man-absetzkipper.webp': [960, 1672],
     'ablauf-man-tgl-koffer.webp': [960, 1448],
+    'ablauf-axor-gruen.webp': [960, 1320],        # Abholung (Foto aus dem Chat, 1320 px)
     # Vorschaubild des Erklärfilms (Startseite, Unsere Arbeit)
     'erklaerfilm-poster.webp': [960, 1920],
     'erklaerfilm-poster-hoch.webp': [720, 1080],   # Handy: Hochformat-Film

@@ -263,14 +263,15 @@ def ankauf(veh, msg, vpos='50% 50%', pick=None, ppos='50% 50%', check=ANKAUF_CHE
 
 PAGES = {
     'lkw-verkaufen.html': ankauf('ablauf-man-tgx', 'MAN TGX 18.510 · 2019 · 540.000 km', '33% 50%',
-                                 pick='ablauf-actros-planen', ppos='50% 60%',
+                                 pick='ablauf-axor-gruen', ppos='50% 60%',
                                  check=['Angaben', 'Aufbau', 'Betriebsstunden', 'Prüfnachweise']),
     'reisebus-verkaufen.html': ankauf('reisebus-magelys', 'Iveco Magelys · 2017 · 610.000 km', '50% 50%'),
     'linienbus-verkaufen.html': ankauf('angebot-linienbus-citaro', 'Mercedes-Benz Citaro · 2015 · 720.000 km', '50% 50%'),
     'transporter-verkaufen.html': ankauf('bewertung-sprinter', 'Mercedes-Benz Sprinter · 2020 · 180.000 km', '50% 50%'),
-    'bau-und-kommunalfahrzeuge-verkaufen.html': ankauf('angebot-radlader-cat', 'Caterpillar 950 · 2016 · 9.800 h', '50% 50%'),
+    'bau-und-kommunalfahrzeuge-verkaufen.html': ankauf('angebot-radlader-cat', 'Caterpillar 950 · 2016 · 9.800 h', '50% 50%',
+                                 pick='ablauf-axor-gruen', ppos='50% 60%'),
     'unsere-arbeit.html': ankauf('ablauf-man-tgx', 'MAN TGX 18.510 · 2019 · 540.000 km', '33% 50%',
-                                 pick='hero-actros', ppos='50% 50%'),
+                                 pick='ablauf-axor-gruen', ppos='50% 60%'),
     'fuhrpark-verkaufen.html': [
         v_table('Fahrzeugliste'),
         v_table('Bewertung', checked=True),
