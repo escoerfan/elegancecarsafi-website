@@ -1205,5 +1205,13 @@
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Nasz dział zakupów działa we wszystkich 16 krajach związkowych. Niezależnie od tego, czy pojazd stoi w Hamburgu, Monachium, Berlinie czy na wsi: wyceniamy go, składamy jasną ofertę i odbieramy go od Państwa.",
   "Ankauf in allen 16 Bundesländern": "Skup we wszystkich 16 krajach związkowych",
   "Abholung direkt bei Ihnen": "Odbiór bezpośrednio u Państwa",
-  "Sitz in Gehrden bei Hannover": "Siedziba w Gehrden koło Hanoweru"
+  "Sitz in Gehrden bei Hannover": "Siedziba w Gehrden koło Hanoweru",
+
+  /* ---- Export-Checklisten PDF (01.11.) ---- */
+  "Export-Checklisten als PDF": "Listy kontrolne eksportu w PDF",
+  "Für Kunden aus der EU und für den Export in Drittländer – alle Unterlagen und Schritte auf einen Blick.": "Dla klientów z UE i na eksport do krajów trzecich – wszystkie dokumenty i kroki w skrócie.",
+  "Drittland-Checkliste": "Lista kontrolna – kraje trzecie",
+  "Checkliste öffnen": "Otwórz listę kontrolną",
+  "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "Wszystkie dokumenty w skrócie, po niemiecku i angielsku – do wydruku lub przekazania księgowości.",
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "To przegląd w formacie PDF dla klientów z UE ze wszystkimi dokumentami i krokami. Znajdą go Państwo na stronie Eksport do UE."
 };

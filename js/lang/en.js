@@ -1219,5 +1219,13 @@
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Our purchasing team operates in all 16 federal states. Whether your vehicle is in Hamburg, Munich, Berlin or in the countryside: we assess it, make you a clear offer and collect it from you.",
   "Ankauf in allen 16 Bundesländern": "Purchasing in all 16 federal states",
   "Abholung direkt bei Ihnen": "Collection right at your location",
-  "Sitz in Gehrden bei Hannover": "Based in Gehrden near Hanover"
+  "Sitz in Gehrden bei Hannover": "Based in Gehrden near Hanover",
+
+  /* ---- Export-Checklisten PDF (01.11.) ---- */
+  "Export-Checklisten als PDF": "Export checklists as PDF",
+  "Für Kunden aus der EU und für den Export in Drittländer – alle Unterlagen und Schritte auf einen Blick.": "For customers from the EU and for exports to third countries – all documents and steps at a glance.",
+  "Drittland-Checkliste": "Non-EU checklist",
+  "Checkliste öffnen": "Open checklist",
+  "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "All documents at a glance, in German and English – to print or forward to your accounts department.",
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "A PDF overview for customers from the EU with all documents and steps. You will find it on the page Export to the EU."
 };

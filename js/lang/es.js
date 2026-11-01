@@ -870,7 +870,7 @@
   "Wir verkaufen und exportieren Reisebusse, Linienbusse, LKW, Sattelzugmaschinen, Transporter sowie Bau- und Kommunalfahrzeuge an Unternehmen in der gesamten Europäischen Union, auch nach Osteuropa.": "Vendemos y exportamos autocares, autobuses urbanos, camiones, cabezas tractoras, furgonetas y vehículos de construcción y municipales a empresas de toda la Unión Europea, también a Europa del Este.",
   "Innerhalb der EU gibt es keine Zollformalitäten. Verkauft wird als innergemeinschaftliche Lieferung ohne deutsche Umsatzsteuer. Voraussetzung: Der Käufer ist ein Unternehmen mit gültiger Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland wird nachgewiesen.": "Dentro de la UE no hay trámites aduaneros. La venta se realiza como entrega intracomunitaria sin IVA alemán. Requisito: el comprador es una empresa con un número de IVA intracomunitario válido y se acredita la llegada del vehículo al país de destino.",
   "Deshalb verlangt das deutsche Finanzamt für jeden Export in ein EU-Land bestimmte Unterlagen von uns. Welche das sind, steht in unserer EU-Checkliste, hier auf der Seite und als PDF zum Ausdrucken.": "Por eso, la Agencia Tributaria alemana nos exige determinados documentos en cada exportación a un país de la UE. Cuáles son, lo encontrará en nuestra checklist UE, aquí en la página y en PDF para imprimir.",
-  "EU-Checkliste": "Checklist UE",
+  "EU-Checkliste": "Lista de control UE",
   "Diese Unterlagen brauchen wir von Ihnen": "Los documentos que necesitamos de usted",
   "Fünf Punkte, damit der Export in die EU glatt läuft. Am besten schicken Sie uns alles vor der Abholung per E-Mail oder WhatsApp.": "Cinco puntos para que la exportación a la UE salga bien. Lo mejor es que nos lo envíe todo antes de la recogida por correo electrónico o WhatsApp.",
   "Checkliste als PDF": "Checklist en PDF",
@@ -1205,5 +1205,13 @@
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Nuestro equipo de compras opera en los 16 estados federados. Tanto si su vehículo está en Hamburgo, Múnich, Berlín o en el campo: lo valoramos, le hacemos una oferta clara y lo recogemos.",
   "Ankauf in allen 16 Bundesländern": "Compra en los 16 estados federados",
   "Abholung direkt bei Ihnen": "Recogida en su ubicación",
-  "Sitz in Gehrden bei Hannover": "Sede en Gehrden, cerca de Hannover"
+  "Sitz in Gehrden bei Hannover": "Sede en Gehrden, cerca de Hannover",
+
+  /* ---- Export-Checklisten PDF (01.11.) ---- */
+  "Export-Checklisten als PDF": "Listas de control de exportación en PDF",
+  "Für Kunden aus der EU und für den Export in Drittländer – alle Unterlagen und Schritte auf einen Blick.": "Para clientes de la UE y para la exportación a terceros países: todos los documentos y pasos de un vistazo.",
+  "Drittland-Checkliste": "Lista de control terceros países",
+  "Checkliste öffnen": "Abrir lista de control",
+  "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "Todos los documentos de un vistazo, en alemán e inglés: para imprimir o reenviar a su contabilidad.",
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "Un resumen en PDF para clientes de la UE con todos los documentos y pasos. Lo encontrará en la página Exportación a la UE."
 };

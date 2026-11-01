@@ -1205,5 +1205,13 @@
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "فريق الشراء لدينا يعمل في جميع الولايات الاتحادية الست عشرة. سواء كانت مركبتكم في هامبورغ أو ميونخ أو برلين أو في الريف: نقيّمها ونقدم لكم عرضاً واضحاً ونستلمها من عندكم.",
   "Ankauf in allen 16 Bundesländern": "الشراء في جميع الولايات الست عشرة",
   "Abholung direkt bei Ihnen": "الاستلام مباشرة من موقعكم",
-  "Sitz in Gehrden bei Hannover": "المقر في غيردن قرب هانوفر"
+  "Sitz in Gehrden bei Hannover": "المقر في غيردن قرب هانوفر",
+
+  /* ---- Export-Checklisten PDF (01.11.) ---- */
+  "Export-Checklisten als PDF": "قوائم التحقق للتصدير بصيغة PDF",
+  "Für Kunden aus der EU und für den Export in Drittländer – alle Unterlagen und Schritte auf einen Blick.": "لعملاء الاتحاد الأوروبي وللتصدير إلى الدول الثالثة – جميع المستندات والخطوات في لمحة واحدة.",
+  "Drittland-Checkliste": "قائمة التحقق للدول الثالثة",
+  "Checkliste öffnen": "فتح قائمة التحقق",
+  "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "جميع المستندات في لمحة واحدة، بالألمانية والإنجليزية – للطباعة أو لإرسالها إلى قسم المحاسبة لديكم.",
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "ملف PDF لعملاء الاتحاد الأوروبي يضم جميع المستندات والخطوات. تجدونه في صفحة التصدير إلى الاتحاد الأوروبي."
 };

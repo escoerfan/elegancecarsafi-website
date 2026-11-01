@@ -870,7 +870,7 @@
   "Wir verkaufen und exportieren Reisebusse, Linienbusse, LKW, Sattelzugmaschinen, Transporter sowie Bau- und Kommunalfahrzeuge an Unternehmen in der gesamten Europäischen Union, auch nach Osteuropa.": "Мы продаём и экспортируем туристические и городские автобусы, грузовики, седельные тягачи, фургоны, а также строительную и коммунальную технику компаниям по всему Европейскому союзу, в том числе в Восточную Европу.",
   "Innerhalb der EU gibt es keine Zollformalitäten. Verkauft wird als innergemeinschaftliche Lieferung ohne deutsche Umsatzsteuer. Voraussetzung: Der Käufer ist ein Unternehmen mit gültiger Umsatzsteuer-Identifikationsnummer, und die Ankunft des Fahrzeugs im Bestimmungsland wird nachgewiesen.": "Внутри ЕС таможенных формальностей нет. Продажа оформляется как внутрисоюзная поставка без немецкого НДС. Условие: покупатель — компания с действующим номером плательщика НДС ЕС, а прибытие автомобиля в страну назначения подтверждено документально.",
   "Deshalb verlangt das deutsche Finanzamt für jeden Export in ein EU-Land bestimmte Unterlagen von uns. Welche das sind, steht in unserer EU-Checkliste, hier auf der Seite und als PDF zum Ausdrucken.": "Поэтому немецкая налоговая инспекция требует от нас определённые документы при каждом экспорте в страну ЕС. Какие именно, указано в нашем чек-листе ЕС — здесь на странице и в формате PDF для печати.",
-  "EU-Checkliste": "Чек-лист ЕС",
+  "EU-Checkliste": "Чек-лист для ЕС",
   "Diese Unterlagen brauchen wir von Ihnen": "Какие документы нам нужны от вас",
   "Fünf Punkte, damit der Export in die EU glatt läuft. Am besten schicken Sie uns alles vor der Abholung per E-Mail oder WhatsApp.": "Пять пунктов, чтобы экспорт в ЕС прошёл гладко. Лучше всего пришлите нам всё до получения автомобиля по электронной почте или в WhatsApp.",
   "Checkliste als PDF": "Чек-лист в PDF",
@@ -1205,5 +1205,13 @@
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Наш отдел закупок работает во всех 16 федеральных землях. Где бы ни находился ваш автомобиль – в Гамбурге, Мюнхене, Берлине или в сельской местности: мы оценим его, сделаем чёткое предложение и заберём его у вас.",
   "Ankauf in allen 16 Bundesländern": "Выкуп во всех 16 федеральных землях",
   "Abholung direkt bei Ihnen": "Самовывоз прямо от вас",
-  "Sitz in Gehrden bei Hannover": "Офис в Герден под Ганновером"
+  "Sitz in Gehrden bei Hannover": "Офис в Герден под Ганновером",
+
+  /* ---- Export-Checklisten PDF (01.11.) ---- */
+  "Export-Checklisten als PDF": "Чек-листы для экспорта в PDF",
+  "Für Kunden aus der EU und für den Export in Drittländer – alle Unterlagen und Schritte auf einen Blick.": "Для клиентов из ЕС и для экспорта в третьи страны – все документы и шаги в одном месте.",
+  "Drittland-Checkliste": "Чек-лист для третьих стран",
+  "Checkliste öffnen": "Открыть чек-лист",
+  "Alle Unterlagen auf einen Blick, auf Deutsch und Englisch – zum Ausdrucken oder Weiterleiten an Ihre Buchhaltung.": "Все документы в одном месте, на немецком и английском – для печати или передачи в бухгалтерию.",
+  "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "Это обзор в формате PDF для клиентов из ЕС со всеми документами и шагами. Вы найдёте его на странице «Экспорт в ЕС»."
 };

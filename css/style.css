@@ -1920,6 +1920,8 @@ body .vw-section * {
 .export-doc h3 { color: var(--white); }
 .export-doc p { color: var(--text); }
 .export-doc :focus-visible { outline-color: var(--white); }
+.export-doc > div:first-child { flex: 1 1 320px; }
+.export-doc__actions { display: flex; flex-wrap: wrap; gap: 12px; }
 
 /* ====================================================================
    Rechtsseiten (Impressum / Datenschutz)
