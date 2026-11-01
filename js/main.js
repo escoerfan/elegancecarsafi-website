@@ -333,6 +333,19 @@
 
       mapEl.innerHTML = '';
       mapEl.appendChild(map);
+
+      /* Der Graufilter färbt auch die Markierung grau. Darüber liegt deshalb
+         eine rote Markierung in gleicher Form, Spitze genau in der Kartenmitte
+         (dort setzt Google den Standort). Verschiebt jemand die Karte, wandert
+         die echte Markierung mit – dann wird die rote ausgeblendet. */
+      var pin = document.createElement('span');
+      pin.className = 'map__pin';
+      pin.setAttribute('aria-hidden', 'true');
+      pin.innerHTML = '<svg viewBox="4.6 1.6 14.8 20.8"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>';
+      mapEl.appendChild(pin);
+      window.addEventListener('blur', function () {
+        if (document.activeElement === map) mapEl.classList.add('is-moved');
+      });
     };
 
     var showPlaceholder = function () {

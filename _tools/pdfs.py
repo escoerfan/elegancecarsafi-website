@@ -8,8 +8,9 @@ Aufruf:  python3 _tools/pdfs.py
 Braucht: playwright (mit installiertem Google Chrome) und pypdf.
 
 Aufbau wie die ursprüngliche EU-Checkliste (Sept. 2026): schwarzes Logo links,
-grauer Großbuchstaben-Titel rechts, Linie, zwei Karten (Deutsch und Englisch)
-auf einer A4-Seite, nummerierte Liste, Fußzeile mit zwei feinen Linien.
+grauer Großbuchstaben-Titel rechts, Karte mit nummerierter Liste, Fußzeile
+mit zwei feinen Linien. Je Sprache eine Seite (1 Deutsch, 2 Englisch), oben
+rechts in der Karte die Flagge der Sprache. Keine schwarzen Balken.
 Nur die Farben sind angepasst: Schwarz statt Orange, wie die Website.
 Boxen eckig, Schriftstärke höchstens 500. Die EU-Checkliste trägt oben
 rechts die EU-Flagge (offizielles Muster, als Vektor).
@@ -131,20 +132,22 @@ CSS = """
 html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 body { font-family: "DM Sans", Arial, sans-serif; color: #1a1a1a; font-size: 10pt; }
 
-.page { position: relative; width: 595.28pt; height: 841.89pt; padding: 0 56.7pt; overflow: hidden; }
+.page { position: relative; width: 595.28pt; height: 841.89pt; padding: 0 56.7pt; overflow: hidden;
+  break-after: page; }
+.page:last-child { break-after: auto; }
 
-.head { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 51pt; height: 113.6pt; }
+.head { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 51pt; height: 113.6pt; margin-bottom: 21.3pt; }
 .head img { width: 77.3pt; height: auto; display: block; }
 .head__side { display: flex; align-items: center; gap: 8pt; margin-top: 11pt; }
 .head__side svg { width: 21pt; height: 14pt; display: block; }
 .head p { font-size: 8.5pt; font-weight: 500; letter-spacing: 0.17em;
   text-transform: uppercase; color: #888; }
-.rule { height: 1.5pt; background: ACCENT; margin-bottom: 19.8pt; }
 
 .card { position: relative; border: 0.75pt solid #ddd;
   padding: 9pt 15.7pt 12pt; margin-bottom: 17pt; }
-.card::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 1.5pt; background: ACCENT; }
-.card h2 { font-size: 13.5pt; font-weight: 500; line-height: 1.5; color: #1a1a1a; margin-bottom: 4pt; }
+.card__flag { position: absolute; top: 14pt; right: 15.7pt; height: 13pt; }
+.card__flag svg { height: 13pt; width: auto; display: block; border: 0.5pt solid #ddd; }
+.card h2 { padding-right: 36pt; font-size: 13.5pt; font-weight: 500; line-height: 1.5; color: #1a1a1a; margin-bottom: 4pt; }
 .card p { color: #555; line-height: 1.55; margin-bottom: 4.5pt; }
 .card ol { list-style: none; margin: 7pt 0 7pt; }
 .card li { position: relative; padding-left: 16.5pt; line-height: 1.5; margin-bottom: 4.5pt; }
@@ -182,25 +185,49 @@ def eu_flagge():
             f'<rect width="{w:.0f}" height="{h:.0f}" fill="#003399"/><g fill="#FFCC00">{"".join(sterne)}</g></svg>')
 
 
+
+def de_flagge():
+    """Deutschland, 5:3, Schwarz-Rot-Gold."""
+    return ('<svg viewBox="0 0 5 3" role="img" aria-label="Deutsch">'
+            '<rect width="5" height="1" fill="#000"/><rect y="1" width="5" height="1" fill="#DD0000"/>'
+            '<rect y="2" width="5" height="1" fill="#FFCE00"/></svg>')
+
+
+def uk_flagge():
+    """Vereinigtes Königreich (Union Jack), 2:1."""
+    return ('<svg viewBox="0 0 60 30" role="img" aria-label="English">'
+            '<clipPath id="uk-s"><path d="M0,0 v30 h60 v-30 z"/></clipPath>'
+            '<clipPath id="uk-t"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath>'
+            '<g clip-path="url(#uk-s)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/>'
+            '<path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/>'
+            '<path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#uk-t)" stroke="#C8102E" stroke-width="4"/>'
+            '<path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/>'
+            '<path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>')
+
+
 EU['flagge'] = eu_flagge()
+FLAGGEN = {'de': de_flagge(), 'en': uk_flagge()}
 
 
 def karte(k):
     lang, titel, intro, punkte, schluss = k
     li = ''.join(f'<li><span>{i}.</span>{e(t)}</li>' for i, t in enumerate(punkte, 1))
     ps = ''.join(f'<p>{e(t)}</p>' for t in schluss)
-    return f'<section class="card" lang="{lang}"><h2>{e(titel)}</h2><p>{e(intro)}</p><ol>{li}</ol>{ps}</section>'
+    return f'<section class="card" lang="{lang}"><span class="card__flag">{FLAGGEN[lang]}</span><h2>{e(titel)}</h2><p>{e(intro)}</p><ol>{li}</ol>{ps}</section>'
 
 
 def dokument(doc):
     return f"""<!doctype html><html lang="de"><head><meta charset="utf-8">
 <title>{e(doc['meta']['title'])}</title><style>{CSS}</style></head><body>
-<div class="page">
+{''.join(seite(doc, k) for k in doc['karten'])}</body></html>"""
+
+
+def seite(doc, k):
+    return f"""<div class="page" lang="{k[0]}">
   <header class="head"><img src="logo-ecs-schwarz.png" alt="ECS Exclusive Commerce Services GmbH"><div class="head__side">{doc.get('flagge', '')}<p>{e(doc['kopf'])}</p></div></header>
-  <div class="rule"></div>
-  {''.join(karte(k) for k in doc['karten'])}
+  {karte(k)}
   <footer class="foot"><p>{e(FIRMA)}</p><p>Gehrden bei Hannover</p></footer>
-</div></body></html>"""
+</div>"""
 
 
 def metadaten(pfad, meta, jetzt):
@@ -245,10 +272,9 @@ def main():
                 page.goto('file://' + src)
                 page.evaluate('document.fonts.ready')
                 # Karten dürfen nicht in die Fußzeile laufen
-                unten = page.evaluate("Math.max(...[...document.querySelectorAll('.card')].map(c => c.getBoundingClientRect().bottom))")
-                fuss = page.evaluate("document.querySelector('.foot').getBoundingClientRect().top")
-                if unten > fuss - 10:
-                    raise SystemExit(f"{doc['datei']}: Inhalt zu lang, Karten enden bei {unten:.0f}px, Fußzeile bei {fuss:.0f}px")
+                luft = page.evaluate("[...document.querySelectorAll('.page')].map(p => p.querySelector('.foot').getBoundingClientRect().top - p.querySelector('.card').getBoundingClientRect().bottom)")
+                if min(luft) < 10:
+                    raise SystemExit(f"{doc['datei']}: Karte läuft in die Fußzeile, Abstand je Seite in px: {luft}")
                 ziel = os.path.join(OUT, doc['datei'])
                 page.pdf(path=ziel, format='A4', print_background=True, prefer_css_page_size=True,
                          margin={'top': '0', 'right': '0', 'bottom': '0', 'left': '0'})

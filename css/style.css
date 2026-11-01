@@ -1407,6 +1407,22 @@ body .vw-section * {
   border: 0;
   filter: grayscale(1);
 }
+/* Rote Standort-Markierung über der grauen Karte (js/main.js, "Karte") */
+.map { position: relative; }
+.map__pin {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 23px;
+  height: 32px;
+  transform: translate(-50%, -100%);
+  pointer-events: none;
+  transition: opacity 0.3s var(--ease);
+}
+.map__pin svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.map__pin path { fill: #ea4335; stroke: #b31412; stroke-width: 0.6; }
+.map__pin circle { fill: #b31412; }
+.map.is-moved .map__pin { opacity: 0; }
 
 /* Platzhalter, solange keine Einwilligung für die Karte vorliegt */
 .map-consent {
