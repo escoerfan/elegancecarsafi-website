@@ -771,7 +771,7 @@
 
   /* ---- Phase 8: Impressum aktualisiert ---- */
   "Angaben gemäß § 5 DDG": "بيانات وفقًا للمادة 5 من قانون الوسائط الإلكترونية الألماني (DDG)",
-  "Geschäftsführender Gesellschafter: Martin Safi": "الشريك المدير: Martin Safi",
+  "Geschäftsführer: M.Safi": "المدير العام: M.Safi",
   "Verantwortlich für die folgenden Inhalte gemäß § 18 Abs. 2 MStV: Erfan Safi": "المسؤول عن المحتوى وفقًا للمادة 18 الفقرة 2 من MStV: Erfan Safi",
   "Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.": "بصفتنا مقدّم خدمة، نحن مسؤولون عن محتوانا الخاص على هذه الصفحات وفقًا للقوانين العامة بموجب المادة 7 الفقرة 1 من DDG. غير أننا وفقًا للمواد 8 إلى 10 من DDG غير ملزمين بمراقبة المعلومات المنقولة أو المخزنة الخاصة بأطراف ثالثة، أو بالبحث عن ظروف تشير إلى نشاط غير قانوني. ولا يمس ذلك الالتزامات بإزالة المعلومات أو حظر استخدامها وفقًا للقوانين العامة. إلا أن المسؤولية في هذا الشأن لا تقوم إلا من لحظة العلم بانتهاك قانوني محدد. وعند علمنا بمثل هذه الانتهاكات سنزيل هذا المحتوى فورًا.",
   "Verbraucherstreitbeilegung": "تسوية نزاعات المستهلكين",
