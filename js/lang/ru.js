@@ -303,7 +303,6 @@
   "Angebot": "Предложение",
   "Sie erhalten ein konkretes Angebot. Für Kommunen und Behörden erstellen wir es auf Wunsch schriftlich, damit es in Ihr Verfahren passt.": "Вы получаете конкретное предложение. Для муниципалитетов и ведомств мы по запросу оформляем его письменно, чтобы оно соответствовало вашей процедуре.",
   "Zahlung": "Оплата",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "После вашего согласия мы оформляем договор купли-продажи. Оплата производится банковским переводом или наличными, как заранее твёрдо договорились.",
   "Abholung": "Вывоз",
   "Unsere Fahrer holen das Fahrzeug an Ihrem Bauhof oder Betriebsgelände ab, deutschlandweit und auf Wunsch auch im Ausland.": "Наши водители забирают технику с вашей базы или территории предприятия по всей Германии, а по желанию и за рубежом.",
   "Unterlagen": "Документы",
@@ -435,7 +434,6 @@
   "Paketangebot": "Пакетное предложение",
   "Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.": "Вы получаете общее предложение на автопарк и по желанию стоимость каждой машины – для вашего внутреннего согласования.",
   "Vertrag und Zahlung": "Договор и оплата",
-  "Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.": "Один договор купли-продажи на все машины. Оплата банковским переводом или наличными; способ и сроки мы заранее твёрдо согласуем.",
   "Gestaffelte Abholung": "Поэтапный вывоз",
   "Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.": "Наши водители забирают технику с ваших площадок – сразу или поэтапно, если замена поступает постепенно.",
   "Was wir für die Übernahme eines Fuhrparks brauchen": "Что нужно для приёма автопарка",
@@ -481,7 +479,6 @@
   "Schicken Sie uns eine Liste der Busse mit Modell, Baujahr, Kilometerstand, Länge, Türen und Euro-Norm – oder rufen Sie an. Bei einzelnen Fahrzeugen reichen Fotos per WhatsApp.": "Пришлите нам список автобусов с моделью, годом выпуска, пробегом, длиной, количеством дверей и экологическим классом Euro – или позвоните. Для отдельных машин достаточно фото в WhatsApp.",
   "Wir bewerten jedes Fahrzeug einzeln und berücksichtigen dabei auch Einbauten wie Rampe, Klimaanlage oder Fahrgastinformation. Bei Serien gleicher Bauart geht das besonders schnell.": "Мы оцениваем каждую машину отдельно и учитываем оборудование, например аппарель, кондиционер или систему информирования пассажиров. Для серий одного типа это происходит особенно быстро.",
   "Sie erhalten ein Angebot je Fahrzeug oder ein Gesamtangebot für die Serie, ganz wie es für Ihre interne Freigabe besser passt.": "Вы получаете предложение по каждой машине или общее предложение на серию – как удобнее для вашего внутреннего согласования.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar; Art und Zeitpunkt stimmen wir vorher verbindlich mit Ihnen ab.": "После вашего согласия следует договор купли-продажи. Оплата банковским переводом или наличными; способ и сроки мы заранее твёрдо согласуем с вами.",
   "Unsere Fahrer holen die Busse ab – auf Wunsch gestaffelt, wenn Ihre Neufahrzeuge erst nach und nach eintreffen. Deutschlandweit und auf Wunsch auch im Ausland.": "Наши водители забирают автобусы – по желанию поэтапно, если новые машины поступают постепенно. По всей Германии, а по желанию и за рубежом.",
   "Unterlagen für den Verkauf Ihrer Linienbusse": "Документы для продажи городских автобусов",
   "Papiere und Schlüssel": "Документы и ключи",
@@ -514,7 +511,6 @@
   "Ja. Unsere eigenen Fahrer holen die Fahrzeuge deutschlandweit ab und auf Wunsch auch im Ausland.": "Да. Наши водители забирают технику по всей Германии, а по желанию и за рубежом.",
   "LKW verkaufen: Ankauf von LKW und Sattelzug | ECS GmbH": "Продать грузовик: выкуп грузовиков и тягачей | ECS GmbH",
   "Ankauf LKW": "Выкуп грузовиков",
-  "Sie möchten eine Sattelzugmaschine, einen Verteiler-LKW oder einen Kipper verkaufen? Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an – mit klarem Angebot, Zahlung per Überweisung oder bar und Abholung durch unsere Fahrer.": "Хотите продать седельный тягач, развозной грузовик или самосвал? Мы выкупаем подержанные грузовики у транспортных компаний и предприятий – с понятным предложением, оплатой переводом или наличными и вывозом нашими водителями.",
   "LKW und Sattelzugmaschinen, die wir ankaufen": "Грузовики и седельные тягачи, которые мы выкупаем",
   "Wir kaufen LKW aller Gewichtsklassen und Aufbauarten an: Sattelzugmaschinen, Pritschen- und Planen-LKW, Koffer- und Kühlkoffer-Fahrzeuge, Kipper, Fahrgestelle sowie LKW mit Ladekran oder Ladebordwand.": "Мы выкупаем грузовики всех весовых классов и типов кузова: седельные тягачи, бортовые и тентованные грузовики, фургоны и рефрижераторы, самосвалы, шасси, а также грузовики с краном-манипулятором или гидробортом.",
   "Bei den Herstellern sind wir breit aufgestellt. Typische Fahrzeuge sind MAN TGX, TGS und TGL, Mercedes-Benz Actros, Arocs und Atego, Scania R und S, Volvo FH und FM, DAF XF und CF sowie Iveco S-Way und Eurocargo.": "Мы работаем с широким кругом производителей. Типичные машины – MAN TGX, TGS и TGL, Mercedes-Benz Actros, Arocs и Atego, Scania R и S, Volvo FH и FM, DAF XF и CF, а также Iveco S-Way и Eurocargo.",
@@ -524,7 +520,6 @@
   "Nennen Sie uns Hersteller, Modell, Erstzulassung, Kilometerstand, Leistung, Achskonfiguration, Euro-Norm und Aufbau. Fotos von außen, vom Aufbau, vom Innenraum und vom Kilometerstand schicken Sie am einfachsten per WhatsApp.": "Сообщите нам производителя, модель, дату первой регистрации, пробег, мощность, колёсную формулу, экологический класс Euro и кузов. Фото снаружи, кузова, кабины и одометра удобнее всего отправить в WhatsApp.",
   "Wir bewerten das Fahrzeug anhand Ihrer Angaben. Bei Aufbauten wie Kühlaggregat, Kran oder Ladebordwand helfen uns Betriebsstunden und Prüfnachweise.": "Мы оцениваем машину по вашим данным. Для надстроек вроде холодильной установки, крана или гидроборта нам помогают моточасы и документы о проверках.",
   "Sie bekommen ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift ist alles unverbindlich.": "Вы получаете конкретное предложение, в большинстве случаев в тот же день. До подписания всё ни к чему не обязывает.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Die Zahlung erfolgt per Überweisung oder in bar – wie und wann, legen wir vorher verbindlich fest.": "После вашего согласия мы оформляем договор купли-продажи. Оплата производится банковским переводом или наличными – как и когда, мы заранее твёрдо согласуем.",
   "Unsere eigenen Fahrer holen den LKW bei Ihnen auf dem Hof ab, deutschlandweit und auf Wunsch auch im Ausland.": "Наши водители забирают грузовик прямо с вашей площадки по всей Германии, а по желанию и за рубежом.",
   "Diese Unterlagen brauchen wir für Ihren LKW": "Документы, которые нужны для вашего грузовика",
   "Zulassungsbescheinigung Teil I und Teil II, alle Schlüssel und, falls vorhanden, die Unterlagen zum Aufbau.": "Свидетельство о регистрации Zulassungsbescheinigung Teil I и Teil II, все ключи и при наличии документы на надстройку.",
@@ -552,8 +547,6 @@
   "In den meisten Fällen noch am selben Tag – vorausgesetzt, die wichtigsten Daten und einige Fotos liegen uns vor.": "В большинстве случаев в тот же день – при условии, что у нас есть основные данные и несколько фото.",
   "Muss ich den LKW zu Ihnen nach Gehrden bringen?": "Нужно ли мне пригонять грузовик к вам в Герден?",
   "Nein. Unsere Fahrer holen den LKW an Ihrem Standort ab, deutschlandweit und auf Wunsch auch im Ausland.": "Нет. Наши водители забирают грузовик с вашего места по всей Германии, а по желанию и за рубежом.",
-  "Wie wird der Kaufpreis bezahlt?": "Как оплачивается цена покупки?",
-  "Per Überweisung oder in bar. Art und Zeitpunkt der Zahlung vereinbaren wir verbindlich vor dem Verkauf.": "Банковским переводом или наличными. Способ и сроки оплаты мы твёрдо согласуем до продажи.",
   "Was passiert mit der Maut-Box?": "Что происходит с бортовым устройством оплаты дорог?",
   "Die On-Board-Unit von Toll Collect gehört nicht zum Fahrzeug. Melden Sie das Fahrzeug vor der Übergabe bei Toll Collect ab.": "Бортовой блок Toll Collect не является частью машины. Перед передачей снимите машину с учёта в Toll Collect.",
   "Kaufen Sie LKW aus Österreich, der Schweiz und Tschechien an?": "Вы выкупаете грузовики из Австрии, Швейцарии и Чехии?",
@@ -571,7 +564,6 @@
   "Rufen Sie uns an oder schicken Sie uns per WhatsApp die wichtigsten Daten: Hersteller und Modell, Erstzulassung, Kilometerstand, Sitzplatzzahl, Euro-Norm und Standort. Dazu einige Fotos – außen von allen Seiten, Innenraum und Cockpit.": "Позвоните нам или отправьте основные данные в WhatsApp: производитель и модель, дата первой регистрации, пробег, количество мест, экологический класс Euro и местонахождение. Добавьте несколько фото – снаружи со всех сторон, салон и место водителя.",
   "Wir bewerten Ihren Bus anhand Ihrer Angaben und Fotos. In die Bewertung fließen Ausstattung, Laufleistung, Wartungshistorie und die aktuelle Nachfrage nach dem Modell ein. Offene Punkte klären wir direkt am Telefon.": "Мы оцениваем ваш автобус по вашим данным и фото. В оценку входят оснащение, пробег, история обслуживания и текущий спрос на модель. Открытые вопросы мы уточняем сразу по телефону.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Die Anfrage ist unverbindlich: Sie entscheiden in Ruhe, ob Sie verkaufen möchten.": "Вы получаете конкретное предложение, в большинстве случаев в тот же день. Запрос ни к чему не обязывает: вы спокойно решаете, хотите ли продавать.",
-  "Sind wir uns einig, setzen wir den Kaufvertrag auf. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher verbindlich mit Ihnen fest.": "Когда мы договорились, мы оформляем договор купли-продажи. Оплата банковским переводом или наличными. Способ и сроки оплаты мы заранее твёрдо согласуем с вами.",
   "Unsere eigenen Fahrer holen den Bus an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Eine Überführung müssen Sie nicht organisieren.": "Наши водители забирают автобус с вашего места – по всей Германии, а по желанию и за рубежом. Организовывать перегон вам не нужно.",
   "Was wir für den Ankauf benötigen": "Что нужно для выкупа",
   "Zulassungsbescheinigung Teil I und Teil II sowie alle vorhandenen Schlüssel. Ohne Teil II, den früheren Fahrzeugbrief, ist kein Eigentumsübergang möglich.": "Свидетельство о регистрации Zulassungsbescheinigung Teil I и Teil II и все имеющиеся ключи. Без Teil II, бывшего Fahrzeugbrief, переход права собственности невозможен.",
@@ -579,7 +571,6 @@
   "Berichte der Hauptuntersuchung und Sicherheitsprüfung, Wartungsnachweise und Rechnungen größerer Arbeiten, soweit vorhanden. Sie belegen die Historie des Fahrzeugs.": "Протоколы техосмотра (HU) и проверки безопасности (SP), документы об обслуживании и счета за крупные работы – при наличии. Они подтверждают историю машины.",
   "Bei Unternehmen ein aktueller Handelsregisterauszug oder die Gewerbeanmeldung sowie der Ausweis der Person, die den Kaufvertrag unterschreibt.": "Для компаний – актуальная выписка из торгового реестра или регистрация предпринимательской деятельности, а также удостоверение личности подписанта договора купли-продажи.",
   "Zahlung und Abholung aus einer Hand": "Оплата и вывоз из одних рук",
-  "Sie erhalten Ihr Geld per Überweisung oder bar und müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "Вы получаете деньги переводом или наличными и не занимаетесь перевозкой. Наши водители забирают автобус у вас.",
   "Worauf Sie beim Verkauf Ihres Reisebusses achten sollten": "На что обратить внимание при продаже туристического автобуса",
   "Lesen Sie vor der Übergabe die Daten des digitalen Fahrtenschreibers aus und heben Sie die Unternehmenssperre mit Ihrer Unternehmenskarte auf. Die ausgelesenen Daten müssen Sie als Unternehmen aufbewahren.": "Перед передачей выгрузите данные цифрового тахографа и снимите блокировку предприятия с помощью карты предприятия. Выгруженные данные вы как компания обязаны хранить.",
   "Ausstattung vollständig angeben": "Полностью укажите оснащение",
@@ -612,7 +603,6 @@
   "Senden Sie uns Hersteller und Modell, Erstzulassung, Kilometerstand, Radstand, Dachhöhe, Getriebe und Standort. Fotos von außen, vom Laderaum und vom Tacho helfen bei der ersten Einschätzung.": "Пришлите нам производителя и модель, дату первой регистрации, пробег, колёсную базу, высоту крыши, коробку передач и местонахождение. Фото снаружи, грузового отсека и спидометра помогут при первой оценке.",
   "Wir bewerten Ihren Transporter anhand der Daten und Fotos. Ausstattung wie Regaleinbau, Anhängerkupplung, Standheizung oder Kühlung berücksichtigen wir dabei.": "Мы оцениваем ваш фургон по данным и фото. Учитываем оборудование, например стеллажи, фаркоп, автономный отопитель или холодильную установку.",
   "Sie erhalten ein konkretes Angebot, meist noch am selben Tag. Sie entscheiden ohne Druck, ob Sie verkaufen.": "Вы получаете конкретное предложение, обычно в тот же день. Вы решаете без давления, продавать ли.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Bezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "После вашего согласия следует договор купли-продажи. Оплата банковским переводом или наличными, как заранее твёрдо договорились.",
   "Unsere Fahrer holen den Transporter bei Ihnen ab – deutschlandweit und auf Wunsch auch im Ausland.": "Наши водители забирают фургон у вас – по всей Германии, а по желанию и за рубежом.",
   "Was Sie für den Verkauf bereithalten sollten": "Что подготовить к продаже",
   "Zulassungsbescheinigung Teil I und Teil II, alle vorhandenen Schlüssel und, falls vorhanden, Unterlagen zu Aufbau oder Kühlung.": "Свидетельство о регистрации Zulassungsbescheinigung Teil I и Teil II, все имеющиеся ключи и при наличии документы на кузов или холодильную установку.",
@@ -645,10 +635,9 @@
   "So verkaufen Sie": "Как продать",
   "Ihr Nutzfahrzeug.": "ваш коммерческий транспорт.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "Пять шагов от первого звонка до вывоза – для отдельных машин так же, как для целых автопарков. У вас есть постоянное контактное лицо.",
-  "Rufen Sie uns an oder schreiben Sie uns per WhatsApp. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Позвоните нам или напишите в WhatsApp. Для первой оценки достаточно вида техники, производителя и модели, даты первой регистрации, пробега и местонахождения – плюс несколько фото. При нескольких машинах лучше пришлите список.",
+  "Rufen Sie uns an, schreiben Sie uns per WhatsApp oder senden Sie uns eine E-Mail. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Позвоните нам, напишите в WhatsApp или отправьте нам e-mail. Для первой оценки достаточно вида техники, производителя и модели, даты первой регистрации, пробега и местонахождения – плюс несколько фото. При нескольких машинах лучше пришлите список.",
   "Wir bewerten Ihr Fahrzeug anhand Ihrer Angaben und Fotos. Ausstattung, Laufleistung, Wartungshistorie und die Nachfrage im In- und Ausland fließen in die Bewertung ein. Offene Fragen klären wir direkt mit Ihnen. Bei Spezialaufbauten kann eine kurze Rückfrage nötig sein.": "Мы оцениваем вашу машину по вашим данным и фото. В оценку входят оснащение, пробег, история обслуживания и спрос в Германии и за рубежом. Открытые вопросы уточняем напрямую с вами. Для специальных надстроек может понадобиться короткий уточняющий вопрос.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift unter dem Kaufvertrag ist alles für Sie unverbindlich. Sie entscheiden in Ruhe, ob und wann Sie verkaufen.": "Вы получаете конкретное предложение, в большинстве случаев в тот же день. До подписания договора купли-продажи всё ни к чему вас не обязывает. Вы спокойно решаете, продавать ли и когда.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher gemeinsam und verbindlich fest.": "После вашего согласия мы оформляем договор купли-продажи. Оплата банковским переводом или наличными. Способ и сроки оплаты мы заранее вместе и твёрдо согласуем.",
   "Unsere eigenen Fahrer holen das Fahrzeug an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Bei mehreren Fahrzeugen auch in Etappen.": "Наши водители забирают машину с вашего места – по всей Германии, а по желанию и за рубежом. При нескольких машинах – и поэтапно.",
   "Wie wir Ihr Fahrzeug bewerten": "Как мы оцениваем вашу машину",
   "Eine gute Bewertung braucht Erfahrung mit dem Markt. Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und arbeiten mit über 250 Partnern zusammen. Dadurch kennen wir die Preise für Busse, LKW, Transporter und Spezialfahrzeuge in Deutschland und im Ausland.": "Хорошая оценка требует знания рынка. Мы более 30 лет торгуем коммерческим транспортом и работаем с более чем 250 партнёрами. Поэтому мы знаем цены на автобусы, грузовики, фургоны и спецтехнику в Германии и за рубежом.",
@@ -658,7 +647,6 @@
   "Zahlung und Abholung": "Оплата и вывоз",
   "Was Sie von uns erwarten können": "Чего вы можете от нас ожидать",
   "Klare Zahlungsvereinbarung": "Чёткая договорённость об оплате",
-  "Überweisung oder bar: Wie und wann gezahlt wird, steht vor der Übergabe fest. So wissen Sie genau, woran Sie sind.": "Перевод или наличные: как и когда производится оплата, фиксируется до передачи. Так вы точно знаете, на каком этапе находитесь.",
   "Abholung durch eigene Fahrer": "Вывоз нашими водителями",
   "Sie müssen weder einen Fahrer abstellen noch einen Transport buchen. Unsere Fahrer holen das Fahrzeug bei Ihnen ab.": "Вам не нужно выделять водителя или заказывать перевозку. Наши водители забирают машину у вас.",
   "Deutschlandweit und darüber hinaus": "По всей Германии и за её пределами",
@@ -1065,7 +1053,6 @@
 
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "Мы выкупаем подержанные грузовики у транспортных компаний и предприятий.",
-  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "Седельный тягач, развозной грузовик или самосвал: вы получаете чёткое предложение, оплату переводом или наличными и вывоз нашими водителями.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "Мы выкупаем подержанные туристические автобусы напрямую у автобусных компаний.",
   "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "Один туристический автобус или несколько: вы получаете быструю оценку, понятную оплату и вывоз нашими собственными водителями.",
   "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "Мы выкупаем городские, сочленённые и междугородные автобусы у транспортных предприятий.",
@@ -1302,5 +1289,18 @@
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Коммерческий транспорт в повседневной жизни: почему без грузовиков и автобусов ничего не работает | ECS GmbH",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Белый развозной грузовик-фургон на площадке ECS GmbH в Гердене"
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Белый развозной грузовик-фургон на площадке ECS GmbH в Гердене",
+
+  /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
+  "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "После вашего согласия мы составляем договор купли-продажи и завершаем сделку.",
+  "Ein Kaufvertrag für alle Fahrzeuge. Nach Ihrer Zusage schließen wir das Geschäft ab.": "Один договор купли-продажи на все машины. После вашего согласия мы завершаем сделку.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag und die Abholung durch unsere Fahrer.": "Седельный тягач, развозной грузовик или самосвал: вы получаете чёткое предложение, обязывающий договор купли-продажи и вывоз нашими водителями.",
+  "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "О транспортировке вам заботиться не нужно. Наши водители заберут автобус у вас.",
+
+  /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Красный Mercedes-Benz Antos спереди на площадке ECS GmbH, за ним другие грузовики",
+
+  /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros MP1–MP5: годы выпуска и отличия | ECS GmbH",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "Белый седельный тягач Mercedes-Benz Actros с высокой кабиной на парковке"
 };

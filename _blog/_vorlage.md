@@ -4,6 +4,7 @@ titel: Was beim Verkauf eines gebrauchten LKW wirklich zählt
 beschreibung: Sie möchten Ihren LKW verkaufen? Diese Unterlagen und Angaben brauchen Sie, damit Bewertung und Ankauf schnell und sicher ablaufen.
 datum: 2026-11-15
 # aktualisiert: 2026-12-01
+# zeit: 14:30  (nur nötig, wenn am selben Tag mehrere Beiträge erscheinen – der spätere steht vorne)
 kategorie: Ankauf
 bild: blog-beispiel.webp
 bild_alt: Gebrauchter LKW auf dem Hof der ECS GmbH in Gehrden

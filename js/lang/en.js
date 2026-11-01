@@ -317,7 +317,6 @@
   "Angebot": "Offer",
   "Sie erhalten ein konkretes Angebot. Für Kommunen und Behörden erstellen wir es auf Wunsch schriftlich, damit es in Ihr Verfahren passt.": "You receive a concrete offer. For municipalities and public authorities we provide it in writing on request so that it fits your procedure.",
   "Zahlung": "Payment",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Once you agree, we draw up the purchase contract. Payment is made by bank transfer or in cash, as bindingly agreed beforehand.",
   "Abholung": "Collection",
   "Unsere Fahrer holen das Fahrzeug an Ihrem Bauhof oder Betriebsgelände ab, deutschlandweit und auf Wunsch auch im Ausland.": "Our drivers collect the vehicle from your depot or company premises, throughout Germany and on request abroad as well.",
   "Unterlagen": "Documents",
@@ -449,7 +448,6 @@
   "Paketangebot": "Package offer",
   "Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.": "You receive a total offer for the fleet and, on request, the values per vehicle – suitable for your internal approval.",
   "Vertrag und Zahlung": "Contract and payment",
-  "Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.": "One purchase contract for all vehicles. Payment is made by bank transfer or in cash; we bindingly agree on the method and timing beforehand.",
   "Gestaffelte Abholung": "Staggered collection",
   "Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.": "Our drivers collect the vehicles from your sites – all at once or in stages if replacement vehicles only arrive gradually.",
   "Was wir für die Übernahme eines Fuhrparks brauchen": "What we need to take over a fleet",
@@ -495,7 +493,6 @@
   "Schicken Sie uns eine Liste der Busse mit Modell, Baujahr, Kilometerstand, Länge, Türen und Euro-Norm – oder rufen Sie an. Bei einzelnen Fahrzeugen reichen Fotos per WhatsApp.": "Send us a list of the buses with model, year of manufacture, mileage, length, doors and Euro emission standard – or give us a call. For single vehicles, photos via WhatsApp are enough.",
   "Wir bewerten jedes Fahrzeug einzeln und berücksichtigen dabei auch Einbauten wie Rampe, Klimaanlage oder Fahrgastinformation. Bei Serien gleicher Bauart geht das besonders schnell.": "We value each vehicle individually and also take into account equipment such as ramp, air conditioning or passenger information. With series of the same type this is particularly fast.",
   "Sie erhalten ein Angebot je Fahrzeug oder ein Gesamtangebot für die Serie, ganz wie es für Ihre interne Freigabe besser passt.": "You receive an offer per vehicle or a total offer for the series, whichever suits your internal approval better.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar; Art und Zeitpunkt stimmen wir vorher verbindlich mit Ihnen ab.": "Once you agree, the purchase contract follows. Payment is made by bank transfer or in cash; we bindingly agree on the method and timing with you beforehand.",
   "Unsere Fahrer holen die Busse ab – auf Wunsch gestaffelt, wenn Ihre Neufahrzeuge erst nach und nach eintreffen. Deutschlandweit und auf Wunsch auch im Ausland.": "Our drivers collect the buses – staggered on request if your new vehicles only arrive gradually. Throughout Germany and on request abroad as well.",
   "Unterlagen für den Verkauf Ihrer Linienbusse": "Documents for selling your city buses",
   "Papiere und Schlüssel": "Papers and keys",
@@ -528,7 +525,6 @@
   "Ja. Unsere eigenen Fahrer holen die Fahrzeuge deutschlandweit ab und auf Wunsch auch im Ausland.": "Yes. Our own drivers collect the vehicles throughout Germany and on request abroad as well.",
   "LKW verkaufen: Ankauf von LKW und Sattelzug | ECS GmbH": "Sell a truck: we buy trucks and tractor units | ECS GmbH",
   "Ankauf LKW": "Buying trucks",
-  "Sie möchten eine Sattelzugmaschine, einen Verteiler-LKW oder einen Kipper verkaufen? Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an – mit klarem Angebot, Zahlung per Überweisung oder bar und Abholung durch unsere Fahrer.": "Do you want to sell a tractor unit, a distribution truck or a tipper? We buy used trucks from haulage companies and businesses – with a clear offer, payment by bank transfer or cash and collection by our drivers.",
   "LKW und Sattelzugmaschinen, die wir ankaufen": "Trucks and tractor units we buy",
   "Wir kaufen LKW aller Gewichtsklassen und Aufbauarten an: Sattelzugmaschinen, Pritschen- und Planen-LKW, Koffer- und Kühlkoffer-Fahrzeuge, Kipper, Fahrgestelle sowie LKW mit Ladekran oder Ladebordwand.": "We buy trucks of all weight classes and body types: tractor units, flatbed and curtainsider trucks, box and refrigerated box vehicles, tippers, chassis as well as trucks with loader crane or tail lift.",
   "Bei den Herstellern sind wir breit aufgestellt. Typische Fahrzeuge sind MAN TGX, TGS und TGL, Mercedes-Benz Actros, Arocs und Atego, Scania R und S, Volvo FH und FM, DAF XF und CF sowie Iveco S-Way und Eurocargo.": "We cover a wide range of manufacturers. Typical vehicles are the MAN TGX, TGS and TGL, Mercedes-Benz Actros, Arocs and Atego, Scania R and S, Volvo FH and FM, DAF XF and CF as well as the Iveco S-Way and Eurocargo.",
@@ -538,7 +534,6 @@
   "Nennen Sie uns Hersteller, Modell, Erstzulassung, Kilometerstand, Leistung, Achskonfiguration, Euro-Norm und Aufbau. Fotos von außen, vom Aufbau, vom Innenraum und vom Kilometerstand schicken Sie am einfachsten per WhatsApp.": "Tell us the manufacturer, model, first registration, mileage, power, axle configuration, Euro emission standard and body. The easiest way to send photos of the exterior, the body, the cab and the odometer is via WhatsApp.",
   "Wir bewerten das Fahrzeug anhand Ihrer Angaben. Bei Aufbauten wie Kühlaggregat, Kran oder Ladebordwand helfen uns Betriebsstunden und Prüfnachweise.": "We value the vehicle based on your details. For bodies such as refrigeration units, cranes or tail lifts, operating hours and inspection records help us.",
   "Sie bekommen ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift ist alles unverbindlich.": "You get a concrete offer, in most cases on the same day. Everything is non-binding until you sign.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Die Zahlung erfolgt per Überweisung oder in bar – wie und wann, legen wir vorher verbindlich fest.": "Once you agree, we draw up the purchase contract. Payment is made by bank transfer or in cash – we bindingly agree on how and when beforehand.",
   "Unsere eigenen Fahrer holen den LKW bei Ihnen auf dem Hof ab, deutschlandweit und auf Wunsch auch im Ausland.": "Our own drivers collect the truck from your yard, throughout Germany and on request abroad as well.",
   "Diese Unterlagen brauchen wir für Ihren LKW": "The documents we need for your truck",
   "Zulassungsbescheinigung Teil I und Teil II, alle Schlüssel und, falls vorhanden, die Unterlagen zum Aufbau.": "Registration certificate Part I and Part II, all keys and, where available, the documents for the body.",
@@ -566,8 +561,6 @@
   "In den meisten Fällen noch am selben Tag – vorausgesetzt, die wichtigsten Daten und einige Fotos liegen uns vor.": "In most cases on the same day – provided we have the key details and a few photos.",
   "Muss ich den LKW zu Ihnen nach Gehrden bringen?": "Do I have to bring the truck to you in Gehrden?",
   "Nein. Unsere Fahrer holen den LKW an Ihrem Standort ab, deutschlandweit und auf Wunsch auch im Ausland.": "No. Our drivers collect the truck from your location, throughout Germany and on request abroad as well.",
-  "Wie wird der Kaufpreis bezahlt?": "How is the purchase price paid?",
-  "Per Überweisung oder in bar. Art und Zeitpunkt der Zahlung vereinbaren wir verbindlich vor dem Verkauf.": "By bank transfer or in cash. We bindingly agree on the method and timing of payment before the sale.",
   "Was passiert mit der Maut-Box?": "What happens to the toll box?",
   "Die On-Board-Unit von Toll Collect gehört nicht zum Fahrzeug. Melden Sie das Fahrzeug vor der Übergabe bei Toll Collect ab.": "The Toll Collect on-board unit is not part of the vehicle. Deregister the vehicle with Toll Collect before the handover.",
   "Kaufen Sie LKW aus Österreich, der Schweiz und Tschechien an?": "Do you buy trucks from Austria, Switzerland and the Czech Republic?",
@@ -585,7 +578,6 @@
   "Rufen Sie uns an oder schicken Sie uns per WhatsApp die wichtigsten Daten: Hersteller und Modell, Erstzulassung, Kilometerstand, Sitzplatzzahl, Euro-Norm und Standort. Dazu einige Fotos – außen von allen Seiten, Innenraum und Cockpit.": "Call us or send us the key details via WhatsApp: manufacturer and model, first registration, mileage, number of seats, Euro emission standard and location. Add a few photos – the exterior from all sides, the interior and the cockpit.",
   "Wir bewerten Ihren Bus anhand Ihrer Angaben und Fotos. In die Bewertung fließen Ausstattung, Laufleistung, Wartungshistorie und die aktuelle Nachfrage nach dem Modell ein. Offene Punkte klären wir direkt am Telefon.": "We value your bus based on your details and photos. Equipment, mileage, maintenance history and the current demand for the model are included in the valuation. We clarify open points directly by phone.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Die Anfrage ist unverbindlich: Sie entscheiden in Ruhe, ob Sie verkaufen möchten.": "You receive a concrete offer, in most cases on the same day. The enquiry is non-binding: you decide in peace whether you want to sell.",
-  "Sind wir uns einig, setzen wir den Kaufvertrag auf. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher verbindlich mit Ihnen fest.": "Once we agree, we draw up the purchase contract. Payment is made by bank transfer or in cash. We bindingly agree on the method and timing of payment with you beforehand.",
   "Unsere eigenen Fahrer holen den Bus an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Eine Überführung müssen Sie nicht organisieren.": "Our own drivers collect the bus from your location – throughout Germany and on request abroad as well. You do not need to organise a transfer.",
   "Was wir für den Ankauf benötigen": "What we need for the purchase",
   "Zulassungsbescheinigung Teil I und Teil II sowie alle vorhandenen Schlüssel. Ohne Teil II, den früheren Fahrzeugbrief, ist kein Eigentumsübergang möglich.": "Registration certificate Part I and Part II and all available keys. Without Part II, formerly the vehicle title, ownership cannot be transferred.",
@@ -593,7 +585,6 @@
   "Berichte der Hauptuntersuchung und Sicherheitsprüfung, Wartungsnachweise und Rechnungen größerer Arbeiten, soweit vorhanden. Sie belegen die Historie des Fahrzeugs.": "Reports of the main and safety inspections, maintenance records and invoices for major work, where available. They document the history of the vehicle.",
   "Bei Unternehmen ein aktueller Handelsregisterauszug oder die Gewerbeanmeldung sowie der Ausweis der Person, die den Kaufvertrag unterschreibt.": "For companies, a current extract from the commercial register or the business registration as well as the ID of the person signing the purchase contract.",
   "Zahlung und Abholung aus einer Hand": "Payment and collection from a single source",
-  "Sie erhalten Ihr Geld per Überweisung oder bar und müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "You receive your money by bank transfer or in cash and do not have to worry about transport. Our drivers collect the bus from you.",
   "Worauf Sie beim Verkauf Ihres Reisebusses achten sollten": "What to look out for when selling your coach",
   "Lesen Sie vor der Übergabe die Daten des digitalen Fahrtenschreibers aus und heben Sie die Unternehmenssperre mit Ihrer Unternehmenskarte auf. Die ausgelesenen Daten müssen Sie als Unternehmen aufbewahren.": "Before the handover, download the data from the digital tachograph and remove the company lock with your company card. As a company you must keep the downloaded data.",
   "Ausstattung vollständig angeben": "State the equipment in full",
@@ -626,7 +617,6 @@
   "Senden Sie uns Hersteller und Modell, Erstzulassung, Kilometerstand, Radstand, Dachhöhe, Getriebe und Standort. Fotos von außen, vom Laderaum und vom Tacho helfen bei der ersten Einschätzung.": "Send us the manufacturer and model, first registration, mileage, wheelbase, roof height, transmission and location. Photos of the exterior, the load area and the speedometer help with the first assessment.",
   "Wir bewerten Ihren Transporter anhand der Daten und Fotos. Ausstattung wie Regaleinbau, Anhängerkupplung, Standheizung oder Kühlung berücksichtigen wir dabei.": "We value your van based on the data and photos. We take into account equipment such as shelving, tow bar, auxiliary heating or refrigeration.",
   "Sie erhalten ein konkretes Angebot, meist noch am selben Tag. Sie entscheiden ohne Druck, ob Sie verkaufen.": "You receive a concrete offer, usually on the same day. You decide without pressure whether to sell.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Bezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Once you agree, the purchase contract follows. Payment is made by bank transfer or in cash, as bindingly agreed beforehand.",
   "Unsere Fahrer holen den Transporter bei Ihnen ab – deutschlandweit und auf Wunsch auch im Ausland.": "Our drivers collect the van from you – throughout Germany and on request abroad as well.",
   "Was Sie für den Verkauf bereithalten sollten": "What you should have ready for the sale",
   "Zulassungsbescheinigung Teil I und Teil II, alle vorhandenen Schlüssel und, falls vorhanden, Unterlagen zu Aufbau oder Kühlung.": "Registration certificate Part I and Part II, all available keys and, where available, documents for the body or refrigeration.",
@@ -659,10 +649,9 @@
   "So verkaufen Sie": "How to sell",
   "Ihr Nutzfahrzeug.": "your commercial vehicle.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "Five steps from the first call to collection – for single vehicles just as for entire fleets. You have a dedicated contact throughout.",
-  "Rufen Sie uns an oder schreiben Sie uns per WhatsApp. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Call us or write to us via WhatsApp. For an initial assessment, the vehicle type, manufacturer and model, first registration, mileage and location are enough – plus a few photos. For several vehicles it is best to send us a list.",
+  "Rufen Sie uns an, schreiben Sie uns per WhatsApp oder senden Sie uns eine E-Mail. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Call us, message us on WhatsApp or send us an email. For an initial assessment, the vehicle type, manufacturer and model, first registration, mileage and location are enough – plus a few photos. For several vehicles it is best to send us a list.",
   "Wir bewerten Ihr Fahrzeug anhand Ihrer Angaben und Fotos. Ausstattung, Laufleistung, Wartungshistorie und die Nachfrage im In- und Ausland fließen in die Bewertung ein. Offene Fragen klären wir direkt mit Ihnen. Bei Spezialaufbauten kann eine kurze Rückfrage nötig sein.": "We value your vehicle based on your details and photos. Equipment, mileage, maintenance history and demand in Germany and abroad are included in the valuation. We clarify open questions directly with you. For special bodies a short follow-up question may be necessary.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift unter dem Kaufvertrag ist alles für Sie unverbindlich. Sie entscheiden in Ruhe, ob und wann Sie verkaufen.": "You receive a concrete offer, in most cases on the same day. Everything is non-binding for you until the purchase contract is signed. You decide in peace whether and when to sell.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher gemeinsam und verbindlich fest.": "Once you agree, we draw up the purchase contract. Payment is made by bank transfer or in cash. We agree on the method and timing of payment together and bindingly beforehand.",
   "Unsere eigenen Fahrer holen das Fahrzeug an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Bei mehreren Fahrzeugen auch in Etappen.": "Our own drivers collect the vehicle from your location – throughout Germany and on request abroad as well. With several vehicles also in stages.",
   "Wie wir Ihr Fahrzeug bewerten": "How we value your vehicle",
   "Eine gute Bewertung braucht Erfahrung mit dem Markt. Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und arbeiten mit über 250 Partnern zusammen. Dadurch kennen wir die Preise für Busse, LKW, Transporter und Spezialfahrzeuge in Deutschland und im Ausland.": "A good valuation requires market experience. We have been trading commercial vehicles for over 30 years and work with over 250 partners. This is why we know the prices for buses, trucks, vans and special vehicles in Germany and abroad.",
@@ -672,7 +661,6 @@
   "Zahlung und Abholung": "Payment and collection",
   "Was Sie von uns erwarten können": "What you can expect from us",
   "Klare Zahlungsvereinbarung": "Clear payment agreement",
-  "Überweisung oder bar: Wie und wann gezahlt wird, steht vor der Übergabe fest. So wissen Sie genau, woran Sie sind.": "Bank transfer or cash: how and when payment is made is fixed before the handover. So you know exactly where you stand.",
   "Abholung durch eigene Fahrer": "Collection by our own drivers",
   "Sie müssen weder einen Fahrer abstellen noch einen Transport buchen. Unsere Fahrer holen das Fahrzeug bei Ihnen ab.": "You do not have to provide a driver or book transport. Our drivers collect the vehicle from you.",
   "Deutschlandweit und darüber hinaus": "Throughout Germany and beyond",
@@ -1079,7 +1067,6 @@
 
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "We buy used trucks from haulage companies and businesses.",
-  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "Tractor unit, distribution truck or tipper: you get a clear offer, payment by bank transfer or in cash, and collection by our drivers.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "We buy used coaches directly from bus companies.",
   "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "Whether a single coach or several buses: you get a fast valuation, clear payment and collection by our own drivers.",
   "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "We buy city, articulated and intercity buses from transport companies.",
@@ -1316,5 +1303,18 @@
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Commercial vehicles in everyday life: why nothing runs without trucks and buses | ECS GmbH",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "White box-body distribution truck in the yard of ECS GmbH in Gehrden"
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "White box-body distribution truck in the yard of ECS GmbH in Gehrden",
+
+  /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
+  "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "Once you agree, we draw up the purchase contract and complete the deal.",
+  "Ein Kaufvertrag für alle Fahrzeuge. Nach Ihrer Zusage schließen wir das Geschäft ab.": "One purchase contract for all vehicles. Once you agree, we complete the deal.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag und die Abholung durch unsere Fahrer.": "Whether tractor unit, distribution truck or tipper: you get a clear offer, a binding purchase contract and collection by our drivers.",
+  "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "You don't have to worry about transport. Our drivers collect the bus from you.",
+
+  /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Red Mercedes-Benz Antos from the front in the ECS GmbH yard, more trucks behind it",
+
+  /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros MP1 to MP5: Model Years and Differences | ECS GmbH",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "White Mercedes-Benz Actros tractor unit with a high cab in a car park"
 };

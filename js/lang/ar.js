@@ -303,7 +303,6 @@
   "Angebot": "العرض",
   "Sie erhalten ein konkretes Angebot. Für Kommunen und Behörden erstellen wir es auf Wunsch schriftlich, damit es in Ihr Verfahren passt.": "تحصلون على عرض محدد. وللبلديات والجهات الحكومية نقدّمه كتابيًا عند الطلب ليتوافق مع إجراءاتكم.",
   "Zahlung": "الدفع",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "بعد موافقتكم نعدّ عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا، حسب ما تم الاتفاق عليه مسبقًا بشكل ملزم.",
   "Abholung": "الاستلام",
   "Unsere Fahrer holen das Fahrzeug an Ihrem Bauhof oder Betriebsgelände ab, deutschlandweit und auf Wunsch auch im Ausland.": "يستلم سائقونا المركبة من ساحتكم أو من مقر شركتكم في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
   "Unterlagen": "المستندات",
@@ -435,7 +434,6 @@
   "Paketangebot": "عرض شامل",
   "Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.": "تحصلون على عرض إجمالي للأسطول، وعند الطلب على قيمة كل مركبة – بما يناسب الموافقة الداخلية لديكم.",
   "Vertrag und Zahlung": "العقد والدفع",
-  "Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.": "عقد بيع واحد لجميع المركبات. ويتم الدفع بالتحويل البنكي أو نقدًا، ونتفق مسبقًا بشكل ملزم على الطريقة والموعد.",
   "Gestaffelte Abholung": "استلام على مراحل",
   "Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.": "يستلم سائقونا المركبات من مواقعكم – دفعة واحدة أو على مراحل إذا كانت المركبات البديلة تصل تدريجيًا.",
   "Was wir für die Übernahme eines Fuhrparks brauchen": "ما نحتاجه لاستلام أسطول",
@@ -481,7 +479,6 @@
   "Schicken Sie uns eine Liste der Busse mit Modell, Baujahr, Kilometerstand, Länge, Türen und Euro-Norm – oder rufen Sie an. Bei einzelnen Fahrzeugen reichen Fotos per WhatsApp.": "أرسلوا لنا قائمة بالحافلات تتضمن الطراز وسنة الصنع وعدد الكيلومترات والطول وعدد الأبواب ومعيار الانبعاثات Euro – أو اتصلوا بنا. وللمركبات المنفردة تكفي الصور عبر واتساب.",
   "Wir bewerten jedes Fahrzeug einzeln und berücksichtigen dabei auch Einbauten wie Rampe, Klimaanlage oder Fahrgastinformation. Bei Serien gleicher Bauart geht das besonders schnell.": "نقيّم كل مركبة على حدة ونأخذ في الاعتبار أيضًا تجهيزات مثل المنحدر والتكييف ونظام معلومات الركاب. ومع السلاسل من الطراز نفسه يتم ذلك بسرعة كبيرة.",
   "Sie erhalten ein Angebot je Fahrzeug oder ein Gesamtangebot für die Serie, ganz wie es für Ihre interne Freigabe besser passt.": "تحصلون على عرض لكل مركبة أو عرض إجمالي للسلسلة، حسب ما يناسب الموافقة الداخلية لديكم.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar; Art und Zeitpunkt stimmen wir vorher verbindlich mit Ihnen ab.": "بعد موافقتكم يأتي عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا، ونتفق معكم مسبقًا بشكل ملزم على الطريقة والموعد.",
   "Unsere Fahrer holen die Busse ab – auf Wunsch gestaffelt, wenn Ihre Neufahrzeuge erst nach und nach eintreffen. Deutschlandweit und auf Wunsch auch im Ausland.": "يستلم سائقونا الحافلات – على مراحل عند الطلب إذا كانت مركباتكم الجديدة تصل تدريجيًا. في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
   "Unterlagen für den Verkauf Ihrer Linienbusse": "مستندات بيع حافلات النقل العام",
   "Papiere und Schlüssel": "الأوراق والمفاتيح",
@@ -514,7 +511,6 @@
   "Ja. Unsere eigenen Fahrer holen die Fahrzeuge deutschlandweit ab und auf Wunsch auch im Ausland.": "نعم. يستلم سائقونا المركبات في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
   "LKW verkaufen: Ankauf von LKW und Sattelzug | ECS GmbH": "بيع شاحنة: نشتري الشاحنات ورؤوس القاطرات | ECS GmbH",
   "Ankauf LKW": "شراء الشاحنات",
-  "Sie möchten eine Sattelzugmaschine, einen Verteiler-LKW oder einen Kipper verkaufen? Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an – mit klarem Angebot, Zahlung per Überweisung oder bar und Abholung durch unsere Fahrer.": "هل تريدون بيع رأس قاطرة أو شاحنة توزيع أو قلاب؟ نشتري الشاحنات المستعملة من شركات الشحن والمؤسسات – بعرض واضح ودفع بالتحويل البنكي أو نقدًا واستلام عن طريق سائقينا.",
   "LKW und Sattelzugmaschinen, die wir ankaufen": "الشاحنات ورؤوس القاطرات التي نشتريها",
   "Wir kaufen LKW aller Gewichtsklassen und Aufbauarten an: Sattelzugmaschinen, Pritschen- und Planen-LKW, Koffer- und Kühlkoffer-Fahrzeuge, Kipper, Fahrgestelle sowie LKW mit Ladekran oder Ladebordwand.": "نشتري الشاحنات من جميع فئات الوزن وأنواع الهياكل: رؤوس القاطرات، والشاحنات المفتوحة وذات الغطاء القماشي، والشاحنات المغلقة والمبرّدة، والقلابات، والشاسيهات، والشاحنات المزودة برافعة تحميل أو رافعة خلفية.",
   "Bei den Herstellern sind wir breit aufgestellt. Typische Fahrzeuge sind MAN TGX, TGS und TGL, Mercedes-Benz Actros, Arocs und Atego, Scania R und S, Volvo FH und FM, DAF XF und CF sowie Iveco S-Way und Eurocargo.": "نتعامل مع مجموعة واسعة من الشركات المصنّعة. ومن المركبات المعتادة MAN TGX و TGS و TGL، و Mercedes-Benz Actros و Arocs و Atego، و Scania R و S، و Volvo FH و FM، و DAF XF و CF، وكذلك Iveco S-Way و Eurocargo.",
@@ -524,7 +520,6 @@
   "Nennen Sie uns Hersteller, Modell, Erstzulassung, Kilometerstand, Leistung, Achskonfiguration, Euro-Norm und Aufbau. Fotos von außen, vom Aufbau, vom Innenraum und vom Kilometerstand schicken Sie am einfachsten per WhatsApp.": "أخبرونا بالشركة المصنّعة والطراز وتاريخ أول تسجيل وعدد الكيلومترات والقدرة وتوزيع المحاور ومعيار الانبعاثات Euro ونوع الهيكل. أسهل طريقة لإرسال صور الخارج والهيكل والمقصورة وعداد المسافة هي عبر واتساب.",
   "Wir bewerten das Fahrzeug anhand Ihrer Angaben. Bei Aufbauten wie Kühlaggregat, Kran oder Ladebordwand helfen uns Betriebsstunden und Prüfnachweise.": "نقيّم المركبة بناءً على بياناتكم. وفي الهياكل مثل وحدة التبريد أو الرافعة أو الرافعة الخلفية تساعدنا ساعات التشغيل وشهادات الفحص.",
   "Sie bekommen ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift ist alles unverbindlich.": "تحصلون على عرض محدد، في معظم الحالات في اليوم نفسه. وكل شيء غير ملزم حتى التوقيع.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Die Zahlung erfolgt per Überweisung oder in bar – wie und wann, legen wir vorher verbindlich fest.": "بعد موافقتكم نعدّ عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا – ونحدد الطريقة والموعد مسبقًا بشكل ملزم.",
   "Unsere eigenen Fahrer holen den LKW bei Ihnen auf dem Hof ab, deutschlandweit und auf Wunsch auch im Ausland.": "يستلم سائقونا الشاحنة من ساحتكم مباشرة في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
   "Diese Unterlagen brauchen wir für Ihren LKW": "المستندات التي نحتاجها لشاحنتكم",
   "Zulassungsbescheinigung Teil I und Teil II, alle Schlüssel und, falls vorhanden, die Unterlagen zum Aufbau.": "شهادة التسجيل Zulassungsbescheinigung Teil I و Teil II وجميع المفاتيح، وإن وُجدت مستندات الهيكل.",
@@ -552,8 +547,6 @@
   "In den meisten Fällen noch am selben Tag – vorausgesetzt, die wichtigsten Daten und einige Fotos liegen uns vor.": "في معظم الحالات في اليوم نفسه – بشرط توفر البيانات الأساسية وبعض الصور لدينا.",
   "Muss ich den LKW zu Ihnen nach Gehrden bringen?": "هل يجب أن أحضر الشاحنة إليكم في Gehrden؟",
   "Nein. Unsere Fahrer holen den LKW an Ihrem Standort ab, deutschlandweit und auf Wunsch auch im Ausland.": "لا. يستلم سائقونا الشاحنة من موقعكم في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
-  "Wie wird der Kaufpreis bezahlt?": "كيف يُدفع سعر الشراء؟",
-  "Per Überweisung oder in bar. Art und Zeitpunkt der Zahlung vereinbaren wir verbindlich vor dem Verkauf.": "بالتحويل البنكي أو نقدًا. نتفق بشكل ملزم على طريقة الدفع وموعده قبل البيع.",
   "Was passiert mit der Maut-Box?": "ماذا يحدث لجهاز رسوم الطرق؟",
   "Die On-Board-Unit von Toll Collect gehört nicht zum Fahrzeug. Melden Sie das Fahrzeug vor der Übergabe bei Toll Collect ab.": "الوحدة المركّبة من Toll Collect ليست جزءًا من المركبة. ألغوا تسجيل المركبة لدى Toll Collect قبل التسليم.",
   "Kaufen Sie LKW aus Österreich, der Schweiz und Tschechien an?": "هل تشترون شاحنات من النمسا وسويسرا والتشيك؟",
@@ -571,7 +564,6 @@
   "Rufen Sie uns an oder schicken Sie uns per WhatsApp die wichtigsten Daten: Hersteller und Modell, Erstzulassung, Kilometerstand, Sitzplatzzahl, Euro-Norm und Standort. Dazu einige Fotos – außen von allen Seiten, Innenraum und Cockpit.": "اتصلوا بنا أو أرسلوا لنا عبر واتساب أهم البيانات: الشركة المصنّعة والطراز وتاريخ أول تسجيل وعدد الكيلومترات وعدد المقاعد ومعيار الانبعاثات Euro والموقع. وأضيفوا بعض الصور – من الخارج من جميع الجهات والمقصورة الداخلية ومكان السائق.",
   "Wir bewerten Ihren Bus anhand Ihrer Angaben und Fotos. In die Bewertung fließen Ausstattung, Laufleistung, Wartungshistorie und die aktuelle Nachfrage nach dem Modell ein. Offene Punkte klären wir direkt am Telefon.": "نقيّم حافلتكم بناءً على بياناتكم وصوركم. ويدخل في التقييم التجهيز وعدد الكيلومترات وسجل الصيانة والطلب الحالي على الطراز. ونوضّح النقاط المفتوحة مباشرة عبر الهاتف.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Die Anfrage ist unverbindlich: Sie entscheiden in Ruhe, ob Sie verkaufen möchten.": "تحصلون على عرض محدد، في معظم الحالات في اليوم نفسه. والاستفسار غير ملزم: تقررون بهدوء ما إذا كنتم تريدون البيع.",
-  "Sind wir uns einig, setzen wir den Kaufvertrag auf. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher verbindlich mit Ihnen fest.": "عندما نتفق، نعدّ عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا. ونتفق معكم مسبقًا بشكل ملزم على طريقة الدفع وموعده.",
   "Unsere eigenen Fahrer holen den Bus an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Eine Überführung müssen Sie nicht organisieren.": "يستلم سائقونا الحافلة من موقعكم – في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا. ولا تحتاجون إلى تنظيم أي نقل.",
   "Was wir für den Ankauf benötigen": "ما نحتاجه للشراء",
   "Zulassungsbescheinigung Teil I und Teil II sowie alle vorhandenen Schlüssel. Ohne Teil II, den früheren Fahrzeugbrief, ist kein Eigentumsübergang möglich.": "شهادة التسجيل Zulassungsbescheinigung Teil I و Teil II وجميع المفاتيح المتوفرة. وبدون Teil II، أي Fahrzeugbrief سابقًا، لا يمكن نقل الملكية.",
@@ -579,7 +571,6 @@
   "Berichte der Hauptuntersuchung und Sicherheitsprüfung, Wartungsnachweise und Rechnungen größerer Arbeiten, soweit vorhanden. Sie belegen die Historie des Fahrzeugs.": "تقارير الفحص الفني (HU) وفحص السلامة (SP) وإثباتات الصيانة وفواتير الأعمال الكبيرة، إن وُجدت. فهي توثّق سجل المركبة.",
   "Bei Unternehmen ein aktueller Handelsregisterauszug oder die Gewerbeanmeldung sowie der Ausweis der Person, die den Kaufvertrag unterschreibt.": "للشركات: مستخرج حديث من السجل التجاري أو تسجيل النشاط التجاري، وكذلك بطاقة هوية الشخص الذي يوقّع عقد البيع.",
   "Zahlung und Abholung aus einer Hand": "الدفع والاستلام من جهة واحدة",
-  "Sie erhalten Ihr Geld per Überweisung oder bar und müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "تحصلون على أموالكم بالتحويل البنكي أو نقدًا ولا داعي للاهتمام بالنقل. يستلم سائقونا الحافلة منكم.",
   "Worauf Sie beim Verkauf Ihres Reisebusses achten sollten": "ما يجب الانتباه إليه عند بيع حافلتكم السياحية",
   "Lesen Sie vor der Übergabe die Daten des digitalen Fahrtenschreibers aus und heben Sie die Unternehmenssperre mit Ihrer Unternehmenskarte auf. Die ausgelesenen Daten müssen Sie als Unternehmen aufbewahren.": "قبل التسليم نزّلوا بيانات التاكوغراف الرقمي وارفعوا قفل الشركة باستخدام بطاقة الشركة. وعليكم كشركة الاحتفاظ بالبيانات التي تم تنزيلها.",
   "Ausstattung vollständig angeben": "اذكروا التجهيزات كاملة",
@@ -612,7 +603,6 @@
   "Senden Sie uns Hersteller und Modell, Erstzulassung, Kilometerstand, Radstand, Dachhöhe, Getriebe und Standort. Fotos von außen, vom Laderaum und vom Tacho helfen bei der ersten Einschätzung.": "أرسلوا لنا الشركة المصنّعة والطراز وتاريخ أول تسجيل وعدد الكيلومترات وقاعدة العجلات وارتفاع السقف وناقل الحركة والموقع. وتساعد صور الخارج ومنطقة التحميل وعداد السرعة في التقييم الأول.",
   "Wir bewerten Ihren Transporter anhand der Daten und Fotos. Ausstattung wie Regaleinbau, Anhängerkupplung, Standheizung oder Kühlung berücksichtigen wir dabei.": "نقيّم فان النقل الخاص بكم بناءً على البيانات والصور. ونأخذ في الاعتبار تجهيزات مثل الرفوف ووصلة القطر والتدفئة المستقلة أو التبريد.",
   "Sie erhalten ein konkretes Angebot, meist noch am selben Tag. Sie entscheiden ohne Druck, ob Sie verkaufen.": "تحصلون على عرض محدد، عادةً في اليوم نفسه. وتقررون دون ضغط ما إذا كنتم تبيعون.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Bezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "بعد موافقتكم يأتي عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا، حسب ما تم الاتفاق عليه مسبقًا بشكل ملزم.",
   "Unsere Fahrer holen den Transporter bei Ihnen ab – deutschlandweit und auf Wunsch auch im Ausland.": "يستلم سائقونا فان النقل منكم – في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا.",
   "Was Sie für den Verkauf bereithalten sollten": "ما يجب تجهيزه للبيع",
   "Zulassungsbescheinigung Teil I und Teil II, alle vorhandenen Schlüssel und, falls vorhanden, Unterlagen zu Aufbau oder Kühlung.": "شهادة التسجيل Zulassungsbescheinigung Teil I و Teil II وجميع المفاتيح المتوفرة، وإن وُجدت مستندات الهيكل أو التبريد.",
@@ -645,10 +635,9 @@
   "So verkaufen Sie": "هكذا تبيعون",
   "Ihr Nutzfahrzeug.": "مركبتكم التجارية.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "خمس خطوات من أول اتصال حتى الاستلام – للمركبات المنفردة تمامًا كما للأساطيل الكاملة. ولديكم جهة اتصال ثابتة طوال الوقت.",
-  "Rufen Sie uns an oder schreiben Sie uns per WhatsApp. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "اتصلوا بنا أو راسلونا عبر واتساب. للتقييم الأول يكفي نوع المركبة والشركة المصنّعة والطراز وتاريخ أول تسجيل وعدد الكيلومترات والموقع – بالإضافة إلى بعض الصور. ومع عدة مركبات يُفضَّل إرسال قائمة.",
+  "Rufen Sie uns an, schreiben Sie uns per WhatsApp oder senden Sie uns eine E-Mail. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "اتصلوا بنا أو راسلونا عبر واتساب أو أرسلوا لنا بريدًا إلكترونيًا. للتقييم الأول يكفي نوع المركبة والشركة المصنّعة والطراز وتاريخ أول تسجيل وعدد الكيلومترات والموقع – بالإضافة إلى بعض الصور. ومع عدة مركبات يُفضَّل إرسال قائمة.",
   "Wir bewerten Ihr Fahrzeug anhand Ihrer Angaben und Fotos. Ausstattung, Laufleistung, Wartungshistorie und die Nachfrage im In- und Ausland fließen in die Bewertung ein. Offene Fragen klären wir direkt mit Ihnen. Bei Spezialaufbauten kann eine kurze Rückfrage nötig sein.": "نقيّم مركبتكم بناءً على بياناتكم وصوركم. ويدخل في التقييم التجهيز وعدد الكيلومترات وسجل الصيانة والطلب في ألمانيا والخارج. ونوضّح الأسئلة المفتوحة معكم مباشرة. وفي حالة المعدات الخاصة قد يلزم استفسار قصير.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift unter dem Kaufvertrag ist alles für Sie unverbindlich. Sie entscheiden in Ruhe, ob und wann Sie verkaufen.": "تحصلون على عرض محدد، في معظم الحالات في اليوم نفسه. وحتى توقيع عقد البيع يبقى كل شيء غير ملزم لكم. وتقررون بهدوء ما إذا كنتم تبيعون ومتى.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher gemeinsam und verbindlich fest.": "بعد موافقتكم نعدّ عقد البيع. ويتم الدفع بالتحويل البنكي أو نقدًا. ونتفق معًا مسبقًا بشكل ملزم على طريقة الدفع وموعده.",
   "Unsere eigenen Fahrer holen das Fahrzeug an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Bei mehreren Fahrzeugen auch in Etappen.": "يستلم سائقونا المركبة من موقعكم – في جميع أنحاء ألمانيا، وعند الطلب في الخارج أيضًا. ومع عدة مركبات على مراحل أيضًا.",
   "Wie wir Ihr Fahrzeug bewerten": "كيف نقيّم مركبتكم",
   "Eine gute Bewertung braucht Erfahrung mit dem Markt. Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und arbeiten mit über 250 Partnern zusammen. Dadurch kennen wir die Preise für Busse, LKW, Transporter und Spezialfahrzeuge in Deutschland und im Ausland.": "يتطلب التقييم الجيد خبرة في السوق. نتاجر بالمركبات التجارية منذ أكثر من 30 عامًا ونعمل مع أكثر من 250 شريكًا. لذلك نعرف أسعار الحافلات والشاحنات وفانات النقل والمركبات الخاصة في ألمانيا والخارج.",
@@ -658,7 +647,6 @@
   "Zahlung und Abholung": "الدفع والاستلام",
   "Was Sie von uns erwarten können": "ما يمكنكم توقعه منا",
   "Klare Zahlungsvereinbarung": "اتفاق دفع واضح",
-  "Überweisung oder bar: Wie und wann gezahlt wird, steht vor der Übergabe fest. So wissen Sie genau, woran Sie sind.": "تحويل بنكي أو نقدًا: يُحدَّد كيف ومتى يتم الدفع قبل التسليم. وبذلك تعرفون تمامًا أين تقفون.",
   "Abholung durch eigene Fahrer": "استلام عن طريق سائقينا",
   "Sie müssen weder einen Fahrer abstellen noch einen Transport buchen. Unsere Fahrer holen das Fahrzeug bei Ihnen ab.": "لا تحتاجون إلى تخصيص سائق أو حجز نقل. يستلم سائقونا المركبة منكم.",
   "Deutschlandweit und darüber hinaus": "في جميع أنحاء ألمانيا وخارجها",
@@ -1065,7 +1053,6 @@
 
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "نشتري الشاحنات المستعملة من شركات الشحن والشركات.",
-  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "رأس قاطرة أو شاحنة توزيع أو قلاب: تحصلون على عرض واضح ودفع بالتحويل البنكي أو نقدًا واستلام من قِبل سائقينا.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "نشتري الحافلات السياحية المستعملة مباشرة من شركات الحافلات.",
   "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "سواء كانت حافلة سياحية واحدة أو عدة حافلات: تحصلون على تقييم سريع ودفع واضح واستلام من قِبل سائقينا.",
   "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "نشتري حافلات المدن والحافلات المفصلية وحافلات الخطوط بين المدن من شركات النقل.",
@@ -1302,5 +1289,18 @@
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "المركبات التجارية في الحياة اليومية: لماذا لا يعمل شيء بدون الشاحنات والحافلات | ECS GmbH",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "شاحنة توزيع بيضاء بصندوق مغلق في ساحة شركة ECS GmbH في غيردن"
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "شاحنة توزيع بيضاء بصندوق مغلق في ساحة شركة ECS GmbH في غيردن",
+
+  /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
+  "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "بعد موافقتكم نُعِدّ عقد الشراء ونُتمّ الصفقة.",
+  "Ein Kaufvertrag für alle Fahrzeuge. Nach Ihrer Zusage schließen wir das Geschäft ab.": "عقد شراء واحد لجميع المركبات. بعد موافقتكم نُتمّ الصفقة.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag und die Abholung durch unsere Fahrer.": "سواء كانت شاحنة جرّ أو شاحنة توزيع أو قلّابًا: تحصلون على عرض واضح وعقد شراء مُلزِم واستلام المركبة من قِبل سائقينا.",
+  "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "لا داعي للقلق بشأن النقل. سائقونا يستلمون الحافلة من عندكم.",
+
+  /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "شاحنة Mercedes-Benz Antos حمراء من الأمام في ساحة ECS GmbH، وخلفها شاحنات أخرى",
+
+  /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS GmbH",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "شاحنة جرّ Mercedes-Benz Actros بيضاء بكابينة عالية في موقف سيارات"
 };

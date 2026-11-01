@@ -303,7 +303,6 @@
   "Angebot": "Oferta",
   "Sie erhalten ein konkretes Angebot. Für Kommunen und Behörden erstellen wir es auf Wunsch schriftlich, damit es in Ihr Verfahren passt.": "Otrzymasz konkretną ofertę. Dla gmin i urzędów na życzenie przygotujemy ją na piśmie, aby pasowała do Twojej procedury.",
   "Zahlung": "Płatność",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Po Twojej akceptacji przygotowujemy umowę kupna. Płatność następuje przelewem lub gotówką, zgodnie z wcześniejszym wiążącym ustaleniem.",
   "Abholung": "Odbiór",
   "Unsere Fahrer holen das Fahrzeug an Ihrem Bauhof oder Betriebsgelände ab, deutschlandweit und auf Wunsch auch im Ausland.": "Nasi kierowcy odbiorą pojazd z Twojej bazy lub terenu firmy, na terenie całych Niemiec, a na życzenie także za granicą.",
   "Unterlagen": "Dokumenty",
@@ -435,7 +434,6 @@
   "Paketangebot": "Oferta pakietowa",
   "Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.": "Otrzymujesz ofertę łączną na flotę, a na życzenie również wartości poszczególnych pojazdów – do wewnętrznej akceptacji.",
   "Vertrag und Zahlung": "Umowa i płatność",
-  "Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.": "Jedna umowa kupna na wszystkie pojazdy. Płatność przelewem lub gotówką; formę i termin ustalamy wcześniej w sposób wiążący.",
   "Gestaffelte Abholung": "Odbiór etapami",
   "Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.": "Nasi kierowcy odbierają pojazdy z Twoich lokalizacji – jednorazowo lub etapami, jeśli pojazdy zastępcze przyjeżdżają stopniowo.",
   "Was wir für die Übernahme eines Fuhrparks brauchen": "Czego potrzebujemy do przejęcia floty",
@@ -481,7 +479,6 @@
   "Schicken Sie uns eine Liste der Busse mit Modell, Baujahr, Kilometerstand, Länge, Türen und Euro-Norm – oder rufen Sie an. Bei einzelnen Fahrzeugen reichen Fotos per WhatsApp.": "Wyślij nam listę autobusów z modelem, rokiem produkcji, przebiegiem, długością, liczbą drzwi i normą Euro – albo zadzwoń. Przy pojedynczych pojazdach wystarczą zdjęcia przez WhatsApp.",
   "Wir bewerten jedes Fahrzeug einzeln und berücksichtigen dabei auch Einbauten wie Rampe, Klimaanlage oder Fahrgastinformation. Bei Serien gleicher Bauart geht das besonders schnell.": "Wyceniamy każdy pojazd osobno i uwzględniamy także wyposażenie, takie jak rampa, klimatyzacja czy system informacji pasażerskiej. Przy seriach tego samego typu idzie to szczególnie szybko.",
   "Sie erhalten ein Angebot je Fahrzeug oder ein Gesamtangebot für die Serie, ganz wie es für Ihre interne Freigabe besser passt.": "Otrzymujesz ofertę na każdy pojazd lub ofertę łączną na całą serię – w zależności od tego, co lepiej pasuje do wewnętrznej akceptacji.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar; Art und Zeitpunkt stimmen wir vorher verbindlich mit Ihnen ab.": "Po Twojej akceptacji przygotowujemy umowę kupna. Płatność przelewem lub gotówką; formę i termin uzgadniamy z Tobą wcześniej w sposób wiążący.",
   "Unsere Fahrer holen die Busse ab – auf Wunsch gestaffelt, wenn Ihre Neufahrzeuge erst nach und nach eintreffen. Deutschlandweit und auf Wunsch auch im Ausland.": "Nasi kierowcy odbierają autobusy – na życzenie etapami, jeśli nowe pojazdy przyjeżdżają stopniowo. Na terenie całych Niemiec, a na życzenie także za granicą.",
   "Unterlagen für den Verkauf Ihrer Linienbusse": "Dokumenty do sprzedaży autobusów miejskich",
   "Papiere und Schlüssel": "Dokumenty i klucze",
@@ -514,7 +511,6 @@
   "Ja. Unsere eigenen Fahrer holen die Fahrzeuge deutschlandweit ab und auf Wunsch auch im Ausland.": "Tak. Nasi kierowcy odbierają pojazdy na terenie całych Niemiec, a na życzenie także za granicą.",
   "LKW verkaufen: Ankauf von LKW und Sattelzug | ECS GmbH": "Sprzedaj ciężarówkę: skup ciężarówek i ciągników | ECS GmbH",
   "Ankauf LKW": "Skup ciężarówek",
-  "Sie möchten eine Sattelzugmaschine, einen Verteiler-LKW oder einen Kipper verkaufen? Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an – mit klarem Angebot, Zahlung per Überweisung oder bar und Abholung durch unsere Fahrer.": "Chcesz sprzedać ciągnik siodłowy, ciężarówkę dystrybucyjną lub wywrotkę? Skupujemy używane ciężarówki od firm spedycyjnych i przedsiębiorstw – z jasną ofertą, płatnością przelewem lub gotówką i odbiorem przez naszych kierowców.",
   "LKW und Sattelzugmaschinen, die wir ankaufen": "Ciężarówki i ciągniki siodłowe, które skupujemy",
   "Wir kaufen LKW aller Gewichtsklassen und Aufbauarten an: Sattelzugmaschinen, Pritschen- und Planen-LKW, Koffer- und Kühlkoffer-Fahrzeuge, Kipper, Fahrgestelle sowie LKW mit Ladekran oder Ladebordwand.": "Skupujemy ciężarówki wszystkich klas tonażowych i rodzajów zabudowy: ciągniki siodłowe, skrzyniowe i plandekowe, kontenerowe i chłodnie, wywrotki, podwozia oraz ciężarówki z żurawiem lub windą załadowczą.",
   "Bei den Herstellern sind wir breit aufgestellt. Typische Fahrzeuge sind MAN TGX, TGS und TGL, Mercedes-Benz Actros, Arocs und Atego, Scania R und S, Volvo FH und FM, DAF XF und CF sowie Iveco S-Way und Eurocargo.": "Obejmujemy szeroki wachlarz producentów. Typowe pojazdy to MAN TGX, TGS i TGL, Mercedes-Benz Actros, Arocs i Atego, Scania R i S, Volvo FH i FM, DAF XF i CF oraz Iveco S-Way i Eurocargo.",
@@ -524,7 +520,6 @@
   "Nennen Sie uns Hersteller, Modell, Erstzulassung, Kilometerstand, Leistung, Achskonfiguration, Euro-Norm und Aufbau. Fotos von außen, vom Aufbau, vom Innenraum und vom Kilometerstand schicken Sie am einfachsten per WhatsApp.": "Podaj nam producenta, model, datę pierwszej rejestracji, przebieg, moc, konfigurację osi, normę Euro i zabudowę. Zdjęcia z zewnątrz, zabudowy, kabiny i licznika najłatwiej wysłać przez WhatsApp.",
   "Wir bewerten das Fahrzeug anhand Ihrer Angaben. Bei Aufbauten wie Kühlaggregat, Kran oder Ladebordwand helfen uns Betriebsstunden und Prüfnachweise.": "Wyceniamy pojazd na podstawie Twoich danych. Przy zabudowach takich jak agregat chłodniczy, żuraw czy winda załadowcza pomagają nam motogodziny i dokumenty przeglądów.",
   "Sie bekommen ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift ist alles unverbindlich.": "Otrzymujesz konkretną ofertę, w większości przypadków jeszcze tego samego dnia. Do momentu podpisania wszystko jest niewiążące.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Die Zahlung erfolgt per Überweisung oder in bar – wie und wann, legen wir vorher verbindlich fest.": "Po Twojej akceptacji przygotowujemy umowę kupna. Płatność następuje przelewem lub gotówką – jak i kiedy, ustalamy wcześniej w sposób wiążący.",
   "Unsere eigenen Fahrer holen den LKW bei Ihnen auf dem Hof ab, deutschlandweit und auf Wunsch auch im Ausland.": "Nasi kierowcy odbiorą ciężarówkę z Twojego placu, na terenie całych Niemiec, a na życzenie także za granicą.",
   "Diese Unterlagen brauchen wir für Ihren LKW": "Tych dokumentów potrzebujemy dla Twojej ciężarówki",
   "Zulassungsbescheinigung Teil I und Teil II, alle Schlüssel und, falls vorhanden, die Unterlagen zum Aufbau.": "Zulassungsbescheinigung Teil I i Teil II (dowód rejestracyjny), wszystkie klucze oraz, jeśli są, dokumenty zabudowy.",
@@ -552,8 +547,6 @@
   "In den meisten Fällen noch am selben Tag – vorausgesetzt, die wichtigsten Daten und einige Fotos liegen uns vor.": "W większości przypadków jeszcze tego samego dnia – pod warunkiem, że mamy najważniejsze dane i kilka zdjęć.",
   "Muss ich den LKW zu Ihnen nach Gehrden bringen?": "Czy muszę przywieźć ciężarówkę do Was do Gehrden?",
   "Nein. Unsere Fahrer holen den LKW an Ihrem Standort ab, deutschlandweit und auf Wunsch auch im Ausland.": "Nie. Nasi kierowcy odbiorą ciężarówkę z Twojej lokalizacji, na terenie całych Niemiec, a na życzenie także za granicą.",
-  "Wie wird der Kaufpreis bezahlt?": "Jak płacona jest cena zakupu?",
-  "Per Überweisung oder in bar. Art und Zeitpunkt der Zahlung vereinbaren wir verbindlich vor dem Verkauf.": "Przelewem lub gotówką. Formę i termin płatności ustalamy wiążąco przed sprzedażą.",
   "Was passiert mit der Maut-Box?": "Co dzieje się z urządzeniem do opłat drogowych?",
   "Die On-Board-Unit von Toll Collect gehört nicht zum Fahrzeug. Melden Sie das Fahrzeug vor der Übergabe bei Toll Collect ab.": "Jednostka pokładowa Toll Collect nie należy do pojazdu. Przed przekazaniem wyrejestruj pojazd w Toll Collect.",
   "Kaufen Sie LKW aus Österreich, der Schweiz und Tschechien an?": "Czy skupujecie ciężarówki z Austrii, Szwajcarii i Czech?",
@@ -571,7 +564,6 @@
   "Rufen Sie uns an oder schicken Sie uns per WhatsApp die wichtigsten Daten: Hersteller und Modell, Erstzulassung, Kilometerstand, Sitzplatzzahl, Euro-Norm und Standort. Dazu einige Fotos – außen von allen Seiten, Innenraum und Cockpit.": "Zadzwoń lub wyślij nam przez WhatsApp najważniejsze dane: producent i model, data pierwszej rejestracji, przebieg, liczba miejsc, norma Euro i lokalizacja. Do tego kilka zdjęć – z zewnątrz ze wszystkich stron, wnętrze i kokpit.",
   "Wir bewerten Ihren Bus anhand Ihrer Angaben und Fotos. In die Bewertung fließen Ausstattung, Laufleistung, Wartungshistorie und die aktuelle Nachfrage nach dem Modell ein. Offene Punkte klären wir direkt am Telefon.": "Wyceniamy Twój autokar na podstawie danych i zdjęć. Pod uwagę bierzemy wyposażenie, przebieg, historię serwisową i aktualny popyt na dany model. Otwarte kwestie wyjaśniamy od razu przez telefon.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Die Anfrage ist unverbindlich: Sie entscheiden in Ruhe, ob Sie verkaufen möchten.": "Otrzymujesz konkretną ofertę, w większości przypadków jeszcze tego samego dnia. Zapytanie jest niewiążące: spokojnie decydujesz, czy chcesz sprzedać.",
-  "Sind wir uns einig, setzen wir den Kaufvertrag auf. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher verbindlich mit Ihnen fest.": "Gdy dojdziemy do porozumienia, przygotowujemy umowę kupna. Płatność przelewem lub gotówką. Formę i termin płatności ustalamy z Tobą wcześniej w sposób wiążący.",
   "Unsere eigenen Fahrer holen den Bus an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Eine Überführung müssen Sie nicht organisieren.": "Nasi kierowcy odbiorą autokar z Twojej lokalizacji – na terenie całych Niemiec, a na życzenie także za granicą. Nie musisz organizować przejazdu.",
   "Was wir für den Ankauf benötigen": "Czego potrzebujemy do skupu",
   "Zulassungsbescheinigung Teil I und Teil II sowie alle vorhandenen Schlüssel. Ohne Teil II, den früheren Fahrzeugbrief, ist kein Eigentumsübergang möglich.": "Zulassungsbescheinigung Teil I i Teil II (dowód rejestracyjny) oraz wszystkie dostępne klucze. Bez części II, dawnego Fahrzeugbrief, przeniesienie własności nie jest możliwe.",
@@ -579,7 +571,6 @@
   "Berichte der Hauptuntersuchung und Sicherheitsprüfung, Wartungsnachweise und Rechnungen größerer Arbeiten, soweit vorhanden. Sie belegen die Historie des Fahrzeugs.": "Raporty z badań technicznych (HU) i przeglądów bezpieczeństwa (SP), dokumenty serwisowe i faktury za większe prace, o ile są dostępne. Dokumentują historię pojazdu.",
   "Bei Unternehmen ein aktueller Handelsregisterauszug oder die Gewerbeanmeldung sowie der Ausweis der Person, die den Kaufvertrag unterschreibt.": "W przypadku firm aktualny odpis z rejestru handlowego lub zgłoszenie działalności gospodarczej oraz dowód tożsamości osoby podpisującej umowę kupna.",
   "Zahlung und Abholung aus einer Hand": "Płatność i odbiór z jednej ręki",
-  "Sie erhalten Ihr Geld per Überweisung oder bar und müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "Otrzymujesz pieniądze przelewem lub gotówką i nie musisz zajmować się transportem. Nasi kierowcy odbiorą autokar od Ciebie.",
   "Worauf Sie beim Verkauf Ihres Reisebusses achten sollten": "Na co zwrócić uwagę przy sprzedaży autokaru",
   "Lesen Sie vor der Übergabe die Daten des digitalen Fahrtenschreibers aus und heben Sie die Unternehmenssperre mit Ihrer Unternehmenskarte auf. Die ausgelesenen Daten müssen Sie als Unternehmen aufbewahren.": "Przed przekazaniem odczytaj dane z tachografu cyfrowego i zdejmij blokadę przedsiębiorstwa za pomocą karty przedsiębiorstwa. Jako firma musisz przechowywać odczytane dane.",
   "Ausstattung vollständig angeben": "Podaj pełne wyposażenie",
@@ -612,7 +603,6 @@
   "Senden Sie uns Hersteller und Modell, Erstzulassung, Kilometerstand, Radstand, Dachhöhe, Getriebe und Standort. Fotos von außen, vom Laderaum und vom Tacho helfen bei der ersten Einschätzung.": "Wyślij nam producenta i model, datę pierwszej rejestracji, przebieg, rozstaw osi, wysokość dachu, skrzynię biegów i lokalizację. Zdjęcia z zewnątrz, przestrzeni ładunkowej i licznika pomagają w pierwszej ocenie.",
   "Wir bewerten Ihren Transporter anhand der Daten und Fotos. Ausstattung wie Regaleinbau, Anhängerkupplung, Standheizung oder Kühlung berücksichtigen wir dabei.": "Wyceniamy Twój samochód dostawczy na podstawie danych i zdjęć. Uwzględniamy wyposażenie, takie jak zabudowa regałowa, hak holowniczy, ogrzewanie postojowe czy chłodzenie.",
   "Sie erhalten ein konkretes Angebot, meist noch am selben Tag. Sie entscheiden ohne Druck, ob Sie verkaufen.": "Otrzymujesz konkretną ofertę, zwykle jeszcze tego samego dnia. Decydujesz bez presji, czy sprzedajesz.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Bezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Po Twojej akceptacji przygotowujemy umowę kupna. Płatność przelewem lub gotówką, zgodnie z wcześniejszym wiążącym ustaleniem.",
   "Unsere Fahrer holen den Transporter bei Ihnen ab – deutschlandweit und auf Wunsch auch im Ausland.": "Nasi kierowcy odbiorą samochód dostawczy od Ciebie – na terenie całych Niemiec, a na życzenie także za granicą.",
   "Was Sie für den Verkauf bereithalten sollten": "Co przygotować do sprzedaży",
   "Zulassungsbescheinigung Teil I und Teil II, alle vorhandenen Schlüssel und, falls vorhanden, Unterlagen zu Aufbau oder Kühlung.": "Zulassungsbescheinigung Teil I i Teil II (dowód rejestracyjny), wszystkie dostępne klucze oraz, jeśli są, dokumenty zabudowy lub chłodzenia.",
@@ -645,10 +635,9 @@
   "So verkaufen Sie": "Jak sprzedać",
   "Ihr Nutzfahrzeug.": "swój pojazd użytkowy.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "Pięć kroków od pierwszego telefonu do odbioru – dla pojedynczych pojazdów tak samo jak dla całych flot. Przez cały czas masz stałą osobę kontaktową.",
-  "Rufen Sie uns an oder schreiben Sie uns per WhatsApp. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Zadzwoń lub napisz do nas na WhatsApp. Do pierwszej oceny wystarczą rodzaj pojazdu, producent i model, data pierwszej rejestracji, przebieg i lokalizacja – oraz kilka zdjęć. Przy kilku pojazdach najlepiej wyślij nam listę.",
+  "Rufen Sie uns an, schreiben Sie uns per WhatsApp oder senden Sie uns eine E-Mail. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Zadzwoń, napisz do nas na WhatsApp lub wyślij nam e-mail. Do pierwszej oceny wystarczą rodzaj pojazdu, producent i model, data pierwszej rejestracji, przebieg i lokalizacja – oraz kilka zdjęć. Przy kilku pojazdach najlepiej wyślij nam listę.",
   "Wir bewerten Ihr Fahrzeug anhand Ihrer Angaben und Fotos. Ausstattung, Laufleistung, Wartungshistorie und die Nachfrage im In- und Ausland fließen in die Bewertung ein. Offene Fragen klären wir direkt mit Ihnen. Bei Spezialaufbauten kann eine kurze Rückfrage nötig sein.": "Wyceniamy Twój pojazd na podstawie danych i zdjęć. Pod uwagę bierzemy wyposażenie, przebieg, historię serwisową oraz popyt w kraju i za granicą. Otwarte kwestie wyjaśniamy bezpośrednio z Tobą. Przy zabudowach specjalnych może być potrzebne krótkie dodatkowe pytanie.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift unter dem Kaufvertrag ist alles für Sie unverbindlich. Sie entscheiden in Ruhe, ob und wann Sie verkaufen.": "Otrzymujesz konkretną ofertę, w większości przypadków jeszcze tego samego dnia. Do podpisania umowy kupna wszystko jest dla Ciebie niewiążące. Spokojnie decydujesz, czy i kiedy sprzedajesz.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher gemeinsam und verbindlich fest.": "Po Twojej akceptacji przygotowujemy umowę kupna. Płatność przelewem lub gotówką. Formę i termin płatności ustalamy wcześniej wspólnie i w sposób wiążący.",
   "Unsere eigenen Fahrer holen das Fahrzeug an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Bei mehreren Fahrzeugen auch in Etappen.": "Nasi kierowcy odbiorą pojazd z Twojej lokalizacji – na terenie całych Niemiec, a na życzenie także za granicą. Przy kilku pojazdach również etapami.",
   "Wie wir Ihr Fahrzeug bewerten": "Jak wyceniamy Twój pojazd",
   "Eine gute Bewertung braucht Erfahrung mit dem Markt. Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und arbeiten mit über 250 Partnern zusammen. Dadurch kennen wir die Preise für Busse, LKW, Transporter und Spezialfahrzeuge in Deutschland und im Ausland.": "Dobra wycena wymaga doświadczenia rynkowego. Od ponad 30 lat handlujemy pojazdami użytkowymi i współpracujemy z ponad 250 partnerami. Dzięki temu znamy ceny autobusów, ciężarówek, samochodów dostawczych i pojazdów specjalnych w Niemczech i za granicą.",
@@ -658,7 +647,6 @@
   "Zahlung und Abholung": "Płatność i odbiór",
   "Was Sie von uns erwarten können": "Czego możesz od nas oczekiwać",
   "Klare Zahlungsvereinbarung": "Jasne ustalenia dotyczące płatności",
-  "Überweisung oder bar: Wie und wann gezahlt wird, steht vor der Übergabe fest. So wissen Sie genau, woran Sie sind.": "Przelew czy gotówka: jak i kiedy następuje płatność, ustalamy przed przekazaniem. Dzięki temu dokładnie wiesz, na czym stoisz.",
   "Abholung durch eigene Fahrer": "Odbiór przez naszych kierowców",
   "Sie müssen weder einen Fahrer abstellen noch einen Transport buchen. Unsere Fahrer holen das Fahrzeug bei Ihnen ab.": "Nie musisz oddelegowywać kierowcy ani zamawiać transportu. Nasi kierowcy odbiorą pojazd od Ciebie.",
   "Deutschlandweit und darüber hinaus": "W całych Niemczech i poza nimi",
@@ -1065,7 +1053,6 @@
 
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "Skupujemy używane ciężarówki od firm spedycyjnych i przedsiębiorstw.",
-  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "Ciągnik siodłowy, ciężarówka dystrybucyjna czy wywrotka: otrzymujesz jasną ofertę, płatność przelewem lub gotówką i odbiór przez naszych kierowców.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "Skupujemy używane autokary bezpośrednio od firm autobusowych.",
   "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "Jeden autokar czy kilka autobusów: otrzymujesz szybką wycenę, jasną płatność i odbiór przez naszych własnych kierowców.",
   "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "Skupujemy autobusy miejskie, przegubowe i międzymiastowe od przedsiębiorstw komunikacyjnych.",
@@ -1302,5 +1289,18 @@
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Pojazdy użytkowe na co dzień: dlaczego bez ciężarówek i autobusów nic nie działa | ECS GmbH",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Biała ciężarówka dystrybucyjna z zabudową kontenerową na placu ECS GmbH w Gehrden"
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Biała ciężarówka dystrybucyjna z zabudową kontenerową na placu ECS GmbH w Gehrden",
+
+  /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
+  "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "Po Twojej zgodzie przygotowujemy umowę kupna i finalizujemy transakcję.",
+  "Ein Kaufvertrag für alle Fahrzeuge. Nach Ihrer Zusage schließen wir das Geschäft ab.": "Jedna umowa kupna na wszystkie pojazdy. Po Twojej zgodzie finalizujemy transakcję.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag und die Abholung durch unsere Fahrer.": "Ciągnik siodłowy, ciężarówka dystrybucyjna czy wywrotka: otrzymasz jasną ofertę, wiążącą umowę kupna i odbiór przez naszych kierowców.",
+  "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "Nie musisz martwić się o transport. Nasi kierowcy odbiorą autobus od Ciebie.",
+
+  /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Czerwony Mercedes-Benz Antos od przodu na placu ECS GmbH, za nim kolejne ciężarówki",
+
+  /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros MP1 do MP5: roczniki i różnice | ECS GmbH",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "Biały ciągnik siodłowy Mercedes-Benz Actros z wysoką kabiną na parkingu"
 };

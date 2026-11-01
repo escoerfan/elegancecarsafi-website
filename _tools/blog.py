@@ -295,7 +295,8 @@ def main():
             print('übersprungen (Datum in der Zukunft): ' + p['name'])
             continue
         posts.append(p)
-    posts.sort(key=lambda p: (p['datum_obj'], p['name']), reverse=True)
+    # gleiches Datum: optionale Uhrzeit (zeit: 14:30) entscheidet, dann der Dateiname
+    posts.sort(key=lambda p: (p['datum_obj'], p.get('zeit', '00:00'), p['name']), reverse=True)
 
     # Galerie-Vorschau auf blog.html
     inner = grid(posts) if posts else EMPTY

@@ -303,7 +303,6 @@
   "Angebot": "Oferta",
   "Sie erhalten ein konkretes Angebot. Für Kommunen und Behörden erstellen wir es auf Wunsch schriftlich, damit es in Ihr Verfahren passt.": "Recibe una oferta concreta. Para municipios y organismos públicos la preparamos por escrito si lo desean, para que encaje en su procedimiento.",
   "Zahlung": "Pago",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Tras su aceptación, redactamos el contrato de compraventa. El pago se realiza por transferencia o en efectivo, según lo acordado de forma vinculante.",
   "Abholung": "Recogida",
   "Unsere Fahrer holen das Fahrzeug an Ihrem Bauhof oder Betriebsgelände ab, deutschlandweit und auf Wunsch auch im Ausland.": "Nuestros conductores recogen el vehículo en su parque o en las instalaciones de su empresa, en toda Alemania y, si lo desea, también en el extranjero.",
   "Unterlagen": "Documentación",
@@ -435,7 +434,6 @@
   "Paketangebot": "Oferta por lote",
   "Sie erhalten ein Gesamtangebot für den Fuhrpark und auf Wunsch die Werte je Fahrzeug – passend für Ihre interne Freigabe.": "Recibe una oferta total por la flota y, si lo desea, el valor de cada vehículo, adecuado para su aprobación interna.",
   "Vertrag und Zahlung": "Contrato y pago",
-  "Ein Kaufvertrag für alle Fahrzeuge. Bezahlt wird per Überweisung oder in bar; Art und Zeitpunkt vereinbaren wir vorher verbindlich.": "Un solo contrato de compraventa para todos los vehículos. El pago se realiza por transferencia o en efectivo; acordamos la forma y el momento de antemano de manera vinculante.",
   "Gestaffelte Abholung": "Recogida escalonada",
   "Unsere Fahrer holen die Fahrzeuge an Ihren Standorten ab – auf einmal oder in Etappen, wenn Ersatzfahrzeuge erst nach und nach eintreffen.": "Nuestros conductores recogen los vehículos en sus sedes, de una vez o por etapas si los vehículos de sustitución llegan poco a poco.",
   "Was wir für die Übernahme eines Fuhrparks brauchen": "Qué necesitamos para hacernos cargo de una flota",
@@ -481,7 +479,6 @@
   "Schicken Sie uns eine Liste der Busse mit Modell, Baujahr, Kilometerstand, Länge, Türen und Euro-Norm – oder rufen Sie an. Bei einzelnen Fahrzeugen reichen Fotos per WhatsApp.": "Envíenos una lista de los autobuses con modelo, año de fabricación, kilometraje, longitud, puertas y norma Euro, o llámenos. Para vehículos sueltos bastan fotos por WhatsApp.",
   "Wir bewerten jedes Fahrzeug einzeln und berücksichtigen dabei auch Einbauten wie Rampe, Klimaanlage oder Fahrgastinformation. Bei Serien gleicher Bauart geht das besonders schnell.": "Valoramos cada vehículo por separado y tenemos en cuenta también equipos como rampa, aire acondicionado o información al pasajero. Con series del mismo modelo es especialmente rápido.",
   "Sie erhalten ein Angebot je Fahrzeug oder ein Gesamtangebot für die Serie, ganz wie es für Ihre interne Freigabe besser passt.": "Recibe una oferta por vehículo o una oferta total por la serie, según le convenga mejor para su aprobación interna.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Gezahlt wird per Überweisung oder in bar; Art und Zeitpunkt stimmen wir vorher verbindlich mit Ihnen ab.": "Tras su aceptación llega el contrato de compraventa. El pago se realiza por transferencia o en efectivo; acordamos con usted la forma y el momento de antemano de manera vinculante.",
   "Unsere Fahrer holen die Busse ab – auf Wunsch gestaffelt, wenn Ihre Neufahrzeuge erst nach und nach eintreffen. Deutschlandweit und auf Wunsch auch im Ausland.": "Nuestros conductores recogen los autobuses, de forma escalonada si sus vehículos nuevos llegan poco a poco. En toda Alemania y, si lo desea, también en el extranjero.",
   "Unterlagen für den Verkauf Ihrer Linienbusse": "Documentación para vender sus autobuses urbanos",
   "Papiere und Schlüssel": "Documentación y llaves",
@@ -514,7 +511,6 @@
   "Ja. Unsere eigenen Fahrer holen die Fahrzeuge deutschlandweit ab und auf Wunsch auch im Ausland.": "Sí. Nuestros propios conductores recogen los vehículos en toda Alemania y, si lo desea, también en el extranjero.",
   "LKW verkaufen: Ankauf von LKW und Sattelzug | ECS GmbH": "Vender un camión: compramos camiones y tractoras | ECS GmbH",
   "Ankauf LKW": "Compra de camiones",
-  "Sie möchten eine Sattelzugmaschine, einen Verteiler-LKW oder einen Kipper verkaufen? Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an – mit klarem Angebot, Zahlung per Überweisung oder bar und Abholung durch unsere Fahrer.": "¿Quiere vender una cabeza tractora, un camión de distribución o un volquete? Compramos camiones usados a empresas de transporte y otras compañías, con una oferta clara, pago por transferencia o en efectivo y recogida por nuestros conductores.",
   "LKW und Sattelzugmaschinen, die wir ankaufen": "Camiones y cabezas tractoras que compramos",
   "Wir kaufen LKW aller Gewichtsklassen und Aufbauarten an: Sattelzugmaschinen, Pritschen- und Planen-LKW, Koffer- und Kühlkoffer-Fahrzeuge, Kipper, Fahrgestelle sowie LKW mit Ladekran oder Ladebordwand.": "Compramos camiones de todas las categorías de peso y tipos de carrocería: cabezas tractoras, camiones de caja abierta y con lona, furgones y frigoríficos, volquetes, chasis y camiones con grúa o trampilla elevadora.",
   "Bei den Herstellern sind wir breit aufgestellt. Typische Fahrzeuge sind MAN TGX, TGS und TGL, Mercedes-Benz Actros, Arocs und Atego, Scania R und S, Volvo FH und FM, DAF XF und CF sowie Iveco S-Way und Eurocargo.": "Trabajamos con una amplia gama de fabricantes. Vehículos habituales son el MAN TGX, TGS y TGL, Mercedes-Benz Actros, Arocs y Atego, Scania R y S, Volvo FH y FM, DAF XF y CF e Iveco S-Way y Eurocargo.",
@@ -524,7 +520,6 @@
   "Nennen Sie uns Hersteller, Modell, Erstzulassung, Kilometerstand, Leistung, Achskonfiguration, Euro-Norm und Aufbau. Fotos von außen, vom Aufbau, vom Innenraum und vom Kilometerstand schicken Sie am einfachsten per WhatsApp.": "Indíquenos fabricante, modelo, primera matriculación, kilometraje, potencia, configuración de ejes, norma Euro y carrocería. Lo más fácil es enviar fotos del exterior, la carrocería, la cabina y el cuentakilómetros por WhatsApp.",
   "Wir bewerten das Fahrzeug anhand Ihrer Angaben. Bei Aufbauten wie Kühlaggregat, Kran oder Ladebordwand helfen uns Betriebsstunden und Prüfnachweise.": "Valoramos el vehículo a partir de sus datos. En equipos como el grupo de frío, la grúa o la trampilla elevadora, nos ayudan las horas de funcionamiento y los certificados de inspección.",
   "Sie bekommen ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift ist alles unverbindlich.": "Recibe una oferta concreta, en la mayoría de los casos el mismo día. Hasta la firma, todo es sin compromiso.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Die Zahlung erfolgt per Überweisung oder in bar – wie und wann, legen wir vorher verbindlich fest.": "Tras su aceptación, redactamos el contrato de compraventa. El pago se realiza por transferencia o en efectivo; cómo y cuándo lo fijamos antes de forma vinculante.",
   "Unsere eigenen Fahrer holen den LKW bei Ihnen auf dem Hof ab, deutschlandweit und auf Wunsch auch im Ausland.": "Nuestros propios conductores recogen el camión en sus instalaciones, en toda Alemania y, si lo desea, también en el extranjero.",
   "Diese Unterlagen brauchen wir für Ihren LKW": "La documentación que necesitamos para su camión",
   "Zulassungsbescheinigung Teil I und Teil II, alle Schlüssel und, falls vorhanden, die Unterlagen zum Aufbau.": "Permiso de circulación Zulassungsbescheinigung Teil I y Teil II, todas las llaves y, si existe, la documentación de la carrocería.",
@@ -552,8 +547,6 @@
   "In den meisten Fällen noch am selben Tag – vorausgesetzt, die wichtigsten Daten und einige Fotos liegen uns vor.": "En la mayoría de los casos el mismo día, siempre que tengamos los datos principales y algunas fotos.",
   "Muss ich den LKW zu Ihnen nach Gehrden bringen?": "¿Tengo que llevar el camión a Gehrden?",
   "Nein. Unsere Fahrer holen den LKW an Ihrem Standort ab, deutschlandweit und auf Wunsch auch im Ausland.": "No. Nuestros conductores recogen el camión en su ubicación, en toda Alemania y, si lo desea, también en el extranjero.",
-  "Wie wird der Kaufpreis bezahlt?": "¿Cómo se paga el precio de compra?",
-  "Per Überweisung oder in bar. Art und Zeitpunkt der Zahlung vereinbaren wir verbindlich vor dem Verkauf.": "Por transferencia o en efectivo. Acordamos la forma y el momento del pago de manera vinculante antes de la venta.",
   "Was passiert mit der Maut-Box?": "¿Qué pasa con el dispositivo de peaje?",
   "Die On-Board-Unit von Toll Collect gehört nicht zum Fahrzeug. Melden Sie das Fahrzeug vor der Übergabe bei Toll Collect ab.": "La unidad a bordo de Toll Collect no forma parte del vehículo. Dé de baja el vehículo en Toll Collect antes de la entrega.",
   "Kaufen Sie LKW aus Österreich, der Schweiz und Tschechien an?": "¿Compran camiones de Austria, Suiza y la República Checa?",
@@ -571,7 +564,6 @@
   "Rufen Sie uns an oder schicken Sie uns per WhatsApp die wichtigsten Daten: Hersteller und Modell, Erstzulassung, Kilometerstand, Sitzplatzzahl, Euro-Norm und Standort. Dazu einige Fotos – außen von allen Seiten, Innenraum und Cockpit.": "Llámenos o envíenos por WhatsApp los datos principales: fabricante y modelo, primera matriculación, kilometraje, número de plazas, norma Euro y ubicación. Añada algunas fotos: el exterior desde todos los lados, el interior y el puesto de conducción.",
   "Wir bewerten Ihren Bus anhand Ihrer Angaben und Fotos. In die Bewertung fließen Ausstattung, Laufleistung, Wartungshistorie und die aktuelle Nachfrage nach dem Modell ein. Offene Punkte klären wir direkt am Telefon.": "Valoramos su autocar a partir de sus datos y fotos. En la valoración entran el equipamiento, el kilometraje, el historial de mantenimiento y la demanda actual del modelo. Las dudas las aclaramos directamente por teléfono.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Die Anfrage ist unverbindlich: Sie entscheiden in Ruhe, ob Sie verkaufen möchten.": "Recibe una oferta concreta, en la mayoría de los casos el mismo día. La consulta es sin compromiso: decide con calma si quiere vender.",
-  "Sind wir uns einig, setzen wir den Kaufvertrag auf. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher verbindlich mit Ihnen fest.": "Cuando estamos de acuerdo, redactamos el contrato de compraventa. El pago se realiza por transferencia o en efectivo. Acordamos con usted la forma y el momento del pago de antemano de manera vinculante.",
   "Unsere eigenen Fahrer holen den Bus an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Eine Überführung müssen Sie nicht organisieren.": "Nuestros propios conductores recogen el autocar en su ubicación, en toda Alemania y, si lo desea, también en el extranjero. No tiene que organizar ningún traslado.",
   "Was wir für den Ankauf benötigen": "Qué necesitamos para la compra",
   "Zulassungsbescheinigung Teil I und Teil II sowie alle vorhandenen Schlüssel. Ohne Teil II, den früheren Fahrzeugbrief, ist kein Eigentumsübergang möglich.": "Permiso de circulación Zulassungsbescheinigung Teil I y Teil II y todas las llaves disponibles. Sin la Teil II, el antiguo Fahrzeugbrief, no es posible transmitir la propiedad.",
@@ -579,7 +571,6 @@
   "Berichte der Hauptuntersuchung und Sicherheitsprüfung, Wartungsnachweise und Rechnungen größerer Arbeiten, soweit vorhanden. Sie belegen die Historie des Fahrzeugs.": "Informes de la inspección técnica (HU) y de la revisión de seguridad (SP), justificantes de mantenimiento y facturas de trabajos importantes, si existen. Documentan el historial del vehículo.",
   "Bei Unternehmen ein aktueller Handelsregisterauszug oder die Gewerbeanmeldung sowie der Ausweis der Person, die den Kaufvertrag unterschreibt.": "Para empresas, un extracto actual del registro mercantil o el alta de actividad, así como el documento de identidad de la persona que firma el contrato de compraventa.",
   "Zahlung und Abholung aus einer Hand": "Pago y recogida de un solo proveedor",
-  "Sie erhalten Ihr Geld per Überweisung oder bar und müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "Recibe su dinero por transferencia o en efectivo y no tiene que preocuparse del transporte. Nuestros conductores recogen el autocar en su empresa.",
   "Worauf Sie beim Verkauf Ihres Reisebusses achten sollten": "Qué debe tener en cuenta al vender su autocar",
   "Lesen Sie vor der Übergabe die Daten des digitalen Fahrtenschreibers aus und heben Sie die Unternehmenssperre mit Ihrer Unternehmenskarte auf. Die ausgelesenen Daten müssen Sie als Unternehmen aufbewahren.": "Antes de la entrega, descargue los datos del tacógrafo digital y retire el bloqueo de empresa con su tarjeta de empresa. Como empresa debe conservar los datos descargados.",
   "Ausstattung vollständig angeben": "Indique el equipamiento completo",
@@ -612,7 +603,6 @@
   "Senden Sie uns Hersteller und Modell, Erstzulassung, Kilometerstand, Radstand, Dachhöhe, Getriebe und Standort. Fotos von außen, vom Laderaum und vom Tacho helfen bei der ersten Einschätzung.": "Envíenos fabricante y modelo, primera matriculación, kilometraje, batalla, altura del techo, cambio y ubicación. Las fotos del exterior, la zona de carga y el velocímetro ayudan en la primera valoración.",
   "Wir bewerten Ihren Transporter anhand der Daten und Fotos. Ausstattung wie Regaleinbau, Anhängerkupplung, Standheizung oder Kühlung berücksichtigen wir dabei.": "Valoramos su furgoneta a partir de los datos y fotos. Tenemos en cuenta equipamiento como estanterías, enganche de remolque, calefacción estacionaria o frío.",
   "Sie erhalten ein konkretes Angebot, meist noch am selben Tag. Sie entscheiden ohne Druck, ob Sie verkaufen.": "Recibe una oferta concreta, normalmente el mismo día. Decide sin presión si vende.",
-  "Nach Ihrer Zusage folgt der Kaufvertrag. Bezahlt wird per Überweisung oder in bar, wie vorher verbindlich vereinbart.": "Tras su aceptación llega el contrato de compraventa. El pago se realiza por transferencia o en efectivo, según lo acordado de forma vinculante.",
   "Unsere Fahrer holen den Transporter bei Ihnen ab – deutschlandweit und auf Wunsch auch im Ausland.": "Nuestros conductores recogen la furgoneta en su empresa, en toda Alemania y, si lo desea, también en el extranjero.",
   "Was Sie für den Verkauf bereithalten sollten": "Qué debe tener preparado para la venta",
   "Zulassungsbescheinigung Teil I und Teil II, alle vorhandenen Schlüssel und, falls vorhanden, Unterlagen zu Aufbau oder Kühlung.": "Permiso de circulación Zulassungsbescheinigung Teil I y Teil II, todas las llaves disponibles y, si existe, la documentación de la carrocería o del equipo de frío.",
@@ -645,10 +635,9 @@
   "So verkaufen Sie": "Así vende",
   "Ihr Nutzfahrzeug.": "su vehículo industrial.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "Cinco pasos desde la primera llamada hasta la recogida, tanto para vehículos individuales como para flotas completas. Tiene un interlocutor fijo en todo momento.",
-  "Rufen Sie uns an oder schreiben Sie uns per WhatsApp. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Llámenos o escríbanos por WhatsApp. Para una primera valoración bastan el tipo de vehículo, el fabricante y el modelo, la primera matriculación, el kilometraje y la ubicación, además de algunas fotos. Con varios vehículos, lo mejor es enviarnos una lista.",
+  "Rufen Sie uns an, schreiben Sie uns per WhatsApp oder senden Sie uns eine E-Mail. Für eine erste Einschätzung reichen Fahrzeugart, Hersteller und Modell, Erstzulassung, Kilometerstand und Standort – dazu einige Fotos. Bei mehreren Fahrzeugen schicken Sie uns am besten eine Liste.": "Llámenos, escríbanos por WhatsApp o envíenos un correo electrónico. Para una primera valoración bastan el tipo de vehículo, el fabricante y el modelo, la primera matriculación, el kilometraje y la ubicación, además de algunas fotos. Con varios vehículos, lo mejor es enviarnos una lista.",
   "Wir bewerten Ihr Fahrzeug anhand Ihrer Angaben und Fotos. Ausstattung, Laufleistung, Wartungshistorie und die Nachfrage im In- und Ausland fließen in die Bewertung ein. Offene Fragen klären wir direkt mit Ihnen. Bei Spezialaufbauten kann eine kurze Rückfrage nötig sein.": "Valoramos su vehículo a partir de sus datos y fotos. En la valoración entran el equipamiento, el kilometraje, el historial de mantenimiento y la demanda en Alemania y en el extranjero. Las dudas las aclaramos directamente con usted. En equipos especiales puede ser necesaria una breve consulta.",
   "Sie erhalten ein konkretes Angebot, in den meisten Fällen noch am selben Tag. Bis zur Unterschrift unter dem Kaufvertrag ist alles für Sie unverbindlich. Sie entscheiden in Ruhe, ob und wann Sie verkaufen.": "Recibe una oferta concreta, en la mayoría de los casos el mismo día. Hasta la firma del contrato de compraventa, todo es sin compromiso para usted. Decide con calma si vende y cuándo.",
-  "Nach Ihrer Zusage erstellen wir den Kaufvertrag. Bezahlt wird per Überweisung oder in bar. Art und Zeitpunkt der Zahlung legen wir vorher gemeinsam und verbindlich fest.": "Tras su aceptación, redactamos el contrato de compraventa. El pago se realiza por transferencia o en efectivo. Acordamos juntos la forma y el momento del pago de antemano de manera vinculante.",
   "Unsere eigenen Fahrer holen das Fahrzeug an Ihrem Standort ab – deutschlandweit und auf Wunsch auch im Ausland. Bei mehreren Fahrzeugen auch in Etappen.": "Nuestros propios conductores recogen el vehículo en su ubicación, en toda Alemania y, si lo desea, también en el extranjero. Con varios vehículos, también por etapas.",
   "Wie wir Ihr Fahrzeug bewerten": "Cómo valoramos su vehículo",
   "Eine gute Bewertung braucht Erfahrung mit dem Markt. Wir handeln seit über 30 Jahren mit Nutzfahrzeugen und arbeiten mit über 250 Partnern zusammen. Dadurch kennen wir die Preise für Busse, LKW, Transporter und Spezialfahrzeuge in Deutschland und im Ausland.": "Una buena valoración requiere experiencia en el mercado. Comercializamos vehículos industriales desde hace más de 30 años y trabajamos con más de 250 socios. Por eso conocemos los precios de autobuses, camiones, furgonetas y vehículos especiales en Alemania y en el extranjero.",
@@ -658,7 +647,6 @@
   "Zahlung und Abholung": "Pago y recogida",
   "Was Sie von uns erwarten können": "Qué puede esperar de nosotros",
   "Klare Zahlungsvereinbarung": "Acuerdo de pago claro",
-  "Überweisung oder bar: Wie und wann gezahlt wird, steht vor der Übergabe fest. So wissen Sie genau, woran Sie sind.": "Transferencia o efectivo: cómo y cuándo se paga queda fijado antes de la entrega. Así sabe exactamente en qué punto está.",
   "Abholung durch eigene Fahrer": "Recogida por nuestros propios conductores",
   "Sie müssen weder einen Fahrer abstellen noch einen Transport buchen. Unsere Fahrer holen das Fahrzeug bei Ihnen ab.": "No tiene que poner un conductor ni contratar un transporte. Nuestros conductores recogen el vehículo en su empresa.",
   "Deutschlandweit und darüber hinaus": "En toda Alemania y más allá",
@@ -1065,7 +1053,6 @@
 
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "Compramos camiones usados a empresas de transporte y otras compañías.",
-  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, die Zahlung per Überweisung oder bar und die Abholung durch unsere Fahrer.": "Cabeza tractora, camión de distribución o volquete: recibe una oferta clara, el pago por transferencia o en efectivo y la recogida por nuestros conductores.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "Compramos autocares usados directamente a empresas de autobuses.",
   "Ob ein einzelner Reisebus oder mehrere Busse: Sie bekommen eine schnelle Bewertung, eine klare Zahlung und die Abholung durch unsere eigenen Fahrer.": "Ya sea un solo autocar o varios autobuses: recibe una valoración rápida, un pago claro y la recogida por nuestros propios conductores.",
   "Wir kaufen Stadt-, Gelenk- und Überlandbusse von Verkehrsunternehmen an.": "Compramos autobuses urbanos, articulados e interurbanos a empresas de transporte.",
@@ -1302,5 +1289,18 @@
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Vehículos industriales en el día a día: por qué nada funciona sin camiones ni autobuses | ECS GmbH",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Camión de distribución blanco con caja cerrada en el patio de ECS GmbH en Gehrden"
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Camión de distribución blanco con caja cerrada en el patio de ECS GmbH en Gehrden",
+
+  /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
+  "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "Tras su aceptación, redactamos el contrato de compraventa y cerramos la operación.",
+  "Ein Kaufvertrag für alle Fahrzeuge. Nach Ihrer Zusage schließen wir das Geschäft ab.": "Un único contrato de compraventa para todos los vehículos. Tras su aceptación, cerramos la operación.",
+  "Ob Sattelzugmaschine, Verteiler-LKW oder Kipper: Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag und die Abholung durch unsere Fahrer.": "Ya sea cabeza tractora, camión de distribución o volquete: recibe una oferta clara, un contrato de compraventa vinculante y la recogida por nuestros conductores.",
+  "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "No tiene que preocuparse por el transporte. Nuestros conductores recogen el autobús en su ubicación.",
+
+  /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
+  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Mercedes-Benz Antos rojo de frente en el patio de ECS GmbH, detrás más camiones",
+
+  /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros MP1 a MP5: años de fabricación y diferencias | ECS GmbH",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "Cabeza tractora Mercedes-Benz Actros blanca con cabina alta en un aparcamiento"
 };
