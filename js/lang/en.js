@@ -1181,5 +1181,17 @@
   "Zoll": "Customs",
   "Zollabwicklung": "Customs clearance",
   "km": "km",
-  "Übermittelt": "Submitted"
+  "Übermittelt": "Submitted",
+  "Ob EU-Land oder Drittland: Jede Ausfuhr braucht die passenden Papiere und Nachweise. Das Wichtigste auf einen Blick.": "Whether EU country or third country: every export needs the right documents and proofs. The essentials at a glance.",
+  "Ausfuhrpapiere, Zollabwicklung in Deutschland und Nachweise übernehmen wir für Sie.": "We take care of export documents, customs clearance in Germany and the required proofs for you.",
+  "kostenfrei & unverbindlich": "free of charge & without obligation",
+  "Lieferung in die EU": "Delivery within the EU",
+  "USt-IdNr. geprüft": "VAT ID verified",
+  "Zollformalitäten": "Customs formalities",
+  "keine": "none",
+  "Angemeldet": "Declared",
+  "Vorab klären": "Clarify in advance",
+  "Verzollung": "Customs clearance",
+  "Einfuhrabgaben": "Import duties",
+  "Zulassung": "Registration"
 };

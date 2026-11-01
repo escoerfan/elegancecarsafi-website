@@ -1167,5 +1167,17 @@
   "Zoll": "Aduana",
   "Zollabwicklung": "Despacho aduanero",
   "km": "km",
-  "Übermittelt": "Enviado"
+  "Übermittelt": "Enviado",
+  "Ob EU-Land oder Drittland: Jede Ausfuhr braucht die passenden Papiere und Nachweise. Das Wichtigste auf einen Blick.": "Ya sea un país de la UE o un tercer país: toda exportación necesita los documentos y justificantes adecuados. Lo esencial de un vistazo.",
+  "Ausfuhrpapiere, Zollabwicklung in Deutschland und Nachweise übernehmen wir für Sie.": "Nos encargamos de los documentos de exportación, el despacho aduanero en Alemania y los justificantes necesarios.",
+  "kostenfrei & unverbindlich": "gratis y sin compromiso",
+  "Lieferung in die EU": "Entrega en la UE",
+  "USt-IdNr. geprüft": "NIF-IVA verificado",
+  "Zollformalitäten": "Trámites aduaneros",
+  "keine": "ninguno",
+  "Angemeldet": "Declarada",
+  "Vorab klären": "Aclarar antes",
+  "Verzollung": "Despacho aduanero",
+  "Einfuhrabgaben": "Derechos de importación",
+  "Zulassung": "Matriculación"
 };

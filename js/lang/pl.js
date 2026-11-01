@@ -1167,5 +1167,17 @@
   "Zoll": "Cło",
   "Zollabwicklung": "Odprawa celna",
   "km": "km",
-  "Übermittelt": "Przesłano"
+  "Übermittelt": "Przesłano",
+  "Ob EU-Land oder Drittland: Jede Ausfuhr braucht die passenden Papiere und Nachweise. Das Wichtigste auf einen Blick.": "Kraj UE czy kraj trzeci: każdy eksport wymaga odpowiednich dokumentów i potwierdzeń. Najważniejsze informacje w skrócie.",
+  "Ausfuhrpapiere, Zollabwicklung in Deutschland und Nachweise übernehmen wir für Sie.": "Dokumenty eksportowe, odprawę celną w Niemczech i potrzebne potwierdzenia załatwimy za Państwa.",
+  "kostenfrei & unverbindlich": "bezpłatnie i niezobowiązująco",
+  "Lieferung in die EU": "Dostawa do UE",
+  "USt-IdNr. geprüft": "NIP UE sprawdzony",
+  "Zollformalitäten": "Formalności celne",
+  "keine": "brak",
+  "Angemeldet": "Zgłoszono",
+  "Vorab klären": "Wyjaśnić wcześniej",
+  "Verzollung": "Odprawa celna",
+  "Einfuhrabgaben": "Opłaty importowe",
+  "Zulassung": "Rejestracja"
 };

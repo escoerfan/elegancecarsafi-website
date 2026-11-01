@@ -1167,5 +1167,17 @@
   "Zoll": "الجمارك",
   "Zollabwicklung": "التخليص الجمركي",
   "km": "كم",
-  "Übermittelt": "تم الإرسال"
+  "Übermittelt": "تم الإرسال",
+  "Ob EU-Land oder Drittland: Jede Ausfuhr braucht die passenden Papiere und Nachweise. Das Wichtigste auf einen Blick.": "سواء كانت دولة في الاتحاد الأوروبي أو دولة ثالثة: كل عملية تصدير تحتاج إلى الأوراق والإثباتات المناسبة. أهم المعلومات في لمحة.",
+  "Ausfuhrpapiere, Zollabwicklung in Deutschland und Nachweise übernehmen wir für Sie.": "نتولى عنكم أوراق التصدير والتخليص الجمركي في ألمانيا والإثباتات اللازمة.",
+  "kostenfrei & unverbindlich": "مجاناً ودون التزام",
+  "Lieferung in die EU": "التسليم داخل الاتحاد الأوروبي",
+  "USt-IdNr. geprüft": "تم التحقق من رقم ضريبة القيمة المضافة",
+  "Zollformalitäten": "الإجراءات الجمركية",
+  "keine": "لا يوجد",
+  "Angemeldet": "تم التقديم",
+  "Vorab klären": "يُوضَّح مسبقاً",
+  "Verzollung": "التخليص الجمركي",
+  "Einfuhrabgaben": "رسوم الاستيراد",
+  "Zulassung": "التسجيل"
 };

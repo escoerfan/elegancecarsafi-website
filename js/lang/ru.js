@@ -1167,5 +1167,17 @@
   "Zoll": "Таможня",
   "Zollabwicklung": "Таможенное оформление",
   "km": "км",
-  "Übermittelt": "Отправлено"
+  "Übermittelt": "Отправлено",
+  "Ob EU-Land oder Drittland: Jede Ausfuhr braucht die passenden Papiere und Nachweise. Das Wichtigste auf einen Blick.": "Страна ЕС или третья страна: для любого экспорта нужны правильные документы и подтверждения. Самое важное вкратце.",
+  "Ausfuhrpapiere, Zollabwicklung in Deutschland und Nachweise übernehmen wir für Sie.": "Экспортные документы, таможенное оформление в Германии и необходимые подтверждения мы берём на себя.",
+  "kostenfrei & unverbindlich": "бесплатно и без обязательств",
+  "Lieferung in die EU": "Поставка в страну ЕС",
+  "USt-IdNr. geprüft": "НДС-номер проверен",
+  "Zollformalitäten": "Таможенные формальности",
+  "keine": "нет",
+  "Angemeldet": "Подана",
+  "Vorab klären": "Уточнить заранее",
+  "Verzollung": "Растаможка",
+  "Einfuhrabgaben": "Ввозные пошлины",
+  "Zulassung": "Регистрация"
 };

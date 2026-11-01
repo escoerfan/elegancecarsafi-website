@@ -544,6 +544,81 @@ details summary::-webkit-details-marker { display: none; }
 .why--light + .cta-band { padding-top: clamp(64px, 7vw, 100px); }
 
 /* ====================================================================
+   3c – Gut zu wissen als Bento-Raster (Export: Verzollung)
+   Links eine hohe Karte (Bild oben), rechts zwei breite Karten (Text
+   links, Bild rechts), darunter zwei halbe Karten. Bildflächen sind die
+   Mockups der Zeitleiste (.tl-visual) ohne eigenen Hintergrund.
+   ==================================================================== */
+.tips {
+  padding-block: clamp(64px, 7vw, 100px);
+  background: var(--white);
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line-dark);
+}
+.about:has(+ .tips) { padding-bottom: clamp(64px, 7vw, 100px); }
+.tips + .faq { padding-top: clamp(64px, 7vw, 100px); border-top: 1px solid var(--line-dark); }
+.tips__head { max-width: 900px; margin: 0 auto clamp(40px, 5vw, 64px); text-align: center; }
+.tips__title { color: var(--ink); }
+.tips__lead { max-width: 680px; margin: 22px auto 0; font-size: 18px; line-height: 1.6; }
+.tips__grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.tip {
+  display: grid;
+  grid-column: span 3;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
+  align-items: center;
+  overflow: hidden;
+  background: #f4f4f4;
+}
+.tip--wide { grid-column: span 4; }
+.tip--tall { grid-column: span 2; grid-row: span 2; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto 1fr; align-items: stretch; }
+.tip__body { padding: clamp(28px, 2.8vw, 40px); }
+.tip--tall .tip__body { align-self: end; padding-top: 8px; }
+.tip__title { margin-bottom: 12px; font-size: clamp(21px, 1.6vw, 25px); font-weight: 400; line-height: 1.25; color: var(--ink); }
+.tip__text { font-size: 16px; line-height: 1.65; }
+.tip .tip__visual { background: transparent; }
+.tip:not(.tip--wide):not(.tip--tall) { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.tip.is-visible .mk-in { opacity: 1; translate: none; }
+.tips__foot { display: grid; justify-items: center; gap: 26px; margin-top: clamp(40px, 5vw, 56px); text-align: center; }
+.tips__note { font-size: 18px; line-height: 1.6; }
+.tips__btn { flex-direction: column; gap: 2px; padding-inline: 40px; white-space: normal; }
+.tips__btn small { font-size: 14px; color: rgba(255, 255, 255, 0.72); }
+
+/* Mockups nur für dieses Raster: EU-Lieferung, ATLAS-Fenster, Zielland */
+.mk-eucard { left: 3.5em; right: 8.5em; top: 4.2em; }
+.mk-flag {
+  position: absolute;
+  right: 3em;
+  top: 2.4em;
+  width: 10.5em;
+  height: 7em;
+  padding: 0.9em;
+  background: var(--ink);
+  color: var(--white);
+  box-shadow: 0 1em 2.4em rgba(0, 0, 0, 0.18);
+}
+.mk-flag svg { width: auto; margin: 0 auto; }
+.mk-win { left: 3.5em; right: 3.5em; top: 3em; }
+.mk-win__bar { display: flex; align-items: center; gap: 0.45em; padding: 0.85em 1.2em; background: var(--ink); color: var(--white); font-size: 0.95em; }
+.mk-win__bar i { width: 0.6em; height: 0.6em; background: rgba(255, 255, 255, 0.4); }
+.mk-win__bar span { margin-inline-start: 0.8em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.mk-win__body { padding: 1.6em 1.8em 1.8em; }
+.mk-fields { display: grid; grid-template-columns: 1fr 1fr; gap: 1.1em 1.4em; }
+.mk-field { display: grid; gap: 0.5em; }
+.mk-field i { display: block; height: 0.45em; background: #d9d9d9; }
+.mk-field b { display: block; height: 2.2em; border: 1px solid rgba(38, 38, 38, 0.16); }
+.mk-mrn { display: flex; gap: 0.9em; margin-top: 1.4em !important; padding-top: 1.1em; border-top: 1px solid rgba(38, 38, 38, 0.1); font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.95em; letter-spacing: 0.06em; white-space: nowrap; }
+.mk-mrn > span:first-child { color: var(--muted); }
+.tl-visual--atlas .mk-chip--float { right: 2em; bottom: 2.2em; }
+.tl-visual--dest .mk-ghost--1 { left: 8.5em; right: 8.5em; top: 2.2em; height: 3em; }
+
+/* ====================================================================
    4 – Export (3D-Globus)
    Nur Schrift/Text neben dem Globus – Globus-Code bleibt unverändert.
    ==================================================================== */
@@ -2210,4 +2285,18 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 @media (min-width: 992px) and (max-width: 1199px) {
   .site-nav { gap: 20px; }
   .site-nav > a, .nav-sub__toggle { font-size: 15px; }
+}
+
+/* Gut zu wissen (Bento): Tablet eine Spalte mit Text | Bild, Handy Bild oben */
+@media (max-width: 1100px) {
+  .tips__grid { grid-template-columns: minmax(0, 1fr); }
+  .tip, .tip--wide, .tip--tall { grid-column: auto; grid-row: auto; grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr); grid-template-rows: none; align-items: center; }
+  .tip--tall .tip__visual { order: 2; }
+  .tip--tall .tip__body { align-self: center; padding-top: clamp(28px, 2.8vw, 40px); }
+}
+@media (max-width: 640px) {
+  .tip, .tip--wide, .tip--tall, .tip:not(.tip--wide):not(.tip--tall) { grid-template-columns: minmax(0, 1fr); }
+  .tip .tip__visual { order: -1; }
+  .tip .tip__body, .tip--tall .tip__body { padding: 4px 24px 30px; }
+  .tips__lead, .tips__note { font-size: 17px; }
 }
