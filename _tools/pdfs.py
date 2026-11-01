@@ -7,7 +7,7 @@
 Aufruf:  python3 _tools/pdfs.py
 Braucht: playwright (mit installiertem Google Chrome) und pypdf.
 
-Seite 1 Deutsch, Seite 2 Englisch. Schwarz-Weiß, DM Sans, Schriftstärke
+Seite 1 Deutsch, Seite 2 Englisch. Weißer Hintergrund (druckfreundlich), schwarzes Logo, DM Sans, Schriftstärke
 höchstens 400, eckige Nummern wie die Zeitleiste auf der Website.
 Inhalte nur aus den Seiten /export-eu und /export-drittland übernehmen,
 keine internen Angaben (Namen, Preise, Bankdaten) in die PDFs schreiben.
@@ -226,15 +226,14 @@ a { color: inherit; text-decoration: none; }
   display: flex; flex-direction: column; break-after: page; }
 .page:last-child { break-after: auto; }
 
-/* Kopf: dunkler Verlauf wie die Seitenköpfe der Website */
-.head { background: linear-gradient(180deg, #262626 0%, #060606 100%); color: #fff;
-  padding: 9mm 18mm 8mm; }
+/* Kopf: weiß und druckfreundlich, Haarlinie als Abschluss */
+.head { color: #262626; margin: 0 18mm; padding: 12mm 0 7mm; border-bottom: 1px solid rgba(38,38,38,.2); }
 .head__top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6mm; }
-.head__logo { width: 27mm; height: auto; display: block; }
+.head__logo { width: 27mm; height: auto; display: block; filter: brightness(0); }  /* weißes Logo → schwarz */
 .head__meta { font-size: 8pt; color: #838383; text-align: right; line-height: 1.6; }
-.eyebrow { font-size: 10pt; color: #fff; margin-bottom: 3mm; }
+.eyebrow { font-size: 10pt; color: #505050; margin-bottom: 3mm; }
 .title { font-size: 23pt; line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 3.5mm; }
-.lead { font-size: 10pt; color: #bdbdbd; max-width: 150mm; }
+.lead { font-size: 10pt; color: #505050; max-width: 150mm; }
 
 .body { flex: 1; padding: 7mm 18mm 0; }
 .intro { font-size: 9.6pt; color: #505050; margin-bottom: 5mm; }
@@ -266,22 +265,21 @@ section { margin-bottom: 5mm; }
 .cols h3 { font-size: 10pt; margin-bottom: 1mm; }
 .cols p { font-size: 8.8pt; color: #505050; }
 
-/* Hinweis- und Infoboxen: hellgraue Fläche, eckig */
-.note { background: #f3f3f3; padding: 4mm 6mm; display: grid; grid-template-columns: 52mm 1fr; }
+/* Hinweis- und Infoboxen: nur Rahmen, keine Fläche (druckfreundlich) */
+.note { border: 1px solid rgba(38,38,38,.2); padding: 4mm 6mm; display: grid; grid-template-columns: 52mm 1fr; }
 .note h3 { font-size: 10pt; }
 .note p { color: #505050; }
 .boxes { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; }
-.box { background: #f3f3f3; padding: 4mm 6mm; }
+.box { border: 1px solid rgba(38,38,38,.2); padding: 4mm 6mm; }
 .box h3 { font-size: 10pt; margin-bottom: 1.5mm; }
 .box p { color: #505050; font-size: 8.8pt; }
 
-/* Fuß: Kontakt in einer schwarzen Leiste */
+/* Fuß: Kontakt unter einer Haarlinie, ohne Fläche */
 .foot { padding: 0 18mm 7mm; }
 .foot__note { font-size: 7.6pt; color: #838383; margin-bottom: 3mm; }
-.foot__bar { background: #060606; color: #bdbdbd; padding: 4mm 6mm; display: grid;
-  grid-template-columns: auto 1fr auto; gap: 6mm; align-items: center; font-size: 8.2pt; line-height: 1.55; }
-.foot__bar img { width: 17mm; display: block; }
-.foot__bar strong { color: #fff; }
+.foot__bar { color: #505050; padding-top: 3.5mm; border-top: 1px solid rgba(38,38,38,.2); display: grid;
+  grid-template-columns: 1fr auto; gap: 6mm; align-items: center; font-size: 8.2pt; line-height: 1.55; }
+.foot__bar strong { color: #262626; }
 .foot__page { color: #838383; text-align: right; white-space: nowrap; }
 """
 
@@ -335,7 +333,6 @@ def seite(s, nr, gesamt, stand):
   <footer class="foot">
     <p class="foot__note">{e(s['fuss'])}</p>
     <div class="foot__bar">
-      <img src="logo-ecs-weiss.png" alt="">
       <p><strong>{e(FIRMA)}</strong><br>{e(ADRESSE)} · <a href="mailto:{MAIL}">{MAIL}</a> ·
         <a href="https://{WEB}">{WEB}</a></p>
       <p class="foot__page">{tel}<br>{e(s['seite'])} {nr} / {gesamt}</p>
