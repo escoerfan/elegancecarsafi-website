@@ -2407,6 +2407,8 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 .blog-empty__links a { display: block; padding: 16px 0; border-bottom: 1px solid var(--line-dark); color: var(--ink); font-size: 18px; transition: color 0.2s ease; }
 .blog-empty__links a:hover { color: var(--muted); }
 .page-intro + .blog-list { border-top: 1px solid var(--line-dark); }
+.blog-list:has(+ .page-intro) { padding-bottom: clamp(64px, 7vw, 100px); }
+.blog-list + .page-intro { border-top: 1px solid var(--line-dark); }
 .blog-list + .cta-band, .post + .cta-band { padding-top: clamp(64px, 7vw, 100px); }
 @media (max-width: 991px) { .blog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 640px) { .blog-grid { grid-template-columns: minmax(0, 1fr); gap: 48px; } }

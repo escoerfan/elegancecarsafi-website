@@ -7,7 +7,7 @@ kategorie: Wissen
 bild: angebot-atego-koffer.jpeg
 bild_alt: Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden
 bildnachweis: Fotos: ECS GmbH
-anriss: Brötchen, Busfahrt, Baustelle, Müllabfuhr: Ein ganz normaler Tag zeigt, wie sehr unser Alltag an Nutzfahrzeugen hängt. Mit Zahlen von Destatis und KBA.
+anriss: Brötchen, Busfahrt, Baustelle, Müllabfuhr: Ein ganz normaler Tag zeigt, wie sehr unser Alltag an Nutzfahrzeugen hängt.
 stichworte: Nutzfahrzeuge, Nutzfahrzeuge im Alltag, Bedeutung von Nutzfahrzeugen, Nutzfahrzeuge Wirtschaft, LKW Güterverkehr Deutschland, Linienbus Fahrgäste, Kommunalfahrzeuge, Winterdienst Fahrzeuge, Baufahrzeuge Straßenbau, Nutzfahrzeughandel, Nutzfahrzeuge Export, Nutzfahrzeug Ankauf Hannover
 ---
 Sie stehen morgens an der Ampel. Vor Ihnen hält ein Linienbus, rechts wartet ein Kipper mit Schotter, und in zweiter Reihe lädt ein Lieferwagen Pakete aus. Bewusst wahrgenommen haben Sie davon wahrscheinlich nichts. Genau darum geht es in diesem Beitrag: Nutzfahrzeuge sind so selbstverständlich geworden, dass wir sie kaum noch sehen. Dabei hängt fast alles, was unseren Tag ausmacht, an LKW, Bussen und Arbeitsmaschinen.

@@ -9,7 +9,7 @@ bild: blog-beispiel.webp
 bild_alt: Gebrauchter LKW auf dem Hof der ECS GmbH in Gehrden
 # bildnachweis: ECS GmbH
 # ki_bild: ja
-# anriss: Kurzer Text für die Vorschau-Karte (sonst wird die Beschreibung verwendet)
+# anriss: Kurzer Text für die Vorschau-Karte (sonst wird die Beschreibung verwendet), nur Inhalt – keine Quellenhinweise wie „Mit Zahlen von …“
 stichworte: LKW verkaufen, LKW Ankauf, LKW verkaufen Unterlagen
 entwurf: ja
 ---
