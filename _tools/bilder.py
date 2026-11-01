@@ -56,6 +56,11 @@ PHOTOS = {
     'angebot-atego-koffer.jpeg': [960, 1320],        # Angebot Verteiler-LKW: Atego 1224 (IMG_2076)
     'angebot-actros-sattelzug.jpeg': [960, 1320],    # Angebot Sattelzugmaschinen: Actros (IMG_2080)
     'angebot-atego-kipper.jpeg': [960, 1320],        # Angebot Kipper: Atego Kipper im Schnee (IMG_2085)
+    # Busfotos aus dem Chat (01.11.2026), Originaldateien unbearbeitet
+    'reisebus-volvo-weiss.webp': [960, 1320],        # Reisebus: Ablauf-Kopf (Volvo)
+    'reisebus-setra-silber.webp': [960, 1320],       # Reisebus: Zeitleiste Bewertung (Setra S 416 GT-HD)
+    'angebot-setra-weiss.webp': [960, 1320],         # Angebot Reisebusse und Omnibusse (Setra)
+    'fuhrpark-scania-rot.webp': [960, 1320],         # Fuhrpark: neben „Ein Angebot für Ihre ganze Flotte“ (Scania)
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

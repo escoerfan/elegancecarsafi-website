@@ -1285,5 +1285,13 @@
   /* ---- Karriere Mockups (01.11.2026) ---- */
   "Anschreiben": "Сопроводительное письмо",
   "Lebenslauf": "Резюме",
-  "Zeugnisse": "Рекомендации"
+  "Zeugnisse": "Рекомендации",
+
+  /* ---- Karriere Kopf (01.11.2026) ---- */
+  "Karriere bei der ECS Exclusive Commerce Services GmbH": "Карьера в ECS Exclusive Commerce Services GmbH",
+
+  /* ---- Busfotos (01.11.2026) ---- */
+  "Roter Scania Reisebus auf dem Hof": "Красный туристический автобус Scania на площадке",
+  "Weißer Setra Reisebus mit drei Achsen": "Белый трёхосный туристический автобус Setra",
+  "Weißer Volvo Reisebus mit geöffneter Tür": "Белый туристический автобус Volvo с открытой дверью"
 };

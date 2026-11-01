@@ -1285,5 +1285,13 @@
   /* ---- Karriere Mockups (01.11.2026) ---- */
   "Anschreiben": "Carta de presentación",
   "Lebenslauf": "Currículum",
-  "Zeugnisse": "Certificados"
+  "Zeugnisse": "Certificados",
+
+  /* ---- Karriere Kopf (01.11.2026) ---- */
+  "Karriere bei der ECS Exclusive Commerce Services GmbH": "Empleo en ECS Exclusive Commerce Services GmbH",
+
+  /* ---- Busfotos (01.11.2026) ---- */
+  "Roter Scania Reisebus auf dem Hof": "Autocar Scania rojo en el patio",
+  "Weißer Setra Reisebus mit drei Achsen": "Autocar Setra blanco de tres ejes",
+  "Weißer Volvo Reisebus mit geöffneter Tür": "Autocar Volvo blanco con la puerta abierta"
 };

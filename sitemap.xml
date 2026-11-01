@@ -32,6 +32,7 @@
   <url><loc>https://elegancecarsafi.com/fahrzeuge</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://elegancecarsafi.com/faq</loc><lastmod>2026-11-01</lastmod></url>
   <url><loc>https://elegancecarsafi.com/fuhrpark-verkaufen</loc><lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/fuhrpark-scania-rot-1320.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/ablauf-man-tgl-koffer-1448.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/kontakt-atego-reihe-1086.jpg</image:loc></image:image>
   </url>
@@ -43,7 +44,7 @@
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-auflieger-kippmulde-1024.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/bewertung-sprinter-1672.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-kleinbus-sprinter-1448.jpg</image:loc></image:image>
-    <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/reisebus-magelys-1448.jpg</image:loc></image:image>
+    <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-setra-weiss-1320.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-linienbus-citaro-889.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-radlader-cat-877.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/angebot-spezial-econic-1448.jpg</image:loc></image:image>
@@ -70,7 +71,9 @@
   </url>
   <url><loc>https://elegancecarsafi.com/reisebus-verkaufen</loc><lastmod>2026-11-01</lastmod>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/reisebus-magelys-1448.jpg</image:loc></image:image>
+    <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/reisebus-volvo-weiss-1320.jpg</image:loc></image:image>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/reisebus-magelys-960.webp</image:loc></image:image>
+    <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/reisebus-setra-silber-1320.jpg</image:loc></image:image>
   </url>
   <url><loc>https://elegancecarsafi.com/transporter-verkaufen</loc><lastmod>2026-11-01</lastmod>
     <image:image><image:loc>https://elegancecarsafi.com/assets/img/opt/bewertung-sprinter-960.webp</image:loc></image:image>

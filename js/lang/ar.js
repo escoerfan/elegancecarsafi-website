@@ -1285,5 +1285,13 @@
   /* ---- Karriere Mockups (01.11.2026) ---- */
   "Anschreiben": "رسالة تعريفية",
   "Lebenslauf": "السيرة الذاتية",
-  "Zeugnisse": "الشهادات"
+  "Zeugnisse": "الشهادات",
+
+  /* ---- Karriere Kopf (01.11.2026) ---- */
+  "Karriere bei der ECS Exclusive Commerce Services GmbH": "الوظائف في ECS Exclusive Commerce Services GmbH",
+
+  /* ---- Busfotos (01.11.2026) ---- */
+  "Roter Scania Reisebus auf dem Hof": "حافلة سياحية سكانيا حمراء في الساحة",
+  "Weißer Setra Reisebus mit drei Achsen": "حافلة سياحية سيترا بيضاء بثلاثة محاور",
+  "Weißer Volvo Reisebus mit geöffneter Tür": "حافلة سياحية فولفو بيضاء بباب مفتوح"
 };
