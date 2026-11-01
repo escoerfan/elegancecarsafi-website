@@ -10,6 +10,10 @@
 - WebPage.keywords: Suchbegriffe, Marken und Modelle aus _tools/seo_begriffe.py
 - WebPage.primaryImageOfPage: erstes Foto im <main> mit Alt-Text als caption,
   sonst das og:image der Seite
+- Blog: blog.html als Blog (mit Liste der Beiträge), Beiträge (og:type article,
+  erzeugt von _tools/blog.py) als BlogPosting unter Startseite > Blog
+- Karriere: bewusst kein JobPosting, solange keine Stelle ausgeschrieben ist
+  (Google erlaubt JobPosting nicht für reine Initiativbewerbungen)
 Keine Bewertungen (Review/AggregateRating), weil es keine belegten gibt.
 Der Fahrzeugbestand (Vehicle/Offer) kommt per JS: js/bestand-schema.js.
 
@@ -122,6 +126,7 @@ CRUMB = {
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
     'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
     'gebrauchte-nutzfahrzeuge': 'Was wir regelmäßig anbieten', 'nutzfahrzeug-ankauf': 'Was wir ankaufen',
+    'karriere': 'Karriere', 'blog': 'Blog',
 }
 # Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
 PARENT = {k: 'unsere-arbeit' for k in (
@@ -208,6 +213,9 @@ def build(path):
         # Suchbegriffe, Marken und Modelle – nur hier, nicht im sichtbaren Text (_tools/seo_begriffe.py)
         'keywords': ', '.join(keywords(slug)),
     }
+    kw = meta(head, 'name', 'keywords')          # Blog-Beiträge: Stichworte aus _blog/*.md
+    if kw:
+        page['keywords'] = ', '.join(dict.fromkeys(keywords(slug) + [k.strip() for k in kw.split(',') if k.strip()]))
     if img:
         page['primaryImageOfPage'] = {'@type': 'ImageObject', '@id': url + '#primaryimage',
                                       'url': img, 'contentUrl': img, 'caption': caption,
@@ -221,8 +229,9 @@ def build(path):
                       'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID}})
     else:
         trail = [('Startseite', BASE)]
-        if slug in PARENT:                       # Ankaufseiten unter "Unsere Arbeit", Export-Unterseiten unter "Export"
-            trail.append((CRUMB[PARENT[slug]], BASE + PARENT[slug]))
+        parent = PARENT.get(slug) or ('blog' if slug.startswith('blog-') else None)
+        if parent:                               # Ankaufseiten unter "Unsere Arbeit", Export-Unterseiten unter "Export", Beiträge unter "Blog"
+            trail.append((CRUMB[parent], BASE + parent))
         trail.append((CRUMB.get(slug, h1), url))
         crumbs = {'@type': 'BreadcrumbList', '@id': url + '#breadcrumb', 'itemListElement': [
             {'@type': 'ListItem', 'position': i, 'name': n, 'item': u} for i, (n, u) in enumerate(trail, 1)
@@ -238,6 +247,22 @@ def build(path):
                       'areaServed': AREA.get(slug, BUY_COUNTRIES)})
         if brands(slug):
             graph[-1]['brand'] = brands(slug)
+
+    if meta(head, 'property', 'og:type') == 'article':       # Blog-Beitrag
+        published = meta(head, 'property', 'article:published_time')
+        graph.append({'@type': 'BlogPosting', '@id': url + '#article', 'headline': h1,
+                      'description': desc, 'url': url, 'mainEntityOfPage': {'@id': url + '#webpage'},
+                      'image': img, 'datePublished': published,
+                      'dateModified': meta(head, 'property', 'article:modified_time') or published,
+                      'inLanguage': 'de-DE', 'author': {'@id': ORG_ID}, 'publisher': {'@id': ORG_ID},
+                      'isPartOf': {'@id': BASE + 'blog#blog'}})
+        if meta(head, 'property', 'article:section'):
+            graph[-1]['articleSection'] = meta(head, 'property', 'article:section')
+    if slug == 'blog':
+        posts = re.findall(r'<a class="blog-card__link" href="(blog-[a-z0-9-]+)"', body)
+        graph.append({'@type': 'Blog', '@id': url + '#blog', 'url': url, 'name': 'Blog der ECS GmbH',
+                      'description': desc, 'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID},
+                      'blogPost': [{'@id': BASE + p + '#article'} for p in posts]})
 
     faqs = faq_items(body)
     if faqs:

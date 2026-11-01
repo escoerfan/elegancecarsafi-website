@@ -50,6 +50,12 @@ PHOTOS = {
     'angebot-spezial-econic.webp': [960, 1448],
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
+    # Instagram-Fotos vom 01.11.2026: Originaldateien aus Bilder/Echt/Insta, unbearbeitet
+    'karriere-actros-blau.jpeg': [960, 1320],        # Karriere: Actros mit Planenauflieger (IMG_2071)
+    'blog-arocs-gruen.jpeg': [960, 1320],            # Blog: Arocs 6x4 (IMG_2081)
+    'angebot-atego-koffer.jpeg': [960, 1320],        # Angebot Verteiler-LKW: Atego 1224 (IMG_2076)
+    'angebot-actros-sattelzug.jpeg': [960, 1320],    # Angebot Sattelzugmaschinen: Actros (IMG_2080)
+    'angebot-atego-kipper.jpeg': [960, 1320],        # Angebot Kipper: Atego Kipper im Schnee (IMG_2085)
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

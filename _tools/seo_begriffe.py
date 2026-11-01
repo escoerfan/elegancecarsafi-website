@@ -167,6 +167,16 @@ SEITEN = {
     'unsere-arbeit': ([], ['Nutzfahrzeug Ankauf', 'Nutzfahrzeug verkaufen', 'Ankauf mit Abholung']),
     'faq': ([], ['Nutzfahrzeug Ankauf', 'Nutzfahrzeug verkaufen']),
     'kontakt': ([], REGION),
+    'karriere': ([], ['Karriere ECS GmbH', 'Jobs ECS GmbH', 'Karriere Elegance Car Safi', 'Jobs Gehrden',
+                      'Stellenangebote Gehrden', 'Jobs Region Hannover', 'Jobs Hannover', 'Jobs Nutzfahrzeughandel',
+                      'Stellenangebote Nutzfahrzeughandel', 'Job Nutzfahrzeuge', 'Jobs LKW Handel', 'Jobs Autohandel Hannover',
+                      'Arbeiten im Nutzfahrzeughandel', 'Initiativbewerbung', 'Initiativbewerbung Gehrden',
+                      'Initiativbewerbung Hannover', 'Initiativbewerbung Nutzfahrzeughandel', 'Quereinsteiger',
+                      'Jobs Export', 'Jobs Fahrzeugexport', 'Jobs Fahrzeugankauf', 'Kaufmann Fahrzeughandel']),
+    'blog': ([], ['Blog Nutzfahrzeuge', 'Nutzfahrzeug Blog', 'Ratgeber Nutzfahrzeuge', 'Ratgeber LKW verkaufen',
+                  'LKW verkaufen Tipps', 'Bus verkaufen Tipps', 'Nutzfahrzeug verkaufen Ratgeber', 'Export Ratgeber',
+                  'Verzollung Ratgeber', 'Nutzfahrzeughandel News', 'LKW Ankauf', 'Nutzfahrzeug Ankauf',
+                  'Export Nutzfahrzeuge'] + REGION),
     'reisebus-verkaufen': (REISEBUS, ['Reisebus verkaufen', 'Bus verkaufen', 'Bus Ankauf', 'Reisebus Ankauf',
                                       'Busunternehmen Fahrzeuge verkaufen', 'Ankauf mit Abholung', 'Kleinbus',
                                       'Midibus', 'Hochdecker', 'Doppeldecker', 'Fernbus'] + AUSSTATTUNG_BUS),
@@ -183,8 +193,9 @@ SEITEN = {
 
 
 def keywords(slug):
-    """Begriffe der Seite: Basis + Seitenbegriffe + 'Marke Modell', ohne Dubletten."""
-    marken, begriffe = SEITEN.get(slug, ([], []))
+    """Begriffe der Seite: Basis + Seitenbegriffe + 'Marke Modell', ohne Dubletten.
+    Blog-Beiträge (blog-…): Basis + Blog-Begriffe; eigene Stichworte kommen aus _blog/*.md."""
+    marken, begriffe = SEITEN.get(slug) or (SEITEN['blog'] if slug.startswith('blog-') else ([], []))
     out = BASIS + begriffe
     for marke, modelle in marken:
         out.append(marke)
