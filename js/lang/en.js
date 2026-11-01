@@ -1230,6 +1230,5 @@
 
   /* ---- Export: neue Fotos (01.11.) ---- */
   "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "White Scania R 520 flatbed truck with loading crane and trailer in the ECS GmbH yard",
-  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH": "Red Mercedes-Benz Antos from the front in the ECS GmbH yard",
   "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "White Mercedes-Benz Actros 1842 tractor unit from the front"
 };
