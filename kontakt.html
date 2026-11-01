@@ -33,9 +33,9 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261102s">
+<link rel="stylesheet" href="css/style.css?v=20261102t">
 
-<script src="js/i18n.js?v=20261102m"></script>
+<script src="js/i18n.js?v=20261102n"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -324,18 +324,20 @@
   </div>
 </section>
 
+<!-- Formular über dem Hof-Foto: dunkler Verlauf -->
+<div class="dark-block">
+
 <!-- ============================================================== Kontakt -->
-<!-- Hof-Foto links, Formular rechts auf hellem Grund -->
 <section class="contact-split" id="kontakt">
   <div class="contact-split__media">
     <picture>
-      <source type="image/avif" srcset="assets/img/opt/kontakt-lkw-reihe-720.avif 720w, assets/img/opt/kontakt-lkw-reihe-1320.avif 1320w" sizes="(max-width: 991px) 100vw, 50vw">
-      <source type="image/webp" srcset="assets/img/opt/kontakt-lkw-reihe-720.webp 720w, assets/img/opt/kontakt-lkw-reihe-1320.webp 1320w" sizes="(max-width: 991px) 100vw, 50vw">
-      <img src="assets/img/opt/kontakt-lkw-reihe-1320.jpg" srcset="assets/img/opt/kontakt-lkw-reihe-720.jpg 720w, assets/img/opt/kontakt-lkw-reihe-1320.jpg 1320w" sizes="(max-width: 991px) 100vw, 50vw" alt="Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden" width="1320" height="1271" decoding="async">
+      <source type="image/avif" srcset="assets/img/opt/kontakt-lkw-reihe-720.avif 720w, assets/img/opt/kontakt-lkw-reihe-1320.avif 1320w" sizes="100vw">
+      <source type="image/webp" srcset="assets/img/opt/kontakt-lkw-reihe-720.webp 720w, assets/img/opt/kontakt-lkw-reihe-1320.webp 1320w" sizes="100vw">
+      <img src="assets/img/opt/kontakt-lkw-reihe-1320.jpg" srcset="assets/img/opt/kontakt-lkw-reihe-720.jpg 720w, assets/img/opt/kontakt-lkw-reihe-1320.jpg 1320w" sizes="100vw" alt="Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden" width="1320" height="1271" decoding="async">
     </picture>
   </div>
 
-  <div class="contact-split__grid">
+  <div class="container contact-split__grid">
     <div class="form-card reveal">
       <form id="anfrage-form" novalidate>
         <div class="form-row">
@@ -388,6 +390,8 @@
     </div>
   </div>
 </section>
+
+</div>
 
 <!-- ================================================================ Karte -->
 <section class="map-section">

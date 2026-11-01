@@ -1718,39 +1718,40 @@ body .vw-section * {
 
 .page-hero + .faq { padding-top: 90px; }
 
-/* Kontaktseite: schwarzer Seitenkopf wie FAQ, darunter Hof-Foto links und
-   das Formular rechts auf hellem Grund (ohne Foto dahinter) */
+/* Kontaktseite: schwarzer Seitenkopf wie FAQ, darunter das Formular über dem
+   vollflächigen Hof-Foto mit dunklem Overlay (Karte rechts) */
 .contact-split {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  background: var(--white);
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  padding-block: 120px;
 }
-.contact-split__media { position: relative; min-height: 560px; }
-.contact-split__media img {
+.contact-split__media {
   position: absolute;
   inset: 0;
+  z-index: -1;
+}
+.contact-split__media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(6, 6, 6, 0.45) 0%, rgba(6, 6, 6, 0.6) 55%, rgba(6, 6, 6, 0.75) 100%);
+}
+.contact-split__media img {
   width: 100%; height: 100%;
   object-fit: cover;
   object-position: 70% 55%;
 }
-.contact-split__grid {
-  display: flex;
-  align-items: center;
-  padding: 100px clamp(24px, 5vw, 88px);
-}
-.contact-split .form-card {
-  width: 100%;
-  max-width: 560px;
-  padding: 0;
-  border: 0;
-  box-shadow: none;
-}
+.contact-split__grid { display: flex; justify-content: flex-end; }
+.contact-split .form-card { width: 100%; max-width: 560px; }
 @media (max-width: 991px) {
-  /* Handy/Tablet: Foto oben, Formular darunter */
-  .contact-split { grid-template-columns: 1fr; }
-  .contact-split__media { min-height: 0; aspect-ratio: 4 / 3; }
-  .contact-split__grid { justify-content: center; padding: 48px 20px 64px; }
-  .contact-split .form-card { max-width: 640px; padding: 0; }
+  /* Handy/Tablet: Foto oben als Block, die Karte schiebt sich darüber */
+  .contact-split { padding-block: 0 64px; }
+  .contact-split__media { position: relative; inset: auto; aspect-ratio: 4 / 3; }
+  .contact-split__media::after { background: rgba(6, 6, 6, 0.5); }
+  .contact-split__media img { object-position: 70% 55%; }
+  .contact-split__grid { justify-content: center; margin-top: -18vw; }
+  .contact-split .form-card { max-width: 640px; }
   .map-section { padding-block: 64px; }
 }
 .export-page .ecs-export-widget__inner { padding-top: clamp(130px, 12vw, 170px); }
