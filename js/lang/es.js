@@ -1189,5 +1189,14 @@
   "Auf Anfrage": "Bajo petición",
   "Ausgangszollstelle": "Aduana de salida",
   "Grenzübergang": "Paso fronterizo",
-  "Seehafen": "Puerto marítimo"
+  "Seehafen": "Puerto marítimo",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle.": "El EUR.1 acredita que un vehículo tiene origen preferencial de la UE. Si el país de destino tiene un acuerdo preferencial con la UE, el comprador paga aranceles reducidos o ninguno.",
+  "Ursprung klären": "Comprobar el origen",
+  "Voraussetzung ist, dass das Fahrzeug Ursprungsware der EU ist und mit dem Zielland ein Präferenzabkommen besteht.": "El vehículo debe tener origen preferencial de la UE y debe existir un acuerdo preferencial con el país de destino.",
+  "Antrag bei der Ausfuhr": "Solicitud en la exportación",
+  "Der Ausführer füllt das Formular EUR.1 aus und legt es zusammen mit der Ausfuhranmeldung dem Zoll vor.": "El exportador rellena el formulario EUR.1 y lo presenta en la aduana junto con la declaración de exportación.",
+  "Bestätigung durch den Zoll": "Validación por la aduana",
+  "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "La aduana comprueba el origen y valida el EUR.1 con un sello. El comprador recibe el original para la importación.",
+  "Auf Anfrage übernehmen wir den Antrag für Sie.": "Si lo desea, nos encargamos de la solicitud.",
+  "EUR.1 anfragen": "Solicitar EUR.1"
 };

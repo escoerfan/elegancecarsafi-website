@@ -1203,5 +1203,14 @@
   "Auf Anfrage": "On request",
   "Ausgangszollstelle": "Customs office of exit",
   "Grenzübergang": "Border crossing",
-  "Seehafen": "Seaport"
+  "Seehafen": "Seaport",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle.": "The EUR.1 proves that a vehicle has EU preferential origin. If the destination country has a preferential agreement with the EU, the buyer pays reduced or no import duties.",
+  "Ursprung klären": "Check the origin",
+  "Voraussetzung ist, dass das Fahrzeug Ursprungsware der EU ist und mit dem Zielland ein Präferenzabkommen besteht.": "The vehicle must have EU preferential origin, and there must be a preferential agreement with the destination country.",
+  "Antrag bei der Ausfuhr": "Application at export",
+  "Der Ausführer füllt das Formular EUR.1 aus und legt es zusammen mit der Ausfuhranmeldung dem Zoll vor.": "The exporter completes the EUR.1 form and presents it to customs together with the export declaration.",
+  "Bestätigung durch den Zoll": "Endorsement by customs",
+  "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Customs checks the origin and endorses the EUR.1 with a stamp. The buyer receives the original for import.",
+  "Auf Anfrage übernehmen wir den Antrag für Sie.": "On request, we handle the application for you.",
+  "EUR.1 anfragen": "Request EUR.1"
 };

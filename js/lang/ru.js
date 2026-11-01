@@ -1189,5 +1189,14 @@
   "Auf Anfrage": "По запросу",
   "Ausgangszollstelle": "Таможня выезда",
   "Grenzübergang": "Пограничный переход",
-  "Seehafen": "Морской порт"
+  "Seehafen": "Морской порт",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle.": "EUR.1 подтверждает, что транспортное средство имеет преференциальное происхождение из ЕС. Если у страны назначения есть преференциальное соглашение с ЕС, покупатель платит сниженные пошлины или не платит их вовсе.",
+  "Ursprung klären": "Проверка происхождения",
+  "Voraussetzung ist, dass das Fahrzeug Ursprungsware der EU ist und mit dem Zielland ein Präferenzabkommen besteht.": "Условие: автомобиль имеет преференциальное происхождение из ЕС, а со страной назначения действует преференциальное соглашение.",
+  "Antrag bei der Ausfuhr": "Заявление при вывозе",
+  "Der Ausführer füllt das Formular EUR.1 aus und legt es zusammen mit der Ausfuhranmeldung dem Zoll vor.": "Экспортёр заполняет форму EUR.1 и подаёт её в таможню вместе с экспортной декларацией.",
+  "Bestätigung durch den Zoll": "Заверение таможней",
+  "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Таможня проверяет происхождение и заверяет EUR.1 печатью. Оригинал получает покупатель для ввоза.",
+  "Auf Anfrage übernehmen wir den Antrag für Sie.": "По запросу мы возьмём оформление на себя.",
+  "EUR.1 anfragen": "Запросить EUR.1"
 };

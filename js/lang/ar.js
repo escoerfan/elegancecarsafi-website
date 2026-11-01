@@ -1189,5 +1189,14 @@
   "Auf Anfrage": "عند الطلب",
   "Ausgangszollstelle": "مكتب جمارك الخروج",
   "Grenzübergang": "معبر حدودي",
-  "Seehafen": "ميناء بحري"
+  "Seehafen": "ميناء بحري",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle.": "تثبت شهادة EUR.1 أن المركبة ذات منشأ تفضيلي من الاتحاد الأوروبي. إذا كان لبلد الوجهة اتفاقية تفضيلية مع الاتحاد الأوروبي، يدفع المشتري رسوم استيراد مخفضة أو لا يدفع أي رسوم.",
+  "Ursprung klären": "التحقق من المنشأ",
+  "Voraussetzung ist, dass das Fahrzeug Ursprungsware der EU ist und mit dem Zielland ein Präferenzabkommen besteht.": "يشترط أن تكون المركبة ذات منشأ تفضيلي من الاتحاد الأوروبي وأن توجد اتفاقية تفضيلية مع بلد الوجهة.",
+  "Antrag bei der Ausfuhr": "الطلب عند التصدير",
+  "Der Ausführer füllt das Formular EUR.1 aus und legt es zusammen mit der Ausfuhranmeldung dem Zoll vor.": "يملأ المصدِّر نموذج EUR.1 ويقدمه إلى الجمارك مع بيان التصدير.",
+  "Bestätigung durch den Zoll": "مصادقة الجمارك",
+  "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "تتحقق الجمارك من المنشأ وتصادق على EUR.1 بختم. يحصل المشتري على الأصل لإجراءات الاستيراد.",
+  "Auf Anfrage übernehmen wir den Antrag für Sie.": "عند الطلب نتولى تقديم الطلب عنكم.",
+  "EUR.1 anfragen": "طلب شهادة EUR.1"
 };

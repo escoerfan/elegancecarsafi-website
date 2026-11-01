@@ -1189,5 +1189,14 @@
   "Auf Anfrage": "Na życzenie",
   "Ausgangszollstelle": "Urząd celny wyprowadzenia",
   "Grenzübergang": "Przejście graniczne",
-  "Seehafen": "Port morski"
+  "Seehafen": "Port morski",
+  "Mit der EUR.1 wird nachgewiesen, dass ein Fahrzeug Ursprungsware der EU ist. Hat das Zielland ein Präferenzabkommen mit der EU, zahlt der Käufer damit ermäßigte oder gar keine Einfuhrzölle.": "EUR.1 potwierdza, że pojazd ma preferencyjne pochodzenie z UE. Jeśli kraj docelowy ma z UE umowę preferencyjną, kupujący płaci obniżone cła importowe lub nie płaci ich wcale.",
+  "Ursprung klären": "Ustalenie pochodzenia",
+  "Voraussetzung ist, dass das Fahrzeug Ursprungsware der EU ist und mit dem Zielland ein Präferenzabkommen besteht.": "Warunkiem jest preferencyjne pochodzenie pojazdu z UE oraz umowa preferencyjna z krajem docelowym.",
+  "Antrag bei der Ausfuhr": "Wniosek przy wywozie",
+  "Der Ausführer füllt das Formular EUR.1 aus und legt es zusammen mit der Ausfuhranmeldung dem Zoll vor.": "Eksporter wypełnia formularz EUR.1 i przedstawia go w urzędzie celnym razem ze zgłoszeniem wywozowym.",
+  "Bestätigung durch den Zoll": "Potwierdzenie przez urząd celny",
+  "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Urząd celny sprawdza pochodzenie i potwierdza EUR.1 pieczęcią. Oryginał otrzymuje kupujący do odprawy przywozowej.",
+  "Auf Anfrage übernehmen wir den Antrag für Sie.": "Na życzenie złożymy wniosek za Państwa.",
+  "EUR.1 anfragen": "Zapytaj o EUR.1"
 };
