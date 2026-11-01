@@ -11,6 +11,8 @@ Aufbau wie die ursprüngliche EU-Checkliste (Sept. 2026): schwarzes Logo links,
 grauer Großbuchstaben-Titel rechts, Linie, zwei Karten (Deutsch und Englisch)
 auf einer A4-Seite, nummerierte Liste, Fußzeile mit zwei feinen Linien.
 Nur die Farben sind angepasst: Schwarz statt Orange, wie die Website.
+Boxen eckig, Schriftstärke höchstens 500. Die EU-Checkliste trägt oben
+rechts die EU-Flagge (offizielles Muster, als Vektor).
 Maße in pt sind aus dem alten PDF übernommen.
 
 Inhalte nur von /export-eu und /export-drittland, keine internen Angaben
@@ -133,18 +135,20 @@ body { font-family: "DM Sans", Arial, sans-serif; color: #1a1a1a; font-size: 10p
 
 .head { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 51pt; height: 113.6pt; }
 .head img { width: 77.3pt; height: auto; display: block; }
-.head p { margin-top: 15pt; font-size: 8.5pt; font-weight: 700; letter-spacing: 0.17em;
+.head__side { display: flex; align-items: center; gap: 8pt; margin-top: 11pt; }
+.head__side svg { width: 21pt; height: 14pt; display: block; }
+.head p { font-size: 8.5pt; font-weight: 500; letter-spacing: 0.17em;
   text-transform: uppercase; color: #888; }
 .rule { height: 1.5pt; background: ACCENT; margin-bottom: 19.8pt; }
 
-.card { position: relative; border: 0.75pt solid #ddd; border-radius: 3pt; overflow: hidden;
+.card { position: relative; border: 0.75pt solid #ddd;
   padding: 9pt 15.7pt 12pt; margin-bottom: 17pt; }
 .card::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 1.5pt; background: ACCENT; }
-.card h2 { font-size: 13.5pt; font-weight: 700; line-height: 1.5; color: #1a1a1a; margin-bottom: 4pt; }
+.card h2 { font-size: 13.5pt; font-weight: 500; line-height: 1.5; color: #1a1a1a; margin-bottom: 4pt; }
 .card p { color: #555; line-height: 1.55; margin-bottom: 4.5pt; }
 .card ol { list-style: none; margin: 7pt 0 7pt; }
 .card li { position: relative; padding-left: 16.5pt; line-height: 1.5; margin-bottom: 4.5pt; }
-.card li span { position: absolute; left: 0; top: 0; font-weight: 700; color: ACCENT; }
+.card li span { position: absolute; left: 0; top: 0; font-weight: 500; color: ACCENT; }
 
 .foot { position: absolute; left: 56.7pt; right: 56.7pt; top: 785.2pt; display: flex;
   justify-content: space-between; font-size: 8pt; }
@@ -158,6 +162,29 @@ def e(t):
     return html.escape(t, quote=True)
 
 
+def eu_flagge():
+    """EU-Flagge nach offiziellem Muster: Blau #003399, 12 goldene Sterne #FFCC00
+    auf einem Kreis mit Radius 1/3 der Höhe, Sternradius 1/18 der Höhe."""
+    import math
+    h = 200.0
+    w, cx, cy, r, sr = 300.0, 150.0, 100.0, h / 3, h / 18
+    sterne = []
+    for i in range(12):
+        a = math.radians(i * 30)
+        x, y = cx + r * math.sin(a), cy - r * math.cos(a)
+        pkt = []
+        for k in range(10):
+            rr = sr if k % 2 == 0 else sr * 0.382
+            b = math.radians(k * 36)
+            pkt.append(f'{x + rr * math.sin(b):.2f},{y - rr * math.cos(b):.2f}')
+        sterne.append(f'<polygon points="{" ".join(pkt)}"/>')
+    return (f'<svg viewBox="0 0 {w:.0f} {h:.0f}" role="img" aria-label="Flagge der Europäischen Union">'
+            f'<rect width="{w:.0f}" height="{h:.0f}" fill="#003399"/><g fill="#FFCC00">{"".join(sterne)}</g></svg>')
+
+
+EU['flagge'] = eu_flagge()
+
+
 def karte(k):
     lang, titel, intro, punkte, schluss = k
     li = ''.join(f'<li><span>{i}.</span>{e(t)}</li>' for i, t in enumerate(punkte, 1))
@@ -169,7 +196,7 @@ def dokument(doc):
     return f"""<!doctype html><html lang="de"><head><meta charset="utf-8">
 <title>{e(doc['meta']['title'])}</title><style>{CSS}</style></head><body>
 <div class="page">
-  <header class="head"><img src="logo-ecs-schwarz.png" alt="ECS Exclusive Commerce Services GmbH"><p>{e(doc['kopf'])}</p></header>
+  <header class="head"><img src="logo-ecs-schwarz.png" alt="ECS Exclusive Commerce Services GmbH"><div class="head__side">{doc.get('flagge', '')}<p>{e(doc['kopf'])}</p></div></header>
   <div class="rule"></div>
   {''.join(karte(k) for k in doc['karten'])}
   <footer class="foot"><p>{e(FIRMA)}</p><p>Gehrden bei Hannover</p></footer>
