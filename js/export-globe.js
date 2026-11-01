@@ -40,14 +40,6 @@ async function initEcsExportGlobe(canvas) {
     "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.min.js"
   );
 
-  const [
-    { geoEquirectangular, geoPath },
-    { feature }
-  ] = await Promise.all([
-    import("https://cdn.jsdelivr.net/npm/d3-geo@3/+esm"),
-    import("https://cdn.jsdelivr.net/npm/topojson-client@3/+esm")
-  ]);
-
   const renderer = new THREE.WebGLRenderer({
     canvas,
     antialias: true,
@@ -81,12 +73,13 @@ async function initEcsExportGlobe(canvas) {
   const globeRadius = 2;
   const routeTone = new THREE.Color("#d9d6cf");
 
-  const worldTexture = await createWorldTexture(
-    THREE,
-    geoEquirectangular,
-    geoPath,
-    feature
+  /* Weltkarte als fertiges Bild (früher bei jedem Aufruf mit d3 aus dem
+     Weltatlas gezeichnet – das blockierte die Seite mehrere Sekunden) */
+  const worldTexture = await new THREE.TextureLoader().loadAsync(
+    "assets/img/globus-textur.webp"
   );
+  worldTexture.colorSpace = THREE.SRGBColorSpace;
+  worldTexture.anisotropy = 8;
 
   const sphere = new THREE.Mesh(
     new THREE.SphereGeometry(globeRadius, 80, 80),
@@ -136,131 +129,6 @@ async function initEcsExportGlobe(canvas) {
       radius * Math.cos(phi),
       radius * Math.sin(phi) * Math.sin(theta)
     );
-  }
-
-  async function createWorldTexture(
-    THREE,
-    geoEquirectangular,
-    geoPath,
-    topojsonFeature
-  ) {
-    const textureCanvas = document.createElement("canvas");
-    textureCanvas.width = 2048;
-    textureCanvas.height = 1024;
-
-    const ctx = textureCanvas.getContext("2d");
-    const width = textureCanvas.width;
-    const height = textureCanvas.height;
-
-    ctx.fillStyle = "#141514";
-    ctx.fillRect(0, 0, width, height);
-
-    const shade = ctx.createRadialGradient(
-      width * 0.48,
-      height * 0.31,
-      70,
-      width * 0.5,
-      height * 0.48,
-      width * 0.64
-    );
-
-    shade.addColorStop(
-      0,
-      "rgba(242, 240, 235, 0.07)"
-    );
-
-    shade.addColorStop(
-      0.56,
-      "rgba(242, 240, 235, 0.018)"
-    );
-
-    shade.addColorStop(
-      1,
-      "rgba(0, 0, 0, 0.18)"
-    );
-
-    ctx.fillStyle = shade;
-    ctx.fillRect(0, 0, width, height);
-
-    const worldResponse = await fetch(
-      "https://cdn.jsdelivr.net/npm/world-atlas@2/land-50m.json"
-    );
-
-    const world = await worldResponse.json();
-    const land = topojsonFeature(
-      world,
-      world.objects.land
-    );
-
-    const projection = geoEquirectangular()
-      .rotate([0, 0])
-      .fitExtent(
-        [[0, 0], [width, height]],
-        { type: "Sphere" }
-      );
-
-    const path = geoPath(projection, ctx);
-
-    ctx.save();
-    ctx.shadowColor = "rgba(242, 240, 235, 0.09)";
-    ctx.shadowBlur = 8;
-    ctx.lineJoin = "round";
-    ctx.lineCap = "round";
-    ctx.fillStyle = "rgba(190, 190, 184, 0.74)";
-    ctx.strokeStyle = "rgba(242, 240, 235, 0.16)";
-    ctx.lineWidth = 1.35;
-    ctx.beginPath();
-    path(land);
-    ctx.fill();
-    ctx.stroke();
-    ctx.restore();
-
-    const northHighlight = ctx.createLinearGradient(
-      0,
-      0,
-      0,
-      height
-    );
-
-    northHighlight.addColorStop(
-      0,
-      "rgba(242, 240, 235, 0.09)"
-    );
-
-    northHighlight.addColorStop(
-      0.3,
-      "rgba(242, 240, 235, 0.025)"
-    );
-
-    northHighlight.addColorStop(
-      0.46,
-      "rgba(0, 0, 0, 0.03)"
-    );
-
-    northHighlight.addColorStop(
-      0.58,
-      "rgba(0, 0, 0, 0.22)"
-    );
-
-    northHighlight.addColorStop(
-      0.78,
-      "rgba(0, 0, 0, 0.55)"
-    );
-
-    northHighlight.addColorStop(
-      1,
-      "rgba(0, 0, 0, 0.78)"
-    );
-
-    ctx.fillStyle = northHighlight;
-    ctx.fillRect(0, 0, width, height);
-
-    const texture = new THREE.CanvasTexture(textureCanvas);
-    texture.colorSpace = THREE.SRGBColorSpace;
-    texture.anisotropy = 8;
-    texture.needsUpdate = true;
-
-    return texture;
   }
 
   function makeArc(
