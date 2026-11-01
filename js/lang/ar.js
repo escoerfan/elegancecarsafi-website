@@ -1280,5 +1280,10 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "رأس قاطرة مرسيدس-بنز أروكس 6x4 خضراء",
   "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "مرسيدس-بنز أتيغو 1224 بيضاء بصندوق مغلق",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "رأس قاطرة مرسيدس-بنز أكتروس بيضاء مع قوس إضاءة",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "شاحنة قلابة مرسيدس-بنز أتيغو حمراء في الثلج"
+  "Roter Mercedes-Benz Atego Kipper im Schnee": "شاحنة قلابة مرسيدس-بنز أتيغو حمراء في الثلج",
+
+  /* ---- Karriere Mockups (01.11.2026) ---- */
+  "Anschreiben": "رسالة تعريفية",
+  "Lebenslauf": "السيرة الذاتية",
+  "Zeugnisse": "الشهادات"
 };

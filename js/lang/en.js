@@ -1294,5 +1294,10 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "Green Mercedes-Benz Arocs 6x4 tractor unit",
   "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "White Mercedes-Benz Atego 1224 with box body",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "White Mercedes-Benz Actros tractor unit with light bar",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "Red Mercedes-Benz Atego tipper in the snow"
+  "Roter Mercedes-Benz Atego Kipper im Schnee": "Red Mercedes-Benz Atego tipper in the snow",
+
+  /* ---- Karriere Mockups (01.11.2026) ---- */
+  "Anschreiben": "Cover letter",
+  "Lebenslauf": "CV",
+  "Zeugnisse": "References"
 };

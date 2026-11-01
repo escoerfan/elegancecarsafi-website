@@ -1280,5 +1280,10 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "Зелёный седельный тягач Mercedes-Benz Arocs 6x4",
   "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "Белый Mercedes-Benz Atego 1224 с фургоном",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "Белый седельный тягач Mercedes-Benz Actros с дугой с фарами",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "Красный самосвал Mercedes-Benz Atego в снегу"
+  "Roter Mercedes-Benz Atego Kipper im Schnee": "Красный самосвал Mercedes-Benz Atego в снегу",
+
+  /* ---- Karriere Mockups (01.11.2026) ---- */
+  "Anschreiben": "Сопроводительное письмо",
+  "Lebenslauf": "Резюме",
+  "Zeugnisse": "Рекомендации"
 };

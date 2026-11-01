@@ -33,9 +33,9 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261102p">
+<link rel="stylesheet" href="css/style.css?v=20261102q">
 
-<script src="js/i18n.js?v=20261102j"></script>
+<script src="js/i18n.js?v=20261102k"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -346,75 +346,111 @@
   </div>
 </section>
 
-<!-- ================================================================ Bereiche -->
-<section class="why why--light" aria-labelledby="bereiche-title">
-  <div class="container why__grid">
-    <div class="why__intro reveal">
+<!-- ================================================================ Bereiche
+     Karten im 2er-Raster, je Bereich ein eigener Bewerben-Button (Betreff mit Bereich) -->
+<section class="roles" aria-labelledby="bereiche-title">
+  <div class="container">
+    <div class="roles__head reveal">
       <p class="eyebrow">Bereiche</p>
-      <h2 class="h2 why__title" id="bereiche-title">Wo Sie sich bei uns einbringen können</h2>
-      <a class="btn btn--primary" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung">Bewerbung per E-Mail</a>
+      <h2 class="h2" id="bereiche-title">Wo Sie sich bei uns einbringen können</h2>
+      <a class="btn btn--secondary" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung">Bewerbung per E-Mail</a>
     </div>
-
-    <ul class="why__list reveal">
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 7h11v9H3z"/><path d="M14 10h4l3 3v3h-7"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/></svg></span>
-        <h3 class="why-item__title">Ankauf und Bewertung</h3>
-        <p class="why-item__text">Fahrzeuge einschätzen, Angebote abgeben und Abholungen in ganz Deutschland organisieren.</p>
+    <ul class="roles__grid reveal">
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 7h11v9H3z"/><path d="M14 10h4l3 3v3h-7"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">01</span>
+        </div>
+        <h3 class="role-card__title">Ankauf und Bewertung</h3>
+        <p class="role-card__text">Fahrzeuge einschätzen, Angebote abgeben und Abholungen in ganz Deutschland organisieren.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Ankauf%20und%20Bewertung">Initiativ bewerben</a>
       </li>
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 12 12 3h8v8l-9 9z"/><circle cx="15.5" cy="8.5" r="1.5"/></svg></span>
-        <h3 class="why-item__title">Verkauf und Kundenberatung</h3>
-        <p class="why-item__text">Kunden aus dem In- und Ausland beraten, Fahrzeuge vorstellen und Verkäufe abschließen.</p>
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 12 12 3h8v8l-9 9z"/><circle cx="15.5" cy="8.5" r="1.5"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">02</span>
+        </div>
+        <h3 class="role-card__title">Verkauf und Kundenberatung</h3>
+        <p class="role-card__text">Kunden aus dem In- und Ausland beraten, Fahrzeuge vorstellen und Verkäufe abschließen.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Verkauf%20und%20Kundenberatung">Initiativ bewerben</a>
       </li>
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.5 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.5-3.8-9S9.5 5.5 12 3z"/></svg></span>
-        <h3 class="why-item__title">Export und Verzollung</h3>
-        <p class="why-item__text">Exportpapiere, Zollabwicklung und Transport für Lieferungen in die EU und in Drittländer.</p>
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.5 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.5-3.8-9S9.5 5.5 12 3z"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">03</span>
+        </div>
+        <h3 class="role-card__title">Export und Verzollung</h3>
+        <p class="role-card__text">Exportpapiere, Zollabwicklung und Transport für Lieferungen in die EU und in Drittländer.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Export%20und%20Verzollung">Initiativ bewerben</a>
       </li>
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 12h7M9 16h7"/></svg></span>
-        <h3 class="why-item__title">Büro und Verwaltung</h3>
-        <p class="why-item__text">Kaufverträge, Fahrzeugpapiere, Zulassung und Buchhaltung – damit jeder Ablauf sauber dokumentiert ist.</p>
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 12h7M9 16h7"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">04</span>
+        </div>
+        <h3 class="role-card__title">Büro und Verwaltung</h3>
+        <p class="role-card__text">Kaufverträge, Fahrzeugpapiere, Zulassung und Buchhaltung – damit jeder Ablauf sauber dokumentiert ist.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Büro%20und%20Verwaltung">Initiativ bewerben</a>
       </li>
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.6 2.6-2.4-.6-.6-2.4z"/></svg></span>
-        <h3 class="why-item__title">Hof und Fahrzeugpflege</h3>
-        <p class="why-item__text">Fahrzeuge annehmen, prüfen, aufbereiten und für Fotos und Übergaben vorbereiten.</p>
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.6 2.6-2.4-.6-.6-2.4z"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">05</span>
+        </div>
+        <h3 class="role-card__title">Hof und Fahrzeugpflege</h3>
+        <p class="role-card__text">Fahrzeuge annehmen, prüfen, aufbereiten und für Fotos und Übergaben vorbereiten.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Hof%20und%20Fahrzeugpflege">Initiativ bewerben</a>
       </li>
-      <li class="why-item">
-        <span class="why-item__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/></svg></span>
-        <h3 class="why-item__title">Sprachen und Internationales</h3>
-        <p class="why-item__text">Unsere Kunden kommen aus vielen Ländern. Kenntnisse in Englisch, Polnisch, Russisch, Spanisch oder Arabisch sind ein Plus.</p>
+      <li class="role-card">
+        <div class="role-card__top">
+          <span class="role-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9.5h8M8 12.5h5"/></svg></span>
+          <span class="role-card__num" aria-hidden="true">06</span>
+        </div>
+        <h3 class="role-card__title">Sprachen und Internationales</h3>
+        <p class="role-card__text">Unsere Kunden kommen aus vielen Ländern. Kenntnisse in Englisch, Polnisch, Russisch, Spanisch oder Arabisch sind ein Plus.</p>
+        <a class="btn btn--primary role-card__btn" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung%20%E2%80%93%20Sprachen%20und%20Internationales">Initiativ bewerben</a>
       </li>
     </ul>
   </div>
 </section>
 
-<!-- ======================================================== So bewerben Sie sich -->
-<section class="apply" aria-labelledby="apply-title">
+<!-- ======================================================== So bewerben Sie sich
+     Zickzack-Zeitleiste wie auf Unsere Arbeit (Füllung beim Scrollen: js/main.js) -->
+<section class="process process--apply" aria-labelledby="apply-title">
   <div class="container">
-    <div class="apply__head reveal">
-      <p class="eyebrow">Bewerbung</p>
-      <h2 class="h2" id="apply-title">So bewerben Sie sich initiativ</h2>
+    <div class="process__body">
+      <div class="apply__head reveal">
+        <p class="eyebrow">Bewerbung</p>
+        <h2 class="h2" id="apply-title">So bewerben Sie sich initiativ</h2>
+      </div>
+      <ol class="timeline">
+        <li class="tl-step" style="--n: 1">
+          <span class="tl-step__num" aria-hidden="true">01</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--chat" aria-hidden="true"><div class="mk-scene"><span class="mk-ghost mk-ghost--1"></span><span class="mk-ghost mk-ghost--2"></span><div class="mk-card mk-note mk-in"><span class="mk-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg></span><div class="mk-note__text"><p class="mk-title">Initiativbewerbung</p><p class="mk-text"><span data-no-i18n>info@elegancecarsafi.com</span></p><span class="mk-lines mk-lines--mail"><i style="width:92%"></i><i style="width:76%"></i><i style="width:58%"></i></span></div></div></div></div>
+            <h3 class="tl-card__title">E-Mail schreiben</h3>
+            <p class="tl-card__body">An <a class="text-link" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung">info@elegancecarsafi.com</a> mit dem Betreff „Initiativbewerbung“ und dem Bereich, der Sie interessiert.</p>
+          </article>
+        </li>
+        <li class="tl-step" style="--n: 2">
+          <span class="tl-step__num" aria-hidden="true">02</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--files" aria-hidden="true"><div class="mk-scene"><span class="mk-sheet mk-sheet--ghost"></span><div class="mk-card mk-check mk-check--center"><p class="mk-title">Bewerbung</p><ul><li class="mk-in" style="--d:150ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Anschreiben</span><b><span data-no-i18n>PDF</span></b></li><li class="mk-in" style="--d:290ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Lebenslauf</span><b><span data-no-i18n>PDF</span></b></li><li class="mk-in" style="--d:430ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Zeugnisse</span><b><span data-no-i18n>PDF</span></b></li></ul></div></div></div>
+            <h3 class="tl-card__title">Unterlagen anhängen</h3>
+            <p class="tl-card__body">Ein kurzes Anschreiben, Ihren Lebenslauf und wichtige Zeugnisse – am liebsten zusammen in einer PDF-Datei.</p>
+          </article>
+        </li>
+        <li class="tl-step" style="--n: 3">
+          <span class="tl-step__num" aria-hidden="true">03</span>
+          <article class="tl-card reveal">
+            <div class="tl-visual tl-visual--doc" aria-hidden="true"><div class="mk-scene"><span class="mk-sheet mk-sheet--ghost"></span><div class="mk-sheet "><div class="mk-bar"><img src="assets/img/opt/logo-ecs-360.webp" alt="" width="360" height="202" loading="lazy"><span>Initiativbewerbung</span></div><span class="mk-lines"><i style="width:84%"></i><i style="width:92%"></i><i style="width:70%"></i><i style="width:48%"></i></span></div><span class="mk-chip mk-chip--float mk-in" style="--d:350ms"><span class="mk-tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="square"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>Rückmeldung erhalten</span></div></div>
+            <h3 class="tl-card__title">Rückmeldung erhalten</h3>
+            <p class="tl-card__body">Wir lesen jede Bewerbung persönlich und melden uns bei Ihnen – auch dann, wenn es gerade nicht passt.</p>
+          </article>
+        </li>
+      </ol>
+      <p class="apply__note reveal">Ihre Bewerbungsunterlagen nutzen wir ausschließlich für Ihre Bewerbung bei der ECS GmbH und geben sie nicht an Dritte weiter. Details finden Sie in unserer <a class="text-link" href="datenschutz#bewerbungen">Datenschutzerklärung</a>.</p>
     </div>
-    <ol class="steps-list reveal">
-      <li class="steps-list__item">
-        <span class="steps-list__num" aria-hidden="true">01</span>
-        <h3 class="steps-list__title">E-Mail schreiben</h3>
-        <p class="steps-list__text">An <a class="text-link" href="mailto:info@elegancecarsafi.com?subject=Initiativbewerbung">info@elegancecarsafi.com</a> mit dem Betreff „Initiativbewerbung“ und dem Bereich, der Sie interessiert.</p>
-      </li>
-      <li class="steps-list__item">
-        <span class="steps-list__num" aria-hidden="true">02</span>
-        <h3 class="steps-list__title">Unterlagen anhängen</h3>
-        <p class="steps-list__text">Ein kurzes Anschreiben, Ihren Lebenslauf und wichtige Zeugnisse – am liebsten zusammen in einer PDF-Datei.</p>
-      </li>
-      <li class="steps-list__item">
-        <span class="steps-list__num" aria-hidden="true">03</span>
-        <h3 class="steps-list__title">Rückmeldung erhalten</h3>
-        <p class="steps-list__text">Wir lesen jede Bewerbung persönlich und melden uns bei Ihnen – auch dann, wenn es gerade nicht passt.</p>
-      </li>
-    </ol>
-    <p class="apply__note reveal">Ihre Bewerbungsunterlagen nutzen wir ausschließlich für Ihre Bewerbung bei der ECS GmbH und geben sie nicht an Dritte weiter. Details finden Sie in unserer <a class="text-link" href="datenschutz#bewerbungen">Datenschutzerklärung</a>.</p>
   </div>
 </section>
 

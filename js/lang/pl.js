@@ -1280,5 +1280,10 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "Zielony ciągnik siodłowy Mercedes-Benz Arocs 6x4",
   "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "Biały Mercedes-Benz Atego 1224 z zabudową kontenerową",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "Biały ciągnik siodłowy Mercedes-Benz Actros z orurowaniem z lampami",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "Czerwona wywrotka Mercedes-Benz Atego na śniegu"
+  "Roter Mercedes-Benz Atego Kipper im Schnee": "Czerwona wywrotka Mercedes-Benz Atego na śniegu",
+
+  /* ---- Karriere Mockups (01.11.2026) ---- */
+  "Anschreiben": "List motywacyjny",
+  "Lebenslauf": "CV",
+  "Zeugnisse": "Świadectwa"
 };
