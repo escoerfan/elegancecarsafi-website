@@ -1229,7 +1229,7 @@
   "Reihe gebrauchter Koffer-LKW von MAN und Mercedes-Benz auf dem Hof der ECS GmbH in Gehrden": "Ряд подержанных грузовиков-фургонов MAN и Mercedes-Benz на площадке ECS GmbH в Гердене",
   "Offene Stellen": "Вакансии",
   "Derzeit keine offenen Stellen – Initiativbewerbungen sind willkommen": "Сейчас открытых вакансий нет – инициативные заявки приветствуются",
-  "Im Moment haben wir keine Stellen ausgeschrieben. Gute Leute suchen wir trotzdem immer: Wer sich für Nutzfahrzeuge begeistert, anpacken kann und gern mit Kunden aus dem In- und Ausland zu tun hat, ist bei uns richtig.": "В данный момент у нас нет открытых вакансий. Но хорошие люди нужны всегда: если вы увлечены коммерческим транспортом, умеете работать руками и любите общаться с клиентами из Германии и других стран, вам у нас понравится.",
+  "Im Moment haben wir keine Stellen ausgeschrieben.": "В данный момент у нас нет открытых вакансий.",
   "Schicken Sie uns Ihre Initiativbewerbung einfach per E-Mail an": "Просто отправьте нам инициативную заявку по электронной почте на",
   ". Schreiben Sie kurz dazu, welcher Bereich Sie interessiert und ab wann Sie verfügbar sind.": ". Коротко укажите, какое направление вас интересует и с какого момента вы готовы начать.",
   "Bereiche": "Направления",

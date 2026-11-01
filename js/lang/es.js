@@ -1229,7 +1229,7 @@
   "Reihe gebrauchter Koffer-LKW von MAN und Mercedes-Benz auf dem Hof der ECS GmbH in Gehrden": "Fila de camiones de caja MAN y Mercedes-Benz usados en el patio de ECS GmbH en Gehrden",
   "Offene Stellen": "Ofertas de empleo",
   "Derzeit keine offenen Stellen – Initiativbewerbungen sind willkommen": "Actualmente no hay vacantes – las candidaturas espontáneas son bienvenidas",
-  "Im Moment haben wir keine Stellen ausgeschrieben. Gute Leute suchen wir trotzdem immer: Wer sich für Nutzfahrzeuge begeistert, anpacken kann und gern mit Kunden aus dem In- und Ausland zu tun hat, ist bei uns richtig.": "Ahora mismo no tenemos vacantes publicadas. Aun así, siempre buscamos buena gente: si te apasionan los vehículos industriales, te gusta trabajar con las manos y disfrutas tratando con clientes de Alemania y del extranjero, encajas con nosotros.",
+  "Im Moment haben wir keine Stellen ausgeschrieben.": "Ahora mismo no tenemos vacantes publicadas.",
   "Schicken Sie uns Ihre Initiativbewerbung einfach per E-Mail an": "Envíanos tu candidatura espontánea por correo electrónico a",
   ". Schreiben Sie kurz dazu, welcher Bereich Sie interessiert und ab wann Sie verfügbar sind.": ". Indica brevemente qué área te interesa y a partir de cuándo estás disponible.",
   "Bereiche": "Áreas",

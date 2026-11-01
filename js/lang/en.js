@@ -1243,7 +1243,7 @@
   "Reihe gebrauchter Koffer-LKW von MAN und Mercedes-Benz auf dem Hof der ECS GmbH in Gehrden": "Row of used MAN and Mercedes-Benz box trucks on the ECS GmbH yard in Gehrden",
   "Offene Stellen": "Open positions",
   "Derzeit keine offenen Stellen – Initiativbewerbungen sind willkommen": "No open positions at the moment – speculative applications are welcome",
-  "Im Moment haben wir keine Stellen ausgeschrieben. Gute Leute suchen wir trotzdem immer: Wer sich für Nutzfahrzeuge begeistert, anpacken kann und gern mit Kunden aus dem In- und Ausland zu tun hat, ist bei uns richtig.": "We currently have no advertised vacancies. Still, we are always looking for good people: if you are passionate about commercial vehicles, like to get things done and enjoy working with customers from Germany and abroad, you will fit right in.",
+  "Im Moment haben wir keine Stellen ausgeschrieben.": "We currently have no advertised vacancies.",
   "Schicken Sie uns Ihre Initiativbewerbung einfach per E-Mail an": "Simply send us your speculative application by email to",
   ". Schreiben Sie kurz dazu, welcher Bereich Sie interessiert und ab wann Sie verfügbar sind.": ". Briefly tell us which area interests you and when you are available.",
   "Bereiche": "Areas",

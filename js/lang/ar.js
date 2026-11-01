@@ -1229,7 +1229,7 @@
   "Reihe gebrauchter Koffer-LKW von MAN und Mercedes-Benz auf dem Hof der ECS GmbH in Gehrden": "صف من شاحنات الصناديق المستعملة من MAN ومرسيدس-بنز في ساحة ECS GmbH في غيردن",
   "Offene Stellen": "الوظائف الشاغرة",
   "Derzeit keine offenen Stellen – Initiativbewerbungen sind willkommen": "لا توجد وظائف شاغرة حاليًا – نرحب بالطلبات المبادرة",
-  "Im Moment haben wir keine Stellen ausgeschrieben. Gute Leute suchen wir trotzdem immer: Wer sich für Nutzfahrzeuge begeistert, anpacken kann und gern mit Kunden aus dem In- und Ausland zu tun hat, ist bei uns richtig.": "ليس لدينا حاليًا وظائف معلنة. ومع ذلك نبحث دائمًا عن أشخاص جيدين: إذا كنت شغوفًا بالمركبات التجارية وتحب العمل الجاد والتعامل مع عملاء من ألمانيا والخارج، فمكانك معنا.",
+  "Im Moment haben wir keine Stellen ausgeschrieben.": "ليس لدينا حاليًا وظائف معلنة.",
   "Schicken Sie uns Ihre Initiativbewerbung einfach per E-Mail an": "أرسل لنا طلبك المبادر عبر البريد الإلكتروني إلى",
   ". Schreiben Sie kurz dazu, welcher Bereich Sie interessiert und ab wann Sie verfügbar sind.": ". اذكر باختصار المجال الذي يهمك ومتى يمكنك البدء.",
   "Bereiche": "المجالات",

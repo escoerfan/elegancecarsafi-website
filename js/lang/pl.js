@@ -1229,7 +1229,7 @@
   "Reihe gebrauchter Koffer-LKW von MAN und Mercedes-Benz auf dem Hof der ECS GmbH in Gehrden": "Rząd używanych ciężarówek kontenerowych MAN i Mercedes-Benz na placu ECS GmbH w Gehrden",
   "Offene Stellen": "Oferty pracy",
   "Derzeit keine offenen Stellen – Initiativbewerbungen sind willkommen": "Obecnie brak wolnych stanowisk – aplikacje z własnej inicjatywy mile widziane",
-  "Im Moment haben wir keine Stellen ausgeschrieben. Gute Leute suchen wir trotzdem immer: Wer sich für Nutzfahrzeuge begeistert, anpacken kann und gern mit Kunden aus dem In- und Ausland zu tun hat, ist bei uns richtig.": "W tej chwili nie mamy ogłoszonych wolnych stanowisk. Mimo to zawsze szukamy dobrych ludzi: jeśli pasjonujesz się pojazdami użytkowymi, lubisz konkretną pracę i chętnie współpracujesz z klientami z kraju i zagranicy, pasujesz do nas.",
+  "Im Moment haben wir keine Stellen ausgeschrieben.": "W tej chwili nie mamy ogłoszonych wolnych stanowisk.",
   "Schicken Sie uns Ihre Initiativbewerbung einfach per E-Mail an": "Wyślij nam swoją aplikację z własnej inicjatywy e-mailem na adres",
   ". Schreiben Sie kurz dazu, welcher Bereich Sie interessiert und ab wann Sie verfügbar sind.": ". Napisz krótko, który obszar Cię interesuje i od kiedy jesteś dostępny.",
   "Bereiche": "Obszary",
