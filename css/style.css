@@ -2372,15 +2372,6 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 }
 
 /* ====================================================================
-   Karriere
-   ==================================================================== */
-.text-link { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-color: rgba(38, 38, 38, 0.35); transition: text-decoration-color 0.2s ease; }
-.text-link:hover { text-decoration-color: var(--ink); }
-.page-intro .text-link:focus-visible { outline-color: var(--ink); }
-.about__note { font-size: 15px; line-height: 1.6; color: var(--muted); }
-
-
-/* ====================================================================
    Blog: Galerie-Vorschau (Übersicht) und Beitragsseite
    Erzeugt von _tools/blog.py aus _blog/*.md
    ==================================================================== */

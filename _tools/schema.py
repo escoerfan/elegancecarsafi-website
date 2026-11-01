@@ -12,8 +12,6 @@
   sonst das og:image der Seite
 - Blog: blog.html als Blog (mit Liste der Beiträge), Beiträge (og:type article,
   erzeugt von _tools/blog.py) als BlogPosting unter Startseite > Blog
-- Karriere: bewusst kein JobPosting, solange keine Stelle ausgeschrieben ist
-  (Google erlaubt JobPosting nicht für reine Initiativbewerbungen)
 Keine Bewertungen (Review/AggregateRating), weil es keine belegten gibt.
 Der Fahrzeugbestand (Vehicle/Offer) kommt per JS: js/bestand-schema.js.
 
@@ -126,7 +124,7 @@ CRUMB = {
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
     'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
     'gebrauchte-nutzfahrzeuge': 'Was wir regelmäßig anbieten', 'nutzfahrzeug-ankauf': 'Was wir ankaufen',
-    'karriere': 'Karriere', 'blog': 'Blog',
+    'blog': 'Blog',
 }
 # Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
 PARENT = {k: 'unsere-arbeit' for k in (
