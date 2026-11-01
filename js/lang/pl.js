@@ -1296,5 +1296,11 @@
   "Weißer Volvo Reisebus mit geöffneter Tür": "Biały autokar Volvo z otwartymi drzwiami",
 
   /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "Białe ciężarówki z zabudową kontenerową w rzędzie na placu ECS GmbH w Gehrden"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "Białe ciężarówki z zabudową kontenerową w rzędzie na placu ECS GmbH w Gehrden",
+
+  /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
+  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Pojazdy użytkowe na co dzień: dlaczego bez ciężarówek i autobusów nic nie działa | ECS GmbH",
+
+  /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "Biała ciężarówka dystrybucyjna z zabudową kontenerową na placu ECS GmbH w Gehrden"
 };

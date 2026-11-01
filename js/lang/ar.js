@@ -1296,5 +1296,11 @@
   "Weißer Volvo Reisebus mit geöffneter Tür": "حافلة سياحية فولفو بيضاء بباب مفتوح",
 
   /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
-  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "شاحنات صندوقية بيضاء مصطفة في ساحة شركة ECS GmbH في غيردن"
+  "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "شاحنات صندوقية بيضاء مصطفة في ساحة شركة ECS GmbH في غيردن",
+
+  /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
+  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "المركبات التجارية في الحياة اليومية: لماذا لا يعمل شيء بدون الشاحنات والحافلات | ECS GmbH",
+
+  /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
+  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "شاحنة توزيع بيضاء بصندوق مغلق في ساحة شركة ECS GmbH في غيردن"
 };
