@@ -1664,6 +1664,55 @@ body .vw-section * {
 .page-intro + .about,
 .page-intro + .statement { padding-top: clamp(64px, 7vw, 100px); border-top: 1px solid var(--line-dark); }
 .page-intro + .vw-section { border-top: 1px solid var(--line-dark); }
+
+/* Ankauf: Deutschlandkarte im Globus-Look (dunkel, Länder mit Verlauf),
+   rechts Text. Karte: assets/img/deutschland-karte.svg, Pin per HTML. */
+.de-reach { padding-block: clamp(96px, 10vw, 140px); background: var(--bg-gradient); color: var(--text); }
+.de-reach__grid { display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1fr); gap: clamp(48px, 7vw, 112px); align-items: center; }
+.de-reach__map { position: relative; width: min(100%, 500px); justify-self: center; }
+.de-reach__map img { display: block; width: 100%; height: auto; }
+.de-reach__pin { position: absolute; width: 0; height: 0; }
+.de-reach__pin i {
+  position: absolute;
+  left: -7px;
+  top: -7px;
+  width: 14px;
+  height: 14px;
+  background: var(--white);
+  border: 3px solid #141514;
+  border-radius: 50%;
+}
+.de-reach__pin i::after {
+  content: "";
+  position: absolute;
+  inset: -10px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  animation: de-pulse 2.4s var(--ease) infinite;
+}
+.de-reach__pin b {
+  position: absolute;
+  left: 18px;
+  top: -16px;
+  padding: 6px 12px;
+  background: #141514;
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 400;
+  white-space: nowrap;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+@keyframes de-pulse { from { opacity: 1; transform: scale(0.4); } to { opacity: 0; transform: scale(1.6); } }
+.de-reach__lead { margin-top: 22px; font-size: 18px; line-height: 1.6; }
+.de-reach__list { display: grid; gap: 14px; margin: 32px 0 40px; padding: 0; list-style: none; }
+.de-reach__list li { display: flex; align-items: center; gap: 14px; font-size: 17px; color: var(--white); }
+.de-reach__list svg { flex: none; width: 28px; height: 28px; padding: 6px; border: 1px solid var(--line-strong); fill: none; stroke: currentColor; stroke-width: 2; }
+@media (max-width: 991px) {
+  .de-reach__grid { grid-template-columns: minmax(0, 1fr); }
+  .de-reach__map { width: min(100%, 420px); }
+}
+@media (prefers-reduced-motion: reduce) { .de-reach__pin i::after { animation: none; } }
+
 .page-intro + .process { padding-top: 0; }
 .page-intro + .process .process__body { border-top: 1px solid var(--line-dark); }
 

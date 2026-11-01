@@ -1198,5 +1198,12 @@
   "Bestätigung durch den Zoll": "Validación por la aduana",
   "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "La aduana comprueba el origen y valida el EUR.1 con un sello. El comprador recibe el original para la importación.",
   "Auf Anfrage übernehmen wir den Antrag für Sie.": "Si lo desea, nos encargamos de la solicitud.",
-  "EUR.1 anfragen": "Solicitar EUR.1"
+  "EUR.1 anfragen": "Solicitar EUR.1",
+  "Deutschlandkarte mit allen 16 Bundesländern und dem Firmensitz in Gehrden bei Hannover": "Mapa de Alemania con los 16 estados federados y nuestra sede en Gehrden, cerca de Hannover",
+  "Gehrden bei Hannover": "Gehrden, cerca de Hannover",
+  "Wir kaufen in ganz Deutschland an": "Compramos en toda Alemania",
+  "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Nuestro equipo de compras opera en los 16 estados federados. Tanto si su vehículo está en Hamburgo, Múnich, Berlín o en el campo: lo valoramos, le hacemos una oferta clara y lo recogemos.",
+  "Ankauf in allen 16 Bundesländern": "Compra en los 16 estados federados",
+  "Abholung direkt bei Ihnen": "Recogida en su ubicación",
+  "Sitz in Gehrden bei Hannover": "Sede en Gehrden, cerca de Hannover"
 };

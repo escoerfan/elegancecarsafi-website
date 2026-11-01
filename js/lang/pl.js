@@ -1198,5 +1198,12 @@
   "Bestätigung durch den Zoll": "Potwierdzenie przez urząd celny",
   "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Urząd celny sprawdza pochodzenie i potwierdza EUR.1 pieczęcią. Oryginał otrzymuje kupujący do odprawy przywozowej.",
   "Auf Anfrage übernehmen wir den Antrag für Sie.": "Na życzenie złożymy wniosek za Państwa.",
-  "EUR.1 anfragen": "Zapytaj o EUR.1"
+  "EUR.1 anfragen": "Zapytaj o EUR.1",
+  "Deutschlandkarte mit allen 16 Bundesländern und dem Firmensitz in Gehrden bei Hannover": "Mapa Niemiec ze wszystkimi 16 krajami związkowymi i siedzibą firmy w Gehrden koło Hanoweru",
+  "Gehrden bei Hannover": "Gehrden koło Hanoweru",
+  "Wir kaufen in ganz Deutschland an": "Skupujemy w całych Niemczech",
+  "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Nasz dział zakupów działa we wszystkich 16 krajach związkowych. Niezależnie od tego, czy pojazd stoi w Hamburgu, Monachium, Berlinie czy na wsi: wyceniamy go, składamy jasną ofertę i odbieramy go od Państwa.",
+  "Ankauf in allen 16 Bundesländern": "Skup we wszystkich 16 krajach związkowych",
+  "Abholung direkt bei Ihnen": "Odbiór bezpośrednio u Państwa",
+  "Sitz in Gehrden bei Hannover": "Siedziba w Gehrden koło Hanoweru"
 };

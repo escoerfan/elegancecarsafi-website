@@ -1212,5 +1212,12 @@
   "Bestätigung durch den Zoll": "Endorsement by customs",
   "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Customs checks the origin and endorses the EUR.1 with a stamp. The buyer receives the original for import.",
   "Auf Anfrage übernehmen wir den Antrag für Sie.": "On request, we handle the application for you.",
-  "EUR.1 anfragen": "Request EUR.1"
+  "EUR.1 anfragen": "Request EUR.1",
+  "Deutschlandkarte mit allen 16 Bundesländern und dem Firmensitz in Gehrden bei Hannover": "Map of Germany with all 16 federal states and our headquarters in Gehrden near Hanover",
+  "Gehrden bei Hannover": "Gehrden near Hanover",
+  "Wir kaufen in ganz Deutschland an": "We buy throughout Germany",
+  "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Our purchasing team operates in all 16 federal states. Whether your vehicle is in Hamburg, Munich, Berlin or in the countryside: we assess it, make you a clear offer and collect it from you.",
+  "Ankauf in allen 16 Bundesländern": "Purchasing in all 16 federal states",
+  "Abholung direkt bei Ihnen": "Collection right at your location",
+  "Sitz in Gehrden bei Hannover": "Based in Gehrden near Hanover"
 };

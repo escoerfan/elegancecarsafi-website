@@ -1198,5 +1198,12 @@
   "Bestätigung durch den Zoll": "Заверение таможней",
   "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "Таможня проверяет происхождение и заверяет EUR.1 печатью. Оригинал получает покупатель для ввоза.",
   "Auf Anfrage übernehmen wir den Antrag für Sie.": "По запросу мы возьмём оформление на себя.",
-  "EUR.1 anfragen": "Запросить EUR.1"
+  "EUR.1 anfragen": "Запросить EUR.1",
+  "Deutschlandkarte mit allen 16 Bundesländern und dem Firmensitz in Gehrden bei Hannover": "Карта Германии со всеми 16 федеральными землями и офисом компании в Герден под Ганновером",
+  "Gehrden bei Hannover": "Герден под Ганновером",
+  "Wir kaufen in ganz Deutschland an": "Мы покупаем по всей Германии",
+  "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Наш отдел закупок работает во всех 16 федеральных землях. Где бы ни находился ваш автомобиль – в Гамбурге, Мюнхене, Берлине или в сельской местности: мы оценим его, сделаем чёткое предложение и заберём его у вас.",
+  "Ankauf in allen 16 Bundesländern": "Выкуп во всех 16 федеральных землях",
+  "Abholung direkt bei Ihnen": "Самовывоз прямо от вас",
+  "Sitz in Gehrden bei Hannover": "Офис в Герден под Ганновером"
 };

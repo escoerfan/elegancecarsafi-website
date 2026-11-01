@@ -1198,5 +1198,12 @@
   "Bestätigung durch den Zoll": "مصادقة الجمارك",
   "Der Zoll prüft den Ursprung und bestätigt die EUR.1 mit Stempel. Das Original erhält der Käufer für die Einfuhr.": "تتحقق الجمارك من المنشأ وتصادق على EUR.1 بختم. يحصل المشتري على الأصل لإجراءات الاستيراد.",
   "Auf Anfrage übernehmen wir den Antrag für Sie.": "عند الطلب نتولى تقديم الطلب عنكم.",
-  "EUR.1 anfragen": "طلب شهادة EUR.1"
+  "EUR.1 anfragen": "طلب شهادة EUR.1",
+  "Deutschlandkarte mit allen 16 Bundesländern und dem Firmensitz in Gehrden bei Hannover": "خريطة ألمانيا بجميع الولايات الاتحادية الست عشرة ومقر الشركة في غيردن قرب هانوفر",
+  "Gehrden bei Hannover": "غيردن قرب هانوفر",
+  "Wir kaufen in ganz Deutschland an": "نشتري في جميع أنحاء ألمانيا",
+  "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, München, Berlin oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "فريق الشراء لدينا يعمل في جميع الولايات الاتحادية الست عشرة. سواء كانت مركبتكم في هامبورغ أو ميونخ أو برلين أو في الريف: نقيّمها ونقدم لكم عرضاً واضحاً ونستلمها من عندكم.",
+  "Ankauf in allen 16 Bundesländern": "الشراء في جميع الولايات الست عشرة",
+  "Abholung direkt bei Ihnen": "الاستلام مباشرة من موقعكم",
+  "Sitz in Gehrden bei Hannover": "المقر في غيردن قرب هانوفر"
 };
