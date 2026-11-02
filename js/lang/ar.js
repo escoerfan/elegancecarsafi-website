@@ -1253,5 +1253,9 @@
 
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
   "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS GmbH",
-  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "شاحنة جرّ Mercedes-Benz Actros بيضاء بكابينة عالية في موقف سيارات"
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "شاحنة جرّ Mercedes-Benz Actros بيضاء بكابينة عالية في موقف سيارات",
+
+  /* ---- Blog: Mercedes Atego ---- */
+  "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "مرسيدس أتيغو: الأجيال والطرازات ورسوم الطرق | ECS GmbH",
+  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "شاحنة مرسيدس-بنز أتيغو قلابة حمراء في الثلج على ساحة مرصوفة"
 };
