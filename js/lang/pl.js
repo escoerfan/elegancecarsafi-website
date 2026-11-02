@@ -1257,5 +1257,9 @@
 
   /* ---- Blog: Mercedes Atego ---- */
   "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "Mercedes Atego: generacje, typy i opłaty drogowe | ECS GmbH",
-  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Czerwony Mercedes-Benz Atego z zabudową wywrotki w śniegu na brukowanym placu"
+  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Czerwony Mercedes-Benz Atego z zabudową wywrotki w śniegu na brukowanym placu",
+
+  /* ---- Blog: MAN 12-Tonner ---- */
+  "MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH": "MAN 12-tonowy: TGL i TGM w skrócie | ECS GmbH",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "Biały 12-tonowy MAN TGL z zabudową kontenerową widziany z przodu na placu"
 };

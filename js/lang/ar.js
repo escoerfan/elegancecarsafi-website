@@ -1257,5 +1257,9 @@
 
   /* ---- Blog: Mercedes Atego ---- */
   "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "مرسيدس أتيغو: الأجيال والطرازات ورسوم الطرق | ECS GmbH",
-  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "شاحنة مرسيدس-بنز أتيغو قلابة حمراء في الثلج على ساحة مرصوفة"
+  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "شاحنة مرسيدس-بنز أتيغو قلابة حمراء في الثلج على ساحة مرصوفة",
+
+  /* ---- Blog: MAN 12-Tonner ---- */
+  "MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH": "شاحنة مان 12 طن: TGL و TGM في لمحة | ECS GmbH",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "شاحنة مان TGL بيضاء بوزن 12 طن مع صندوق مغلق من الأمام في ساحة"
 };

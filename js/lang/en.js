@@ -1271,5 +1271,9 @@
 
   /* ---- Blog: Mercedes Atego ---- */
   "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "Mercedes Atego: Generations, Models and Toll | ECS GmbH",
-  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Red Mercedes-Benz Atego tipper in the snow on a paved yard"
+  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Red Mercedes-Benz Atego tipper in the snow on a paved yard",
+
+  /* ---- Blog: MAN 12-Tonner ---- */
+  "MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH": "MAN 12-tonne truck: TGL and TGM at a glance | ECS GmbH",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "White MAN TGL 12-tonne box truck seen from the front on a yard"
 };
