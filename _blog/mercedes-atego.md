@@ -1,6 +1,6 @@
 ---
 titel: Mercedes-Benz Atego: Generationen und Typen im Überblick
-seitentitel: Mercedes Atego: Generationen, Typen und Maut | ECS GmbH
+seitentitel: Mercedes Atego: Generationen, Typen und Maut | ECS Exclusive Commerce Services GmbH
 beschreibung: Atego 818, 1224 oder 1530? Was die Zahlen bedeuten, wie sich die Generationen seit 1998 unterscheiden und warum 7,49 Tonnen so oft im Fahrzeugschein stehen.
 datum: 2026-11-02
 zeit: 12:00

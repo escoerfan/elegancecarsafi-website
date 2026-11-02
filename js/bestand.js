@@ -919,7 +919,7 @@
     var desc = cleanText(v.description);
     var pageUrl = window.location.href;
 
-    document.title = title + ' | Elegance Car Safi';
+    document.title = title + ' | ECS Exclusive Commerce Services GmbH';
     if (titleEl) titleEl.textContent = title;
     if (catEl) catEl.textContent = cat;
 

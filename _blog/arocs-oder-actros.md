@@ -1,6 +1,6 @@
 ---
 titel: Arocs oder Actros? Die Unterschiede im Überblick
-seitentitel: Arocs oder Actros: Was ist der Unterschied? | ECS GmbH
+seitentitel: Arocs oder Actros: Was ist der Unterschied? | ECS Exclusive Commerce Services GmbH
 beschreibung: Arocs und Actros sehen sich ähnlich, sind aber für ganz andere Aufgaben gebaut. Wie Sie die beiden unterscheiden und was das beim Verkauf bedeutet.
 datum: 2026-11-02
 zeit: 18:00

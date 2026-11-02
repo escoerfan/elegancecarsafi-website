@@ -1,6 +1,6 @@
 ---
 titel: Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft
-seitentitel: Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH
+seitentitel: Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS Exclusive Commerce Services GmbH
 beschreibung: Vom Frühstück bis zum Linienbus: Wie oft Sie jeden Tag Nutzfahrzeugen begegnen und warum LKW, Busse und Baufahrzeuge das Rückgrat der Wirtschaft sind.
 datum: 2026-11-01
 kategorie: Wissen

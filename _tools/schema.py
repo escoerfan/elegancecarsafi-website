@@ -258,7 +258,7 @@ def build(path):
             graph[-1]['articleSection'] = meta(head, 'property', 'article:section')
     if slug == 'blog':
         posts = re.findall(r'<a class="blog-card__link" href="(blog-[a-z0-9-]+)"', body)
-        graph.append({'@type': 'Blog', '@id': url + '#blog', 'url': url, 'name': 'Blog der ECS GmbH',
+        graph.append({'@type': 'Blog', '@id': url + '#blog', 'url': url, 'name': 'Blog der ECS Exclusive Commerce Services GmbH',
                       'description': desc, 'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID},
                       'blogPost': [{'@id': BASE + p + '#article'} for p in posts]})
 

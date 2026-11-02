@@ -1,6 +1,6 @@
 ---
 titel: Actros MP1 bis MP5: Die Generationen im Überblick
-seitentitel: Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH
+seitentitel: Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH
 beschreibung: Actros MP1, MP2, MP3, MP4 oder MP5? Woran Sie die Generation erkennen, was sie unterscheidet und worauf es beim Verkauf eines gebrauchten Actros ankommt.
 datum: 2026-11-01
 zeit: 20:00

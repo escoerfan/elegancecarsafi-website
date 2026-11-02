@@ -7,14 +7,13 @@
   "Elegance Car Safi | ECS GmbH – Nutzfahrzeughandel": "Elegance Car Safi | ECS GmbH – Commercial Vehicle Trading",
   "Über uns | Elegance Car Safi": "About us | Elegance Car Safi",
   "Fahrzeuge im Bestand | Elegance Car Safi": "Vehicles in stock | Elegance Car Safi",
-  "Fahrzeug | Elegance Car Safi": "Vehicle | Elegance Car Safi",
+  "Fahrzeug | ECS Exclusive Commerce Services GmbH": "Vehicle | ECS Exclusive Commerce Services GmbH",
   "Unsere Arbeit | Elegance Car Safi": "Our work | Elegance Car Safi",
   "Export | Elegance Car Safi": "Export | Elegance Car Safi",
   "Kontakt | Elegance Car Safi": "Contact | Elegance Car Safi",
   "FAQ | Elegance Car Safi": "FAQ | Elegance Car Safi",
-  "Impressum | ECS GmbH – Nutzfahrzeughandel": "Legal notice | ECS GmbH – Commercial Vehicle Trading",
-  "Datenschutz | ECS GmbH – Nutzfahrzeughandel": "Privacy | ECS GmbH – Commercial Vehicle Trading",
-
+  "Impressum | ECS Exclusive Commerce Services GmbH": "Legal notice | ECS Exclusive Commerce Services GmbH",
+  "Datenschutz | ECS Exclusive Commerce Services GmbH": "Privacy | ECS Exclusive Commerce Services GmbH",
   /* ---- Kopfzeile / Navigation ---- */
   "Elegance Car Safi – Startseite": "Elegance Car Safi – Home",
   "Logo der ECS GmbH – Elegance Car Safi": "Logo of ECS GmbH – Elegance Car Safi",
@@ -268,7 +267,7 @@
   "Quelle Bilder: Unsplash+": "Image source: Unsplash+",
 
   /* ---- 404-Seite ---- */
-  "Seite nicht gefunden (404) | Elegance Car Safi": "Page not found (404) | Elegance Car Safi",
+  "Seite nicht gefunden (404) | ECS Exclusive Commerce Services GmbH": "Page not found (404) | ECS Exclusive Commerce Services GmbH",
   "Fehler 404": "Error 404",
   "Seite nicht gefunden.": "Page not found.",
   "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "The page you requested does not exist or is no longer available. One of these pages may help you.",
@@ -283,8 +282,8 @@
   "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "Buy used commercial vehicles: stock | ECS GmbH",
   "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "How we work: buying, selling, export | ECS GmbH",
   "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "Commercial vehicle export incl. customs | ECS GmbH",
-  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "Contact: offer or request a vehicle | ECS GmbH",
-  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "FAQ on selling commercial vehicles and export | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS Exclusive Commerce Services GmbH": "Contact: offer or request a vehicle | ECS Exclusive Commerce Services GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS Exclusive Commerce Services GmbH": "FAQ on selling commercial vehicles and export | ECS Exclusive Commerce Services GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "buying and selling commercial vehicles",
   "Gebrauchte Nutzfahrzeuge im Bestand": "Used commercial vehicles in stock",
 
@@ -432,7 +431,7 @@
   "Im Bestand sehen Sie bei jedem Fahrzeug mit Preisangabe den Nettopreis und den Bruttopreis inklusive 19 % Mehrwertsteuer.": "In our stock you will see the net price and the gross price including 19 % VAT for every vehicle with a price.",
   "Weiterlesen": "Read more",
   "Ankauf nach Fahrzeugart": "Selling by vehicle type",
-  "Fuhrpark verkaufen: Firmenfahrzeuge im Paket | ECS GmbH": "Sell your fleet: company vehicles as a package | ECS GmbH",
+  "Fuhrpark verkaufen: Firmenfahrzeuge im Paket | ECS Exclusive Commerce Services GmbH": "Sell your fleet: company vehicles as a package | ECS Exclusive Commerce Services GmbH",
   "Ankauf Fuhrpark": "Buying fleets",
   "Sie möchten mehrere Firmenfahrzeuge oder einen ganzen Fuhrpark abgeben? Wir übernehmen Flotten in einem Paket – mit einer Bewertung für alle Fahrzeuge, einem Vertrag und einer Abholung nach Ihrem Zeitplan.": "Do you want to sell several company vehicles or an entire fleet? We take over fleets as one package – with one valuation for all vehicles, one contract and collection according to your schedule.",
   "Für Unternehmen": "For companies",
@@ -645,7 +644,7 @@
   "In den meisten Fällen noch am selben Tag, sobald uns die wichtigsten Daten und einige Fotos vorliegen.": "In most cases on the same day, as soon as we have the key details and a few photos.",
   "Muss ich den Transporter selbst bringen?": "Do I have to bring the van myself?",
   "Nein. Unsere eigenen Fahrer holen ihn an Ihrem Standort ab.": "No. Our own drivers collect it from your location.",
-  "Ablauf: So verkaufen Sie Ihr Nutzfahrzeug | ECS GmbH": "Process: how to sell your commercial vehicle | ECS GmbH",
+  "Ablauf: So verkaufen Sie Ihr Nutzfahrzeug | ECS Exclusive Commerce Services GmbH": "Process: how to sell your commercial vehicle | ECS Exclusive Commerce Services GmbH",
   "So verkaufen Sie": "How to sell",
   "Ihr Nutzfahrzeug.": "your commercial vehicle.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "Five steps from the first call to collection – for single vehicles just as for entire fleets. You have a dedicated contact throughout.",
@@ -791,14 +790,14 @@
   "Halten Sie Zulassungsbescheinigung Teil I und II, alle Schlüssel und die Prüfberichte bereit. Melden Sie vor der Übergabe das Maut-Gerät ab, lesen Sie den Fahrtenschreiber aus und sperren Sie Tankkarten und Telematik. Die ausführliche Checkliste finden Sie weiter oben auf dieser Seite.": "Have the registration certificate parts I and II, all keys and the inspection reports ready. Before handover, deregister the toll device, download the tachograph data and block fuel cards and telematics. You will find the detailed checklist further up on this page.",
   "Kaufen Sie LKW auch für den Export an?": "Do you also buy trucks for export?",
   "Ja. Wir kaufen, verkaufen und exportieren gewerbliche Fahrzeuge – auch nach Europa, Asien und Afrika. Für Sie ändert sich dadurch nichts: Sie verkaufen an uns in Deutschland, um Ausfuhrpapiere, Verzollung und Transport kümmern wir uns.": "Yes. We buy, sell and export commercial vehicles – including to Europe, Asia and Africa. Nothing changes for you: you sell to us in Germany, and we take care of export documents, customs clearance and transport.",
-  "Reisebus verkaufen: Bus Ankauf bei Hannover | ECS GmbH": "Sell a coach – bus buying near Hanover | ECS GmbH",
+  "Reisebus verkaufen: Bus Ankauf bei Hannover | ECS Exclusive Commerce Services GmbH": "Sell a coach – bus buying near Hanover | ECS Exclusive Commerce Services GmbH",
   "Bus Ankauf": "Bus buying",
   "Unser Bus Ankauf sitzt in Gehrden bei Hannover. Wir kaufen Reisebusse in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Ob Sie einen einzelnen Bus abgeben oder Ihre Flotte verkleinern: Wir übernehmen Einzelfahrzeuge genauso wie mehrere Reisebusse auf einmal.": "Our bus buying is based in Gehrden near Hanover. We buy coaches throughout Germany, in Austria, Switzerland and the Czech Republic. Whether you are selling a single bus or reducing your fleet: we take over single vehicles just as we take several coaches at once.",
   "Kaufen Sie Busse auch für den Export an?": "Do you also buy buses for export?",
-  "Linienbus verkaufen: Bus Ankauf für Verkehrsbetriebe | ECS GmbH": "Sell a city bus – bus buying for transport operators | ECS GmbH",
+  "Linienbus verkaufen: Bus Ankauf für Verkehrsbetriebe | ECS Exclusive Commerce Services GmbH": "Sell a city bus – bus buying for transport operators | ECS Exclusive Commerce Services GmbH",
   "Linienbus Ankauf": "City bus buying",
   "Ansprechpartner sind für uns Verkehrsbetriebe, private Busunternehmen im Auftrag der öffentlichen Hand und Unternehmen mit eigenem Werksverkehr. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "We work with public transport operators, private bus companies operating on behalf of public authorities and companies with their own staff transport. From Gehrden near Hanover we buy throughout Germany, in Austria, Switzerland and the Czech Republic.",
-  "Transporter Ankauf: Sprinter, Crafter, Transit | ECS GmbH": "Van buying: Sprinter, Crafter, Transit | ECS GmbH",
+  "Transporter Ankauf: Sprinter, Crafter, Transit | ECS Exclusive Commerce Services GmbH": "Van buying: Sprinter, Crafter, Transit | ECS Exclusive Commerce Services GmbH",
   "Transporter Ankauf": "Van buying",
   "Unser Transporter Ankauf sitzt in Gehrden bei Hannover. Wir kaufen in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Bei mehreren Transportern bewerten wir gern alle Fahrzeuge zusammen.": "Our van buying is based in Gehrden near Hanover. We buy throughout Germany, in Austria, Switzerland and the Czech Republic. With several vans we are happy to value all vehicles together.",
   "Kaufen Sie auch einen Mercedes Sprinter an?": "Do you also buy a Mercedes Sprinter?",
@@ -821,11 +820,11 @@
   "Weißer Mercedes-Benz Actros im Abendlicht": "White Mercedes-Benz Actros in the evening light",
 
   /* ---- Keyword-Runde 25.10.2026 ---- */
-  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "Commercial vehicle export: bus & truck export | ECS GmbH",
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS Exclusive Commerce Services GmbH": "Commercial vehicle export: bus & truck export | ECS Exclusive Commerce Services GmbH",
   "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "We deliver throughout Europe including Eastern Europe, to the Middle East, Asia and Africa as well as other international markets. If you buy a vehicle from our stock, you get the vehicle, export papers and transport from a single source.",
-  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "Used commercial vehicles for sale: buses, trucks, Sprinter | ECS GmbH",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS Exclusive Commerce Services GmbH": "Used commercial vehicles for sale: buses, trucks, Sprinter | ECS Exclusive Commerce Services GmbH",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "As a commercial vehicle dealer from Gehrden near Hanover, we sell used coaches, city buses, trucks, tractor units and vans, also for export. Call us today. Our team will be happy to help you find the right vehicle or sell your current fleet. We also accept your vehicle as a trade-in.",
-  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | Commercial vehicle trading, buying & export near Hanover",
+  "ECS Exclusive Commerce Services GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS Exclusive Commerce Services GmbH | Commercial vehicle trading, buying & export near Hanover",
   "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "We are based in Gehrden in the Hanover region, Lower Saxony. From here we work with over 250 partners and handle commercial vehicle trading, import and export throughout Europe and beyond.",
 
   /* ---- Ablauf-Fotos ---- */
@@ -858,7 +857,7 @@
   "mobile.de Bewertung": "mobile.de review",
 
   /* ---- Export EU und Export Drittland ---- */
-  "Nutzfahrzeug Export EU: Unterlagen & Ablauf | ECS GmbH Hannover": "Commercial vehicle export to the EU: documents & process | ECS GmbH Hanover",
+  "Nutzfahrzeug Export EU: Unterlagen & Ablauf | ECS Exclusive Commerce Services GmbH Hannover": "Commercial vehicle export to the EU: documents & process | ECS Exclusive Commerce Services GmbH Hanover",
   "Export im Überblick": "Export overview",
   "Export in die EU": "Export to the EU",
   "Export in Drittländer": "Export to non-EU countries",
@@ -915,7 +914,7 @@
   "Was passiert, wenn Unterlagen fehlen?": "What happens if documents are missing?",
   "Fehlen Nachweise über die Unternehmereigenschaft oder die Vertretungsbefugnis, erheben wir eine Kaution. Sie wird erstattet, sobald Sie die Unterlagen nachreichen.": "If proof of business status or of the authority to represent is missing, we charge a deposit. It is refunded as soon as you submit the documents.",
   "Weitere Seiten zum Export": "More pages about export",
-  "Nutzfahrzeug Export Drittland: Ausfuhr & Zoll | ECS GmbH Hannover": "Commercial vehicle export to non-EU countries: export & customs | ECS GmbH Hanover",
+  "Nutzfahrzeug Export Drittland: Ausfuhr & Zoll | ECS Exclusive Commerce Services GmbH Hannover": "Commercial vehicle export to non-EU countries: export & customs | ECS Exclusive Commerce Services GmbH Hanover",
   "Export Drittland": "Export non-EU",
   "Nutzfahrzeug Export in Drittländer": "Commercial vehicle export to non-EU countries",
   "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt Ausfuhrpapiere und Zollabwicklung in Deutschland, von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "Is your bus, truck or van going to a country outside the EU? ECS Exclusive Commerce Services GmbH in Gehrden near Hanover handles export papers and customs clearance in Germany, from the export declaration to the exit endorsement.",
@@ -970,7 +969,7 @@
   "Fahrzeugtypen": "Vehicle types",
   "Aktuellen Bestand ansehen": "View current stock",
   "Mercedes-Benz Actros": "Mercedes-Benz Actros",
-  "Gebrauchte LKW, Busse und Transporter kaufen | ECS GmbH": "Buy used trucks, buses and vans | ECS GmbH",
+  "Gebrauchte LKW, Busse und Transporter kaufen | ECS Exclusive Commerce Services GmbH": "Buy used trucks, buses and vans | ECS Exclusive Commerce Services GmbH",
   "Regelmäßig im Angebot": "Regularly on offer",
   "Gebrauchte LKW, Busse und Transporter": "Used trucks, buses and vans",
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses and wheel loaders: these are the vehicles we sell again and again. What is currently on our yard in Gehrden near Hanover is shown in our current stock.",
@@ -999,7 +998,7 @@
   "Kann ich mein altes Fahrzeug in Zahlung geben?": "Can I trade in my old vehicle?",
   "Ja, eine Inzahlungnahme ist möglich. Wir bewerten Ihr Fahrzeug und verrechnen den Wert mit dem Kaufpreis.": "Yes, a trade-in is possible. We value your vehicle and offset its value against the purchase price.",
   "Weitere Seiten zu unseren Fahrzeugen": "More pages about our vehicles",
-  "Nutzfahrzeug Ankauf: LKW, Busse, Baumaschinen | ECS GmbH": "Commercial vehicle purchase: trucks, buses, construction machinery | ECS GmbH",
+  "Nutzfahrzeug Ankauf: LKW, Busse, Baumaschinen | ECS Exclusive Commerce Services GmbH": "Commercial vehicle purchase: trucks, buses, construction machinery | ECS Exclusive Commerce Services GmbH",
   "Nutzfahrzeug Ankauf": "Commercial vehicle purchase",
   "Wir kaufen Nutzfahrzeuge an": "We buy commercial vehicles",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an. Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "Trucks, buses, vans, concrete mixers, concrete pumps, construction machinery or an entire fleet: ECS GmbH from Gehrden near Hanover buys used commercial vehicles. We assess, make a clear offer and collect the vehicle.",
@@ -1223,7 +1222,7 @@
   "Blog": "Blog",
   "Bereiche": "Areas",
   "An": "To",
-  "Blog der ECS GmbH | Ratgeber Nutzfahrzeuge: Ankauf, Verkauf, Export": "ECS GmbH Blog | Commercial vehicle guide: buying, selling, export",
+  "Blog der ECS Exclusive Commerce Services GmbH | Ratgeber Nutzfahrzeuge: Ankauf, Verkauf, Export": "ECS Exclusive Commerce Services GmbH Blog | Commercial vehicle guide: buying, selling, export",
   "Blog rund um Nutzfahrzeuge": "Blog about commercial vehicles",
   "Wissen zu Ankauf, Verkauf und Export von Nutzfahrzeugen.": "Know-how on buying, selling and exporting commercial vehicles.",
   "Hier schreiben wir über das, was uns jeden Tag beschäftigt: worauf es beim Verkauf eines LKW oder Busses ankommt, wie ein Export in die EU oder in Drittländer abläuft und was sich im Nutzfahrzeughandel tut – aus über 30 Jahren Erfahrung.": "Here we write about what keeps us busy every day: what matters when selling a truck or bus, how an export to the EU or to non-EU countries works and what is happening in commercial vehicle trading – based on more than 30 years of experience.",
@@ -1251,8 +1250,7 @@
   "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "White box trucks lined up in the yard of ECS GmbH in Gehrden",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "Commercial vehicles in everyday life: why nothing runs without trucks and buses | ECS GmbH",
-
+  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS Exclusive Commerce Services GmbH": "Commercial vehicles in everyday life: why nothing runs without trucks and buses | ECS Exclusive Commerce Services GmbH",
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
   "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "White box-body distribution truck in the yard of ECS GmbH in Gehrden",
 
@@ -1266,33 +1264,33 @@
   "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Red Mercedes-Benz Antos from the front in the ECS GmbH yard, more trucks behind it",
 
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
-  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros MP1 to MP5: Model Years and Differences | ECS GmbH",
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros MP1 to MP5: Model Years and Differences | ECS Exclusive Commerce Services GmbH",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "White Mercedes-Benz Actros tractor unit with a high cab in a car park",
 
   /* ---- Blog: Mercedes Atego ---- */
-  "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "Mercedes Atego: Generations, Models and Toll | ECS GmbH",
+  "Mercedes Atego: Generationen, Typen und Maut | ECS Exclusive Commerce Services GmbH": "Mercedes Atego: Generations, Models and Toll | ECS Exclusive Commerce Services GmbH",
   "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Red Mercedes-Benz Atego tipper in the snow on a paved yard",
 
   /* ---- Blog: MAN 12-Tonner ---- */
-  "MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH": "MAN 12-tonne truck: TGL and TGM at a glance | ECS GmbH",
+  "MAN 12-Tonner: TGL und TGM im Überblick | ECS Exclusive Commerce Services GmbH": "MAN 12-tonne truck: TGL and TGM at a glance | ECS Exclusive Commerce Services GmbH",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "White MAN TGL 12-tonne box truck seen from the front on a yard",
 
   /* ---- SEO Verkäufer-Begriffe 02.11. ---- */
-  "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS GmbH": "Truck buying near Hanover: sell your truck, also for export | ECS GmbH",
+  "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS Exclusive Commerce Services GmbH": "Truck buying near Hanover: sell your truck, also for export | ECS Exclusive Commerce Services GmbH",
   "Unser LKW Ankauf sitzt in Gehrden bei Hannover. Von hier aus kaufen wir LKW in Hannover, in ganz Niedersachsen und deutschlandweit an, von Hamburg und Bremen über NRW bis Bayern und Berlin, außerdem in Österreich, der Schweiz und Tschechien – vom einzelnen Fahrzeug bis zur kompletten Flotte einer Spedition. Weil wir selbst exportieren, kaufen wir auch LKW für den Export an.": "Our truck buying is based in Gehrden near Hanover. From here we buy trucks in Hanover, throughout Lower Saxony and all over Germany, from Hamburg and Bremen via North Rhine-Westphalia to Bavaria and Berlin, as well as in Austria, Switzerland and the Czech Republic – from a single vehicle to the complete fleet of a haulage company. Because we export ourselves, we also buy trucks for export.",
   "Unser Transporter Ankauf sitzt in Gehrden bei Hannover. Wir kaufen in ganz Deutschland an, von Hamburg und Berlin bis NRW und Bayern, außerdem in Österreich, der Schweiz und Tschechien. Auch Transporter für den Export kaufen wir an. Bei mehreren Transportern bewerten wir gern alle Fahrzeuge zusammen.": "Our van buying is based in Gehrden near Hanover. We buy throughout Germany, from Hamburg and Berlin to North Rhine-Westphalia and Bavaria, as well as in Austria, Switzerland and the Czech Republic. We also buy vans for export. With several vans we are happy to value all vehicles together.",
-  "Baumaschinen & Kommunalfahrzeuge Ankauf: Kipper, Unimog | ECS GmbH": "Buying construction machinery & municipal vehicles: tippers, Unimog | ECS GmbH",
+  "Baumaschinen & Kommunalfahrzeuge Ankauf: Kipper, Unimog | ECS Exclusive Commerce Services GmbH": "Buying construction machinery & municipal vehicles: tippers, Unimog | ECS Exclusive Commerce Services GmbH",
   "Aus dem Baubereich kaufen wir unter anderem Kipper und Dreiseitenkipper, Betonmischer, Abrollkipper, Absetzkipper, LKW mit Ladekran und Tieflader-Zugmaschinen an. Auch Baumaschinen wie Bagger und Radlader kaufen wir an, auch für den Export.": "From the construction sector we buy, among others, tippers and three-way tippers, concrete mixers, hook-lift trucks, skip loaders, trucks with loader cranes and low-loader tractor units. We also buy construction machinery such as excavators and wheel loaders, including for export.",
   "Unser Bus Ankauf sitzt in Gehrden bei Hannover. Wir kaufen Reisebusse und Omnibusse in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Ob Sie einen einzelnen Bus abgeben oder Ihre Flotte verkleinern: Wir übernehmen Einzelfahrzeuge genauso wie mehrere Reisebusse auf einmal. Auch wenn Sie Ihr Busunternehmen aufgeben, kaufen wir alle Busse in einem Paket an.": "Our bus buying is based in Gehrden near Hanover. We buy coaches and omnibuses throughout Germany, in Austria, Switzerland and the Czech Republic. Whether you are selling a single bus or reducing your fleet: we take over single vehicles just as we take several coaches at once. Even if you are closing down your bus company, we buy all buses in one package.",
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, Berlin, NRW, Stuttgart, München oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "Our purchasing team operates in all 16 federal states. Whether your vehicle is in Hamburg, Berlin, North Rhine-Westphalia, Stuttgart, Munich or in the countryside: we assess it, make you a clear offer and collect it from you.",
 
   /* ---- Blog: Arocs oder Actros, Mercedes Antos ---- */
-  "Arocs oder Actros: Was ist der Unterschied? | ECS GmbH": "Arocs or Actros: What Is the Difference? | ECS GmbH",
+  "Arocs oder Actros: Was ist der Unterschied? | ECS Exclusive Commerce Services GmbH": "Arocs or Actros: What Is the Difference? | ECS Exclusive Commerce Services GmbH",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen auf einer Straße im Gewerbegebiet": "Green three-axle Mercedes-Benz Arocs tractor unit on a road in an industrial area",
-  "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS GmbH": "Mercedes Antos: Models, Cabs, Differences | ECS GmbH",
+  "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS Exclusive Commerce Services GmbH": "Mercedes Antos: Models, Cabs, Differences | ECS Exclusive Commerce Services GmbH",
   "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "Red Mercedes-Benz Antos seen from the front on a gravel yard, with more trucks behind it",
 
   /* ---- Blog: Volvo Sattelzugmaschinen ---- */
-  "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS GmbH": "Volvo Tractor Units: FH, FH16, FM and Generations | ECS GmbH",
+  "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH": "Volvo Tractor Units: FH, FH16, FM and Generations | ECS Exclusive Commerce Services GmbH",
   "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "White Volvo FH tractor unit with a high cab on a road in an industrial area"
 };

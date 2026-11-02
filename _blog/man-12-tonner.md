@@ -1,6 +1,6 @@
 ---
 titel: MAN 12-Tonner: TGL oder TGM? Typen und Generationen
-seitentitel: MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH
+seitentitel: MAN 12-Tonner: TGL und TGM im Überblick | ECS Exclusive Commerce Services GmbH
 beschreibung: MAN TGL 12.250 oder TGM 12.290? Was die Typenbezeichnung verrät, wie sich TGL und TGM unterscheiden und warum so viele 12-Tonner auf 11,99 t zugelassen sind.
 datum: 2026-11-02
 zeit: 14:00

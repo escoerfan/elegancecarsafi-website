@@ -1,6 +1,6 @@
 ---
 titel: Mercedes-Benz Antos: Der schwere Verteiler im Überblick
-seitentitel: Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS GmbH
+seitentitel: Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS Exclusive Commerce Services GmbH
 beschreibung: Was ist ein Antos, und was unterscheidet ihn von Atego und Actros? Typen, Fahrerhäuser und Varianten des schweren Verteilers von Mercedes-Benz erklärt.
 datum: 2026-11-02
 zeit: 19:00

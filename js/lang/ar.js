@@ -6,14 +6,13 @@
   "Elegance Car Safi | ECS GmbH – Nutzfahrzeughandel": "Elegance Car Safi | ECS GmbH – تجارة المركبات التجارية",
   "Über uns | Elegance Car Safi": "من نحن | Elegance Car Safi",
   "Fahrzeuge im Bestand | Elegance Car Safi": "المركبات المتوفرة | Elegance Car Safi",
-  "Fahrzeug | Elegance Car Safi": "مركبة | Elegance Car Safi",
+  "Fahrzeug | ECS Exclusive Commerce Services GmbH": "مركبة | ECS Exclusive Commerce Services GmbH",
   "Unsere Arbeit | Elegance Car Safi": "طريقة عملنا | Elegance Car Safi",
   "Export | Elegance Car Safi": "التصدير | Elegance Car Safi",
   "Kontakt | Elegance Car Safi": "اتصل بنا | Elegance Car Safi",
   "FAQ | Elegance Car Safi": "الأسئلة الشائعة | Elegance Car Safi",
-  "Impressum | ECS GmbH – Nutzfahrzeughandel": "البيانات القانونية | ECS GmbH – تجارة المركبات التجارية",
-  "Datenschutz | ECS GmbH – Nutzfahrzeughandel": "الخصوصية | ECS GmbH – تجارة المركبات التجارية",
-
+  "Impressum | ECS Exclusive Commerce Services GmbH": "البيانات القانونية | ECS Exclusive Commerce Services GmbH",
+  "Datenschutz | ECS Exclusive Commerce Services GmbH": "الخصوصية | ECS Exclusive Commerce Services GmbH",
   "Elegance Car Safi – Startseite": "Elegance Car Safi – الصفحة الرئيسية",
   "Logo der ECS GmbH – Elegance Car Safi": "شعار ECS GmbH – Elegance Car Safi",
   "Über uns": "من نحن",
@@ -254,7 +253,7 @@
   "Quelle Bilder: Unsplash+": "مصدر الصور: Unsplash+",
 
   /* ---- 404-Seite ---- */
-  "Seite nicht gefunden (404) | Elegance Car Safi": "الصفحة غير موجودة (404) | Elegance Car Safi",
+  "Seite nicht gefunden (404) | ECS Exclusive Commerce Services GmbH": "الصفحة غير موجودة (404) | ECS Exclusive Commerce Services GmbH",
   "Fehler 404": "خطأ 404",
   "Seite nicht gefunden.": "الصفحة غير موجودة.",
   "Die aufgerufene Seite gibt es nicht oder nicht mehr. Vielleicht hilft Ihnen eine dieser Seiten weiter.": "الصفحة المطلوبة غير موجودة أو لم تعد متاحة. ربما تساعدك إحدى هذه الصفحات.",
@@ -269,8 +268,8 @@
   "Gebrauchte Nutzfahrzeuge kaufen: Bestand | ECS GmbH": "شراء مركبات تجارية مستعملة: المتوفر | ECS GmbH",
   "So arbeiten wir: Ankauf, Verkauf, Export | ECS GmbH": "كيف نعمل: الشراء والبيع والتصدير | ECS GmbH",
   "Nutzfahrzeug Export inkl. Verzollung | ECS GmbH": "تصدير المركبات التجارية مع التخليص الجمركي | ECS GmbH",
-  "Kontakt: Fahrzeug anbieten oder anfragen | ECS GmbH": "اتصل بنا: اعرض مركبتك أو اطلب مركبة | ECS GmbH",
-  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS GmbH": "الأسئلة الشائعة حول شراء المركبات التجارية والتصدير | ECS GmbH",
+  "Kontakt: Fahrzeug anbieten oder anfragen | ECS Exclusive Commerce Services GmbH": "اتصل بنا: اعرض مركبتك أو اطلب مركبة | ECS Exclusive Commerce Services GmbH",
+  "FAQ zum Nutzfahrzeug-Ankauf und Export | ECS Exclusive Commerce Services GmbH": "الأسئلة الشائعة حول شراء المركبات التجارية والتصدير | ECS Exclusive Commerce Services GmbH",
   "Ankauf und Verkauf von Nutzfahrzeugen": "شراء وبيع المركبات التجارية",
   "Gebrauchte Nutzfahrzeuge im Bestand": "مركبات تجارية مستعملة متوفرة",
 
@@ -418,7 +417,7 @@
   "Im Bestand sehen Sie bei jedem Fahrzeug mit Preisangabe den Nettopreis und den Bruttopreis inklusive 19 % Mehrwertsteuer.": "في المخزون ترون لكل مركبة معروضة بسعر السعر الصافي والسعر الإجمالي شاملًا ضريبة القيمة المضافة بنسبة 19 %.",
   "Weiterlesen": "اقرأ المزيد",
   "Ankauf nach Fahrzeugart": "الشراء حسب نوع المركبة",
-  "Fuhrpark verkaufen: Firmenfahrzeuge im Paket | ECS GmbH": "بيع الأسطول: مركبات الشركة في صفقة واحدة | ECS GmbH",
+  "Fuhrpark verkaufen: Firmenfahrzeuge im Paket | ECS Exclusive Commerce Services GmbH": "بيع الأسطول: مركبات الشركة في صفقة واحدة | ECS Exclusive Commerce Services GmbH",
   "Ankauf Fuhrpark": "شراء الأساطيل",
   "Sie möchten mehrere Firmenfahrzeuge oder einen ganzen Fuhrpark abgeben? Wir übernehmen Flotten in einem Paket – mit einer Bewertung für alle Fahrzeuge, einem Vertrag und einer Abholung nach Ihrem Zeitplan.": "هل تريدون بيع عدة مركبات للشركة أو أسطولًا كاملًا؟ نشتري الأساطيل في صفقة واحدة – بتقييم واحد لجميع المركبات وعقد واحد واستلام وفق جدولكم الزمني.",
   "Für Unternehmen": "للشركات",
@@ -631,7 +630,7 @@
   "In den meisten Fällen noch am selben Tag, sobald uns die wichtigsten Daten und einige Fotos vorliegen.": "في معظم الحالات في اليوم نفسه، بمجرد توفر البيانات الأساسية وبعض الصور لدينا.",
   "Muss ich den Transporter selbst bringen?": "هل يجب أن أحضر فان النقل بنفسي؟",
   "Nein. Unsere eigenen Fahrer holen ihn an Ihrem Standort ab.": "لا. يستلمه سائقونا من موقعكم.",
-  "Ablauf: So verkaufen Sie Ihr Nutzfahrzeug | ECS GmbH": "الخطوات: كيف تبيعون مركبتكم التجارية | ECS GmbH",
+  "Ablauf: So verkaufen Sie Ihr Nutzfahrzeug | ECS Exclusive Commerce Services GmbH": "الخطوات: كيف تبيعون مركبتكم التجارية | ECS Exclusive Commerce Services GmbH",
   "So verkaufen Sie": "هكذا تبيعون",
   "Ihr Nutzfahrzeug.": "مركبتكم التجارية.",
   "Fünf Schritte vom ersten Anruf bis zur Abholung – für einzelne Fahrzeuge genauso wie für ganze Flotten. Sie haben dabei einen festen Ansprechpartner.": "خمس خطوات من أول اتصال حتى الاستلام – للمركبات المنفردة تمامًا كما للأساطيل الكاملة. ولديكم جهة اتصال ثابتة طوال الوقت.",
@@ -777,14 +776,14 @@
   "Halten Sie Zulassungsbescheinigung Teil I und II, alle Schlüssel und die Prüfberichte bereit. Melden Sie vor der Übergabe das Maut-Gerät ab, lesen Sie den Fahrtenschreiber aus und sperren Sie Tankkarten und Telematik. Die ausführliche Checkliste finden Sie weiter oben auf dieser Seite.": "جهّزوا شهادة التسجيل بجزأيها الأول والثاني وجميع المفاتيح وتقارير الفحص. وقبل التسليم ألغوا تسجيل جهاز رسوم الطرق، واقرؤوا بيانات جهاز التاكوغراف، وأوقفوا بطاقات الوقود وأنظمة التتبع. ستجدون قائمة التحقق المفصّلة في أعلى هذه الصفحة.",
   "Kaufen Sie LKW auch für den Export an?": "هل تشترون الشاحنات للتصدير أيضًا؟",
   "Ja. Wir kaufen, verkaufen und exportieren gewerbliche Fahrzeuge – auch nach Europa, Asien und Afrika. Für Sie ändert sich dadurch nichts: Sie verkaufen an uns in Deutschland, um Ausfuhrpapiere, Verzollung und Transport kümmern wir uns.": "نعم. نشتري ونبيع ونصدّر المركبات التجارية – بما في ذلك إلى أوروبا وآسيا وأفريقيا. لا يتغير شيء بالنسبة لكم: تبيعون لنا في ألمانيا، ونتولى نحن أوراق التصدير والتخليص الجمركي والنقل.",
-  "Reisebus verkaufen: Bus Ankauf bei Hannover | ECS GmbH": "بيع حافلة سياحية – شراء الحافلات قرب هانوفر | ECS GmbH",
+  "Reisebus verkaufen: Bus Ankauf bei Hannover | ECS Exclusive Commerce Services GmbH": "بيع حافلة سياحية – شراء الحافلات قرب هانوفر | ECS Exclusive Commerce Services GmbH",
   "Bus Ankauf": "شراء الحافلات",
   "Unser Bus Ankauf sitzt in Gehrden bei Hannover. Wir kaufen Reisebusse in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Ob Sie einen einzelnen Bus abgeben oder Ihre Flotte verkleinern: Wir übernehmen Einzelfahrzeuge genauso wie mehrere Reisebusse auf einmal.": "يقع مركز شراء الحافلات لدينا في Gehrden بالقرب من هانوفر. نشتري الحافلات السياحية في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك. سواء كنتم تبيعون حافلة واحدة أو تقلّصون أسطولكم: نشتري المركبات المفردة كما نشتري عدة حافلات دفعة واحدة.",
   "Kaufen Sie Busse auch für den Export an?": "هل تشترون الحافلات للتصدير أيضًا؟",
-  "Linienbus verkaufen: Bus Ankauf für Verkehrsbetriebe | ECS GmbH": "بيع حافلة نقل عام – شراء لشركات النقل | ECS GmbH",
+  "Linienbus verkaufen: Bus Ankauf für Verkehrsbetriebe | ECS Exclusive Commerce Services GmbH": "بيع حافلة نقل عام – شراء لشركات النقل | ECS Exclusive Commerce Services GmbH",
   "Linienbus Ankauf": "شراء حافلات النقل العام",
   "Ansprechpartner sind für uns Verkehrsbetriebe, private Busunternehmen im Auftrag der öffentlichen Hand und Unternehmen mit eigenem Werksverkehr. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.": "نتعامل مع شركات النقل العام وشركات الحافلات الخاصة العاملة بتكليف من الجهات العامة والشركات التي لديها نقل خاص لموظفيها. ومن Gehrden بالقرب من هانوفر نشتري في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك.",
-  "Transporter Ankauf: Sprinter, Crafter, Transit | ECS GmbH": "شراء الفانات: Sprinter وCrafter وTransit | ECS GmbH",
+  "Transporter Ankauf: Sprinter, Crafter, Transit | ECS Exclusive Commerce Services GmbH": "شراء الفانات: Sprinter وCrafter وTransit | ECS Exclusive Commerce Services GmbH",
   "Transporter Ankauf": "شراء الفانات",
   "Unser Transporter Ankauf sitzt in Gehrden bei Hannover. Wir kaufen in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Bei mehreren Transportern bewerten wir gern alle Fahrzeuge zusammen.": "يقع مركز شراء الفانات لدينا في Gehrden بالقرب من هانوفر. نشتري في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك. ومع عدة فانات يسعدنا تقييم جميع المركبات معًا.",
   "Kaufen Sie auch einen Mercedes Sprinter an?": "هل تشترون أيضًا مرسيدس سبرينتر؟",
@@ -807,11 +806,11 @@
   "Weißer Mercedes-Benz Actros im Abendlicht": "مرسيدس-بنز أكتروس بيضاء في ضوء المساء",
 
   /* ---- Keyword-Runde 25.10.2026 ---- */
-  "Nutzfahrzeug Export: Busexport & LKW Export | ECS GmbH": "تصدير المركبات التجارية: الحافلات والشاحنات | ECS GmbH",
+  "Nutzfahrzeug Export: Busexport & LKW Export | ECS Exclusive Commerce Services GmbH": "تصدير المركبات التجارية: الحافلات والشاحنات | ECS Exclusive Commerce Services GmbH",
   "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "نورّد في جميع أنحاء أوروبا بما فيها أوروبا الشرقية وإلى الشرق الأوسط وآسيا وأفريقيا وأسواق دولية أخرى. ومن يشتري مركبة من مخزوننا يحصل على المركبة وأوراق التصدير والنقل من جهة واحدة.",
-  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS GmbH": "مركبات تجارية مستعملة للبيع: حافلات وشاحنات وسبرينتر | ECS GmbH",
+  "Nutzfahrzeuge gebraucht kaufen: Busse, LKW, Sprinter | ECS Exclusive Commerce Services GmbH": "مركبات تجارية مستعملة للبيع: حافلات وشاحنات وسبرينتر | ECS Exclusive Commerce Services GmbH",
   "Als Nutzfahrzeughändler aus Gehrden bei Hannover verkaufen wir gebrauchte Reisebusse, Linienbusse, LKW, Sattelzugmaschinen und Transporter, auch für den Export. Rufen Sie uns noch heute an. Unser Team hilft Ihnen gerne bei der Suche nach dem richtigen Fahrzeug oder beim Verkauf Ihres aktuellen Bestands. Auch eine Inzahlungnahme Ihres Fahrzeugs ist möglich.": "بصفتنا تاجر مركبات تجارية من غيردن بالقرب من هانوفر، نبيع الحافلات السياحية وحافلات المدن والشاحنات والقاطرات وسيارات النقل المستعملة، وكذلك للتصدير. اتصلوا بنا اليوم. يسعد فريقنا مساعدتكم في العثور على المركبة المناسبة أو بيع مركباتكم الحالية. كما يمكننا قبول مركبتكم كجزء من الثمن.",
-  "ECS GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS GmbH | تجارة المركبات التجارية والشراء والتصدير بالقرب من هانوفر",
+  "ECS Exclusive Commerce Services GmbH | Nutzfahrzeughandel, Ankauf & Export bei Hannover": "ECS Exclusive Commerce Services GmbH | تجارة المركبات التجارية والشراء والتصدير بالقرب من هانوفر",
   "Unser Sitz ist in Gehrden in der Region Hannover, Niedersachsen. Von hier aus arbeiten wir mit über 250 Partnern zusammen und wickeln Nutzfahrzeughandel, Import und Export in ganz Europa und darüber hinaus ab.": "يقع مقرنا في غيردن في منطقة هانوفر بولاية سكسونيا السفلى. من هنا نعمل مع أكثر من 250 شريكًا ونمارس تجارة المركبات التجارية والاستيراد والتصدير في جميع أنحاء أوروبا وخارجها.",
 
   /* ---- Ablauf-Fotos ---- */
@@ -844,7 +843,7 @@
   "mobile.de Bewertung": "تقييم على mobile.de",
 
   /* ---- Export EU und Export Drittland ---- */
-  "Nutzfahrzeug Export EU: Unterlagen & Ablauf | ECS GmbH Hannover": "تصدير المركبات التجارية إلى الاتحاد الأوروبي: المستندات وخطوات العمل | ECS GmbH هانوفر",
+  "Nutzfahrzeug Export EU: Unterlagen & Ablauf | ECS Exclusive Commerce Services GmbH Hannover": "تصدير المركبات التجارية إلى الاتحاد الأوروبي: المستندات وخطوات العمل | ECS Exclusive Commerce Services GmbH هانوفر",
   "Export im Überblick": "التصدير – نظرة عامة",
   "Export in die EU": "التصدير إلى الاتحاد الأوروبي",
   "Export in Drittländer": "التصدير إلى دول خارج الاتحاد الأوروبي",
@@ -901,7 +900,7 @@
   "Was passiert, wenn Unterlagen fehlen?": "ماذا يحدث إذا نقصت المستندات؟",
   "Fehlen Nachweise über die Unternehmereigenschaft oder die Vertretungsbefugnis, erheben wir eine Kaution. Sie wird erstattet, sobald Sie die Unterlagen nachreichen.": "إذا لم يتوفر إثبات صفة المنشأة التجارية أو صلاحية التمثيل، نأخذ تأميناً نقدياً. ويُعاد فور تقديمك للمستندات.",
   "Weitere Seiten zum Export": "صفحات أخرى حول التصدير",
-  "Nutzfahrzeug Export Drittland: Ausfuhr & Zoll | ECS GmbH Hannover": "تصدير المركبات التجارية إلى دول خارج الاتحاد الأوروبي: التصدير والجمارك | ECS GmbH هانوفر",
+  "Nutzfahrzeug Export Drittland: Ausfuhr & Zoll | ECS Exclusive Commerce Services GmbH Hannover": "تصدير المركبات التجارية إلى دول خارج الاتحاد الأوروبي: التصدير والجمارك | ECS Exclusive Commerce Services GmbH هانوفر",
   "Export Drittland": "التصدير خارج الاتحاد الأوروبي",
   "Nutzfahrzeug Export in Drittländer": "تصدير المركبات التجارية إلى دول خارج الاتحاد الأوروبي",
   "Ihr Bus, LKW oder Transporter soll in ein Land außerhalb der EU? Die ECS Exclusive Commerce Services GmbH in Gehrden bei Hannover übernimmt Ausfuhrpapiere und Zollabwicklung in Deutschland, von der Ausfuhranmeldung bis zum Ausgangsvermerk.": "هل ستذهب حافلتك أو شاحنتك أو مركبة النقل إلى بلد خارج الاتحاد الأوروبي؟ تتولى ECS Exclusive Commerce Services GmbH في غيردن قرب هانوفر أوراق التصدير والتخليص الجمركي في ألمانيا، من بيان التصدير حتى مصادقة الخروج.",
@@ -956,7 +955,7 @@
   "Fahrzeugtypen": "أنواع المركبات",
   "Aktuellen Bestand ansehen": "عرض المخزون الحالي",
   "Mercedes-Benz Actros": "مرسيدس-بنز أكتروس",
-  "Gebrauchte LKW, Busse und Transporter kaufen | ECS GmbH": "شراء شاحنات وحافلات وفانات مستعملة | ECS GmbH",
+  "Gebrauchte LKW, Busse und Transporter kaufen | ECS Exclusive Commerce Services GmbH": "شراء شاحنات وحافلات وفانات مستعملة | ECS Exclusive Commerce Services GmbH",
   "Regelmäßig im Angebot": "متوفر بانتظام",
   "Gebrauchte LKW, Busse und Transporter": "شاحنات وحافلات وفانات مستعملة",
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse und Radlader: Diese Fahrzeuge verkaufen wir immer wieder. Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والقاطرات والقلابات والمقطورات والفانات والحافلات واللوادر: هذه هي المركبات التي نبيعها باستمرار. أما ما هو متوفر حاليًا في ساحتنا في غيردن قرب هانوفر فيعرضه المخزون الحالي.",
@@ -985,7 +984,7 @@
   "Kann ich mein altes Fahrzeug in Zahlung geben?": "هل يمكنني تقديم مركبتي القديمة كجزء من الثمن؟",
   "Ja, eine Inzahlungnahme ist möglich. Wir bewerten Ihr Fahrzeug und verrechnen den Wert mit dem Kaufpreis.": "نعم، الاستبدال ممكن. نقيّم مركبتك ونخصم قيمتها من سعر الشراء.",
   "Weitere Seiten zu unseren Fahrzeugen": "صفحات أخرى عن مركباتنا",
-  "Nutzfahrzeug Ankauf: LKW, Busse, Baumaschinen | ECS GmbH": "شراء المركبات التجارية: شاحنات، حافلات، معدات بناء | ECS GmbH",
+  "Nutzfahrzeug Ankauf: LKW, Busse, Baumaschinen | ECS Exclusive Commerce Services GmbH": "شراء المركبات التجارية: شاحنات، حافلات، معدات بناء | ECS Exclusive Commerce Services GmbH",
   "Nutzfahrzeug Ankauf": "شراء المركبات التجارية",
   "Wir kaufen Nutzfahrzeuge an": "نشتري المركبات التجارية",
   "LKW, Busse, Transporter, Betonmischer, Betonpumpen, Baumaschinen oder eine ganze Flotte: Die ECS GmbH aus Gehrden bei Hannover kauft gebrauchte Nutzfahrzeuge an. Wir bewerten, machen ein klares Angebot und holen das Fahrzeug ab.": "شاحنات، حافلات، فانات، خلاطات خرسانة، مضخات خرسانة، معدات بناء أو أسطول كامل: تشتري ECS GmbH من غيردن قرب هانوفر المركبات التجارية المستعملة. نقيّم ونقدم عرضًا واضحًا ونستلم المركبة.",
@@ -1209,7 +1208,7 @@
   "Blog": "المدونة",
   "Bereiche": "المجالات",
   "An": "إلى",
-  "Blog der ECS GmbH | Ratgeber Nutzfahrzeuge: Ankauf, Verkauf, Export": "مدونة ECS GmbH | دليل المركبات التجارية: الشراء والبيع والتصدير",
+  "Blog der ECS Exclusive Commerce Services GmbH | Ratgeber Nutzfahrzeuge: Ankauf, Verkauf, Export": "مدونة ECS Exclusive Commerce Services GmbH | دليل المركبات التجارية: الشراء والبيع والتصدير",
   "Blog rund um Nutzfahrzeuge": "مدونة عن المركبات التجارية",
   "Wissen zu Ankauf, Verkauf und Export von Nutzfahrzeugen.": "معلومات عن شراء المركبات التجارية وبيعها وتصديرها.",
   "Hier schreiben wir über das, was uns jeden Tag beschäftigt: worauf es beim Verkauf eines LKW oder Busses ankommt, wie ein Export in die EU oder in Drittländer abläuft und was sich im Nutzfahrzeughandel tut – aus über 30 Jahren Erfahrung.": "نكتب هنا عمّا يشغلنا كل يوم: ما المهم عند بيع شاحنة أو حافلة، وكيف يتم التصدير إلى الاتحاد الأوروبي أو إلى دول أخرى، وما الجديد في تجارة المركبات التجارية – من خبرة تزيد على 30 عامًا.",
@@ -1237,8 +1236,7 @@
   "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "شاحنات صندوقية بيضاء مصطفة في ساحة شركة ECS GmbH في غيردن",
 
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS GmbH": "المركبات التجارية في الحياة اليومية: لماذا لا يعمل شيء بدون الشاحنات والحافلات | ECS GmbH",
-
+  "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS Exclusive Commerce Services GmbH": "المركبات التجارية في الحياة اليومية: لماذا لا يعمل شيء بدون الشاحنات والحافلات | ECS Exclusive Commerce Services GmbH",
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
   "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "شاحنة توزيع بيضاء بصندوق مغلق في ساحة شركة ECS GmbH في غيردن",
 
@@ -1252,33 +1250,33 @@
   "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "شاحنة Mercedes-Benz Antos حمراء من الأمام في ساحة ECS GmbH، وخلفها شاحنات أخرى",
 
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
-  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS GmbH",
+  "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS Exclusive Commerce Services GmbH",
   "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "شاحنة جرّ Mercedes-Benz Actros بيضاء بكابينة عالية في موقف سيارات",
 
   /* ---- Blog: Mercedes Atego ---- */
-  "Mercedes Atego: Generationen, Typen und Maut | ECS GmbH": "مرسيدس أتيغو: الأجيال والطرازات ورسوم الطرق | ECS GmbH",
+  "Mercedes Atego: Generationen, Typen und Maut | ECS Exclusive Commerce Services GmbH": "مرسيدس أتيغو: الأجيال والطرازات ورسوم الطرق | ECS Exclusive Commerce Services GmbH",
   "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "شاحنة مرسيدس-بنز أتيغو قلابة حمراء في الثلج على ساحة مرصوفة",
 
   /* ---- Blog: MAN 12-Tonner ---- */
-  "MAN 12-Tonner: TGL und TGM im Überblick | ECS GmbH": "شاحنة مان 12 طن: TGL و TGM في لمحة | ECS GmbH",
+  "MAN 12-Tonner: TGL und TGM im Überblick | ECS Exclusive Commerce Services GmbH": "شاحنة مان 12 طن: TGL و TGM في لمحة | ECS Exclusive Commerce Services GmbH",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "شاحنة مان TGL بيضاء بوزن 12 طن مع صندوق مغلق من الأمام في ساحة",
 
   /* ---- SEO Verkäufer-Begriffe 02.11. ---- */
-  "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS GmbH": "شراء الشاحنات قرب هانوفر: بيع شاحنتكم، للتصدير أيضًا | ECS GmbH",
+  "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS Exclusive Commerce Services GmbH": "شراء الشاحنات قرب هانوفر: بيع شاحنتكم، للتصدير أيضًا | ECS Exclusive Commerce Services GmbH",
   "Unser LKW Ankauf sitzt in Gehrden bei Hannover. Von hier aus kaufen wir LKW in Hannover, in ganz Niedersachsen und deutschlandweit an, von Hamburg und Bremen über NRW bis Bayern und Berlin, außerdem in Österreich, der Schweiz und Tschechien – vom einzelnen Fahrzeug bis zur kompletten Flotte einer Spedition. Weil wir selbst exportieren, kaufen wir auch LKW für den Export an.": "يقع مركز شراء الشاحنات لدينا في Gehrden بالقرب من هانوفر. ومن هنا نشتري الشاحنات في هانوفر وفي جميع أنحاء ساكسونيا السفلى وألمانيا، من هامبورغ وبريمن مرورًا بشمال الراين-وستفاليا حتى بافاريا وبرلين، وكذلك في النمسا وسويسرا والتشيك – من مركبة واحدة حتى الأسطول الكامل لشركة شحن. ولأننا نصدّر بأنفسنا، نشتري أيضًا شاحنات للتصدير.",
   "Unser Transporter Ankauf sitzt in Gehrden bei Hannover. Wir kaufen in ganz Deutschland an, von Hamburg und Berlin bis NRW und Bayern, außerdem in Österreich, der Schweiz und Tschechien. Auch Transporter für den Export kaufen wir an. Bei mehreren Transportern bewerten wir gern alle Fahrzeuge zusammen.": "يقع مركز شراء الفانات لدينا في Gehrden بالقرب من هانوفر. نشتري في جميع أنحاء ألمانيا، من هامبورغ وبرلين حتى شمال الراين-وستفاليا وبافاريا، وكذلك في النمسا وسويسرا والتشيك. ونشتري أيضًا فانات للتصدير. ومع عدة فانات يسعدنا تقييم جميع المركبات معًا.",
-  "Baumaschinen & Kommunalfahrzeuge Ankauf: Kipper, Unimog | ECS GmbH": "شراء آلات البناء ومركبات البلديات: قلابات، Unimog | ECS GmbH",
+  "Baumaschinen & Kommunalfahrzeuge Ankauf: Kipper, Unimog | ECS Exclusive Commerce Services GmbH": "شراء آلات البناء ومركبات البلديات: قلابات، Unimog | ECS Exclusive Commerce Services GmbH",
   "Aus dem Baubereich kaufen wir unter anderem Kipper und Dreiseitenkipper, Betonmischer, Abrollkipper, Absetzkipper, LKW mit Ladekran und Tieflader-Zugmaschinen an. Auch Baumaschinen wie Bagger und Radlader kaufen wir an, auch für den Export.": "من قطاع البناء نشتري، من بين أمور أخرى، القلابات والقلابات ثلاثية الاتجاه، وخلاطات الخرسانة، وشاحنات الحاويات بالخطاف، وشاحنات حاويات السلاسل، والشاحنات المزودة برافعة تحميل، ورؤوس القاطرات للمقطورات المنخفضة. ونشتري أيضًا آلات البناء مثل الحفارات واللوادر ذات العجلات، للتصدير أيضًا.",
   "Unser Bus Ankauf sitzt in Gehrden bei Hannover. Wir kaufen Reisebusse und Omnibusse in ganz Deutschland, in Österreich, der Schweiz und Tschechien an. Ob Sie einen einzelnen Bus abgeben oder Ihre Flotte verkleinern: Wir übernehmen Einzelfahrzeuge genauso wie mehrere Reisebusse auf einmal. Auch wenn Sie Ihr Busunternehmen aufgeben, kaufen wir alle Busse in einem Paket an.": "يقع مركز شراء الحافلات لدينا في Gehrden بالقرب من هانوفر. نشتري الحافلات السياحية والحافلات في جميع أنحاء ألمانيا وفي النمسا وسويسرا والتشيك. سواء كنتم تبيعون حافلة واحدة أو تقلّصون أسطولكم: نشتري المركبات المفردة كما نشتري عدة حافلات دفعة واحدة. وحتى إذا كنتم تغلقون شركة الحافلات، نشتري جميع الحافلات في صفقة واحدة.",
   "Unser Einkauf ist in allen 16 Bundesländern unterwegs. Ob Ihr Fahrzeug in Hamburg, Berlin, NRW, Stuttgart, München oder auf dem Land steht: Wir bewerten es, machen Ihnen ein klares Angebot und holen es bei Ihnen ab.": "فريق الشراء لدينا يعمل في جميع الولايات الاتحادية الست عشرة. سواء كانت مركبتكم في هامبورغ أو برلين أو شمال الراين-وستفاليا أو شتوتغارت أو ميونخ أو في الريف: نقيّمها ونقدم لكم عرضاً واضحاً ونستلمها من عندكم.",
 
   /* ---- Blog: Arocs oder Actros, Mercedes Antos ---- */
-  "Arocs oder Actros: Was ist der Unterschied? | ECS GmbH": "أروكس أم أكتروس: ما الفرق؟ | ECS GmbH",
+  "Arocs oder Actros: Was ist der Unterschied? | ECS Exclusive Commerce Services GmbH": "أروكس أم أكتروس: ما الفرق؟ | ECS Exclusive Commerce Services GmbH",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen auf einer Straße im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور على طريق في منطقة صناعية",
-  "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS GmbH": "مرسيدس أنتوس: الطرازات والكبائن والفروق | ECS GmbH",
+  "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS Exclusive Commerce Services GmbH": "مرسيدس أنتوس: الطرازات والكبائن والفروق | ECS Exclusive Commerce Services GmbH",
   "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "مرسيدس-بنز أنتوس حمراء من الأمام في ساحة مفروشة بالحصى، وخلفها شاحنات أخرى",
 
   /* ---- Blog: Volvo Sattelzugmaschinen ---- */
-  "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS GmbH": "رؤوس القاطرات فولفو: FH وFH16 وFM والأجيال | ECS GmbH",
+  "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH": "رؤوس القاطرات فولفو: FH وFH16 وFM والأجيال | ECS Exclusive Commerce Services GmbH",
   "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "رأس قاطرة فولفو FH أبيض بكابينة عالية على شارع في منطقة صناعية"
 };

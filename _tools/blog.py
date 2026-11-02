@@ -206,7 +206,7 @@ def set_meta(src, attr, key, value):
 
 def build_post(shell, p, others):
     url = BASE + 'blog-' + p['name']
-    title = p.get('seitentitel') or '%s | Blog der ECS GmbH' % p['titel']
+    title = p.get('seitentitel') or '%s | Blog der ECS Exclusive Commerce Services GmbH' % p['titel']
     stem, widths, _, _ = ensure_image(p['bild'])
     cover_url = BASE + 'assets/img/opt/%s-%d.jpg' % (stem, widths[-1])
 

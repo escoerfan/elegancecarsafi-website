@@ -1,6 +1,6 @@
 ---
 titel: Volvo Sattelzugmaschinen: FH, FH16 und FM im Überblick
-seitentitel: Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS GmbH
+seitentitel: Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH
 beschreibung: Welche Volvo Sattelzugmaschine ist welche? FH, FH16 und FM erklärt: Generationen seit 1993, Fahrerhäuser vom Globetrotter bis XXL, Motoren und Typenbezeichnungen.
 datum: 2026-11-02
 zeit: 21:00
