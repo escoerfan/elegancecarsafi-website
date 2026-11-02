@@ -1276,5 +1276,9 @@
   "Arocs oder Actros: Was ist der Unterschied? | ECS GmbH": "Arocs или Actros: в чём разница? | ECS GmbH",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen auf einer Straße im Gewerbegebiet": "Зелёный трёхосный седельный тягач Mercedes-Benz Arocs на дороге в промышленной зоне",
   "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS GmbH": "Mercedes Antos: модели, кабины, отличия | ECS GmbH",
-  "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "Красный Mercedes-Benz Antos спереди на площадке с гравием, позади другие грузовики"
+  "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "Красный Mercedes-Benz Antos спереди на площадке с гравием, позади другие грузовики",
+
+  /* ---- Blog: Volvo Sattelzugmaschinen ---- */
+  "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS GmbH": "Седельные тягачи Volvo: FH, FH16, FM и поколения | ECS GmbH",
+  "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "Белый седельный тягач Volvo FH с высокой кабиной на улице в промышленной зоне"
 };
