@@ -107,6 +107,12 @@ def ensure_image(name):
     return stem, widths, im.width, im.height
 
 
+def portrait(name):
+    """Hochformat? Dann bekommt die Figur die Klasse …--hoch und läuft nicht über die ganze Breite."""
+    _, _, w, h = ensure_image(name)
+    return h is not None and h > w
+
+
 def picture(name, alt, sizes, lazy=True, priority=False):
     stem, widths, w, h = ensure_image(name)
     def srcset(ext):
@@ -149,7 +155,7 @@ def render(body):
         if img:
             alt, name, cap = img.groups()
             images.append(name)
-            fig = '<figure class="post__figure">' + picture(name, alt, '(max-width: 800px) 100vw, 760px')
+            fig = '<figure class="post__figure%s">' % (' post__figure--hoch' if portrait(name) else '') + picture(name, alt, '(max-width: 800px) 100vw, 760px')
             if cap:
                 fig += '<figcaption>%s</figcaption>' % inline(cap)
             out.append(fig + '</figure>')
@@ -247,7 +253,7 @@ def build_post(shell, p, others):
 <!-- ============================================================== Beitrag -->
 <article class="post">
   <div class="container">
-    <figure class="post__cover" data-no-i18n>%s</figure>
+    <figure class="post__cover%s" data-no-i18n>%s</figure>
     <div class="post__body" data-no-i18n>
       %s
     </div>
@@ -259,6 +265,7 @@ def build_post(shell, p, others):
 </article>
 ''' % ((' · <span data-no-i18n>%s</span>' % esc(p['kategorie'])) if p.get('kategorie') else '',
        esc(p['titel']), p['datum'], de_date(p['datum_obj']), updated, reading_time(p['body']),
+       ' post__cover--hoch' if portrait(p['bild']) else '',
        picture(p['bild'], p['bild_alt'], '(max-width: 1148px) 100vw, 1100px', lazy=False, priority=True),
        body, esc(credit))
     if others:
