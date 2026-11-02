@@ -5,7 +5,7 @@ beschreibung: Welche Volvo Sattelzugmaschine ist welche? FH, FH16 und FM erklär
 datum: 2026-11-02
 zeit: 21:00
 kategorie: Wissen
-bild: blog-volvo-fh-weiss.jpeg
+bild: blog-volvo-fh-weiss.webp
 bild_alt: Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet
 bildnachweis: Fotos: ECS GmbH
 anriss: Vom FH12 aus dem Jahr 1993 bis zum FH Aero: was FH, FH16 und FM unterscheidet, was Zahlen wie 460 oder 500 bedeuten und welche Fahrerhäuser es gibt.
