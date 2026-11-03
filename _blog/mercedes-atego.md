@@ -13,7 +13,7 @@ stichworte: Mercedes Atego, Mercedes-Benz Atego, Atego Generationen, Atego Bauja
 ---
 Der Atego ist der LKW, den man jeden Tag sieht und selten bewusst wahrnimmt. Er bringt Getränke in die Gastronomie, Pakete in die Wohngebiete und Material auf die Baustelle. Er fährt als Möbelwagen, als Kühlkoffer, als Kipper im Bauhof oder als Feuerwehrfahrzeug. Mercedes-Benz baut ihn seit 1998, und kaum ein anderer leichter LKW ist in Deutschland so verbreitet.
 
-Wir kaufen seit über 30 Jahren Nutzfahrzeuge an, und der Atego gehört zu den Fahrzeugen, die uns am häufigsten angeboten werden. In diesem Beitrag erklären wir, was die Zahlen auf der Tür bedeuten, wie Sie die Generation erkennen und was beim Verkauf zählt.
+Wir bringen über 30 Jahre Erfahrung im Fahrzeughandel mit, und der Atego gehört zu den Fahrzeugen, die uns am häufigsten angeboten werden. In diesem Beitrag erklären wir, was die Zahlen auf der Tür bedeuten, wie Sie die Generation erkennen und was beim Verkauf zählt.
 
 ## Was ist der Atego?
 
@@ -98,7 +98,7 @@ Trotzdem lohnt sich ein Verkauf fast immer. Ein Atego, der nicht mehr gebraucht 
 
 ## Wir kaufen Atego aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Atego an](lkw-verkaufen), vom 7,5-Tonner bis zum 16-Tonner, mit Koffer, Plane, Pritsche, Kühlaufbau oder Kipper. Einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), haben wir auch für ältere Baureihen einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Atego an](lkw-verkaufen), vom 7,5-Tonner bis zum 16-Tonner, mit Koffer, Plane, Pritsche, Kühlaufbau oder Kipper. Einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baureihen einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

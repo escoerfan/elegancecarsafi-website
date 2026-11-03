@@ -13,7 +13,7 @@ stichworte: Mercedes Antos, Mercedes-Benz Antos, Antos LKW, Antos Verteiler, Ant
 ---
 Getränke für den Großmarkt, Baustoffe für den Fachhandel, Heizöl für die Wohngebiete, Wechselbrücken zwischen zwei Lagern: Diese Fahrten sind zu schwer für einen Atego und zu kurz für einen Fernverkehrs-LKW. Genau dafür hat Mercedes-Benz 2012 den Antos auf den Markt gebracht, nach eigenen Angaben den ersten schweren LKW, der von Anfang an für den Verteilerverkehr entwickelt wurde.
 
-Wir kaufen seit über 30 Jahren Nutzfahrzeuge an, und der Antos gehört zu den LKW, die uns Speditionen und Händler regelmäßig anbieten. In diesem Beitrag erklären wir, was ihn ausmacht, wie Sie ihn von Atego und Actros unterscheiden und worauf es beim Verkauf ankommt.
+Wir bringen über 30 Jahre Erfahrung im Fahrzeughandel mit, und der Antos gehört zu den LKW, die uns Speditionen und Händler regelmäßig anbieten. In diesem Beitrag erklären wir, was ihn ausmacht, wie Sie ihn von Atego und Actros unterscheiden und worauf es beim Verkauf ankommt.
 
 ## Was ist der Antos?
 
@@ -79,7 +79,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Antos, der nicht mehr gebraucht 
 
 ## Wir kaufen Antos aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Antos an](lkw-verkaufen): Fahrgestelle mit Pritsche, Koffer, Kühlaufbau, Tank oder Abrollkipper und Sattelzugmaschinen, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), haben wir auch für Fahrzeuge mit speziellem Aufbau einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Antos an](lkw-verkaufen): Fahrgestelle mit Pritsche, Koffer, Kühlaufbau, Tank oder Abrollkipper und Sattelzugmaschinen, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für Fahrzeuge mit speziellem Aufbau einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

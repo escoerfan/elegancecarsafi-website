@@ -13,7 +13,7 @@ stichworte: Actros MP1, Actros MP2, Actros MP3, Actros MP4, Actros MP5, Actros G
 ---
 Wer mit Händlern, Werkstätten oder Fahrern über einen Actros spricht, hört schnell Kürzel wie MP2 oder MP4. MP steht für Modellpflege und bezeichnet die Generation. Seit 1996 hat Mercedes-Benz den Actros fünfmal grundlegend überarbeitet. Die Generation ist meist die erste Frage, wenn es um einen gebrauchten Actros geht, denn sie sagt viel über Technik, Abgasnorm und Einsatzmöglichkeiten.
 
-Wir kaufen seit über 30 Jahren Nutzfahrzeuge an, darunter Actros aus allen Generationen. In diesem Beitrag erklären wir, woran Sie die Baureihen erkennen und was beim Verkauf wirklich zählt.
+Wir bringen über 30 Jahre Erfahrung im Fahrzeughandel mit und kaufen Actros aus allen Generationen an. In diesem Beitrag erklären wir, woran Sie die Baureihen erkennen und was beim Verkauf wirklich zählt.
 
 ## Die fünf Generationen auf einen Blick
 
@@ -85,7 +85,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Actros, der auf dem Hof steht, v
 
 ## Wir kaufen Actros aller Generationen
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Actros an](lkw-verkaufen), vom MP1 bis zum MP5: Sattelzugmaschinen, Pritschen- und Planen-LKW, Kipper und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir auch für ältere Generationen einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Actros an](lkw-verkaufen), vom MP1 bis zum MP5: Sattelzugmaschinen, Pritschen- und Planen-LKW, Kipper und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Generationen einen Abnehmer.
 
 ![Schwarzer Mercedes-Benz Actros mit Planenaufbau auf einer Straße im Gewerbegebiet](ablauf-actros-planen.webp "Ob Sattelzugmaschine oder Planen-LKW: Wir kaufen Actros aller Generationen.")
 

@@ -73,7 +73,7 @@ Für die Betriebe, die sie einsetzen, sind Nutzfahrzeuge deshalb keine Autos, so
 
 ## Wo ECS ins Spiel kommt
 
-Genau hier setzen wir an. Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover handelt seit über 30 Jahren mit gebrauchten Nutzfahrzeugen. Wir [kaufen Nutzfahrzeuge an](nutzfahrzeug-ankauf): [LKW](lkw-verkaufen), [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), [Transporter](transporter-verkaufen) sowie [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen), auch ganze [Fuhrparks](fuhrpark-verkaufen). Abgeholt wird deutschlandweit.
+Genau hier setzen wir an. Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover handelt mit gebrauchten Nutzfahrzeugen und bringt über 30 Jahre Erfahrung im Fahrzeughandel mit. Wir [kaufen Nutzfahrzeuge an](nutzfahrzeug-ankauf): [LKW](lkw-verkaufen), [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), [Transporter](transporter-verkaufen) sowie [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen), auch ganze [Fuhrparks](fuhrpark-verkaufen). Abgeholt wird deutschlandweit.
 
 Viele dieser Fahrzeuge bekommen anschließend ein zweites Leben: Wir [exportieren Nutzfahrzeuge](export) in die [EU](export-eu), nach Osteuropa und in den Nahen Osten, wo sie weiter Waren, Menschen und Baumaterial bewegen. Und wer selbst ein Fahrzeug sucht, findet unsere [gebrauchten Nutzfahrzeuge](gebrauchte-nutzfahrzeuge) im aktuellen Bestand.
 

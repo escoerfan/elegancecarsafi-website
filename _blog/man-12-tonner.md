@@ -84,7 +84,7 @@ Verkaufen lohnt sich trotzdem. Ein 12-Tonner, der nicht mehr eingesetzt wird, ko
 
 ## Wir kaufen MAN TGL und TGM an
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft MAN TGL und TGM an](lkw-verkaufen), aus allen Generationen und mit jedem Aufbau. Ob ein einzelner 12-Tonner oder ein ganzer [Fuhrpark](fuhrpark-verkaufen), ob Verteiler-LKW oder [Kommunalfahrzeug](bau-und-kommunalfahrzeuge-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir auch für ältere Baujahre einen Käufer.
+Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft MAN TGL und TGM an](lkw-verkaufen), aus allen Generationen und mit jedem Aufbau. Ob ein einzelner 12-Tonner oder ein ganzer [Fuhrpark](fuhrpark-verkaufen), ob Verteiler-LKW oder [Kommunalfahrzeug](bau-und-kommunalfahrzeuge-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Käufer.
 
 So läuft es ab:
 

@@ -51,4 +51,6 @@ Der Beitragstext bleibt in allen Sprachen deutsch (wie die Fahrzeugtexte).
   (`aktualisiert:` setzen, wenn sich etwas ändert). Keine Rechts- oder Steuerberatung versprechen.
 - **Keine Einbettungen** (YouTube, Instagram, Google Maps) ohne Zwei-Klick-Lösung – sonst
   fließen Daten an Dritte und die Datenschutzerklärung müsste erweitert werden.
-- Verantwortlich nach § 18 Abs. 2 MStV ist im Impressum genannt.
+- Verantwortlich nach § 18 Abs. 2 MStV ist die ECS GmbH, vertreten durch den Geschäftsführer (Impressum).
+- **Werbeaussagen** nur, wenn sie belegbar sind (z. B. „über 30 Jahre Erfahrung im Fahrzeughandel“, nicht „die GmbH seit 30 Jahren“). Keine absoluten Zusagen wie „wir haben für jedes Fahrzeug einen Abnehmer“.
+- **Hersteller-Logos** nicht als Bild verwenden, Marken- und Modellnamen nur beschreibend. Der Hinweis zu Marken, Stand und „keine Rechtsberatung“ steht automatisch unter jedem Beitrag.

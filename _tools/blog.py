@@ -257,6 +257,7 @@ def build_post(shell, p, others):
     <div class="post__body" data-no-i18n>
       %s
     </div>
+    <p class="post__note" data-no-i18n>Hinweis: Dieser Beitrag dient der allgemeinen Information und ersetzt keine Rechts- oder Steuerberatung. Alle Angaben ohne Gewähr, Stand: %s. Genannte Marken und Modellbezeichnungen gehören ihren jeweiligen Inhabern. Die ECS GmbH ist ein unabhängiger Händler und steht in keiner Verbindung zu den Herstellern.</p>
     <footer class="post__footer">
       <span>Bildnachweis: <span data-no-i18n>%s</span></span>
       <a href="blog">Alle Beiträge</a>
@@ -267,7 +268,7 @@ def build_post(shell, p, others):
        esc(p['titel']), p['datum'], de_date(p['datum_obj']), updated, reading_time(p['body']),
        ' post__cover--hoch' if portrait(p['bild']) else '',
        picture(p['bild'], p['bild_alt'], '(max-width: 1148px) 100vw, 1100px', lazy=False, priority=True),
-       body, esc(credit))
+       body, de_date(p['aktualisiert_obj']), esc(credit))
     if others:
         main += '''
 <!-- ======================================================= Weitere Beiträge -->

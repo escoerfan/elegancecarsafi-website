@@ -13,7 +13,7 @@ stichworte: Volvo Sattelzugmaschine, Volvo FH Sattelzugmaschine, Volvo FH, Volvo
 ---
 Auf der Autobahn erkennt man sie oft schon von Weitem: das hohe Fahrerhaus, darunter der Grill mit dem schrägen Balken und dem Volvo-Zeichen. Seit über 30 Jahren baut Volvo Trucks den FH, und kaum eine Sattelzugmaschine ist im europäischen Fernverkehr so verbreitet.
 
-Wir kaufen seit über 30 Jahren Nutzfahrzeuge an, und Volvo Sattelzugmaschinen gehören zu den Fahrzeugen, die uns Speditionen regelmäßig anbieten. In diesem Beitrag erklären wir, welche Baureihen es gibt, wie Sie die Generationen unterscheiden, was die Zahlen an der Tür bedeuten und worauf es beim Verkauf ankommt.
+Wir bringen über 30 Jahre Erfahrung im Fahrzeughandel mit, und Volvo Sattelzugmaschinen gehören zu den Fahrzeugen, die uns Speditionen regelmäßig anbieten. In diesem Beitrag erklären wir, welche Baureihen es gibt, wie Sie die Generationen unterscheiden, was die Zahlen an der Tür bedeuten und worauf es beim Verkauf ankommt.
 
 ## FH, FH16 und FM: Welche Volvo ist welche?
 
@@ -86,7 +86,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Eine Sattelzugmaschine, die nicht me
 
 ## Wir kaufen Volvo Sattelzugmaschinen aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Volvo Sattelzugmaschinen an](lkw-verkaufen): FH, FH16, FM und FMX, als 4x2, 6x2 oder 6x4, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), haben wir auch für ältere Baujahre einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Volvo Sattelzugmaschinen an](lkw-verkaufen): FH, FH16, FM und FMX, als 4x2, 6x2 oder 6x4, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 
