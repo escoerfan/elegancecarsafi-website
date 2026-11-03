@@ -1,8 +1,8 @@
 """Suchbegriffe, Marken und Modelle für die strukturierten Daten (nicht sichtbar).
 
 schema.py schreibt daraus WebPage.keywords und, auf Seiten mit Service, Service.brand.
-Erfans Wunsch (25.10.2026): Fahrzeugnamen nicht als Text auf der Website, nur im Hintergrund.
-Ausnahme (31.10.2026, Erfans Auftrag): /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf nennen
+Seit 25.10.2026: Fahrzeugnamen nicht als Text auf der Website, nur im Hintergrund.
+Ausnahme (seit 31.10.2026): /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf nennen
 typische Modelle aus der Software sichtbar (Actros MP1–MP5, Betontechnik, Radlader).
 Bewusst nicht enthalten: Zustand (Defekt, Unfall, hohe Laufleistung) und Sofortzahlung.
 """

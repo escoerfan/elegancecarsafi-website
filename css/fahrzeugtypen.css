@@ -1,6 +1,6 @@
 /* ====================================================================
    Fahrzeug-Unterseiten: /gebrauchte-nutzfahrzeuge und /nutzfahrzeug-ankauf
-   Bewusst anders als die übrigen Unterseiten (Erfans Wunsch, 31.10.2026):
+   Bewusst anders als die übrigen Unterseiten (seit 31.10.2026):
    Seitenkopf mit Verlauf wie die übrigen Seiten, ruhiger Textblock, große
    Typo-Liste der Fahrzeugtypen, Actros-Abschnitt mit kleinem Foto.
    Schrift höchstens 400 wie überall.
@@ -19,7 +19,7 @@
 .statement :focus-visible { outline-color: var(--ink); }
 
 /* -------------------------------------------------- Typo-Liste Fahrzeugtypen
-   Weiße Fläche, Titel in normaler Schreibweise, große Fotos rechts (Erfans Wunsch).
+   Weiße Fläche, Titel in normaler Schreibweise, große Fotos rechts.
    Typ ohne eigenes Foto: Titel und Text nebeneinander, ohne Platzhalter. */
 .typo { padding-block: 130px 150px; background: var(--white); color: var(--ink-soft); }
 .statement + .typo { border-top: 1px solid var(--line-dark); padding-top: clamp(64px, 7vw, 100px); }

@@ -250,7 +250,6 @@
   "Handelsregister: HRB228497": "Commercial register: HRB228497",
   "Registergericht: Amtsgericht Hannover": "Registry court: Amtsgericht Hannover (Hanover Local Court)",
   "Umsatzsteuer-ID: DE452884436": "VAT ID: DE452884436",
-  "Steuernummer: 23/200/09013": "Tax number: 23/200/09013",
   "E-Mail: info[at]elegancecarsafi.com": "Email: info[at]elegancecarsafi.com",
   "Verantwortlich für die folgenden Inhalte gemäß § 55 Abs. 2 RStV: Erfan Safi": "Responsible for the following content pursuant to § 55 (2) RStV: Erfan Safi",
   "Hinweis auf EU-Streitschlichtung": "Notice on EU dispute resolution",
