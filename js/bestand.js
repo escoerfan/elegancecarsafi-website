@@ -310,22 +310,36 @@
       i--;
     }
 
+    /* Ziffern und „+“ einsammeln, damit „48+1+1 Sitzplätze“ (Bus) nicht als „1“ gelesen wird */
     var num = '';
 
-    while (
-      i >= 0 &&
-      s.charAt(i) >= '0' &&
-      s.charAt(i) <= '9'
-    ) {
-      num = s.charAt(i) + num;
-      i--;
+    while (i >= 0) {
+      var c = s.charAt(i);
+
+      if ((c >= '0' && c <= '9') || c === '+' || (c === ' ' && num.charAt(0) === '+')) {
+        num = c + num;
+        i--;
+      } else {
+        break;
+      }
     }
 
-    var n = parseInt(num, 10);
+    var teile = num.split(' ').join('').split('+');
+    var n = 0;
 
-    return n
-      ? n + ' Sitzpl' + String.fromCharCode(228) + 'tze'
-      : null;
+    for (var k = 0; k < teile.length; k++) {
+      n += parseInt(teile[k], 10) || 0;
+    }
+
+    var label = ' Sitzpl' + String.fromCharCode(228) + 'tze';
+
+    if (!n) {
+      return null;
+    }
+
+    return teile.length > 1
+      ? n + label + ' (' + teile.join('+') + ')'
+      : n + label;
   }
 
   function esc(s) {
