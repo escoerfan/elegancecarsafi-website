@@ -1291,5 +1291,9 @@
 
   /* ---- Blog: Volvo Sattelzugmaschinen ---- */
   "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH": "Volvo Tractor Units: FH, FH16, FM and Generations | ECS Exclusive Commerce Services GmbH",
-  "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "White Volvo FH tractor unit with a high cab on a road in an industrial area"
+  "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "White Volvo FH tractor unit with a high cab on a road in an industrial area",
+
+  /* ---- Blog: LKW-Stau Grenze Türkei–Bulgarien ---- */
+  "LKW-Stau Kapıkule und Kapitan Andreevo: Gründe und aktuelle Lage | ECS Exclusive Commerce Services GmbH": "Truck Queues at Kapıkule and Kapitan Andreevo: Causes and Current Situation | ECS Exclusive Commerce Services GmbH",
+  "Schwarze Sattelzugmaschine Mercedes-Benz Actros von vorne auf einem gepflasterten Hof": "Black Mercedes-Benz Actros tractor unit seen from the front on a paved yard"
 };
