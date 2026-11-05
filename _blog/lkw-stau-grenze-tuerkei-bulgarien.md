@@ -6,6 +6,7 @@ datum: 2026-11-04
 kategorie: Aktuelles
 bild: export-drittland-actros-schwarz.webp
 bild_alt: Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof
+bild_text: Eine Actros-Sattelzugmaschine, wie sie im internationalen Fernverkehr unterwegs ist. An der Grenze zwischen der Türkei und Bulgarien warten solche LKW derzeit oft lange.
 bildnachweis: Fotos: ECS GmbH
 anriss: Tagelange Wartezeiten und Schlangen von über 20 Kilometern: warum sich vor Kapıkule und Kapitan Andreevo die LKW stauen und was das für Transporte zwischen Deutschland und der Türkei bedeutet.
 stichworte: LKW Stau Türkei Bulgarien, Kapıkule Stau, Kapikule LKW Wartezeit, Kapitan Andreevo Stau, Kapitan Andreevo Umbau, Hamzabeyli Lesovo Stau, Grenze Türkei Bulgarien LKW, Grenzübergang Türkei Bulgarien aktuell, Schengen 90/180 LKW-Fahrer, EES LKW-Fahrer, türkische LKW-Fahrer Visum, LKW Protest Edirne, Transport Türkei Wartezeit, LKW Export Türkei
@@ -30,7 +31,7 @@ Viele Fahrer wichen nach Hamzabeyli–Lesovo aus. Dort war die Schlange am 13. O
 
 Auch auf der türkischen Seite in Kapıkule wird gebaut. Nach Angaben des türkischen Transportverbands UND kamen dort zeitweise nur noch 250 bis 300 LKW am Tag hinaus. Für Kleintransporter wurde zur Entlastung der Übergang Dereköy geöffnet ([Lojiport](https://www.lojiport.com/kapikulede-insaat-kuyrugu-cikislar-coktu-lojistik-kilitlendi-120299h.htm)).
 
-![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden](export-ablauf-scania-kran.webp "Für LKW zwischen der Türkei und Mitteleuropa führt der kürzeste Landweg über Bulgarien.")
+![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden](export-ablauf-scania-kran.webp "Ein Scania R 520 mit Pritsche, Ladekran und Anhänger auf unserem Hof. Für LKW zwischen der Türkei und Mitteleuropa führt der kürzeste Landweg über Bulgarien.")
 
 ## Grund 2: Die Schengen-Regel 90/180
 

@@ -8,6 +8,7 @@ datum: 2026-11-15
 kategorie: Ankauf
 bild: blog-beispiel.webp
 bild_alt: Gebrauchter LKW auf dem Hof der ECS GmbH in Gehrden
+bild_text: Bildbeschreibung für Leser, erscheint kursiv unter dem Titelbild (was ist zu sehen, warum passt es zum Thema)
 # bildnachweis: ECS GmbH
 # ki_bild: ja
 # anriss: Kurzer Text für die Vorschau-Karte (sonst wird die Beschreibung verwendet), nur Inhalt – keine Quellenhinweise wie „Mit Zahlen von …“
@@ -23,7 +24,7 @@ Absatz mit einem Link zur passenden Seite: [LKW verkaufen](lkw-verkaufen).
 - Punkt eins
 - Punkt zwei
 
-![Was auf dem Bild zu sehen ist](blog-beispiel-2.webp "Bildunterschrift")
+![Alt-Text: genau, was zu sehen ist (Marke, Modell, Aufbau)](blog-beispiel-2.webp "Bildbeschreibung für Leser, erscheint kursiv unter dem Bild")
 
 ## Fazit
 

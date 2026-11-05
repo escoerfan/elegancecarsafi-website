@@ -7,6 +7,7 @@ zeit: 18:00
 kategorie: Wissen
 bild: blog-arocs-gruen.jpeg
 bild_alt: Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet
+bild_text: Eine grüne Arocs Sattelzugmaschine mit drei Achsen. Am kräftigen Kühlergrill mit breiten Lamellen erkennen Sie den Arocs auf den ersten Blick.
 bildnachweis: Fotos: ECS GmbH
 anriss: Gleiche Plattform, andere Aufgabe: woran Sie einen Arocs von einem Actros unterscheiden, was unter dem Fahrerhaus anders ist und warum es vor 2013 keinen Arocs gab.
 stichworte: Arocs oder Actros, Arocs Actros Unterschied, Unterschied Arocs Actros, Mercedes Arocs, Mercedes Actros, Arocs Baustellen LKW, Arocs Kipper, Arocs Sattelzugmaschine, Arocs Allrad, Arocs Loader Grounder, Arocs erkennen, Arocs verkaufen, Arocs Ankauf, gebrauchten Arocs verkaufen, Kipper verkaufen, Baustellen LKW verkaufen
@@ -38,7 +39,7 @@ Am einfachsten am Schriftzug: Er steht vorne neben dem Stern und an der Tür. Ab
 
 **Das Fahrerhaus.** Ein Arocs hat meist ein kurzes oder mittleres Fahrerhaus mit 2,30 Meter Breite. Das reicht, wenn der Fahrer abends nach Hause fährt. Beim Actros sind dagegen lange und breite Fahrerhäuser mit 2,50 Meter Breite und Hochdach üblich, weil der Fahrer im Fernverkehr darin übernachtet.
 
-![Grüner Mercedes-Benz Actros frontal: Kühlergrill mit fein gelochten Lamellen als Unterschied zum Arocs](blog-actros-gruen.jpeg "Zum Vergleich: ein Actros der Baureihe ab 2011 mit fein gelochten Lamellen im Grill.")
+![Grüner Mercedes-Benz Actros frontal: Kühlergrill mit fein gelochten Lamellen als Unterschied zum Arocs](blog-actros-gruen.jpeg "Zum Vergleich ein grüner Actros der Baureihe ab 2011. Seine Lamellen im Kühlergrill sind schmaler und fein gelocht.")
 
 Ganz sicher sind Sie mit einem Blick in die Zulassungsbescheinigung Teil I. Unter D.3 steht die Handelsbezeichnung, also Arocs oder Actros.
 
@@ -52,7 +53,7 @@ Ganz sicher sind Sie mit einem Blick in die Zulassungsbescheinigung Teil I. Unte
 
 **Schwerlast.** Für sehr schwere Transporte gibt es den Arocs SLT mit dem großen 15,6-Liter-Motor und bis zu 625 PS. Er zieht Lasten bis 250 Tonnen und hat dafür eine Turbo-Retarder-Kupplung, die das Anfahren mit schweren Lasten schont ([Wikipedia](https://de.wikipedia.org/wiki/Mercedes-Benz_Arocs)). Eine solche Variante gibt es zwar auch als Actros, auf den meisten Baustellen sieht man aber den Arocs.
 
-![Silberner Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Stahlmulde, ein typischer Baustellen-LKW](bau-arocs-kipper.webp "Ein typischer Arocs: Dreiachs-Kipper mit Stahlmulde.")
+![Silberner Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Stahlmulde, ein typischer Baustellen-LKW](bau-arocs-kipper.webp "Ein typischer Arocs: Dreiachs-Kipper mit angehobener Stahlmulde, wie er auf Baustellen im Einsatz ist.")
 
 ## Was beide gemeinsam haben
 

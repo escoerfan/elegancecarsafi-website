@@ -25,9 +25,13 @@ Wird eine Datei gelöscht, entfernt `blog.py` die zugehörige Seite beim nächst
     Normaler Absatz. **fett**, *kursiv*, [Linktext](lkw-verkaufen) oder [extern](https://…)
     - Aufzählung
     1. nummerierte Liste
-    ![Alt-Text: was auf dem Bild zu sehen ist](blog-datei.webp "Bildunterschrift (optional)")
+    ![Alt-Text: was auf dem Bild zu sehen ist](blog-datei.webp "Bildbeschreibung für Leser")
 
 Bilder stehen allein in einer Zeile mit Leerzeile davor und danach.
+Jedes Bild bekommt zwei Texte: den **Alt-Text** (für Google und Screenreader: genau, was zu
+sehen ist, mit Marke, Modell und Aufbau) und die **Bildbeschreibung** in Anführungszeichen,
+die kursiv unter dem Bild steht (für Leser: was ist zu sehen, warum passt es zum Thema).
+Fürs Titelbild: `bild_alt` und `bild_text` im Kopfbereich.
 Der Beitragstext bleibt in allen Sprachen deutsch (wie die Fahrzeugtexte).
 
 ## SEO

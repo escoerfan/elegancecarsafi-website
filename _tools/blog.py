@@ -145,7 +145,7 @@ def inline(s):
 
 def render(body):
     """## / ### Überschriften, Absätze, Listen (- / 1.), **fett**, *kursiv*, [Link](url),
-    Bild auf eigener Zeile: ![Alt-Text](datei.webp "Bildunterschrift")."""
+    Bild auf eigener Zeile: ![Alt-Text](datei.webp "Bildunterschrift") – Bildunterschrift = kursive Beschreibung für Leser."""
     out, images = [], []
     for block in re.split(r'\n\s*\n', body):
         block = block.strip()
@@ -267,7 +267,8 @@ def build_post(shell, p, others):
 ''' % ((' · <span data-no-i18n>%s</span>' % esc(p['kategorie'])) if p.get('kategorie') else '',
        esc(p['titel']), p['datum'], de_date(p['datum_obj']), updated, reading_time(p['body']),
        ' post__cover--hoch' if portrait(p['bild']) else '',
-       picture(p['bild'], p['bild_alt'], '(max-width: 1148px) 100vw, 1100px', lazy=False, priority=True),
+       picture(p['bild'], p['bild_alt'], '(max-width: 1148px) 100vw, 1100px', lazy=False, priority=True)
+       + ('<figcaption>%s</figcaption>' % inline(p['bild_text']) if p.get('bild_text') else ''),
        body, de_date(p['aktualisiert_obj']), esc(credit))
     if others:
         main += '''

@@ -2422,7 +2422,7 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 .post__figure { margin: 2em 0; }
 .post__cover--hoch { max-width: 560px; }
 .post__figure--hoch { max-width: 420px; margin-inline: auto; }
-.post__figure figcaption, .post__cover figcaption { margin-top: 10px; font-size: 14px; line-height: 1.5; color: var(--muted); }
+.post__figure figcaption, .post__cover figcaption { margin-top: 10px; font-size: 15px; line-height: 1.55; font-style: italic; color: var(--muted); }
 .post__note { max-width: 760px; margin: 56px auto 0; font-size: 14px; line-height: 1.6; color: var(--muted); }
 .post__note + .post__footer { margin-top: 20px; }
 .post__footer { max-width: 760px; margin: 56px auto 0; padding-top: 24px; border-top: 1px solid var(--line-dark); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; font-size: 14px; color: var(--muted); }
