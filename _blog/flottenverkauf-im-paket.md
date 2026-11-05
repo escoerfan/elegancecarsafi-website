@@ -65,6 +65,8 @@ Nicht jeder Händler kann eine ganze Flotte übernehmen. Achten Sie auf diese Pu
 - **Er plant mit Ihrem Zeitplan:** Eine gestaffelte Abholung muss möglich sein.
 - **Er hat nachprüfbare Bewertungen:** Echte Bewertungen von Kunden zeigen, wie ein Händler arbeitet.
 
+![Vier baugleiche grüne Mercedes-Benz Actros 1840 nebeneinander auf einem Schotterplatz, vorne links mit Auflieger](fuhrpark-actros-gruen.webp "Vier baugleiche Actros aus einer Flotte. Wir bewerten jedes Fahrzeug einzeln und fassen die Werte in einem Gesamtangebot zusammen.")
+
 ## Warum Unternehmen ihre Flotte an uns verkaufen
 
 - **Über 30 Jahre Erfahrung** im Handel mit Nutzfahrzeugen und ein Netzwerk von über 250 Partnern
