@@ -1289,7 +1289,7 @@
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "White MAN TGL 12-tonner with box body from a company fleet",
   "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "Row of white box trucks, a Mercedes-Benz Atego 1522 in front, during the staggered collection of a fleet",
   "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "Used Mercedes-Benz Atego 1224 distribution truck with box body and light bar",
-  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "Used MAN TGM skip loader in green, a medium-duty truck for construction and municipalities",
+  "Gebrauchter MAN TGM 15.290 mit Kofferaufbau in Orange, ein mittelschwerer LKW mit 15 Tonnen": "Used MAN TGM 15.290 box truck in orange, a 15-tonne medium-duty truck",
   "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "Used Mercedes-Benz Actros 4x2 tractor unit with high cab and light bar",
   "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "Used red Mercedes-Benz Atego tipper, a compact construction truck, in the snow",
   "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "Used three-axle tipping semi-trailer with large body, coupled to a tractor unit",

@@ -1273,7 +1273,7 @@
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "MAN TGL blanco de 12 toneladas con caja cerrada de una flota de empresa",
   "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "Fila de camiones blancos de caja cerrada, delante un Mercedes-Benz Atego 1522, durante la recogida escalonada de una flota",
   "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "Camión de distribución Mercedes-Benz Atego 1224 usado con caja cerrada y barra de luces",
-  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "MAN TGM portacontenedores verde usado, un camión medio para construcción y municipios",
+  "Gebrauchter MAN TGM 15.290 mit Kofferaufbau in Orange, ein mittelschwerer LKW mit 15 Tonnen": "MAN TGM 15.290 usado con caja cerrada en naranja, un camión medio de 15 toneladas",
   "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "Cabeza tractora Mercedes-Benz Actros 4x2 usada con cabina alta y barra de luces",
   "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "Volquete Mercedes-Benz Atego rojo usado, un camión de obra compacto, en la nieve",
   "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "Semirremolque basculante de tres ejes usado con caja grande, enganchado a una cabeza tractora",

@@ -35,6 +35,8 @@ Besonders auf dem Land ist der Bus oft das einzige öffentliche Verkehrsmittel �
 
 Auf dem Weg ins Büro wieder Stau, eine Spur ist gesperrt. Ärgerlich, aber hinter der Absperrung entsteht das, was wir morgen nutzen: eine neue Fahrbahndecke, eine sanierte Brücke, die Leitung für schnelles Internet. Möglich ist das nur mit schwerem Gerät. Kipper bringen Schotter und Asphalt, Radlader und Bagger bewegen das Material, Tieflader bringen die Maschinen zur nächsten Baustelle.
 
+![Weißer MAN TGX 26.480 Dreiachser mit Pritsche, Ladekran von Atlas und Pritschen-Anhänger als Hängerzug für Baustoffe](blog-man-tgx-kran.webp "Ein MAN TGX mit Pritsche, Ladekran und Anhänger. Mit solchen Hängerzügen kommen Steine, Paletten und Baustoffe direkt auf die Baustelle.")
+
 Ohne diese Fahrzeuge gäbe es keinen Straßenbau, keinen Wohnungsbau und keine Erneuerung der Infrastruktur, über die in Deutschland so viel gesprochen wird.
 
 ![Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Mulde, wie er im Straßenbau Schotter und Sand fährt](bau-arocs-kipper.webp "Ein Kipper mit angehobener Mulde. Ohne Kipper kein Straßenbau: Schotter, Sand und Asphalt kommen per LKW auf die Baustelle.")

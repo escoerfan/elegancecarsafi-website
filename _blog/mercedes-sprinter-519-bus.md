@@ -64,6 +64,8 @@ Wer mehr als acht Fahrgäste befördert, braucht einen Busführerschein. Für de
 
 Das überrascht viele. Ein Sprinter mit 19 Sitzen ist nicht größer als einer mit 16, verlangt aber den vollen Busführerschein. Für Vereine und kleine Betriebe, deren Fahrer nur D1 haben, ist die Zahl der Sitze deshalb oft wichtiger als die Ausstattung. Wer gewerblich Fahrgäste befördert, braucht außerdem die Berufskraftfahrer-Qualifikation.
 
+![Weißer Mercedes-Benz Sprinter Kleinbus mit Hochdach, langem Radstand und durchgehender Fensterreihe auf dem Hof der ECS GmbH](blog-sprinter-kleinbus-weiss.webp "Ein Sprinter als Kleinbus mit Hochdach und Fensterreihe. Ob D1 reicht, hängt von der Zahl der Fahrgastplätze ab, nicht von der Größe des Fahrzeugs.")
+
 ## Tempo 100 und Maut: Was für Kleinbusse gilt
 
 **Geschwindigkeit.** Ein Kraftomnibus darf auf der Autobahn grundsätzlich 80 km/h fahren. 100 km/h sind erlaubt, wenn das in der Zulassungsbescheinigung eingetragen ist, die Fahrgastsitze als Reisebestuhlung ausgeführt sind, alle Sitze Gurte haben und ein Geschwindigkeitsbegrenzer auf höchstens 100 km/h eingestellt ist, dazu kommen weitere technische Voraussetzungen ([§ 18 Abs. 5 StVO](https://www.gesetze-im-internet.de/stvo_2013/__18.html)). Für Shuttles zum Flughafen oder für Reisen ist der Eintrag „Tempo 100“ deshalb viel wert.

@@ -1273,7 +1273,7 @@
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "شاحنة MAN TGL بيضاء بحمولة 12 طنًا وصندوق مغلق من أسطول شركة",
   "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "صف من الشاحنات البيضاء ذات الصناديق المغلقة، في المقدمة مرسيدس-بنز أتيغو 1522، أثناء الاستلام المرحلي لأسطول",
   "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "شاحنة توزيع مرسيدس-بنز أتيغو 1224 مستعملة بصندوق مغلق وقوس أضواء",
-  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "شاحنة حاويات MAN TGM خضراء مستعملة، شاحنة متوسطة للبناء والبلديات",
+  "Gebrauchter MAN TGM 15.290 mit Kofferaufbau in Orange, ein mittelschwerer LKW mit 15 Tonnen": "شاحنة MAN TGM 15.290 مستعملة بصندوق مغلق باللون البرتقالي، شاحنة متوسطة بوزن 15 طنًا",
   "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "شاحنة جرّ مرسيدس-بنز أكتروس 4x2 مستعملة بمقصورة عالية وقوس أضواء",
   "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "شاحنة قلّابة مرسيدس-بنز أتيغو حمراء مستعملة، شاحنة بناء صغيرة، في الثلج",
   "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "نصف مقطورة قلّابة مستعملة بثلاثة محاور وصندوق كبير، موصولة بشاحنة جرّ",

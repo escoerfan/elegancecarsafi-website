@@ -21,6 +21,8 @@ Wir bringen über 30 Jahre Erfahrung im Fahrzeughandel mit, und beide Baureihen 
 - **Actros:** Straße und Fernverkehr. Meist Sattelzugmaschine oder Fahrgestell mit Plane, Koffer oder Kühlaufbau, große Fahrerhäuser zum Übernachten, Luftfederung.
 - **Arocs:** Baustelle und Schwerverkehr. Kipper, Betonmischer, Abrollkipper, Baustoff-Sattelzugmaschine oder Schwerlastzug, oft mit Allrad, kurze und robuste Fahrerhäuser.
 
+![Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, seitlich von vorne auf einem Gewerbehof](blog-arocs-1843-kippauflieger.webp "Ein roter Arocs als Sattelzugmaschine mit Kippauflieger. So sieht die typische Baustoff-Sattelzugmaschine aus, die Schüttgut wie Sand, Kies oder Getreide fährt.")
+
 Beide stammen von derselben Plattform. Mercedes-Benz hat sie Anfang der 2010er-Jahre in drei Baureihen aufgeteilt: Actros für den Fernverkehr, Antos für den schweren Verteilerverkehr und Arocs für den Bau ([Daimler, Januar 2013](https://ca.marketscreener.com/quote/stock/MERCEDES-BENZ-GROUP-AG-436541/news/Daimler-AG-New-Mercedes-Benz-Arocs-construction-site-truck-to-give-business-a-further-boost-in-201-15977631)).
 
 ## Vor 2013 gab es keinen Arocs
@@ -60,6 +62,8 @@ Ganz sicher sind Sie mit einem Blick in die Zulassungsbescheinigung Teil I. Unte
 Die Motoren kommen aus derselben Familie: Reihensechszylinder mit 10,7, 12,8 oder 15,6 Liter Hubraum, für leichtere Arocs auch ein 7,7-Liter-Motor. Alle erfüllen Euro VI. Auch Cockpit, Getriebe und viele Assistenzsysteme sind gleich oder sehr ähnlich. Mit der Zeit hat der Arocs viele Neuerungen des Actros übernommen, etwa Kameras statt Außenspiegel als Option.
 
 Auch die Zahl an der Tür funktioniert bei beiden gleich. Die ersten beiden Ziffern stehen für das zulässige Gesamtgewicht in Tonnen, die letzten beiden für die Motorleistung in PS, geteilt durch zehn. Ein Actros 1845 hat rund 18 Tonnen und 450 PS, ein Arocs 3345 rund 33 Tonnen und ebenfalls 450 PS. Buchstaben dahinter beschreiben die Ausführung, etwa K für Kipper oder LS für Sattelzugmaschine.
+
+![Roter Mercedes-Benz Arocs 1843 von vorne mit Arocs-Schriftzug, breitem Kühlergrill und Typenzahl 1843 an der Tür](blog-arocs-1843-front.webp "Dieselbe Arocs Sattelzugmaschine von vorne. Die 1843 an der Tür steht für rund 18 Tonnen und 430 PS.")
 
 ## Was ist ein gebrauchter Arocs heute wert?
 

@@ -1273,7 +1273,7 @@
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "Белый 12-тонный MAN TGL с фургоном из корпоративного автопарка",
   "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "Ряд белых грузовиков-фургонов, впереди Mercedes-Benz Atego 1522, при поэтапном вывозе автопарка",
   "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "Подержанный развозной грузовик Mercedes-Benz Atego 1224 с фургоном и дугой с фарами",
-  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "Подержанный бункеровоз MAN TGM зелёного цвета – среднетоннажный грузовик для стройки и коммунальных служб",
+  "Gebrauchter MAN TGM 15.290 mit Kofferaufbau in Orange, ein mittelschwerer LKW mit 15 Tonnen": "Подержанный MAN TGM 15.290 с фургоном оранжевого цвета – среднетоннажный грузовик массой 15 т",
   "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "Подержанный седельный тягач Mercedes-Benz Actros 4x2 с высокой кабиной и дугой с фарами",
   "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "Подержанный красный самосвал Mercedes-Benz Atego – компактный строительный грузовик – на снегу",
   "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "Подержанный трёхосный полуприцеп-самосвал с большим кузовом, сцепленный с седельным тягачом",

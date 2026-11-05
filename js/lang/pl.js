@@ -1273,7 +1273,7 @@
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "Biały MAN TGL 12-tonowy z kontenerem z floty firmowej",
   "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "Rząd białych ciężarówek z kontenerem, z przodu Mercedes-Benz Atego 1522, podczas etapowego odbioru floty",
   "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "Używana ciężarówka dystrybucyjna Mercedes-Benz Atego 1224 z kontenerem i belką świetlną",
-  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "Używany MAN TGM bramowiec w kolorze zielonym, średnia ciężarówka dla budownictwa i gmin",
+  "Gebrauchter MAN TGM 15.290 mit Kofferaufbau in Orange, ein mittelschwerer LKW mit 15 Tonnen": "Używany MAN TGM 15.290 z zabudową kontenerową w kolorze pomarańczowym, średnia ciężarówka 15 t",
   "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "Używany ciągnik siodłowy Mercedes-Benz Actros 4x2 z wysoką kabiną i belką świetlną",
   "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "Używana czerwona wywrotka Mercedes-Benz Atego, kompaktowa ciężarówka budowlana, na śniegu",
   "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "Używana trzyosiowa naczepa wywrotka z dużą skrzynią, sprzęgnięta z ciągnikiem siodłowym",

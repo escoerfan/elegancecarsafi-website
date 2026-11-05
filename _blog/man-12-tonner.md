@@ -39,6 +39,8 @@ Die Typenbezeichnung bei MAN ist eine Kurzbeschreibung des Fahrzeugs und folgt i
 
 Ein TGL 12.180 hat demnach rund 12 Tonnen und 180 PS, ein TGM 12.290 rund 12 Tonnen und 290 PS. Die genauen Werte stehen in der Zulassungsbescheinigung Teil I.
 
+![Oranger MAN TGM 15.290 mit Kofferaufbau und kurzem Fahrerhaus, Typenbezeichnung TGM 15.290 an der Fahrertür](man-tgm-koffer-orange.jpeg "Ein MAN TGM mit Kofferaufbau. An der Tür steht die Typenbezeichnung TGM 15.290: rund 15 Tonnen und 290 PS.")
+
 Die Federung ist für den Einsatz wichtiger, als sie aussieht. Mit Luftfederung hinten lässt sich die Ladefläche absenken und anheben. Das hilft an Laderampen und beim Wechsel von Aufbauten. Für Koffer-LKW im Verteilerverkehr ist BL deshalb sehr verbreitet.
 
 ## Die Generationen seit 2005
