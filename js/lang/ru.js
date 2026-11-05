@@ -1233,6 +1233,10 @@
   /* ---- Blog: LKW-Stau Grenze Türkei–Bulgarien ---- */
   "LKW-Stau Kapıkule und Kapitan Andreevo: Gründe und aktuelle Lage | ECS Exclusive Commerce Services GmbH": "Пробки из грузовиков на Капыкуле и Капитан-Андреево: причины и текущая ситуация | ECS Exclusive Commerce Services GmbH",
 
+  /* ---- Blog: Mercedes Sprinter 519 Bus (05.11.2026) ---- */
+  "Mercedes Sprinter 519 Bus: Typen, Führerschein, Tempo 100 | ECS Exclusive Commerce Services GmbH": "Mercedes Sprinter 519 автобус: версии, водительские права, Tempo 100 | ECS Exclusive Commerce Services GmbH",
+  "Brauner Mercedes-Benz Sprinter 519 CDI Kleinbus der Baureihe W906 mit Hochdach und dunkel getönten Seitenscheiben, Seitenansicht vor einer Halle": "Коричневый микроавтобус Mercedes-Benz Sprinter 519 CDI серии W906 с высокой крышей и тёмной тонировкой боковых окон, вид сбоку перед ангаром",
+
   /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
   "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "Белый седельный тягач Mercedes-Benz Actros 4x2 серии с 2011 года с высокой кабиной и световой балкой",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Зелёный трёхосный седельный тягач Mercedes-Benz Arocs с угловатой строительной решёткой радиатора в промышленной зоне",
