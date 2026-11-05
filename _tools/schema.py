@@ -170,6 +170,32 @@ def main_photo(body, head):
     return meta(head, 'property', 'og:image'), meta(head, 'property', 'og:image:alt')
 
 
+def post_images(body, url):
+    """Blog-Beitrag: Titelbild + alle Fotos im Text als ImageObject (Alt-Text = Beschreibung,
+    Bildunterschrift = caption). Das Titelbild verweist auf #primaryimage."""
+    out = []
+    credit = re.search(r'Bildnachweis: <span data-no-i18n>([^<]*)</span>', body)
+    credit = re.sub(r'^Fotos?:\s*', '', html.unescape(credit.group(1)).strip()) if credit else ''
+    for m in re.finditer(r'<figure class="post__(cover|figure)[^"]*"[^>]*>([\s\S]*?)</figure>', body):
+        tag = re.search(r'<img\b[^>]*>', m.group(2))
+        if not tag:
+            continue
+        src = BASE + re.search(r'\bsrc="([^"]+)"', tag.group(0)).group(1).lstrip('/')
+        alt = re.search(r'\balt="([^"]*)"', tag.group(0))
+        alt = html.unescape(alt.group(1)) if alt else ''
+        cap = re.search(r'<figcaption>([\s\S]*?)</figcaption>', m.group(2))
+        obj = {'@type': 'ImageObject', 'url': src, 'contentUrl': src, 'description': alt,
+               'caption': text(cap.group(1)) if cap else alt, 'inLanguage': 'de-DE'}
+        if credit:
+            obj['creditText'] = credit
+            if credit == 'ECS GmbH':
+                obj['copyrightHolder'] = {'@id': ORG_ID}
+        if m.group(1) == 'cover':
+            obj['@id'] = url + '#primaryimage'
+        out.append(obj)
+    return out
+
+
 def faq_items(body):
     items = []
     for m in re.finditer(r'<details class="accordion-item">([\s\S]*?)</details>', body):
@@ -250,7 +276,7 @@ def build(path):
         published = meta(head, 'property', 'article:published_time')
         graph.append({'@type': 'BlogPosting', '@id': url + '#article', 'headline': h1,
                       'description': desc, 'url': url, 'mainEntityOfPage': {'@id': url + '#webpage'},
-                      'image': img, 'datePublished': published,
+                      'image': post_images(body, url) or img, 'datePublished': published,
                       'dateModified': meta(head, 'property', 'article:modified_time') or published,
                       'inLanguage': 'de-DE', 'author': {'@id': ORG_ID}, 'publisher': {'@id': ORG_ID},
                       'isPartOf': {'@id': BASE + 'blog#blog'}})

@@ -6,7 +6,7 @@ datum: 2026-11-02
 zeit: 14:00
 kategorie: Wissen
 bild: ablauf-man-tgl-koffer.webp
-bild_alt: Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof
+bild_alt: Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof
 bildnachweis: Fotos: ECS GmbH
 anriss: TGL oder TGM, 12.220 oder 12.250, BB oder BL: was die Bezeichnungen beim MAN 12-Tonner bedeuten und warum im Fahrzeugschein so oft 11,99 Tonnen stehen.
 stichworte: MAN 12 Tonner, MAN 12-Tonner, MAN TGL, MAN TGM, MAN TGL 12.250, MAN TGL 12.220, MAN TGL 12.180, MAN TGM 12.290, TGL oder TGM, MAN TGL Generationen, MAN TGL Baujahre, MAN Typenbezeichnung, 12 Tonner LKW, LKW 11,99 t, 12 Tonner verkaufen, MAN TGL verkaufen, MAN TGL Ankauf, MAN LKW Ankauf, Koffer LKW verkaufen
@@ -24,7 +24,7 @@ MAN teilt seine leichten und mittleren LKW in zwei Baureihen:
 
 Bei 12 Tonnen treffen sich beide Baureihen. Der TGL ist für den Verteilerverkehr gebaut: Koffer, Plane, Pritsche, Kühlaufbau, viele Stopps am Tag. Der TGM ist robuster ausgelegt und kommt eher dort zum Einsatz, wo es schwerer zugeht: auf dem Bau, bei Kommunen und bei der Feuerwehr. Ein 12-Tonner mit Allradantrieb ist deshalb fast immer ein TGM.
 
-![Grüner MAN TGM mit Absetzkipper-Aufbau im Schnee](ablauf-man-absetzkipper.webp "Der TGM deckt auch Bau und Kommune ab, hier als Absetzkipper.")
+![Grüner MAN TGM mit Absetzkipper-Aufbau im Schnee, ein typischer LKW für Bau und Kommune](ablauf-man-absetzkipper.webp "Der TGM deckt auch Bau und Kommune ab, hier als Absetzkipper.")
 
 ## Was bedeutet TGL 12.250 4x2 BL?
 
@@ -78,7 +78,7 @@ Meist weniger, als der Verkäufer zuerst denkt. Das liegt nicht am Fahrzeug, son
 - **Der Aufbau.** Koffer mit Ladebordwand, Kühlkoffer, Plane, Kipper oder Absetzkipper: Jeder Aufbau hat seinen eigenen, oft kleinen Käuferkreis.
 - **Wunschpreise.** Die Preise in Online-Börsen sind Angebote, keine Ergebnisse. Was am Ende tatsächlich gezahlt wird, liegt meist darunter.
 
-![Reihe weißer Koffer-LKW von Mercedes-Benz und MAN auf einem gepflasterten Hof](pitch-lkw-reihe.webp "Koffer-LKW in der 12-Tonnen-Klasse gibt es auf dem Gebrauchtmarkt in großer Zahl.")
+![Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem gepflasterten Hof](pitch-lkw-reihe.webp "Koffer-LKW in der 12-Tonnen-Klasse gibt es auf dem Gebrauchtmarkt in großer Zahl.")
 
 Verkaufen lohnt sich trotzdem. Ein 12-Tonner, der nicht mehr eingesetzt wird, kostet Steuer, Versicherung und Stellplatz und wird mit jedem Monat älter. Wer früh verkauft, hat die besseren Karten.
 

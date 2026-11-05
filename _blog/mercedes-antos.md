@@ -6,7 +6,7 @@ datum: 2026-11-02
 zeit: 19:00
 kategorie: Wissen
 bild: bewertung-antos-rot.png
-bild_alt: Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW
+bild_alt: Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW
 bildnachweis: Fotos: ECS GmbH
 anriss: Zwischen Atego und Actros: wofür Mercedes-Benz den Antos gebaut hat, was Typen wie 1840 oder 2543 bedeuten und woran Sie ihn vom Actros unterscheiden.
 stichworte: Mercedes Antos, Mercedes-Benz Antos, Antos LKW, Antos Verteiler, Antos Unterschied Actros, Antos oder Actros, Antos Atego Unterschied, Antos Fahrerhaus, Antos Loader, Antos Volumer, Antos 1840, Antos 2543, Antos Sattelzugmaschine, Antos Baujahre, Antos verkaufen, Antos Ankauf, gebrauchten Antos verkaufen, Verteiler LKW verkaufen
@@ -31,7 +31,7 @@ Die drei Baureihen überschneiden sich, haben aber jeweils einen klaren Schwerpu
 - **Antos:** schwer, vor allem 18 bis 26 Tonnen. Regionaler Verteilerverkehr mit vielen Stopps und schweren Lasten.
 - **Actros:** schwer, vor allem Fernverkehr. Große Fahrerhäuser zum Übernachten, meist als Sattelzugmaschine.
 
-![Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau auf einem Hof](angebot-atego-koffer.jpeg "Eine Klasse darunter: Der Atego deckt den leichten und mittleren Verteilerverkehr bis 16 Tonnen ab.")
+![Weißer Mercedes-Benz Atego 1224 Koffer-LKW als leichtere Alternative zum Antos im Verteilerverkehr](angebot-atego-koffer.jpeg "Eine Klasse darunter: Der Atego deckt den leichten und mittleren Verteilerverkehr bis 16 Tonnen ab.")
 
 Wer mehr über die leichtere Baureihe wissen möchte, findet alles in unserem Beitrag zum [Mercedes-Benz Atego](blog-mercedes-atego).
 
@@ -43,7 +43,7 @@ Auf den ersten Blick sieht ein Antos aus wie ein Actros der Baureihe ab 2011. Da
 - **Das Fahrerhaus.** Alle Fahrerhäuser des Antos sind 2,30 Meter breit, in kurzer Ausführung mit 1,70 Meter Länge oder in mittlerer mit 2,00 Meter. Lange Fernverkehrskabinen mit Hochdach und 2,50 Meter Breite gibt es beim Antos nicht.
 - **Die Papiere.** In der Zulassungsbescheinigung Teil I steht unter D.3 die Handelsbezeichnung. Damit ist die Sache eindeutig.
 
-![Weiße Mercedes-Benz Actros Sattelzugmaschine von vorne](export-actros-weiss-front.webp "Zum Vergleich: ein Actros mit großem Fernverkehrs-Fahrerhaus.")
+![Weiße Mercedes-Benz Actros Sattelzugmaschine frontal mit großem Fernverkehrs-Fahrerhaus zum Vergleich mit dem Antos](export-actros-weiss-front.webp "Zum Vergleich: ein Actros mit großem Fernverkehrs-Fahrerhaus.")
 
 ## Was bedeuten 1840 oder 2543?
 

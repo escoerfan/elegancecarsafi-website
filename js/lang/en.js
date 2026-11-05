@@ -1251,7 +1251,6 @@
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS Exclusive Commerce Services GmbH": "Commercial vehicles in everyday life: why nothing runs without trucks and buses | ECS Exclusive Commerce Services GmbH",
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "White box-body distribution truck in the yard of ECS GmbH in Gehrden",
 
   /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
   "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "Once you agree, we draw up the purchase contract and complete the deal.",
@@ -1264,15 +1263,12 @@
 
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
   "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros MP1 to MP5: Model Years and Differences | ECS Exclusive Commerce Services GmbH",
-  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "White Mercedes-Benz Actros tractor unit with a high cab in a car park",
 
   /* ---- Blog: Mercedes Atego ---- */
   "Mercedes Atego: Generationen, Typen und Maut | ECS Exclusive Commerce Services GmbH": "Mercedes Atego: Generations, Models and Toll | ECS Exclusive Commerce Services GmbH",
-  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "Red Mercedes-Benz Atego tipper in the snow on a paved yard",
 
   /* ---- Blog: MAN 12-Tonner ---- */
   "MAN 12-Tonner: TGL und TGM im Überblick | ECS Exclusive Commerce Services GmbH": "MAN 12-tonne truck: TGL and TGM at a glance | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "White MAN TGL 12-tonne box truck seen from the front on a yard",
 
   /* ---- SEO Verkäufer-Begriffe 02.11. ---- */
   "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS Exclusive Commerce Services GmbH": "Truck buying near Hanover: sell your truck, also for export | ECS Exclusive Commerce Services GmbH",
@@ -1285,15 +1281,21 @@
 
   /* ---- Blog: Arocs oder Actros, Mercedes Antos ---- */
   "Arocs oder Actros: Was ist der Unterschied? | ECS Exclusive Commerce Services GmbH": "Arocs or Actros: What Is the Difference? | ECS Exclusive Commerce Services GmbH",
-  "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen auf einer Straße im Gewerbegebiet": "Green three-axle Mercedes-Benz Arocs tractor unit on a road in an industrial area",
   "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS Exclusive Commerce Services GmbH": "Mercedes Antos: Models, Cabs, Differences | ECS Exclusive Commerce Services GmbH",
-  "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "Red Mercedes-Benz Antos seen from the front on a gravel yard, with more trucks behind it",
 
   /* ---- Blog: Volvo Sattelzugmaschinen ---- */
   "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH": "Volvo Tractor Units: FH, FH16, FM and Generations | ECS Exclusive Commerce Services GmbH",
-  "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "White Volvo FH tractor unit with a high cab on a road in an industrial area",
 
   /* ---- Blog: LKW-Stau Grenze Türkei–Bulgarien ---- */
   "LKW-Stau Kapıkule und Kapitan Andreevo: Gründe und aktuelle Lage | ECS Exclusive Commerce Services GmbH": "Truck Queues at Kapıkule and Kapitan Andreevo: Causes and Current Situation | ECS Exclusive Commerce Services GmbH",
-  "Schwarze Sattelzugmaschine Mercedes-Benz Actros von vorne auf einem gepflasterten Hof": "Black Mercedes-Benz Actros tractor unit seen from the front on a paved yard"
+
+  /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
+  "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "White Mercedes-Benz Actros 4x2 tractor unit of the 2011+ series with high cab and roof light bar",
+  "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Green three-axle Mercedes-Benz Arocs tractor unit with angular construction-truck grille in an industrial area",
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "Black Mercedes-Benz Actros long-haul tractor unit for international transport, front view in a paved yard",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "White MAN TGL 12-tonne box truck with short cab, front view in a yard",
+  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Red Mercedes-Benz Antos distribution truck, front view with Antos lettering, more trucks behind it",
+  "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Red current-generation Mercedes-Benz Atego tipper in the snow in a paved yard",
+  "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "White Mercedes-Benz Atego box-body distribution truck in the yard of ECS GmbH in Gehrden near Hanover",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "White Volvo FH 4x2 tractor unit of the 2020+ generation with high cab in an industrial area"
 };

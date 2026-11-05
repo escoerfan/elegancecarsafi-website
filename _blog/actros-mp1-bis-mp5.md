@@ -6,7 +6,7 @@ datum: 2026-11-01
 zeit: 20:00
 kategorie: Wissen
 bild: angebot-actros-sattelzug.jpeg
-bild_alt: Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz
+bild_alt: Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel
 bildnachweis: Fotos: ECS GmbH
 anriss: Vom ersten Actros 1996 bis zum MP5 mit Kameras statt Spiegeln: was die fünf Generationen unterscheidet und woran Sie Ihren Actros erkennen.
 stichworte: Actros MP1, Actros MP2, Actros MP3, Actros MP4, Actros MP5, Actros Generationen, Actros Unterschiede, Actros Baujahre, Actros MP erkennen, Actros verkaufen, Actros Ankauf, gebrauchten Actros verkaufen, Mercedes Actros Ankauf, Sattelzugmaschine verkaufen
@@ -41,7 +41,7 @@ Wichtig für die Einordnung ist die Abgasnorm. Frühe MP2 erfüllen Euro III und
 
 Den MP3 zeigte Mercedes-Benz 2008 auf der IAA Nutzfahrzeuge. Es war eine Modellpflege und keine Neukonstruktion: Spiegelhalter, Scheinwerfer und Details am Fahrerhaus wurden überarbeitet, dazu kamen ein Licht- und Regensensor, ein weiterentwickelter Notbremsassistent und eine neue Version des PowerShift-Getriebes. Die meisten MP3 erfüllen Euro 5 oder EEV.
 
-![Schwarze Mercedes-Benz Actros Sattelzugmaschine der dritten Generation von vorne auf einem gepflasterten Hof](export-drittland-actros-schwarz.webp "Actros der dritten Generation (MP3): die letzte Baureihe vor Euro VI.")
+![Schwarzer Mercedes-Benz Actros MP3 als Sattelzugmaschine von vorne, gut zu erkennen am Kühlergrill mit drei Chromspangen](export-drittland-actros-schwarz.webp "Actros der dritten Generation (MP3): die letzte Baureihe vor Euro VI.")
 
 Der MP3 ist in Deutschland noch häufig unterwegs. Viele Speditionen ersetzen ihn aber nach und nach. Ein Grund ist die Maut: Sie richtet sich nach der Schadstoffklasse, und Euro 5 kostet pro Kilometer mehr als Euro VI. Hinzu kommt, dass viele Auftraggeber inzwischen Euro VI verlangen.
 
@@ -49,7 +49,7 @@ Der MP3 ist in Deutschland noch häufig unterwegs. Viele Speditionen ersetzen ih
 
 2011 kam der „neue Actros“, eine komplette Neuentwicklung. Neues Fahrerhaus in mehreren Größen (ClassicSpace, StreamSpace, BigSpace und GigaSpace), neue Reihensechszylinder statt der V-Motoren und von Anfang an Euro VI. Mit Predictive Powertrain Control kam ein Tempomat, der per GPS die Strecke kennt und Steigungen vorausschauend einplant.
 
-![Rote Mercedes-Benz Actros Sattelzugmaschine der Baureihe ab 2011 frontal vor roten Garagentoren](export-eu-actros-rot.webp "Ab 2011 mit neuem Fahrerhaus und Euro VI: der Actros MP4.")
+![Roter Mercedes-Benz Actros MP4 frontal: Fahrerhaus und Kühlergrill der Generation ab 2011 mit Euro VI](export-eu-actros-rot.webp "Ab 2011 mit neuem Fahrerhaus und Euro VI: der Actros MP4.")
 
 Der MP4 ist heute der Actros, der auf dem Gebrauchtmarkt am häufigsten angeboten wird. Viele Flotten haben ihn in großen Stückzahlen gekauft und geben ihn jetzt nach und nach ab. Für Käufer heißt das: große Auswahl. Für Verkäufer heißt das: viel Konkurrenz und Preise, die sich am Markt orientieren müssen.
 
@@ -87,7 +87,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Actros, der auf dem Hof steht, v
 
 Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Actros an](lkw-verkaufen), vom MP1 bis zum MP5: Sattelzugmaschinen, Pritschen- und Planen-LKW, Kipper und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Generationen einen Abnehmer.
 
-![Schwarzer Mercedes-Benz Actros mit Planenaufbau auf einer Straße im Gewerbegebiet](ablauf-actros-planen.webp "Ob Sattelzugmaschine oder Planen-LKW: Wir kaufen Actros aller Generationen.")
+![Schwarzer gebrauchter Mercedes-Benz Actros MP4 mit Planenaufbau und drei Achsen auf einer Straße im Gewerbegebiet](ablauf-actros-planen.webp "Ob Sattelzugmaschine oder Planen-LKW: Wir kaufen Actros aller Generationen.")
 
 So einfach geht es:
 

@@ -6,7 +6,7 @@ datum: 2026-11-02
 zeit: 21:00
 kategorie: Wissen
 bild: blog-volvo-fh-weiss.webp
-bild_alt: Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet
+bild_alt: Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet
 bildnachweis: Fotos: ECS GmbH
 anriss: Vom FH12 aus dem Jahr 1993 bis zum FH Aero: was FH, FH16 und FM unterscheidet, was Zahlen wie 460 oder 500 bedeuten und welche Fahrerhäuser es gibt.
 stichworte: Volvo Sattelzugmaschine, Volvo FH Sattelzugmaschine, Volvo FH, Volvo FH16, Volvo FM Sattelzugmaschine, Volvo FH Generationen, Volvo FH4, Volvo FH Aero, Volvo FH 460, Volvo FH 500, Volvo FH 540, Volvo FH16 750, Volvo Globetrotter, Volvo Globetrotter XL, Volvo FH Fahrerhaus, Volvo I-Shift, Volvo SZM, Volvo Sattelzugmaschine verkaufen, Volvo LKW Ankauf, Volvo FH verkaufen, Sattelzugmaschine verkaufen
@@ -27,7 +27,7 @@ Daneben gibt es den **FMX** für die Baustelle, mit mehr Bodenfreiheit und robus
 
 Übrigens: Volvo Trucks und Volvo Cars sind seit 1999 getrennte Unternehmen. Die LKW und Busse kommen von der schwedischen Volvo-Gruppe, die Personenwagen gehören heute zum chinesischen Konzern Geely.
 
-![Weißer Volvo Reisebus mit geöffneter Tür auf dem Hof der ECS GmbH](reisebus-volvo-weiss.webp "Auch Reisebusse kommen aus der Volvo-Gruppe, nicht von Volvo Cars.")
+![Weißer Volvo Reisebus mit drei Achsen und geöffneter Tür auf dem Hof der ECS GmbH in Gehrden](reisebus-volvo-weiss.webp "Auch Reisebusse kommen aus der Volvo-Gruppe, nicht von Volvo Cars.")
 
 ## Die Generationen des Volvo FH
 

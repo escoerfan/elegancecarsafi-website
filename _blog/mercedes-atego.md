@@ -6,7 +6,7 @@ datum: 2026-11-02
 zeit: 12:00
 kategorie: Wissen
 bild: angebot-atego-kipper.jpeg
-bild_alt: Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof
+bild_alt: Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof
 bildnachweis: Fotos: ECS GmbH
 anriss: Vom ersten Atego 1998 bis zur heutigen Euro-VI-Baureihe: was hinter Typen wie 818 oder 1224 steckt und warum 7,49 Tonnen so oft im Fahrzeugschein stehen.
 stichworte: Mercedes Atego, Mercedes-Benz Atego, Atego Generationen, Atego Baujahre, Atego 818, Atego 1224, Atego 1530, Atego Typenbezeichnung, Atego Fahrerhaus, Atego 7,5 Tonner, Atego 12 Tonner, Atego Euro 6, Atego verkaufen, Atego Ankauf, gebrauchten Atego verkaufen, Koffer LKW verkaufen, Verteiler LKW verkaufen
@@ -45,7 +45,7 @@ Diese Baureihe ist auf dem Gebrauchtmarkt noch sehr präsent. Wie beim Actros gi
 
 2013 stellte Mercedes-Benz den neuen Atego vor, mit Euro-VI-Motoren aus der neuen Motorenfamilie: dem Vierzylinder OM 934 und dem Sechszylinder OM 936, zusammen 156 bis 299 PS. Das Cockpit wurde an Actros, Antos und Arocs angeglichen, das automatisierte Getriebe PowerShift 3 und das Stabilitätsprogramm ESP wurden Serie. Diese Motoren treiben den Atego bis heute an.
 
-![Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau auf einem Hof](angebot-atego-koffer.jpeg "Atego 1224 der aktuellen Baureihe mit Euro VI.")
+![Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau und Euro VI, Typenbezeichnung an der Fahrertür](angebot-atego-koffer.jpeg "Atego 1224 der aktuellen Baureihe mit Euro VI.")
 
 Seit 2024 gibt es zusätzlich den Notbremsassistenten Active Brake Assist 6 und den Abbiegeassistenten Active Sideguard Assist 2 ([Daimler Truck](https://www.daimlertruck.com/en/newsroom/pressrelease/25th-anniversary-of-the-mercedes-benz-atego-a-truck-as-versatile-as-the-transport-tasks-in-distribution-haulage-52536028)).
 
@@ -57,11 +57,11 @@ Die Zahl auf der Fahrertür ist kein Fantasiename, sondern eine Kurzbeschreibung
 - **Atego 1224:** rund 12 Tonnen, rund 240 PS
 - **Atego 1530:** rund 15 Tonnen, rund 300 PS
 
-![Weißer Mercedes-Benz Atego 818 mit Kofferaufbau auf einem Hof](pitch-atego-koffer.webp "Ein typischer Atego 818 mit Koffer: die klassische Verteiler-Ausführung.")
+![Weißer Mercedes-Benz Atego 818 Koffer-LKW, die klassische 7,5-Tonner-Ausführung im Verteilerverkehr](pitch-atego-koffer.webp "Ein typischer Atego 818 mit Koffer: die klassische Verteiler-Ausführung.")
 
 Beide Werte sind gerundet. Ein 818 ist häufig auf 7,49 Tonnen zugelassen, ein 1224 auf 11,99 Tonnen. Warum gerade diese Werte so häufig sind, steht weiter unten. Buchstaben hinter der Zahl beschreiben die Ausführung, etwa K für Kipper oder A für Allradantrieb. Welches Gewicht und welche Leistung Ihr Fahrzeug genau hat, steht in der Zulassungsbescheinigung Teil I.
 
-![Weißer Mercedes-Benz Atego 1230 mit Planenaufbau und großem Fahrerhaus](export-eu-atego-plane.webp "1230 an der Tür: rund 12 Tonnen und knapp 300 PS.")
+![Weißer Mercedes-Benz Atego 1230 mit Planenaufbau und großem Fahrerhaus, rund 12 Tonnen und knapp 300 PS](export-eu-atego-plane.webp "1230 an der Tür: rund 12 Tonnen und knapp 300 PS.")
 
 ## Welche Fahrerhäuser gibt es?
 

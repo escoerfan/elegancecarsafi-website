@@ -1237,7 +1237,6 @@
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
   "Nutzfahrzeuge im Alltag: Warum ohne LKW und Bus nichts läuft | ECS Exclusive Commerce Services GmbH": "المركبات التجارية في الحياة اليومية: لماذا لا يعمل شيء بدون الشاحنات والحافلات | ECS Exclusive Commerce Services GmbH",
   /* ---- Blog: Nutzfahrzeuge im Alltag (01.11.2026) ---- */
-  "Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden": "شاحنة توزيع بيضاء بصندوق مغلق في ساحة شركة ECS GmbH في غيردن",
 
   /* ---- Ankauf: Abschluss ohne Zahlungsart (01.11.2026) ---- */
   "Nach Ihrer Zusage erstellen wir den Kaufvertrag und schließen das Geschäft ab.": "بعد موافقتكم نُعِدّ عقد الشراء ونُتمّ الصفقة.",
@@ -1250,15 +1249,12 @@
 
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
   "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS Exclusive Commerce Services GmbH",
-  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit hohem Fahrerhaus auf einem Parkplatz": "شاحنة جرّ Mercedes-Benz Actros بيضاء بكابينة عالية في موقف سيارات",
 
   /* ---- Blog: Mercedes Atego ---- */
   "Mercedes Atego: Generationen, Typen und Maut | ECS Exclusive Commerce Services GmbH": "مرسيدس أتيغو: الأجيال والطرازات ورسوم الطرق | ECS Exclusive Commerce Services GmbH",
-  "Roter Mercedes-Benz Atego mit Kipperaufbau im Schnee auf einem gepflasterten Hof": "شاحنة مرسيدس-بنز أتيغو قلابة حمراء في الثلج على ساحة مرصوفة",
 
   /* ---- Blog: MAN 12-Tonner ---- */
   "MAN 12-Tonner: TGL und TGM im Überblick | ECS Exclusive Commerce Services GmbH": "شاحنة مان 12 طن: TGL و TGM في لمحة | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGL 12-Tonner mit Kofferaufbau von vorne auf einem Hof": "شاحنة مان TGL بيضاء بوزن 12 طن مع صندوق مغلق من الأمام في ساحة",
 
   /* ---- SEO Verkäufer-Begriffe 02.11. ---- */
   "LKW Ankauf bei Hannover: LKW verkaufen, auch Export | ECS Exclusive Commerce Services GmbH": "شراء الشاحنات قرب هانوفر: بيع شاحنتكم، للتصدير أيضًا | ECS Exclusive Commerce Services GmbH",
@@ -1271,15 +1267,21 @@
 
   /* ---- Blog: Arocs oder Actros, Mercedes Antos ---- */
   "Arocs oder Actros: Was ist der Unterschied? | ECS Exclusive Commerce Services GmbH": "أروكس أم أكتروس: ما الفرق؟ | ECS Exclusive Commerce Services GmbH",
-  "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen auf einer Straße im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور على طريق في منطقة صناعية",
   "Mercedes Antos: Typen, Fahrerhäuser, Unterschiede | ECS Exclusive Commerce Services GmbH": "مرسيدس أنتوس: الطرازات والكبائن والفروق | ECS Exclusive Commerce Services GmbH",
-  "Roter Mercedes-Benz Antos von vorne auf einem Hof mit Kiesboden, dahinter weitere LKW": "مرسيدس-بنز أنتوس حمراء من الأمام في ساحة مفروشة بالحصى، وخلفها شاحنات أخرى",
 
   /* ---- Blog: Volvo Sattelzugmaschinen ---- */
   "Volvo Sattelzugmaschine: FH, FH16, FM und Generationen | ECS Exclusive Commerce Services GmbH": "رؤوس القاطرات فولفو: FH وFH16 وFM والأجيال | ECS Exclusive Commerce Services GmbH",
-  "Weiße Volvo FH Sattelzugmaschine mit hohem Fahrerhaus auf einer Straße im Gewerbegebiet": "رأس قاطرة فولفو FH أبيض بكابينة عالية على شارع في منطقة صناعية",
 
   /* ---- Blog: LKW-Stau Grenze Türkei–Bulgarien ---- */
   "LKW-Stau Kapıkule und Kapitan Andreevo: Gründe und aktuelle Lage | ECS Exclusive Commerce Services GmbH": "طوابير الشاحنات عند كابيكولي وكابيتان أندرييفو: الأسباب والوضع الحالي | ECS Exclusive Commerce Services GmbH",
-  "Schwarze Sattelzugmaschine Mercedes-Benz Actros von vorne auf einem gepflasterten Hof": "رأس قاطرة مرسيدس-بنز أكتروس سوداء من الأمام في ساحة مرصوفة"
+
+  /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
+  "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "رأس قاطرة مرسيدس-بنز أكتروس 4x2 بيضاء من طراز ما بعد 2011 بكابينة عالية وعارضة أضواء",
+  "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبكة أمامية حادة الزوايا لشاحنات البناء في منطقة صناعية",
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "رأس قاطرة مرسيدس-بنز أكتروس سوداء للنقل الدولي لمسافات طويلة، منظر أمامي في ساحة مرصوفة",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "شاحنة مان TGL بيضاء بحمولة 12 طنًا بصندوق مغلق وكابينة قصيرة، منظر أمامي في ساحة",
+  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "شاحنة توزيع مرسيدس-بنز أنتوس حمراء بشعار Antos، منظر أمامي، وخلفها شاحنات أخرى",
+  "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "قلاب مرسيدس-بنز أتيغو أحمر من الجيل الحالي في الثلج في ساحة مرصوفة",
+  "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "شاحنة توزيع مرسيدس-بنز أتيغو بيضاء بصندوق مغلق في ساحة ECS GmbH في غيردن قرب هانوفر",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "رأس قاطرة فولفو FH 4x2 بيضاء من جيل ما بعد 2020 بكابينة عالية في منطقة صناعية"
 };

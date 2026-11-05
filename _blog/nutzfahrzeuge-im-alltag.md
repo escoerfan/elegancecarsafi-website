@@ -5,7 +5,7 @@ beschreibung: Vom Frühstück bis zum Linienbus: Wie oft Sie jeden Tag Nutzfahrz
 datum: 2026-11-01
 kategorie: Wissen
 bild: angebot-atego-koffer.jpeg
-bild_alt: Weißer Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden
+bild_alt: Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover
 bildnachweis: Fotos: ECS GmbH
 anriss: Brötchen, Busfahrt, Baustelle, Müllabfuhr: Ein ganz normaler Tag zeigt, wie sehr unser Alltag an Nutzfahrzeugen hängt.
 stichworte: Nutzfahrzeuge, Nutzfahrzeuge im Alltag, Bedeutung von Nutzfahrzeugen, Nutzfahrzeuge Wirtschaft, LKW Güterverkehr Deutschland, Linienbus Fahrgäste, Kommunalfahrzeuge, Winterdienst Fahrzeuge, Baufahrzeuge Straßenbau, Nutzfahrzeughandel, Nutzfahrzeuge Export, Nutzfahrzeug Ankauf Hannover
@@ -20,7 +20,7 @@ Brötchen, Milch, Butter, Obst: Bevor irgendetwas davon auf Ihrem Tisch lag, ist
 
 Bahn und Binnenschiff übernehmen viel bei großen Mengen über lange Strecken. Der Weg in den Supermarkt um die Ecke führt aber fast immer über die Straße. Laut [Statistischem Bundesamt](https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Transport-Verkehr/Gueterverkehr/Tabellen/gueterbefoerderung-lr.html) wurden 2024 in Deutschland rund 3,34 Milliarden Tonnen Güter mit dem LKW befördert. Das sind knapp 79 Prozent aller transportierten Güter.
 
-![Weißer Kühlauflieger mit Kühlaggregat an der Stirnseite auf dem Hof der ECS GmbH](blog-kuehlauflieger.jpeg "Kühlauflieger bringen frische Lebensmittel über Nacht vom Lager in die Filiale.")
+![Weißer dreiachsiger Kühlauflieger mit Kühlaggregat an der Stirnseite auf dem Hof der ECS GmbH](blog-kuehlauflieger.jpeg "Kühlauflieger bringen frische Lebensmittel über Nacht vom Lager in die Filiale.")
 
 ## 7:15 Uhr: Mit dem Bus zur Arbeit oder zur Schule
 
@@ -28,7 +28,7 @@ Für Millionen Menschen beginnt der Tag an der Haltestelle. Im Nahverkehr mit Bu
 
 Besonders auf dem Land ist der Bus oft das einzige öffentliche Verkehrsmittel überhaupt. Schulbus, Berufsverkehr, die Fahrt zum Arzt: Fällt eine Linie aus, merkt das ein ganzer Ort.
 
-![Weißer Linienbus von vorne auf einem gepflasterten Betriebshof](angebot-linienbus-citaro.webp "Linienbusse befördern im Nahverkehr mehr Fahrgäste als jedes andere Verkehrsmittel.")
+![Weißer Mercedes-Benz Citaro Linienbus von vorne auf einem gepflasterten Betriebshof](angebot-linienbus-citaro.webp "Linienbusse befördern im Nahverkehr mehr Fahrgäste als jedes andere Verkehrsmittel.")
 
 ## 8:00 Uhr: Die Baustelle, über die alle schimpfen
 
@@ -36,7 +36,7 @@ Auf dem Weg ins Büro wieder Stau, eine Spur ist gesperrt. Ärgerlich, aber hint
 
 Ohne diese Fahrzeuge gäbe es keinen Straßenbau, keinen Wohnungsbau und keine Erneuerung der Infrastruktur, über die in Deutschland so viel gesprochen wird.
 
-![Kipper mit angehobener Mulde auf einem Betriebsgelände](bau-arocs-kipper.webp "Ohne Kipper kein Straßenbau: Schotter, Sand und Asphalt kommen per LKW auf die Baustelle.")
+![Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Mulde, wie er im Straßenbau Schotter und Sand fährt](bau-arocs-kipper.webp "Ohne Kipper kein Straßenbau: Schotter, Sand und Asphalt kommen per LKW auf die Baustelle.")
 
 ## Tagsüber: Handwerk, Pakete, Pflege
 
@@ -46,7 +46,7 @@ Der Elektriker, der bei Ihnen die Steckdose repariert, kommt mit dem Transporter
 
 Abends geht es zum Sport. Die Halle wurde mit LKW-Ladungen Beton gebaut, die Geräte darin kamen per Spedition. Am Wochenende fährt die Mannschaft mit dem Reisebus zum Auswärtsspiel, die Schulklasse auf Klassenfahrt, der Seniorenclub zum Tagesausflug. Ein Reisebus ersetzt dabei viele einzelne Autos, und alle kommen gemeinsam an.
 
-![Weißer Reisebus auf dem Hof der ECS GmbH](reisebus-volvo-weiss.webp "Vereinsfahrt, Klassenfahrt, Ausflug: Reisebusse bringen Gruppen gemeinsam ans Ziel.")
+![Weißer dreiachsiger Volvo Reisebus mit geöffneten Türen auf dem Hof der ECS GmbH](reisebus-volvo-weiss.webp "Vereinsfahrt, Klassenfahrt, Ausflug: Reisebusse bringen Gruppen gemeinsam ans Ziel.")
 
 ## Die unsichtbare Schicht: Müllabfuhr, Kanal und Winterdienst
 
@@ -54,7 +54,7 @@ Manche Nutzfahrzeuge arbeiten, wenn wir noch schlafen. Die Müllabfuhr leert jed
 
 Erst wenn eines davon fehlt, merken wir, wie sehr wir uns darauf verlassen: die Tonne, die nicht geleert wurde, oder die Straße, die nach dem ersten Schnee noch glatt ist.
 
-![Weißes Kommunalfahrzeug mit Kofferaufbau und tiefem Einstieg in die Fahrerkabine](angebot-spezial-econic.webp "Fahrgestelle mit tiefem Einstieg sind typisch für Kommunaldienste wie die Müllabfuhr.")
+![Weißer Mercedes-Benz Econic Kommunalfahrzeug mit Kofferaufbau und tiefem Einstieg in die Fahrerkabine](angebot-spezial-econic.webp "Fahrgestelle mit tiefem Einstieg sind typisch für Kommunaldienste wie die Müllabfuhr.")
 
 ## Die Zahlen dahinter
 
