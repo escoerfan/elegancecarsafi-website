@@ -67,6 +67,20 @@ def widths(name):
     return sorted(ws)
 
 
+# Alt-Texte der Mockup-Fotos (SEO, 05.11.2026). Schlüssel = Bildname; die
+# Texte stehen auch in js/lang/*.js. Fehlt ein Name, bleibt alt leer.
+ALT = {
+    'ablauf-man-tgx': 'Schwarze MAN TGX Sattelzugmaschine bei der Bewertung für den LKW-Ankauf',
+    'ablauf-axor-gruen': 'Grüner Mercedes-Benz Axor LKW von vorne bei der Abholung nach dem Ankauf',
+    'angebot-radlader-cat': 'Caterpillar 924H Radlader auf einem Tieflader bei der Bewertung für den Ankauf',
+    'angebot-linienbus-citaro': 'Weißer Mercedes-Benz Citaro Linienbus bei der Bewertung für den Ankauf',
+    'bewertung-sprinter': 'Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf',
+    'reisebus-setra-silber': 'Silberner Setra Reisebus bei der Bewertung für den Ankauf',
+    'kontakt-atego-reihe': 'Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks',
+    'export-eu-actros-rot': 'Roter Mercedes-Benz Actros bei der Übergabe mit allen Exportpapieren',
+}
+
+
 def photo(name, cls='mk-photo', pos='50% 50%', sizes='(max-width: 991px) 92vw, 600px'):
     ws = widths(name)
     def ss(ext):
@@ -75,9 +89,10 @@ def photo(name, cls='mk-photo', pos='50% 50%', sizes='(max-width: 991px) 92vw, 6
     return ('<picture>'
             '<source type="image/avif" srcset="%s" sizes="%s">'
             '<source type="image/webp" srcset="%s" sizes="%s">'
-            '<img class="%s" src="assets/img/opt/%s-%d.jpg" srcset="%s" sizes="%s" alt="" '
+            '<img class="%s" src="assets/img/opt/%s-%d.jpg" srcset="%s" sizes="%s" alt="%s" '
             'style="object-position: %s" loading="lazy" decoding="async">'
-            '</picture>') % (ss('avif'), sizes, ss('webp'), sizes, cls, name, big, ss('jpg'), sizes, pos)
+            '</picture>') % (ss('avif'), sizes, ss('webp'), sizes, cls, name, big, ss('jpg'), sizes,
+                             html.escape(ALT.get(name, '')), pos)
 
 
 def thumb(name, crop):

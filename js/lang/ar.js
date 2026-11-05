@@ -14,7 +14,6 @@
   "Impressum | ECS Exclusive Commerce Services GmbH": "البيانات القانونية | ECS Exclusive Commerce Services GmbH",
   "Datenschutz | ECS Exclusive Commerce Services GmbH": "الخصوصية | ECS Exclusive Commerce Services GmbH",
   "Elegance Car Safi – Startseite": "Elegance Car Safi – الصفحة الرئيسية",
-  "Logo der ECS GmbH – Elegance Car Safi": "شعار ECS GmbH – Elegance Car Safi",
   "Über uns": "من نحن",
   "Fahrzeuge": "المركبات",
   "Unsere Arbeit": "طريقة عملنا",
@@ -26,8 +25,6 @@
   "Menü schließen": "إغلاق القائمة",
   "Zur Startseite": "إلى الصفحة الرئيسية",
   "Zurück": "رجوع",
-
-  "Gebrauchter Mercedes-Benz Actros LKW vor Bergpanorama": "شاحنة مرسيدس-بنز أكتروس مستعملة أمام منظر جبلي",
   "Ihr Idealer": "شريككم",
   "Partner für": "المثالي في",
   "Nutzfahrzeuge": "المركبات التجارية",
@@ -39,8 +36,6 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "نتعامل حصريًا بمركبات من شركات تصنيع معروفة. جودة تُثبت قيمتها يوميًا في الاستخدام التجاري.",
   "Mehr über uns": "المزيد عنا",
   "Marken, die wir handeln": "العلامات التجارية التي نتعامل بها",
-  "Gebrauchter Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "مرسيدس-بنز أتيغو 818 مستعملة بصندوق مغلق في الساحة",
-  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "صف من شاحنات الصندوق المستعملة من مرسيدس-بنز ومان",
   "5 von 5 Sternen": "5 من 5 نجوم",
   "Über": "أكثر من",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "عامًا من الخبرة في تجارة المركبات التجارية و",
@@ -185,8 +180,6 @@
   "Wir liefern in ganz Europa sowie nach Asien, Afrika und in weitere internationale Märkte.": "نوصل إلى جميع أنحاء أوروبا وكذلك إلى آسيا وأفريقيا وأسواق دولية أخرى.",
   "Unsere Checkliste für Kunden aus der EU – alle Unterlagen und Schritte auf einen Blick.": "قائمة التحقق الخاصة بنا لعملاء الاتحاد الأوروبي – جميع المستندات والخطوات في لمحة واحدة.",
   "PDF öffnen": "فتح ملف PDF",
-
-  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "مرسيدس-إيه إم جي جي تي صفراء في صالة عرض",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "اتصلوا بنا أو راسلونا عبر واتساب. نرد بسرعة ونقدم عرضًا محددًا دون انتظار طويل.",
   "Vorname": "الاسم الأول",
   "Nachname": "اسم العائلة",
@@ -796,14 +789,7 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau in der Frontansicht": "مرسيدس-بنز أكتروس سوداء بهيكل مغطى بقماش، منظر أمامي",
 
   /* ---- Unsere Arbeit ---- */
-  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "أربع سيارات مرسيدس-بنز سبرينتر سوداء على جسر",
-
   /* ---- Fotos Ankaufseiten und Export ---- */
-  "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "شاحنة جرّ مستعملة MAN TGX 18.500 باللون الأسود في الساحة",
-  "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "حافلة سياحية مستعملة Magelys باللون الأبيض في الساحة",
-  "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "شاحنة قلّابة مستعملة مرسيدس-بنز أروكس مع صندوق مرفوع",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "مرسيدس-بنز أكتروس بيضاء في ضوء المساء",
-
   /* ---- Keyword-Runde 25.10.2026 ---- */
   "Nutzfahrzeug Export: Busexport & LKW Export | ECS Exclusive Commerce Services GmbH": "تصدير المركبات التجارية: الحافلات والشاحنات | ECS Exclusive Commerce Services GmbH",
   "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "نورّد في جميع أنحاء أوروبا بما فيها أوروبا الشرقية وإلى الشرق الأوسط وآسيا وأفريقيا وأسواق دولية أخرى. ومن يشتري مركبة من مخزوننا يحصل على المركبة وأوراق التصدير والنقل من جهة واحدة.",
@@ -814,14 +800,7 @@
 
   /* ---- Ablauf-Fotos ---- */
   "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "رأس قاطرة MAN TGX سوداء في ساحة ECS GmbH",
-  "Rote Sattelzugmaschine Mercedes-Benz Actros von vorne": "رأس قاطرة مرسيدس-بنز أكتروس حمراء من الأمام",
-  "Weißer Mercedes-Benz Atego 1230 mit Planenaufbau": "مرسيدس-بنز أتيغو 1230 بيضاء بهيكل مغطى بالقماش",
-  "Schwarze Sattelzugmaschine Mercedes-Benz Actros auf dem Hof": "رأس قاطرة مرسيدس-بنز أكتروس سوداء في الساحة",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "مرسيدس-بنز أكتروس سوداء بهيكل مغطى بالقماش في الساحة",
-  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "مرسيدس-بنز أكسور زرقاء برافعة تحميل وصندوق مفتوح",
-  "Grüner MAN TGM Absetzkipper im Schnee": "شاحنة حاويات MAN TGM خضراء في الثلج",
-  "Weißer MAN TGL mit Kofferaufbau": "شاحنة MAN TGL بيضاء بصندوق مغلق",
-
   /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
   "Erklärfilm": "فيديو توضيحي",
   "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "ترسلون لنا الصور، فنقيّم بسرعة ونقدّم عرضاً ثابتاً. الدفع مباشر، وسائقنا يستلم المركبة. ونتولى أيضاً التصدير والتخليص الجمركي.",
@@ -1033,8 +1012,6 @@
   "12 bis 18 Tonnen": "من 12 إلى 18 طنًا",
 
   /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
-  "Sattelauflieger mit Kippmulde auf dem Hof": "نصف مقطورة بصندوق قلاب في الساحة",
-
   /* ---- Fahrzeuge: Kleinbus, Linienbus, Radlader (31.10.2026) ---- */
   "Kleinbusse": "الحافلات الصغيرة",
   "Kleinbusse und Midibusse auf Basis des Mercedes-Benz Sprinter.": "حافلات صغيرة ومتوسطة على أساس مرسيدس-بنز سبرينتر.",
@@ -1045,10 +1022,6 @@
   "Kleinbusse und Midibusse auf Basis des Mercedes-Benz Sprinter und anderer Transporter.": "حافلات صغيرة ومتوسطة على أساس مرسيدس-بنز سبرينتر وفانات أخرى.",
   "Mercedes-Benz Travego, Tourino und Tourismo, Setra und weitere Reise- und Omnibusse.": "مرسيدس-بنز ترافيغو وتورينو وتوريزمو وسيترا وحافلات سياحة وحافلات كبيرة أخرى.",
   "Bagger, Radlader, Aufsitzmäher und Maschinen aus dem Garten- und Landschaftsbau.": "حفارات ولوادر وجزازات عشب راكبة وآلات تنسيق الحدائق.",
-  "Mercedes-Benz Sprinter Kleinbus in Braun von hinten": "حافلة صغيرة مرسيدس-بنز سبرينتر بنية من الخلف",
-  "Linienbus Mercedes-Benz Citaro in Weiß": "حافلة نقل عام مرسيدس-بنز سيتارو بيضاء",
-  "Radlader Caterpillar 924H auf einem Tieflader": "لودر كاتربيلر 924H على مقطورة منخفضة",
-
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "نشتري الشاحنات المستعملة من شركات الشحن والشركات.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "نشتري الحافلات السياحية المستعملة مباشرة من شركات الحافلات.",
@@ -1082,7 +1055,6 @@
   /* ---- Spezialfahrzeuge (Econic) ---- */
   "Spezialfahrzeuge": "مركبات خاصة",
   "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "مرسيدس-بنز إيكونيك وهياكل أخرى بتجهيزات خاصة، على سبيل المثال من الاستخدام البلدي.",
-  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "مرسيدس-بنز إيكونيك أبيض بصندوق مغلق في ساحتنا",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "أحد عشر نوعًا من المركبات تتواجد باستمرار في ساحتنا، مع طرازات نموذجية.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "نبيع شاحنات مستعملة من شاحنات التوزيع بوزن 7.5 طن حتى الشاحنات القاطرة، بالإضافة إلى القلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات الصغيرة والحافلات السياحية وحافلات النقل العام واللوادر ذات العجلات والمركبات الخاصة.",
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "شاحنات التوزيع والشاحنات القاطرة والقلابات والمقطورات نصف المقطورة وسيارات الفان والحافلات واللوادر ذات العجلات والمركبات الخاصة: ما هو متوفر حاليًا في ساحتنا في غيردن بالقرب من هانوفر يظهر في مخزوننا الحالي.",
@@ -1200,9 +1172,6 @@
   "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "ملف PDF لعملاء الاتحاد الأوروبي يضم جميع المستندات والخطوات. تجدونه في صفحة التصدير إلى الاتحاد الأوروبي.",
 
   /* ---- Export: neue Fotos (01.11.) ---- */
-  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "شاحنة Scania R 520 بيضاء بصندوق مفتوح ورافعة ومقطورة في ساحة ECS GmbH",
-  "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "رأس قاطرة Mercedes-Benz Actros 1842 أبيض من الأمام",
-
   /* ---- Blog (01.11.2026) ---- */
   "Blog": "المدونة",
   "Bereiche": "المجالات",
@@ -1221,16 +1190,7 @@
 
   /* ---- Neue Fotos (01.11.2026) ---- */
   "Frage stellen": "اطرح سؤالًا",
-  "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "رأس قاطرة مرسيدس-بنز أروكس 6x4 خضراء",
-  "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "مرسيدس-بنز أتيغو 1224 بيضاء بصندوق مغلق",
-  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "رأس قاطرة مرسيدس-بنز أكتروس بيضاء مع قوس إضاءة",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "شاحنة قلابة مرسيدس-بنز أتيغو حمراء في الثلج",
-
   /* ---- Busfotos (01.11.2026) ---- */
-  "Roter Scania Reisebus auf dem Hof": "حافلة سياحية سكانيا حمراء في الساحة",
-  "Weißer Setra Reisebus mit drei Achsen": "حافلة سياحية سيترا بيضاء بثلاثة محاور",
-  "Weißer Volvo Reisebus mit geöffneter Tür": "حافلة سياحية فولفو بيضاء بباب مفتوح",
-
   /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
   "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "شاحنات صندوقية بيضاء مصطفة في ساحة شركة ECS GmbH في غيردن",
 
@@ -1245,8 +1205,6 @@
   "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "لا داعي للقلق بشأن النقل. سائقونا يستلمون الحافلة من عندكم.",
 
   /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
-  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "شاحنة Mercedes-Benz Antos حمراء من الأمام في ساحة ECS GmbH، وخلفها شاحنات أخرى",
-
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
   "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros من MP1 إلى MP5: سنوات الصنع والفروق | ECS Exclusive Commerce Services GmbH",
 
@@ -1283,5 +1241,50 @@
   "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "شاحنة توزيع مرسيدس-بنز أنتوس حمراء بشعار Antos، منظر أمامي، وخلفها شاحنات أخرى",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "قلاب مرسيدس-بنز أتيغو أحمر من الجيل الحالي في الثلج في ساحة مرصوفة",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "شاحنة توزيع مرسيدس-بنز أتيغو بيضاء بصندوق مغلق في ساحة ECS GmbH في غيردن قرب هانوفر",
-  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "رأس قاطرة فولفو FH 4x2 بيضاء من جيل ما بعد 2020 بكابينة عالية في منطقة صناعية"
+  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "رأس قاطرة فولفو FH 4x2 بيضاء من جيل ما بعد 2020 بكابينة عالية في منطقة صناعية",
+
+  /* ---- Alt-Texte Seiten (05.11.2026) ---- */
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "شاحنة جرّ مرسيدس-بنز أكتروس سوداء بجانب بحيرة جبلية – ECS GmbH، شراء وتصدير المركبات التجارية المستعملة",
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – Kontakt zur ECS GmbH in Gehrden bei Hannover": "شاحنة جرّ مرسيدس-بنز أكتروس سوداء بجانب بحيرة جبلية – تواصل مع ECS GmbH في غيردن قرب هانوفر",
+  "Erklärfilm der ECS GmbH: Wir kaufen Linienbusse, LKW, Sattelzüge und Transporter direkt von Unternehmen": "فيلم تعريفي من ECS GmbH: نشتري حافلات النقل العام والشاحنات وشاحنات الجرّ والفانات مباشرة من الشركات",
+  "Gebrauchter Mercedes-Benz Atego 818 Verteiler-LKW mit Kofferaufbau in der 7,5-Tonnen-Klasse": "شاحنة توزيع مرسيدس-بنز أتيغو 818 مستعملة بصندوق مغلق من فئة 7.5 طن",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau vor einer Gewerbehalle – Nutzfahrzeughandel der ECS GmbH bei Hannover": "مرسيدس-بنز أتيغو 818 بصندوق مغلق أمام مستودع – تجارة المركبات التجارية لدى ECS GmbH قرب هانوفر",
+  "Gebrauchter Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Stahlmulde, ein typisches Baufahrzeug im Ankauf": "شاحنة قلّابة مرسيدس-بنز أروكس مستعملة بثلاثة محاور وصندوق فولاذي مرفوع، مركبة بناء نموذجية نشتريها",
+  "Gebrauchter grüner MAN TGM Absetzkipper im Schnee, ein typisches Kommunalfahrzeug im Ankauf": "شاحنة حاويات MAN TGM خضراء مستعملة في الثلج، مركبة بلدية نموذجية نشتريها",
+  "Caterpillar 924H Radlader auf einem Tieflader bei der Bewertung für den Ankauf": "لودر بعجلات كاتربيلر 924H على مقطورة منخفضة أثناء التقييم للشراء",
+  "Grüner Mercedes-Benz Axor LKW von vorne bei der Abholung nach dem Ankauf": "شاحنة مرسيدس-بنز أكسور خضراء من الأمام عند الاستلام بعد الشراء",
+  "Schwarzer Mercedes-Benz Actros MP3 Sattelzugmaschine von vorne für den Export in ein Drittland außerhalb der EU": "شاحنة جرّ مرسيدس-بنز أكتروس MP3 سوداء من الأمام للتصدير إلى بلد خارج الاتحاد الأوروبي",
+  "Roter Mercedes-Benz Actros MP4 Sattelzugmaschine von vorne für den Export an ein Unternehmen in der EU": "شاحنة جرّ مرسيدس-بنز أكتروس MP4 حمراء من الأمام للتصدير إلى شركة في الاتحاد الأوروبي",
+  "Weißer gebrauchter Mercedes-Benz Atego 1230 mit Planenaufbau für den Export in ein EU-Land": "مرسيدس-بنز أتيغو 1230 بيضاء مستعملة بهيكل مغطى بالقماش للتصدير إلى دولة في الاتحاد الأوروبي",
+  "Gelber Mercedes-AMG GT in einer Ausstellungshalle – weltweiter Fahrzeugexport der ECS GmbH": "مرسيدس-AMG GT صفراء في صالة عرض – تصدير المركبات إلى جميع أنحاء العالم مع ECS GmbH",
+  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden vor dem Export": "شاحنة سكانيا R 520 بيضاء بصندوق مفتوح ورافعة ومقطورة في ساحة ECS GmbH في غيردن قبل التصدير",
+  "Roter Mercedes-Benz Actros bei der Übergabe mit allen Exportpapieren": "مرسيدس-بنز أكتروس حمراء عند التسليم مع جميع أوراق التصدير",
+  "Weiße Mercedes-Benz Actros 1842 Sattelzugmaschine mit großem Fernverkehrs-Fahrerhaus für den Export": "شاحنة جرّ مرسيدس-بنز أكتروس 1842 بيضاء بمقصورة كبيرة للمسافات الطويلة للتصدير",
+  "Roter Scania Reisebus auf einem Betriebshof – Busflotten und Fuhrparks im Paket verkaufen": "حافلة سياحية سكانيا حمراء في ساحة شركة – بيع أساطيل الحافلات والمركبات دفعة واحدة",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "شاحنة MAN TGL بيضاء بحمولة 12 طنًا وصندوق مغلق من أسطول شركة",
+  "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "صف من الشاحنات البيضاء ذات الصناديق المغلقة، في المقدمة مرسيدس-بنز أتيغو 1522، أثناء الاستلام المرحلي لأسطول",
+  "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "شاحنة توزيع مرسيدس-بنز أتيغو 1224 مستعملة بصندوق مغلق وقوس أضواء",
+  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "شاحنة حاويات MAN TGM خضراء مستعملة، شاحنة متوسطة للبناء والبلديات",
+  "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "شاحنة جرّ مرسيدس-بنز أكتروس 4x2 مستعملة بمقصورة عالية وقوس أضواء",
+  "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "شاحنة قلّابة مرسيدس-بنز أتيغو حمراء مستعملة، شاحنة بناء صغيرة، في الثلج",
+  "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "نصف مقطورة قلّابة مستعملة بثلاثة محاور وصندوق كبير، موصولة بشاحنة جرّ",
+  "Vier schwarze Mercedes-Benz Sprinter Transporter der aktuellen Generation auf einer Brücke": "أربع فانات مرسيدس-بنز سبرينتر سوداء من الجيل الحالي على جسر",
+  "Gebrauchter Mercedes-Benz Sprinter Kleinbus mit Hochdach in Braun, Ansicht von hinten": "حافلة صغيرة مرسيدس-بنز سبرينتر بنية مستعملة بسقف مرتفع، منظر من الخلف",
+  "Gebrauchter weißer Setra Reisebus mit drei Achsen auf einem gepflasterten Hof": "حافلة سياحية سيترا بيضاء مستعملة بثلاثة محاور في ساحة مرصوفة",
+  "Gebrauchter weißer Mercedes-Benz Citaro Linienbus von vorne auf einem Betriebshof": "حافلة نقل عام مرسيدس-بنز سيتارو بيضاء مستعملة من الأمام في ساحة شركة",
+  "Gebrauchter Caterpillar 924H Radlader auf einem Tieflader beim Transport": "لودر بعجلات كاتربيلر 924H مستعمل على مقطورة منخفضة أثناء النقل",
+  "Gebrauchter Mercedes-Benz Econic mit Kofferaufbau und tiefem Einstieg, ein typisches Spezialfahrzeug": "مرسيدس-بنز إيكونيك مستعملة بصندوق مغلق ومدخل منخفض، مركبة خاصة نموذجية",
+  "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine, ein typischer LKW im Ankauf": "شاحنة جرّ MAN TGX 18.500 سوداء مستعملة، شاحنة نموذجية نشتريها",
+  "Gebrauchter blauer Mercedes-Benz Axor Dreiachser mit Pritsche und Ladekran vor einer Gewerbehalle": "مرسيدس-بنز أكسور زرقاء مستعملة بثلاثة محاور وصندوق مفتوح ورافعة أمام مستودع",
+  "Schwarze MAN TGX Sattelzugmaschine bei der Bewertung für den LKW-Ankauf": "شاحنة جرّ MAN TGX سوداء أثناء التقييم لشراء الشاحنة",
+  "Weißer Mercedes-Benz Actros MP3 im Abendlicht – Ankauf aller Actros-Generationen von MP1 bis MP5": "مرسيدس-بنز أكتروس MP3 بيضاء في ضوء المساء – نشتري جميع أجيال أكتروس من MP1 إلى MP5",
+  "Gebrauchter Iveco Magelys Reisebus in Weiß, wie wir ihn von Busunternehmen ankaufen": "حافلة سياحية إيفيكو ماجيليس بيضاء مستعملة، من النوع الذي نشتريه من شركات الحافلات",
+  "Weißer dreiachsiger Volvo Reisebus mit geöffneter Tür auf dem Hof der ECS GmbH in Gehrden": "حافلة سياحية فولفو بيضاء بثلاثة محاور وباب مفتوح في ساحة ECS GmbH في غيردن",
+  "Silberner Setra Reisebus bei der Bewertung für den Ankauf": "حافلة سياحية سيترا فضية أثناء التقييم للشراء",
+  "Weißer Mercedes-Benz Citaro Linienbus bei der Bewertung für den Ankauf": "حافلة نقل عام مرسيدس-بنز سيتارو بيضاء أثناء التقييم للشراء",
+  "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "فانات مرسيدس-بنز سبرينتر سوداء أثناء التقييم لشراء الفانات",
+  "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "شاحنة جرّ MAN TGX 18.500 سوداء مستعملة أمام مستودع",
+  "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "صف من شاحنات MAN ومرسيدس-بنز البيضاء المستعملة ذات الصناديق المغلقة من فئة 12 طنًا في ساحة",
+  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "مرسيدس-بنز أنتوس حمراء من الأمام أثناء تقييم المركبة في ساحة ECS GmbH، وخلفها شاحنات أخرى",
+  "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "شاحنة جرّ مرسيدس-بنز أروكس 6x4 خضراء – مدونة ECS GmbH عن الشاحنات والحافلات والمركبات التجارية"
 };

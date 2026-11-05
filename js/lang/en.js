@@ -16,7 +16,6 @@
   "Datenschutz | ECS Exclusive Commerce Services GmbH": "Privacy | ECS Exclusive Commerce Services GmbH",
   /* ---- Kopfzeile / Navigation ---- */
   "Elegance Car Safi – Startseite": "Elegance Car Safi – Home",
-  "Logo der ECS GmbH – Elegance Car Safi": "Logo of ECS GmbH – Elegance Car Safi",
   "Über uns": "About us",
   "Fahrzeuge": "Vehicles",
   "Unsere Arbeit": "Our work",
@@ -30,7 +29,6 @@
   "Zurück": "Back",
 
   /* ---- Startseite ---- */
-  "Gebrauchter Mercedes-Benz Actros LKW vor Bergpanorama": "Used Mercedes-Benz Actros truck in front of a mountain panorama",
   "Ihr Idealer": "Your ideal",
   "Partner für": "partner for",
   "Nutzfahrzeuge": "commercial vehicles",
@@ -42,8 +40,6 @@
   "Wir handeln ausschließlich mit Fahrzeugen etablierter Hersteller. Qualität, die im gewerblichen Einsatz täglich beweist, was sie wert ist.": "We deal exclusively in vehicles from established manufacturers. Quality that proves its worth in commercial use every day.",
   "Mehr über uns": "More about us",
   "Marken, die wir handeln": "Brands we trade",
-  "Gebrauchter Mercedes-Benz Atego 818 mit Kofferaufbau auf dem Hof": "Used Mercedes-Benz Atego 818 with box body in the yard",
-  "Reihe gebrauchter Koffer-LKW von Mercedes-Benz und MAN": "Row of used Mercedes-Benz and MAN box trucks",
   "5 von 5 Sternen": "5 out of 5 stars",
   "Über": "Over",
   "Jahre Erfahrung im Nutzfahrzeughandel und": "years of experience in commercial vehicle trading and",
@@ -197,7 +193,6 @@
   "PDF öffnen": "Open PDF",
 
   /* ---- Kontakt ---- */
-  "Mercedes-AMG GT in Gelb in einer Ausstellungshalle": "Yellow Mercedes-AMG GT in a showroom",
   "Rufen Sie uns an oder schreiben Sie per WhatsApp. Wir antworten schnell und machen ein konkretes Angebot, ohne lange Wartezeit.": "Call us or send a WhatsApp message. We respond quickly and make a concrete offer without a long wait.",
   "Vorname": "First name",
   "Nachname": "Last name",
@@ -810,14 +805,7 @@
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau in der Frontansicht": "Black Mercedes-Benz Actros with curtainsider body, front view",
 
   /* ---- Unsere Arbeit ---- */
-  "Vier schwarze Mercedes-Benz Sprinter auf einer Brücke": "Four black Mercedes-Benz Sprinters on a bridge",
-
   /* ---- Fotos Ankaufseiten und Export ---- */
-  "Gebrauchte Sattelzugmaschine MAN TGX 18.500 in Schwarz auf dem Hof": "Used black MAN TGX 18.500 tractor unit in the yard",
-  "Gebrauchter Reisebus Magelys in Weiß auf dem Hof": "Used white Magelys coach in the yard",
-  "Gebrauchter Mercedes-Benz Arocs Kipper mit angehobener Mulde": "Used Mercedes-Benz Arocs tipper with raised body",
-  "Weißer Mercedes-Benz Actros im Abendlicht": "White Mercedes-Benz Actros in the evening light",
-
   /* ---- Keyword-Runde 25.10.2026 ---- */
   "Nutzfahrzeug Export: Busexport & LKW Export | ECS Exclusive Commerce Services GmbH": "Commercial vehicle export: bus & truck export | ECS Exclusive Commerce Services GmbH",
   "Wir liefern in ganz Europa einschließlich Osteuropa, in den Nahen Osten, nach Asien und Afrika sowie in weitere internationale Märkte. Wer ein Fahrzeug aus unserem Bestand kauft, bekommt Fahrzeug, Exportpapiere und Transport aus einer Hand.": "We deliver throughout Europe including Eastern Europe, to the Middle East, Asia and Africa as well as other international markets. If you buy a vehicle from our stock, you get the vehicle, export papers and transport from a single source.",
@@ -828,14 +816,7 @@
 
   /* ---- Ablauf-Fotos ---- */
   "Schwarze Sattelzugmaschine MAN TGX auf dem Hof der ECS GmbH": "Black MAN TGX tractor unit in the ECS GmbH yard",
-  "Rote Sattelzugmaschine Mercedes-Benz Actros von vorne": "Red Mercedes-Benz Actros tractor unit from the front",
-  "Weißer Mercedes-Benz Atego 1230 mit Planenaufbau": "White Mercedes-Benz Atego 1230 with curtainside body",
-  "Schwarze Sattelzugmaschine Mercedes-Benz Actros auf dem Hof": "Black Mercedes-Benz Actros tractor unit in the yard",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau auf dem Hof": "Black Mercedes-Benz Actros with curtainside body in the yard",
-  "Blauer Mercedes-Benz Axor mit Ladekran und Pritsche": "Blue Mercedes-Benz Axor with loading crane and flatbed",
-  "Grüner MAN TGM Absetzkipper im Schnee": "Green MAN TGM skip loader in the snow",
-  "Weißer MAN TGL mit Kofferaufbau": "White MAN TGL with box body",
-
   /* ---- Erklärfilm (Startseite, Unsere Arbeit) ---- */
   "Erklärfilm": "Explainer video",
   "Sie schicken uns Fotos, wir bewerten schnell und machen ein festes Angebot. Bezahlt wird direkt, unser Fahrer holt das Fahrzeug ab. Auch Export und Verzollung übernehmen wir.": "You send us photos, we assess quickly and make a firm offer. Payment is made directly and our driver collects the vehicle. We also handle export and customs clearance.",
@@ -1047,8 +1028,6 @@
   "12 bis 18 Tonnen": "12 to 18 tonnes",
 
   /* ---- Fahrzeuge: Foto Kippmulde (31.10.2026) ---- */
-  "Sattelauflieger mit Kippmulde auf dem Hof": "Semi-trailer with tipping body on the yard",
-
   /* ---- Fahrzeuge: Kleinbus, Linienbus, Radlader (31.10.2026) ---- */
   "Kleinbusse": "Minibuses",
   "Kleinbusse und Midibusse auf Basis des Mercedes-Benz Sprinter.": "Minibuses and midibuses based on the Mercedes-Benz Sprinter.",
@@ -1059,10 +1038,6 @@
   "Kleinbusse und Midibusse auf Basis des Mercedes-Benz Sprinter und anderer Transporter.": "Minibuses and midibuses based on the Mercedes-Benz Sprinter and other vans.",
   "Mercedes-Benz Travego, Tourino und Tourismo, Setra und weitere Reise- und Omnibusse.": "Mercedes-Benz Travego, Tourino and Tourismo, Setra and other coaches and buses.",
   "Bagger, Radlader, Aufsitzmäher und Maschinen aus dem Garten- und Landschaftsbau.": "Excavators, wheel loaders, ride-on mowers and landscaping machines.",
-  "Mercedes-Benz Sprinter Kleinbus in Braun von hinten": "Brown Mercedes-Benz Sprinter minibus from behind",
-  "Linienbus Mercedes-Benz Citaro in Weiß": "White Mercedes-Benz Citaro city bus",
-  "Radlader Caterpillar 924H auf einem Tieflader": "Caterpillar 924H wheel loader on a low-loader",
-
   /* ---- Seitenköpfe kurz wie FAQ, Einleitung darunter (01.11.2026) ---- */
   "Wir kaufen gebrauchte LKW von Speditionen und Unternehmen an.": "We buy used trucks from haulage companies and businesses.",
   "Wir kaufen gebrauchte Reisebusse direkt von Busunternehmen an.": "We buy used coaches directly from bus companies.",
@@ -1096,7 +1071,6 @@
   /* ---- Spezialfahrzeuge (Econic) ---- */
   "Spezialfahrzeuge": "Special vehicles",
   "Mercedes-Benz Econic und weitere Fahrgestelle mit Sonderaufbau, zum Beispiel aus dem kommunalen Einsatz.": "Mercedes-Benz Econic and other chassis with special bodies, for example from municipal use.",
-  "Weißer Mercedes-Benz Econic mit Kofferaufbau auf dem Hof": "White Mercedes-Benz Econic with box body on the yard",
   "Elf Fahrzeugtypen, die immer wieder bei uns auf dem Hof stehen, mit typischen Modellen.": "Eleven vehicle types that keep turning up on our yard, with typical models.",
   "Wir verkaufen gebrauchte LKW vom 7,5-Tonner für den Verteilerverkehr bis zur Sattelzugmaschine, dazu Kipper, Auflieger, Transporter, Kleinbusse, Reise- und Linienbusse, Radlader und Spezialfahrzeuge.": "We sell used trucks from the 7.5-tonner for distribution to the tractor unit, plus tippers, semi-trailers, vans, minibuses, coaches, city buses, wheel loaders and special vehicles.",
   "Verteiler-LKW, Sattelzugmaschinen, Kipper, Auflieger, Transporter, Busse, Radlader und Spezialfahrzeuge: Was gerade auf dem Hof in Gehrden bei Hannover steht, zeigt der aktuelle Bestand.": "Distribution trucks, tractor units, tippers, semi-trailers, vans, buses, wheel loaders and special vehicles: what is currently on our yard in Gehrden near Hanover is shown in our current stock.",
@@ -1214,9 +1188,6 @@
   "Eine PDF-Übersicht für Kunden aus der EU mit allen Unterlagen und Schritten. Sie finden sie auf der Seite Export in die EU.": "A PDF overview for customers from the EU with all documents and steps. You will find it on the page Export to the EU.",
 
   /* ---- Export: neue Fotos (01.11.) ---- */
-  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH": "White Scania R 520 flatbed truck with loading crane and trailer in the ECS GmbH yard",
-  "Weiße Sattelzugmaschine Mercedes-Benz Actros 1842 von vorne": "White Mercedes-Benz Actros 1842 tractor unit from the front",
-
   /* ---- Blog (01.11.2026) ---- */
   "Blog": "Blog",
   "Bereiche": "Areas",
@@ -1235,16 +1206,7 @@
 
   /* ---- Neue Fotos (01.11.2026) ---- */
   "Frage stellen": "Ask a question",
-  "Grüne Mercedes-Benz Arocs Sattelzugmaschine 6x4": "Green Mercedes-Benz Arocs 6x4 tractor unit",
-  "Weißer Mercedes-Benz Atego 1224 mit Kofferaufbau": "White Mercedes-Benz Atego 1224 with box body",
-  "Weiße Mercedes-Benz Actros Sattelzugmaschine mit Lampenbügel": "White Mercedes-Benz Actros tractor unit with light bar",
-  "Roter Mercedes-Benz Atego Kipper im Schnee": "Red Mercedes-Benz Atego tipper in the snow",
-
   /* ---- Busfotos (01.11.2026) ---- */
-  "Roter Scania Reisebus auf dem Hof": "Red Scania coach in the yard",
-  "Weißer Setra Reisebus mit drei Achsen": "White three-axle Setra coach",
-  "Weißer Volvo Reisebus mit geöffneter Tür": "White Volvo coach with open door",
-
   /* ---- Kontakt: neues Hof-Foto (01.11.2026) ---- */
   "Weiße Koffer-LKW in einer Reihe auf dem Hof der ECS GmbH in Gehrden": "White box trucks lined up in the yard of ECS GmbH in Gehrden",
 
@@ -1259,8 +1221,6 @@
   "Sie müssen sich um den Transport nicht kümmern. Unsere Fahrer holen den Bus bei Ihnen ab.": "You don't have to worry about transport. Our drivers collect the bus from you.",
 
   /* ---- Unsere Arbeit: Bewertung mit Antos-Foto (01.11.2026) ---- */
-  "Roter Mercedes-Benz Antos von vorne auf dem Hof der ECS GmbH, dahinter weitere LKW": "Red Mercedes-Benz Antos from the front in the ECS GmbH yard, more trucks behind it",
-
   /* ---- Blog: Actros MP1 bis MP5 (01.11.2026) ---- */
   "Actros MP1 bis MP5: Baujahre und Unterschiede | ECS Exclusive Commerce Services GmbH": "Actros MP1 to MP5: Model Years and Differences | ECS Exclusive Commerce Services GmbH",
 
@@ -1297,5 +1257,50 @@
   "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Red Mercedes-Benz Antos distribution truck, front view with Antos lettering, more trucks behind it",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Red current-generation Mercedes-Benz Atego tipper in the snow in a paved yard",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "White Mercedes-Benz Atego box-body distribution truck in the yard of ECS GmbH in Gehrden near Hanover",
-  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "White Volvo FH 4x2 tractor unit of the 2020+ generation with high cab in an industrial area"
+  "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "White Volvo FH 4x2 tractor unit of the 2020+ generation with high cab in an industrial area",
+
+  /* ---- Alt-Texte Seiten (05.11.2026) ---- */
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "Black Mercedes-Benz Actros tractor unit at a mountain lake – ECS GmbH, purchase and export of used commercial vehicles",
+  "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – Kontakt zur ECS GmbH in Gehrden bei Hannover": "Black Mercedes-Benz Actros tractor unit at a mountain lake – contact ECS GmbH in Gehrden near Hanover",
+  "Erklärfilm der ECS GmbH: Wir kaufen Linienbusse, LKW, Sattelzüge und Transporter direkt von Unternehmen": "ECS GmbH explainer video: we buy city buses, trucks, semi-trailer trucks and vans directly from companies",
+  "Gebrauchter Mercedes-Benz Atego 818 Verteiler-LKW mit Kofferaufbau in der 7,5-Tonnen-Klasse": "Used Mercedes-Benz Atego 818 distribution truck with box body in the 7.5-tonne class",
+  "Mercedes-Benz Atego 818 mit Kofferaufbau vor einer Gewerbehalle – Nutzfahrzeughandel der ECS GmbH bei Hannover": "Mercedes-Benz Atego 818 with box body in front of a commercial hall – ECS GmbH commercial vehicle trading near Hanover",
+  "Gebrauchter Mercedes-Benz Arocs Dreiachs-Kipper mit angehobener Stahlmulde, ein typisches Baufahrzeug im Ankauf": "Used Mercedes-Benz Arocs three-axle tipper with raised steel body, a typical construction vehicle we buy",
+  "Gebrauchter grüner MAN TGM Absetzkipper im Schnee, ein typisches Kommunalfahrzeug im Ankauf": "Used green MAN TGM skip loader in the snow, a typical municipal vehicle we buy",
+  "Caterpillar 924H Radlader auf einem Tieflader bei der Bewertung für den Ankauf": "Caterpillar 924H wheel loader on a low-loader during the valuation for purchase",
+  "Grüner Mercedes-Benz Axor LKW von vorne bei der Abholung nach dem Ankauf": "Green Mercedes-Benz Axor truck from the front at collection after the purchase",
+  "Schwarzer Mercedes-Benz Actros MP3 Sattelzugmaschine von vorne für den Export in ein Drittland außerhalb der EU": "Black Mercedes-Benz Actros MP3 tractor unit from the front for export to a non-EU country",
+  "Roter Mercedes-Benz Actros MP4 Sattelzugmaschine von vorne für den Export an ein Unternehmen in der EU": "Red Mercedes-Benz Actros MP4 tractor unit from the front for export to a company in the EU",
+  "Weißer gebrauchter Mercedes-Benz Atego 1230 mit Planenaufbau für den Export in ein EU-Land": "White used Mercedes-Benz Atego 1230 with curtainside body for export to an EU country",
+  "Gelber Mercedes-AMG GT in einer Ausstellungshalle – weltweiter Fahrzeugexport der ECS GmbH": "Yellow Mercedes-AMG GT in a showroom – worldwide vehicle export by ECS GmbH",
+  "Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden vor dem Export": "White Scania R 520 flatbed truck with loading crane and trailer in the ECS GmbH yard in Gehrden before export",
+  "Roter Mercedes-Benz Actros bei der Übergabe mit allen Exportpapieren": "Red Mercedes-Benz Actros at handover with all export documents",
+  "Weiße Mercedes-Benz Actros 1842 Sattelzugmaschine mit großem Fernverkehrs-Fahrerhaus für den Export": "White Mercedes-Benz Actros 1842 tractor unit with large long-haul cab for export",
+  "Roter Scania Reisebus auf einem Betriebshof – Busflotten und Fuhrparks im Paket verkaufen": "Red Scania coach in a depot – sell bus fleets and vehicle fleets as a package",
+  "Weißer MAN TGL 12-Tonner mit Kofferaufbau aus einem Firmenfuhrpark": "White MAN TGL 12-tonner with box body from a company fleet",
+  "Reihe weißer Koffer-LKW, vorne ein Mercedes-Benz Atego 1522, bei der gestaffelten Abholung eines Fuhrparks": "Row of white box trucks, a Mercedes-Benz Atego 1522 in front, during the staggered collection of a fleet",
+  "Gebrauchter Mercedes-Benz Atego 1224 Verteiler-LKW mit Kofferaufbau und Lampenbügel": "Used Mercedes-Benz Atego 1224 distribution truck with box body and light bar",
+  "Gebrauchter MAN TGM Absetzkipper in Grün, ein mittelschwerer LKW für Bau und Kommune": "Used MAN TGM skip loader in green, a medium-duty truck for construction and municipalities",
+  "Gebrauchte Mercedes-Benz Actros 4x2 Sattelzugmaschine mit hohem Fahrerhaus und Lampenbügel": "Used Mercedes-Benz Actros 4x2 tractor unit with high cab and light bar",
+  "Gebrauchter roter Mercedes-Benz Atego Kipper, ein kompakter Baustellen-LKW, im Schnee": "Used red Mercedes-Benz Atego tipper, a compact construction truck, in the snow",
+  "Gebrauchter dreiachsiger Kippsattelauflieger mit großer Mulde, angekuppelt an eine Sattelzugmaschine": "Used three-axle tipping semi-trailer with large body, coupled to a tractor unit",
+  "Vier schwarze Mercedes-Benz Sprinter Transporter der aktuellen Generation auf einer Brücke": "Four black current-generation Mercedes-Benz Sprinter vans on a bridge",
+  "Gebrauchter Mercedes-Benz Sprinter Kleinbus mit Hochdach in Braun, Ansicht von hinten": "Used brown Mercedes-Benz Sprinter minibus with high roof, rear view",
+  "Gebrauchter weißer Setra Reisebus mit drei Achsen auf einem gepflasterten Hof": "Used white three-axle Setra coach in a paved yard",
+  "Gebrauchter weißer Mercedes-Benz Citaro Linienbus von vorne auf einem Betriebshof": "Used white Mercedes-Benz Citaro city bus from the front in a depot",
+  "Gebrauchter Caterpillar 924H Radlader auf einem Tieflader beim Transport": "Used Caterpillar 924H wheel loader on a low-loader during transport",
+  "Gebrauchter Mercedes-Benz Econic mit Kofferaufbau und tiefem Einstieg, ein typisches Spezialfahrzeug": "Used Mercedes-Benz Econic with box body and low entry, a typical special-purpose vehicle",
+  "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine, ein typischer LKW im Ankauf": "Used black MAN TGX 18.500 tractor unit, a typical truck we buy",
+  "Gebrauchter blauer Mercedes-Benz Axor Dreiachser mit Pritsche und Ladekran vor einer Gewerbehalle": "Used blue Mercedes-Benz Axor three-axle truck with flatbed and loading crane in front of a commercial hall",
+  "Schwarze MAN TGX Sattelzugmaschine bei der Bewertung für den LKW-Ankauf": "Black MAN TGX tractor unit during the valuation for truck purchase",
+  "Weißer Mercedes-Benz Actros MP3 im Abendlicht – Ankauf aller Actros-Generationen von MP1 bis MP5": "White Mercedes-Benz Actros MP3 in the evening light – we buy all Actros generations from MP1 to MP5",
+  "Gebrauchter Iveco Magelys Reisebus in Weiß, wie wir ihn von Busunternehmen ankaufen": "Used white Iveco Magelys coach, the kind we buy from bus companies",
+  "Weißer dreiachsiger Volvo Reisebus mit geöffneter Tür auf dem Hof der ECS GmbH in Gehrden": "White three-axle Volvo coach with open door in the ECS GmbH yard in Gehrden",
+  "Silberner Setra Reisebus bei der Bewertung für den Ankauf": "Silver Setra coach during the valuation for purchase",
+  "Weißer Mercedes-Benz Citaro Linienbus bei der Bewertung für den Ankauf": "White Mercedes-Benz Citaro city bus during the valuation for purchase",
+  "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "Black Mercedes-Benz Sprinter vans during the valuation for van purchase",
+  "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "Used black MAN TGX 18.500 tractor unit in front of a commercial hall",
+  "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "Row of used white MAN and Mercedes-Benz box trucks in the 12-tonne class in a yard",
+  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "Red Mercedes-Benz Antos from the front during the vehicle valuation in the ECS GmbH yard, more trucks behind",
+  "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "Green Mercedes-Benz Arocs 6x4 tractor unit – ECS GmbH blog about trucks, buses and commercial vehicles"
 };
