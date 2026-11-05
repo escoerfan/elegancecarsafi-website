@@ -1237,6 +1237,11 @@
   "Mercedes Sprinter 519 Bus: Typen, Führerschein, Tempo 100 | ECS Exclusive Commerce Services GmbH": "Mercedes Sprinter 519 Bus: wersje, prawo jazdy, Tempo 100 | ECS Exclusive Commerce Services GmbH",
   "Brauner Mercedes-Benz Sprinter 519 CDI Kleinbus der Baureihe W906 mit Hochdach und dunkel getönten Seitenscheiben, Seitenansicht vor einer Halle": "Brązowy minibus Mercedes-Benz Sprinter 519 CDI serii W906 z wysokim dachem i mocno przyciemnianymi szybami bocznymi, widok z boku przed halą",
 
+  /* ---- Blog: Linienbus/Überlandbus/Reisebus + Flottenverkauf (05.11.2026) ---- */
+  "Linienbus, Überlandbus oder Reisebus: Unterschiede | ECS Exclusive Commerce Services GmbH": "Autobus miejski, międzymiastowy czy turystyczny: różnice | ECS Exclusive Commerce Services GmbH",
+  "Flottenverkauf im Paket: Fuhrpark verkaufen | ECS Exclusive Commerce Services GmbH": "Sprzedaż floty w pakiecie: sprzedaż parku pojazdów | ECS Exclusive Commerce Services GmbH",
+  "Weißer Volvo Reisebus mit drei Achsen, geöffneter Vordertür und zweiter Tür in der Mitte auf dem Hof der ECS GmbH": "Biały trzyosiowy autokar Volvo z otwartymi przednimi drzwiami i drugimi drzwiami pośrodku na placu ECS GmbH",
+
   /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
   "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "Biały ciągnik siodłowy Mercedes-Benz Actros 4x2 z serii od 2011 roku z wysoką kabiną i belką świetlną",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Zielony trzyosiowy ciągnik siodłowy Mercedes-Benz Arocs z kanciastym grillem budowlanym w strefie przemysłowej",

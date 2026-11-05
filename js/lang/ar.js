@@ -1237,6 +1237,11 @@
   "Mercedes Sprinter 519 Bus: Typen, Führerschein, Tempo 100 | ECS Exclusive Commerce Services GmbH": "حافلة مرسيدس سبرينتر 519: الطرازات ورخصة القيادة وسرعة 100 | ECS Exclusive Commerce Services GmbH",
   "Brauner Mercedes-Benz Sprinter 519 CDI Kleinbus der Baureihe W906 mit Hochdach und dunkel getönten Seitenscheiben, Seitenansicht vor einer Halle": "حافلة صغيرة مرسيدس-بنز سبرينتر 519 CDI بنية اللون من سلسلة W906 بسقف مرتفع ونوافذ جانبية داكنة التظليل، منظر جانبي أمام صالة",
 
+  /* ---- Blog: Linienbus/Überlandbus/Reisebus + Flottenverkauf (05.11.2026) ---- */
+  "Linienbus, Überlandbus oder Reisebus: Unterschiede | ECS Exclusive Commerce Services GmbH": "حافلة المدينة أم الحافلة بين المدن أم حافلة الرحلات: الفروق | ECS Exclusive Commerce Services GmbH",
+  "Flottenverkauf im Paket: Fuhrpark verkaufen | ECS Exclusive Commerce Services GmbH": "بيع الأسطول كصفقة واحدة: بيع مركبات الشركة | ECS Exclusive Commerce Services GmbH",
+  "Weißer Volvo Reisebus mit drei Achsen, geöffneter Vordertür und zweiter Tür in der Mitte auf dem Hof der ECS GmbH": "حافلة رحلات فولفو بيضاء بثلاثة محاور وباب أمامي مفتوح وباب ثانٍ في المنتصف في ساحة ECS GmbH",
+
   /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
   "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "رأس قاطرة مرسيدس-بنز أكتروس 4x2 بيضاء من طراز ما بعد 2011 بكابينة عالية وعارضة أضواء",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبكة أمامية حادة الزوايا لشاحنات البناء في منطقة صناعية",
