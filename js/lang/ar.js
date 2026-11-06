@@ -1242,6 +1242,10 @@
   "Flottenverkauf im Paket: Fuhrpark verkaufen | ECS Exclusive Commerce Services GmbH": "بيع الأسطول كصفقة واحدة: بيع مركبات الشركة | ECS Exclusive Commerce Services GmbH",
   "Weißer Volvo Reisebus mit drei Achsen, geöffneter Vordertür und zweiter Tür in der Mitte auf dem Hof der ECS GmbH": "حافلة رحلات فولفو بيضاء بثلاثة محاور وباب أمامي مفتوح وباب ثانٍ في المنتصف في ساحة ECS GmbH",
 
+  /* ---- Blog: Fahrzeugklassen Nutzfahrzeuge (06.11.2026) ---- */
+  "Fahrzeugklasse N1, N2, N3, M2, M3: Nutzfahrzeuge erklärt | ECS Exclusive Commerce Services GmbH": "فئات المركبات N1 وN2 وN3 وM2 وM3: شرح المركبات التجارية | ECS Exclusive Commerce Services GmbH",
+  "Schwarze MAN TGX 18.500 Sattelzugmaschine mit hohem Fahrerhaus vor einer Gewerbehalle, ein LKW der Fahrzeugklasse N3": "شاحنة جرّ MAN TGX 18.500 سوداء بمقصورة عالية أمام مبنى تجاري، شاحنة من فئة المركبات N3",
+
   /* ---- Blog: Alt-Texte Titelbilder (05.11.2026) ---- */
   "Weiße Mercedes-Benz Actros 4x2 Sattelzugmaschine der Baureihe ab 2011 mit hohem Fahrerhaus und Lampenbügel": "رأس قاطرة مرسيدس-بنز أكتروس 4x2 بيضاء من طراز ما بعد 2011 بكابينة عالية وعارضة أضواء",
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبكة أمامية حادة الزوايا لشاحنات البناء في منطقة صناعية",
