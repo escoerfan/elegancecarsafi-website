@@ -34,10 +34,10 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preconnect" href="https://raw.githubusercontent.com" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261106a">
+<link rel="stylesheet" href="css/style.css?v=20261107c">
 <link rel="stylesheet" href="css/export-globe.css?v=20261023f">
 <link rel="stylesheet" href="css/bestand.css?v=20261031c">
-<script src="js/i18n.js?v=20261106a"></script>
+<script src="js/i18n.js?v=20261107b"></script>
 <!-- schema:start -->
 <script type="application/ld+json">
 {
@@ -404,6 +404,89 @@
   </div>
 </section>
 
+<!-- ======================================================= Was uns unterscheidet
+     Drei Karten für Käufer: Auswahl (Foto roter Atego), Export, Abfertigung -->
+<section class="diff" aria-labelledby="diff-title">
+  <div class="container">
+    <div class="diff__head">
+      <div class="diff__intro reveal">
+        <p class="eyebrow eyebrow--dark">Warum ECS</p>
+        <h2 class="h2 diff__title" id="diff-title">Warum Kunden bei uns kaufen. <span class="diff__accent">Drei Punkte, die zählen.</span></h2>
+        <p class="lead diff__lead">Ob ein Fahrzeug oder eine ganze Flotte: Bei uns finden Sie das passende Nutzfahrzeug und bekommen es schnell und unkompliziert, auch ins Ausland.</p>
+      </div>
+      <div class="diff__side reveal">
+        <dl class="diff__facts">
+          <div><dt>30+</dt><dd>Jahre Erfahrung</dd></div>
+          <div><dt>250</dt><dd>Partner</dd></div>
+        </dl>
+        <a class="btn btn--dark" href="fahrzeuge">Fahrzeuge ansehen</a>
+      </div>
+    </div>
+
+    <ul class="diff__grid">
+      <li class="diff-card reveal">
+        <div class="diff-card__visual diff-card__visual--photo" aria-hidden="true">
+          <picture>
+            <source type="image/avif" srcset="assets/img/opt/angebot-atego-kipper-960.avif">
+            <source type="image/webp" srcset="assets/img/opt/angebot-atego-kipper-960.webp">
+            <img src="assets/img/opt/angebot-atego-kipper-960.jpg" width="960" height="679" alt="" loading="lazy" decoding="async">
+          </picture>
+          <span class="diff-chip diff-chip--photo"><span class="diff-check"><svg viewBox="0 0 24 24"><path d="m6 12.5 4 4 8-9"/></svg></span>Aktueller Bestand</span>
+        </div>
+        <div class="diff-card__body">
+          <h3 class="diff-card__title">Große Auswahl an Fahrzeugen</h3>
+          <p class="diff-card__text">LKW, Sattelzugmaschinen, Busse und Transporter etablierter Hersteller. Jedes Fahrzeug finden Sie mit allen Bildern und Daten in unserem Bestand.</p>
+        </div>
+      </li>
+
+      <li class="diff-card reveal">
+        <div class="diff-card__visual diff-card__visual--flow" aria-hidden="true">
+          <span class="diff-flow">
+            <span class="diff-step">
+              <span class="diff-step__icon"><svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7M9 17h5"/></svg></span>
+              Ausfuhrpapiere
+            </span>
+            <span class="diff-flow__link is-done"><span class="diff-check"><svg viewBox="0 0 24 24"><path d="m6 12.5 4 4 8-9"/></svg></span></span>
+            <span class="diff-step">
+              <span class="diff-step__icon"><svg viewBox="0 0 24 24"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6z"/><path d="m8.5 12 2.5 2.5 4.5-5"/></svg></span>
+              Verzollung
+            </span>
+            <span class="diff-flow__link"><span class="diff-flow__dot"></span></span>
+            <span class="diff-step diff-step--next">
+              <span class="diff-step__icon"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.5 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.5-3.8-9S9.5 5.5 12 3z"/></svg></span>
+              Transport ins Zielland
+            </span>
+          </span>
+        </div>
+        <div class="diff-card__body">
+          <h3 class="diff-card__title">Export und Verzollung</h3>
+          <p class="diff-card__text">Wir liefern nach Europa, Asien, Afrika und in weitere Märkte. Ausfuhrpapiere und Zollabwicklung in Deutschland übernehmen wir komplett.</p>
+        </div>
+      </li>
+
+      <li class="diff-card reveal">
+        <div class="diff-card__visual diff-card__visual--phone" aria-hidden="true">
+          <span class="diff-phone"><span class="diff-phone__notch"></span></span>
+          <span class="diff-note">
+            <span class="diff-note__icon">
+              <svg viewBox="0 0 24 24"><path d="M12 2.2A9.7 9.7 0 0 0 3.6 16.8L2.3 21.7l5-1.3A9.7 9.7 0 1 0 12 2.2Zm0 17.7a8 8 0 0 1-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1 1 12 19.9Zm4.4-6c-.2-.1-1.4-.7-1.7-.8-.2-.1-.4-.1-.5.1l-.8 1c-.1.2-.3.2-.5.1a6.6 6.6 0 0 1-3.3-2.9c-.2-.4.2-.4.7-1.2.1-.1 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.7.3 2.8 2.8 0 0 0-.9 2.1 4.9 4.9 0 0 0 1 2.6 11.2 11.2 0 0 0 4.3 3.8c1.6.7 2.2.7 3 .6a2.6 2.6 0 0 0 1.7-1.2 2.1 2.1 0 0 0 .2-1.2c-.1-.1-.2-.2-.5-.3Z"/></svg>
+              <span class="diff-note__badge">1</span>
+            </span>
+            <span class="diff-note__copy">
+              <span class="diff-note__app">WhatsApp</span>
+              <span class="diff-note__msg">ECS GmbH: Die Papiere liegen bereit, Ihr Fahrzeug ist abholbereit.</span>
+            </span>
+          </span>
+        </div>
+        <div class="diff-card__body">
+          <h3 class="diff-card__title">Schnelle Abfertigung</h3>
+          <p class="diff-card__text">Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+
 <!-- Zusammenhängende dunkle Abschnitte: ein gemeinsamer Verlauf -->
 <div class="dark-block">
 
@@ -499,6 +582,47 @@
 <div class="fleet-more">
   <a class="btn btn--dark" href="fahrzeuge">Alle Fahrzeuge ansehen</a>
 </div>
+
+<!-- ============================================== Vergleich: selbst inserieren vs. ECS -->
+<section class="compare" aria-labelledby="compare-title">
+  <div class="container">
+    <div class="compare__head reveal">
+      <p class="eyebrow eyebrow--dark eyebrow--center">Der Vergleich</p>
+      <h2 class="h2 compare__title" id="compare-title"><span class="diff__accent">Der Unterschied:</span> selbst inserieren oder an ECS verkaufen.</h2>
+      <p class="lead compare__lead">Ein Nutzfahrzeug selbst zu inserieren kostet Zeit und Nerven. Wer schnell und sicher verkaufen will, braucht einen Partner, der den Markt kennt und selbst entscheidet.</p>
+    </div>
+
+    <div class="compare__box reveal">
+      <div class="compare__col compare__col--old">
+        <h3 class="compare__name">Selbst inserieren</h3>
+        <ul class="compare__list">
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Wochenlang Anfragen, Besichtigungen und Probefahrten</li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Zwielichtige Interessenten und unseriöse Anfragen</li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Ständig „Was ist letzte Preis?“ anhören</li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Unklar, ob der Käufer am Ende wirklich kauft</li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Export und Zoll bei Käufern aus dem Ausland selbst klären</li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>Ganze Flotten nur mühsam Fahrzeug für Fahrzeug verkaufen</li>
+        </ul>
+      </div>
+
+      <div class="compare__col compare__col--ecs">
+        <div class="compare__top">
+          <h3 class="compare__name">Verkauf an ECS</h3>
+          <img class="compare__badge" src="assets/img/opt/icon-3d-vertrag-400.png" width="400" height="400" alt="" loading="lazy" decoding="async">
+        </div>
+        <ul class="compare__list">
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Maximale Schnelligkeit</span> <span class="compare__sub">kein langes Warten</span></span></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Ehrlich und transparent</span> <span class="compare__sub">Zustand, Preis und Ablauf offen kommuniziert</span></span></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Ein festes Angebot</span> <span class="compare__sub">unverbindlich und ohne Verhandlungsmarathon</span></span></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Ein direkter Ansprechpartner</span> <span class="compare__sub">per Telefon oder WhatsApp</span></span></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Nationale Abholung</span> <span class="compare__sub">deutschlandweit</span></span></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg><span><span class="compare__strong">Ganze Flotten im Paket</span> <span class="compare__sub">ein Vertrag, eine abgestimmte Abholung</span></span></li>
+        </ul>
+        <a class="btn btn--dark compare__cta" href="kontakt">Unverbindliches Angebot anfordern</a>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- ============================================== Bewertungen (mobile.de)
      Texte unverändert aus der mobile.de-Händlerbewertung übernommen, nur

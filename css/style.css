@@ -790,11 +790,11 @@ details summary::-webkit-details-marker { display: none; }
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
 }
 .review__stars { display: flex; gap: 3px; margin-bottom: 20px; }
-/* Sterne im schwarzen Verlauf der Website (#star-gradient in index.html) */
-.review__stars svg { width: 18px; height: 18px; fill: url(#star-gradient) var(--bg); }
+/* Sterne gelbgold (#star-gradient in index.html), seit 07.11.2026 wieder Gold statt Schwarz */
+.review__stars svg { width: 18px; height: 18px; fill: url(#star-gradient) #e6b432; }
 .reviews__defs { position: absolute; width: 0; height: 0; overflow: hidden; }
-#star-gradient stop:first-child { stop-color: var(--bg-top); }
-#star-gradient stop:last-child { stop-color: var(--bg-bottom); }
+#star-gradient stop:first-child { stop-color: #f7cf4f; }
+#star-gradient stop:last-child { stop-color: #d9a21e; }
 .review__text {
   margin: 0 0 28px;
   font-size: 17px;
@@ -2433,3 +2433,166 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 .post-more + .cta-band { padding-top: clamp(64px, 7vw, 100px); }
 .post-more :focus-visible { outline-color: var(--ink); }
 @media (max-width: 640px) { .post__body { font-size: 17px; } }
+
+/* ====================================================================
+   Startseite – „Was uns unterscheidet“ (.diff) und Vergleich (.compare)
+   Helle Abschnitte, Karten mit kleinen Mockups – alles eckig, nur
+   Schwarz-Weiß-Grau, Schrift höchstens 400.
+   ==================================================================== */
+.diff { padding-block: clamp(80px, 8vw, 120px) clamp(100px, 10vw, 140px); background: var(--white); color: var(--ink-soft); border-top: 1px solid var(--line-dark); }
+.about--film:has(+ .diff) { padding-bottom: clamp(80px, 8vw, 120px); }
+.about--film:has(+ .diff) .about__grid { margin-bottom: 0; }
+.diff :focus-visible, .compare :focus-visible { outline-color: var(--ink); }
+.diff .h2, .compare .h2 { color: var(--ink); }
+.diff__accent { color: #9a9a9a; }
+
+.diff__head {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  gap: 40px 80px; flex-wrap: wrap; margin-bottom: 56px;
+}
+.diff__intro { max-width: 760px; }
+.diff__title { margin-bottom: 20px; }
+.diff__lead { color: var(--ink-soft); max-width: 620px; }
+.diff__side { display: grid; gap: 24px; justify-items: start; }
+.diff__facts { display: flex; gap: 40px; margin: 0; }
+.diff__facts dt { font-size: 40px; line-height: 1; letter-spacing: -0.02em; color: var(--ink); }
+.diff__facts dd { margin: 8px 0 0; font-size: 15px; color: var(--ink-soft); }
+
+.diff__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.diff-card { display: flex; flex-direction: column; background: #f5f5f5; border: 1px solid rgba(38, 38, 38, 0.06); }
+.diff-card__visual { position: relative; height: 240px; overflow: hidden; }
+/* weicher Übergang vom Mockup in die Karte */
+.diff-card__visual::after {
+  content: ""; position: absolute; inset: auto 0 0; height: 56px;
+  background: linear-gradient(180deg, rgba(245, 245, 245, 0), #f5f5f5);
+  pointer-events: none;
+}
+.diff-card__body { padding: 8px 32px 36px; }
+.diff-card__title { font-size: 24px; line-height: 1.25; letter-spacing: -0.01em; color: var(--ink); margin-bottom: 14px; }
+.diff-card__text { font-size: 16px; line-height: 1.6; color: var(--ink-soft); text-wrap: pretty; }
+
+/* gemeinsame Teile */
+.diff-check {
+  display: grid; place-items: center; width: 24px; height: 24px;
+  background: var(--bg-gradient); border: 2px solid var(--white);
+}
+.diff-check svg { width: 14px; height: 14px; fill: none; stroke: var(--white); stroke-width: 2.6; stroke-linecap: square; }
+.diff-chip, .diff-step, .diff-note {
+  background: var(--white); color: var(--ink);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+/* Auswahl: Fahrzeugfoto (roter Atego) füllt die Fläche, Etikett darüber */
+.diff-card__visual--photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 22%; }
+.diff-chip--photo {
+  position: absolute; left: 20px; top: 20px; z-index: 1;
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 8px 16px 8px 8px; font-size: 15px; white-space: nowrap;
+}
+.diff-chip--photo .diff-check { width: 22px; height: 22px; border: 0; }
+
+/* Abfertigung: Handy mit WhatsApp-Benachrichtigung */
+.diff-phone {
+  position: absolute; left: 50%; top: 22px; width: 172px; height: 290px; transform: translateX(-50%);
+  border: 7px solid #141414; border-radius: 26px;
+  background: linear-gradient(180deg, #4a4a4a 0%, #161616 100%);
+}
+.diff-phone__notch { position: absolute; left: 50%; top: 6px; width: 54px; height: 14px; transform: translateX(-50%); background: #141414; border-radius: 8px; }
+.diff-note {
+  position: absolute; left: 22px; right: 22px; top: 72px;
+  display: flex; align-items: center; gap: 16px; padding: 18px;
+}
+.diff-note__icon { position: relative; flex: none; display: grid; place-items: center; width: 52px; height: 52px; background: var(--bg-gradient); }
+.diff-note__icon svg { width: 30px; height: 30px; fill: var(--white); }
+.diff-note__badge {
+  position: absolute; right: -7px; top: -7px; display: grid; place-items: center;
+  min-width: 20px; height: 20px; padding: 0 4px; background: var(--ink); color: var(--white);
+  border: 2px solid var(--white); font-size: 11px; line-height: 1;
+}
+.diff-note__copy { display: grid; gap: 3px; min-width: 0; }
+.diff-note__app { font-size: 15px; color: var(--ink); }
+.diff-note__msg { font-size: 13px; line-height: 1.4; color: var(--muted); }
+
+/* Export: Schritte an einer senkrechten Linie */
+.diff-card__visual--flow { display: grid; place-items: center; padding-top: 16px; }
+.diff-flow { position: relative; display: flex; flex-direction: column; align-items: center; padding-top: 6px; }
+.diff-flow::before {
+  content: ""; position: absolute; left: 50%; top: -30px; bottom: -40px; width: 1px;
+  background: rgba(38, 38, 38, 0.16);
+}
+.diff-step {
+  position: relative; display: flex; align-items: center; gap: 12px;
+  padding: 9px 20px 9px 9px; font-size: 15px; white-space: nowrap;
+}
+.diff-step__icon { display: grid; place-items: center; width: 34px; height: 34px; background: var(--bg-gradient); }
+.diff-step__icon svg { width: 18px; height: 18px; fill: none; stroke: var(--white); stroke-width: 1.6; stroke-linejoin: round; }
+.diff-step--next { color: var(--muted); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05); border: 1px dashed rgba(38, 38, 38, 0.22); }
+.diff-step--next .diff-step__icon { background: #e4e4e4; }
+.diff-step--next .diff-step__icon svg { stroke: var(--ink-soft); }
+.diff-flow__link { position: relative; display: grid; place-items: center; height: 30px; }
+.diff-flow__link .diff-check { width: 22px; height: 22px; }
+.diff-flow__dot { width: 10px; height: 10px; background: #f5f5f5; border: 1px solid rgba(38, 38, 38, 0.35); }
+
+/* Vergleich */
+.compare { padding-block: clamp(90px, 9vw, 130px); background: #f6f6f6; color: var(--ink-soft); border-top: 1px solid var(--line-dark); }
+.compare__head { max-width: 980px; margin: 0 auto clamp(48px, 5vw, 64px); text-align: center; }
+.compare__title { margin-bottom: 22px; }
+.compare__lead { color: var(--ink-soft); max-width: 760px; margin-inline: auto; }
+
+.compare__box {
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: start;
+  padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #ececec 100%);
+  border: 1px solid var(--line-dark);
+}
+.compare__col { padding: clamp(32px, 4vw, 56px); }
+.compare__col--ecs { position: relative; background: var(--white); box-shadow: 0 30px 70px rgba(0, 0, 0, 0.09), 0 2px 6px rgba(0, 0, 0, 0.04); }
+.compare__top { display: flex; justify-content: space-between; align-items: flex-start; gap: 24px; }
+.compare__name { font-size: clamp(24px, 2.2vw, 30px); line-height: 1.2; letter-spacing: -0.01em; color: var(--ink); margin-bottom: 32px; }
+.compare__col--old .compare__name { margin-top: 14px; }
+/* 3D-Icon (Vertrag mit Stempel) ragt über die obere rechte Ecke der Karte */
+.compare__badge {
+  position: absolute; right: -48px; top: -84px; width: 196px; height: auto;
+  filter: drop-shadow(0 18px 24px rgba(0, 0, 0, 0.14));
+  pointer-events: none;
+}
+.compare__col--ecs .compare__name { padding-right: 130px; }
+
+.compare__list { border-top: 1px solid var(--line-dark); }
+.compare__list li {
+  display: flex; align-items: flex-start; gap: 18px; padding: 18px 0;
+  border-bottom: 1px solid var(--line-dark); font-size: 17px; line-height: 1.5;
+}
+.compare__list svg { flex: none; width: 20px; height: 20px; margin-top: 2px; fill: none; stroke-width: 1.6; stroke-linecap: square; }
+.compare__col--old li { color: var(--ink-soft); }
+.compare__col--old svg { stroke: var(--red); stroke-width: 2; }
+.compare__col--ecs svg { stroke: #2e7d4f; stroke-width: 2.4; }
+.compare__strong { color: var(--ink); }
+.compare__sub { color: var(--ink-soft); }
+.compare__sub::before { content: "– "; }
+.compare__cta { margin-top: 36px; }
+
+@media (max-width: 1100px) {
+  .diff-card__body { padding-inline: 24px; }
+  .diff-note { left: 14px; right: 14px; padding: 14px; gap: 12px; }
+}
+@media (max-width: 900px) {
+  .diff__grid { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 991px) {
+  .diff__head { align-items: flex-start; }
+  .compare__box { grid-template-columns: minmax(0, 1fr); padding: 0; gap: 0; }
+  .compare__col--old { padding-bottom: 40px; }
+  .compare__col--old .compare__name { margin-top: 0; }
+}
+@media (max-width: 640px) {
+  .diff-card__body { padding: 4px 24px 30px; }
+  .diff__facts dt { font-size: 34px; }
+  .compare__col { padding: 32px 24px; }
+  .compare__badge { right: -6px; top: -46px; width: 108px; }
+  .compare__col--ecs .compare__name { padding-right: 84px; }
+  .compare__list li { font-size: 16px; gap: 14px; }
+  .compare__cta { width: 100%; white-space: normal; text-align: center; }
+}
+/* Arabisch: Mockups bleiben links-rechts wie gezeichnet */
+html[dir="rtl"] .diff-card__visual { direction: ltr; }
+html[dir="rtl"] .compare__sub::before { content: " – "; }
