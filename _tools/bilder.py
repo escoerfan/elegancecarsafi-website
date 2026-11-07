@@ -77,7 +77,14 @@ LOGOS = {
 }
 # Freigestellte Fahrzeuge (transparent): Datei -> Breiten (AVIF/WebP/PNG mit Alpha)
 CUTOUTS = {
-    'kontakt-tourismo.png': [760, 1140, 1536],   # Startseite Kontakt-Band: Tourismo (Chat 07.11.)
+    'kontakt-tourismo.png': [760, 1140, 1536],   # Kontakt-Band Startseite + Reisebus: Tourismo (Chat 07.11.)
+    'kontakt-actros-szm.png': [760, 1140, 1536],      # LKW verkaufen: Actros MP3 Sattelzugmaschine
+    'kontakt-cat-bagger.png': [760, 1140, 1536],      # Bau- und Kommunalfahrzeuge: CAT 320
+    'kontakt-citaro.png': [760, 1140, 1536],          # Linienbus verkaufen: Citaro rot
+    'kontakt-sprinter.png': [760, 1140, 1536],        # Transporter verkaufen: Sprinter orange
+    'kontakt-atego-flotte.png': [760, 1140, 1536],    # Fuhrpark verkaufen: 4 Atego
+    'kontakt-actros-mischer.png': [760, 1140, 1536],  # Nutzfahrzeug-Ankauf: Actros Betonmischer
+    'kontakt-antos-koffer.png': [540, 810, 1086],     # Gebrauchte Nutzfahrzeuge: Antos Koffer (Hochformat)
 }
 # ECS-Logo: Kopf 150 px, Fuß 180 px breit -> 2x = 360 px
 ECS_LOGO = {'logo-ecs.png': 360}

@@ -9,7 +9,7 @@
 (function () {
   'use strict';
 
-  var PHONE = '491713621298';
+  var PHONE = '4915140315387';
   var MAIL = 'info@elegancecarsafi.com';
 
   var forms = document.querySelectorAll('form[data-ankauf]');

@@ -615,8 +615,8 @@
   }
 
   var DETAIL_SEITE = 'fahrzeug';
-  var TEL = '+491713621298';
-  var WHATSAPP = '491713621298';
+  var TEL = '+4915140315387';
+  var WHATSAPP = '4915140315387';
   var MAIL = 'info@elegancecarsafi.com';
 
   /* mobile.de liefert Bilder in mehreren Größen – für die Einzelseite größer */

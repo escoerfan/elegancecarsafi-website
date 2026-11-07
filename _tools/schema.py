@@ -45,7 +45,7 @@ SAME_AS = [
     'https://home.mobile.de/ELEGANCECARSAFI',               # Händlerseite bei mobile.de
 ]
 # beide Nummern wie auf der Website (die zweite steht auch im Google-Profil)
-PHONES = ['+49 171 362 1298', '+49 1514 0315387']
+PHONES = ['+49 1514 0315387']
 BUY_COUNTRIES = [{'@type': 'Country', 'name': n} for n in ('Deutschland', 'Österreich', 'Schweiz', 'Tschechien')]
 
 ORGANIZATION = {
