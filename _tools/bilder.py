@@ -78,6 +78,7 @@ LOGOS = {
 # Freigestellte Fahrzeuge (transparent): Datei -> Breiten (AVIF/WebP/PNG mit Alpha)
 CUTOUTS = {
     'kontakt-tourismo.png': [760, 1140, 1536],   # Kontakt-Band Startseite + Reisebus: Tourismo (Chat 07.11.)
+    'kontakt-tourismo-reisebus.png': [760, 1140, 1535],  # Reisebus verkaufen: Tourismo „weißer Himmel“
     'kontakt-actros-szm.png': [760, 1140, 1536],      # LKW verkaufen: Actros MP3 Sattelzugmaschine
     'kontakt-cat-bagger.png': [760, 1140, 1536],      # Bau- und Kommunalfahrzeuge: CAT 320
     'kontakt-citaro.png': [760, 1140, 1536],          # Linienbus verkaufen: Citaro rot
