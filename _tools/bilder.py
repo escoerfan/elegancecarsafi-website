@@ -75,6 +75,10 @@ LOGOS = {
     'marke-iveco.png': 192, 'marke-ford.png': 88, 'marke-mercedes.png': 88,
     'marke-man.png': 88, 'marke-setra.png': 88, 'marke-vw.png': 88,
 }
+# Freigestellte Fahrzeuge (transparent): Datei -> Breiten (AVIF/WebP/PNG mit Alpha)
+CUTOUTS = {
+    'kontakt-tourismo.png': [760, 1140, 1536],   # Startseite Kontakt-Band: Tourismo (Chat 07.11.)
+}
 # ECS-Logo: Kopf 150 px, Fuß 180 px breit -> 2x = 360 px
 ECS_LOGO = {'logo-ecs.png': 360}
 
@@ -116,6 +120,21 @@ def crops():
         save_photo(im.crop((x0, 0, x0 + cw, im.height)), widths, stem(name) + '-hoch')
 
 
+def cutouts():
+    for name, widths in CUTOUTS.items():
+        if not wanted(name):
+            continue
+        im = Image.open(os.path.join(SRC, name)).convert('RGBA')
+        for w in widths:
+            w = min(w, im.width)
+            h = round(im.height * w / im.width)
+            r = im.resize((w, h), Image.LANCZOS) if w != im.width else im
+            base = os.path.join(OUT, '%s-%d' % (stem(name), w))
+            r.save(base + '.avif', quality=60, speed=4)
+            r.save(base + '.webp', quality=82, method=6)
+            r.save(base + '.png', optimize=True)
+
+
 def logos(table):
     for name, size in table.items():
         if not wanted(name):
@@ -137,6 +156,7 @@ if __name__ == '__main__':
     os.makedirs(OUT, exist_ok=True)
     photos()
     crops()
+    cutouts()
     logos(LOGOS)
     logos(ECS_LOGO)
     for f in sorted(os.listdir(OUT)):

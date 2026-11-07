@@ -2596,3 +2596,80 @@ html[dir="rtl"] .contact__phone { text-align: right; }
 /* Arabisch: Mockups bleiben links-rechts wie gezeichnet */
 html[dir="rtl"] .diff-card__visual { direction: ltr; }
 html[dir="rtl"] .compare__sub::before { content: " – "; }
+
+/* ====================================================================
+   Kontakt-Band Startseite: dunkel, Nummern links, Bus freigestellt rechts
+   (Stil: Lichtkegel + feine Kurve hinter dem Fahrzeug)
+   ==================================================================== */
+.cta-band--bus {
+  position: relative;
+  overflow: hidden;
+  padding-block: clamp(80px, 8vw, 120px) clamp(56px, 5vw, 80px);
+  /* beginnt im Schwarz der Bewertungen, damit keine Kante entsteht */
+  background: linear-gradient(180deg, var(--bg-bottom) 0%, #141414 100%);
+  color: var(--text);
+  border-top: 0;
+}
+.why--light + .cta-band--bus { padding-top: clamp(80px, 8vw, 120px); }
+.why--light:has(+ .cta-band--bus) { padding-bottom: clamp(100px, 9vw, 130px); }
+.cta-band--bus .cta-band__inner {
+  display: grid;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  align-items: center;
+  gap: clamp(32px, 4vw, 64px);
+}
+.cta-band--bus .eyebrow { color: var(--white); text-transform: uppercase; font-size: 14px; letter-spacing: 0.08em; }
+.cta-band--bus .h2 { color: var(--white); }
+.cta-band__accent { color: var(--muted); }
+.cta-band--bus .contact__links { display: grid; gap: 6px; margin-top: clamp(28px, 3vw, 40px); }
+.cta-band--bus .contact__phone { color: var(--white); transition: color 0.2s ease; }
+.cta-band--bus .contact__phone:hover { color: var(--text); }
+.cta-band--bus .cta-band__actions { margin-top: clamp(28px, 3vw, 40px); }
+.cta-band--bus .btn--primary { background: var(--white); color: var(--ink); border-color: var(--white); }
+.cta-band--bus .btn--primary:hover { background: #e6e6e6; border-color: #e6e6e6; }
+.cta-band--bus .btn--secondary { background: transparent; color: var(--white); border-color: var(--line-strong); }
+.cta-band--bus .btn--secondary:hover { background: rgba(255, 255, 255, 0.06); border-color: rgba(255, 255, 255, 0.4); }
+.cta-band--bus :focus-visible { outline-color: var(--white); }
+
+.cta-band__visual { position: relative; isolation: isolate; }
+/* Lichtkegel hinter dem Bus */
+.cta-band__visual::before {
+  content: "";
+  position: absolute;
+  inset: -12% -20% -8% -10%;
+  z-index: -2;
+  background:
+    radial-gradient(closest-side at 50% 48%, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.045) 55%, transparent 100%);
+}
+/* Bodenschatten */
+.cta-band__visual::after {
+  content: "";
+  position: absolute;
+  left: 8%; right: 4%; bottom: 0.5%;
+  height: 7%;
+  z-index: -1;
+  background: radial-gradient(closest-side, rgba(0, 0, 0, 0.75), transparent);
+}
+.cta-band__chart {
+  position: absolute;
+  left: -14%; right: -6%; top: 2%;
+  width: 120%; height: 62%;
+  z-index: -1;
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.24);
+  stroke-width: 1.5;
+  vector-effect: non-scaling-stroke;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 25%, #000 75%, transparent);
+          mask-image: linear-gradient(90deg, transparent, #000 25%, #000 75%, transparent);
+}
+.cta-band__bus { display: block; width: 100%; height: auto; }
+
+@media (max-width: 991px) {
+  .cta-band--bus .cta-band__inner { grid-template-columns: 1fr; }
+  .cta-band__visual { margin-top: 8px; }
+}
+@media (max-width: 767px) {
+  .cta-band--bus .cta-band__actions, .cta-band--bus .cta-band__actions .btn { width: 100%; }
+}
+html[dir="rtl"] .cta-band--bus .cta-band__inner { direction: ltr; }
+html[dir="rtl"] .cta-band--bus .cta-band__copy { direction: rtl; }
