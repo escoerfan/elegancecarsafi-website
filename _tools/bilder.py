@@ -70,10 +70,12 @@ PHOTOS = {
 CROPS = {
     'hero-actros.png': (3 / 4, 0.70, [810, 1215]),
 }
-# Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße)
+# Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße).
+# Marken-Logos werden vorher auf den sichtbaren Bereich zugeschnitten (kein Leerrand),
+# damit der Abstand im Logo-Band überall gleich wirkt. Anzeigehöhe: --h in index.html.
 LOGOS = {
-    'marke-iveco.png': 192, 'marke-ford.png': 88, 'marke-mercedes.png': 88,
-    'marke-man.png': 88, 'marke-setra.png': 88, 'marke-vw.png': 88,
+    'marke-iveco.png': 48, 'marke-ford.png': 68, 'marke-mercedes.png': 104,
+    'marke-man.png': 80, 'marke-setra.png': 56, 'marke-vw.png': 104,
 }
 # Freigestellte Fahrzeuge (transparent): Datei -> Breiten (AVIF/WebP/PNG mit Alpha)
 CUTOUTS = {
@@ -148,6 +150,8 @@ def logos(table):
         if not wanted(name):
             continue
         im = Image.open(os.path.join(SRC, name)).convert('RGBA')
+        if name.startswith('marke-'):
+            im = im.crop(im.getchannel('A').getbbox())
         if name.startswith('logo-'):
             w, h = size, round(im.height * size / im.width)
         else:

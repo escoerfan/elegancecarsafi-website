@@ -400,19 +400,22 @@ details summary::-webkit-details-marker { display: none; }
 }
 .marquee:hover .marquee__track { animation-play-state: paused; }
 .marquee__group {
+  --logo-scale: 1;
   display: flex;
   align-items: center;
   min-height: 60px;
-  gap: 110px;
-  padding-right: 110px;
+  gap: 96px;
+  padding-right: 96px;
 }
+.marquee__group picture { display: flex; }
+/* Logos ohne Leerrand; --h (px) je Logo im HTML: runde Embleme höher,
+   breite Schriftzüge flacher, damit alle gleich schwer wirken */
 .marquee__group img {
-  height: 44px;
+  display: block;
+  height: calc(var(--h, 44) * 1px * var(--logo-scale));
   width: auto;
-  object-fit: contain;
+  max-width: none;
 }
-/* Logo-Dateien mit viel Leerraum (Scania, IVECO) größer ziehen */
-.marquee__group img.is-padded { height: 96px; margin-block: -26px; }
 @keyframes marquee {
   from { transform: translateX(0); }
   to   { transform: translateX(-50%); }
@@ -2030,9 +2033,7 @@ body .vw-section * {
   .hero__content { flex-direction: column; align-items: flex-start; }
   .brands { padding-block: 100px 90px; }
   .brands__cta { margin-bottom: 72px; }
-  .marquee__group { gap: 64px; padding-right: 64px; }
-  .marquee__group img { height: 36px; }
-  .marquee__group img.is-padded { height: 78px; margin-block: -21px; }
+  .marquee__group { --logo-scale: .78; gap: 60px; padding-right: 60px; }
   .pitch { min-height: 0; padding-block: 110px; }
   .process, .contact, .faq, .why, .about, .export-info, .cta-band { padding-block: 100px; }
   .process { padding-bottom: 0; }
