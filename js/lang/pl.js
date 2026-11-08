@@ -1243,6 +1243,8 @@
   "Weißer Volvo Reisebus mit drei Achsen, geöffneter Vordertür und zweiter Tür in der Mitte auf dem Hof der ECS GmbH": "Biały trzyosiowy autokar Volvo z otwartymi przednimi drzwiami i drugimi drzwiami pośrodku na placu ECS GmbH",
 
   /* ---- Blog: Fahrzeugklassen Nutzfahrzeuge (06.11.2026) ---- */
+  "Euro-Norm bei LKW und Bus: Euro 3 bis Euro 6 erklärt | ECS Exclusive Commerce Services GmbH": "Normy Euro dla ciężarówek i autobusów: Euro 3 do Euro 6 wyjaśnione | ECS Exclusive Commerce Services GmbH",
+  "Schwarze MAN TGX 18.500 Sattelzugmaschine mit hohem Fahrerhaus und grüner Umweltplakette an der Windschutzscheibe, schräg von vorne": "Czarny ciągnik siodłowy MAN TGX 18.500 z wysoką kabiną i zieloną plakietką ekologiczną na przedniej szybie, widok z przodu pod kątem",
   "Fahrzeugklasse N1, N2, N3, M2, M3: Nutzfahrzeuge erklärt | ECS Exclusive Commerce Services GmbH": "Kategorie pojazdów N1, N2, N3, M2, M3: pojazdy użytkowe wyjaśnione | ECS Exclusive Commerce Services GmbH",
   "Schwarze MAN TGX 18.500 Sattelzugmaschine mit hohem Fahrerhaus vor einer Gewerbehalle, ein LKW der Fahrzeugklasse N3": "Czarny ciągnik siodłowy MAN TGX 18.500 z wysoką kabiną przed halą przemysłową, samochód ciężarowy kategorii N3",
 
