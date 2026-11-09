@@ -1342,4 +1342,12 @@
   "Schnelle Abfertigung": "إنجاز سريع",
   "Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.": "طرق قصيرة وقرارات سريعة: عقد الشراء والأوراق جاهزة بسرعة لتصل مركبتك إليك سريعاً.",
   "Ständig „Was ist letzte Preis?“ anhören": "سماع «كم آخر سعر؟» باستمرار",
+
+  /* ---- Blog: Ankauf, Inzahlungnahme, Nutzfahrzeug verkaufen ---- */
+  "LKW Ankauf: Ablauf, Wert und seriöse Käufer | ECS Exclusive Commerce Services GmbH": "شراء الشاحنات: الخطوات والقيمة والمشترون الموثوقون | ECS Exclusive Commerce Services GmbH",
+  "Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne": "شاحنة مرسيدس-بنز أكسور زرقاء بصندوق مسطح ورافعة خلف المقصورة، شاحنة مستعملة بثلاثة محاور عند الشراء، منظر أمامي جانبي",
+  "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "استبدال الشاحنة: احتساب شاحنتك القديمة من الثمن | ECS Exclusive Commerce Services GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "شاحنة مرسيدس-بنز أكتروس سوداء بهيكل مغطى بقماش ومقصورة كبيرة، شاحنة مستعملة للاستبدال، منظر أمامي جانبي في شارع بمنطقة صناعية",
+  "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "بيع المركبات التجارية: الطرق والالتزامات وقائمة التحقق | ECS Exclusive Commerce Services GmbH",
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "شاحنة MAN TGX بيضاء بثلاثة محاور بصندوق مسطح ورافعة ومقطورة مسطحة، مركبة تجارية مستعملة قبل البيع في ساحة مرصوفة"
 };

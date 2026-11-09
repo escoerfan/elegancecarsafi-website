@@ -1358,4 +1358,12 @@
   "Schnelle Abfertigung": "Fast processing",
   "Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.": "Short distances and quick decisions: the purchase contract and documents are ready promptly so that your vehicle reaches you fast.",
   "Ständig „Was ist letzte Preis?“ anhören": "Constantly hearing “What is last price?”",
+
+  /* ---- Blog: Ankauf, Inzahlungnahme, Nutzfahrzeug verkaufen ---- */
+  "LKW Ankauf: Ablauf, Wert und seriöse Käufer | ECS Exclusive Commerce Services GmbH": "Truck Purchase: Process, Value and Reliable Buyers | ECS Exclusive Commerce Services GmbH",
+  "Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne": "Blue Mercedes-Benz Axor with flatbed and loading crane behind the cab, a used three-axle truck for sale to a truck buyer, front three-quarter view",
+  "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Truck Trade-In: Trading In Your Truck | ECS Exclusive Commerce Services GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Black Mercedes-Benz Actros with curtainside body and large cab, a used truck for trade-in, front three-quarter view on a road in an industrial estate",
+  "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Selling a Commercial Vehicle: Options, Duties, Checklist | ECS Exclusive Commerce Services GmbH",
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "White three-axle MAN TGX with flatbed, loading crane and flatbed trailer, a used commercial vehicle before sale on a paved yard"
 };

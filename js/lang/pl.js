@@ -1342,4 +1342,12 @@
   "Schnelle Abfertigung": "Szybka obsługa",
   "Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.": "Krótka droga i szybkie decyzje: umowa kupna i dokumenty są szybko gotowe, aby Twój pojazd szybko do Ciebie trafił.",
   "Ständig „Was ist letzte Preis?“ anhören": "Ciągle słuchać „Jaka ostatnia cena?”",
+
+  /* ---- Blog: Ankauf, Inzahlungnahme, Nutzfahrzeug verkaufen ---- */
+  "LKW Ankauf: Ablauf, Wert und seriöse Käufer | ECS Exclusive Commerce Services GmbH": "Skup ciężarówek: przebieg, wartość i rzetelni kupujący | ECS Exclusive Commerce Services GmbH",
+  "Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne": "Niebieski Mercedes-Benz Axor ze skrzynią ładunkową i żurawiem za kabiną, używana trzyosiowa ciężarówka w skupie, widok ukośnie z przodu",
+  "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Ciężarówka w rozliczeniu: jak oddać pojazd w rozliczeniu | ECS Exclusive Commerce Services GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Czarny Mercedes-Benz Actros z zabudową plandekową i dużą kabiną, używana ciężarówka do oddania w rozliczeniu, widok ukośnie z przodu na ulicy w strefie przemysłowej",
+  "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Sprzedaż pojazdu użytkowego: sposoby, obowiązki, lista kontrolna | ECS Exclusive Commerce Services GmbH",
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Biały trzyosiowy MAN TGX ze skrzynią ładunkową, żurawiem i przyczepą skrzyniową, używany pojazd użytkowy przed sprzedażą na brukowanym placu"
 };

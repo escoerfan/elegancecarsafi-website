@@ -1342,4 +1342,12 @@
   "Schnelle Abfertigung": "Быстрое оформление",
   "Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.": "Короткий путь и быстрые решения: договор и документы готовы быстро, чтобы ваш автомобиль скорее был у вас.",
   "Ständig „Was ist letzte Preis?“ anhören": "Постоянно слушать «Какой последний цена?»",
+
+  /* ---- Blog: Ankauf, Inzahlungnahme, Nutzfahrzeug verkaufen ---- */
+  "LKW Ankauf: Ablauf, Wert und seriöse Käufer | ECS Exclusive Commerce Services GmbH": "Выкуп грузовиков: порядок, стоимость и надёжные покупатели | ECS Exclusive Commerce Services GmbH",
+  "Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne": "Синий Mercedes-Benz Axor с бортовой платформой и краном-манипулятором за кабиной, подержанный трёхосный грузовик при выкупе, вид спереди сбоку",
+  "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Трейд-ин грузовика: как сдать грузовик в зачёт | ECS Exclusive Commerce Services GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Чёрный Mercedes-Benz Actros с тентованным кузовом и большой кабиной, подержанный грузовик для сдачи в зачёт, вид спереди сбоку на улице промзоны",
+  "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Продажа коммерческого транспорта: способы, обязанности, чек-лист | ECS Exclusive Commerce Services GmbH",
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Белый трёхосный MAN TGX с бортовой платформой, краном-манипулятором и бортовым прицепом, подержанный коммерческий автомобиль перед продажей на мощёной площадке"
 };

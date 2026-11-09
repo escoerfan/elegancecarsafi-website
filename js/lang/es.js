@@ -1342,4 +1342,12 @@
   "Schnelle Abfertigung": "Tramitación rápida",
   "Kurze Wege und schnelle Entscheidungen: Kaufvertrag und Papiere sind zügig fertig, damit Ihr Fahrzeug schnell bei Ihnen ist.": "Trato directo y decisiones rápidas: el contrato y los documentos están listos enseguida para que su vehículo llegue pronto.",
   "Ständig „Was ist letzte Preis?“ anhören": "Escuchar todo el rato “¿Cuál último precio?”",
+
+  /* ---- Blog: Ankauf, Inzahlungnahme, Nutzfahrzeug verkaufen ---- */
+  "LKW Ankauf: Ablauf, Wert und seriöse Käufer | ECS Exclusive Commerce Services GmbH": "Compra de camiones: proceso, valor y compradores fiables | ECS Exclusive Commerce Services GmbH",
+  "Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne": "Mercedes-Benz Axor azul con caja abierta y grúa detrás de la cabina, camión usado de tres ejes en la compra de camiones, vista frontal lateral",
+  "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Entrega de camión a cuenta: cómo dar su camión como parte de pago | ECS Exclusive Commerce Services GmbH",
+  "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Mercedes-Benz Actros negro con carrocería de lona y cabina grande, camión usado para entregar a cuenta, vista frontal lateral en una calle de un polígono industrial",
+  "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Vender un vehículo comercial: opciones, obligaciones, lista de control | ECS Exclusive Commerce Services GmbH",
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "MAN TGX blanco de tres ejes con caja abierta, grúa y remolque de caja abierta, vehículo comercial usado antes de la venta en un patio adoquinado"
 };
