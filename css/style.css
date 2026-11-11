@@ -1663,6 +1663,18 @@ body .vw-section * {
 @media (max-width: 640px) {
   .page-intro__text { font-size: 18px; }
 }
+/* Bestand: Text links, Anrufen/WhatsApp rechts – füllt die Breite der
+   Fahrzeugliste statt eines einzelnen Absatzes im leeren Feld */
+.page-intro--split { padding-block: clamp(48px, 5vw, 72px); }
+.page-intro--split .container {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 32px 64px;
+}
+.page-intro--split .page-intro__text { max-width: 720px; }
+.page-intro--split .page-intro__actions { margin-top: 0; flex: none; }
+@media (max-width: 991px) {
+  .page-intro--split .container { flex-direction: column; align-items: flex-start; }
+}
 /* Folgt ein weißer Abschnitt, trennt eine feine Linie statt doppeltem Abstand */
 .page-intro + .about,
 .page-intro + .statement { padding-top: clamp(64px, 7vw, 100px); border-top: 1px solid var(--line-dark); }
