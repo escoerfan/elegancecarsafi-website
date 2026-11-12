@@ -345,6 +345,7 @@ details summary::-webkit-details-marker { display: none; }
   filter: brightness(0.72) saturate(0.7);
   animation: hero-zoom 2.4s var(--ease) both;
 }
+.hero__bg img.hero__img--weiss { object-position: 80% 40%; } /* Startseite: Actros steht rechts, Handy-Ausschnitt mit Anker 80 % */
 .hero__bg::after {
   content: "";
   position: absolute;

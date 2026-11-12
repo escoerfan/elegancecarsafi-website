@@ -15,7 +15,8 @@ OUT = os.path.join(SRC, 'opt')
 
 # Fotos: Datei -> Breiten
 PHOTOS = {
-    'hero-actros.png': [960, 1440, 1920, 2880],
+    'hero-actros.png': [960, 1440, 1920, 2880],          # Kontakt-Kopf (schwarzer Actros)
+    'hero-actros-weiss.png': [960, 1440, 1672],          # Startseite: weißer Actros am Fjord (Chat 12.11., nur 1672 px)
     'pitch-atego-koffer.webp': [960, 1448],
     'pitch-lkw-reihe.webp': [960, 1448],
     'fuhrpark-atego-reihe.webp': [720, 1086],
@@ -69,6 +70,7 @@ PHOTOS = {
 # bis zu diesem Seitenverhältnis exakt derselbe Bildbereich sichtbar.
 CROPS = {
     'hero-actros.png': (3 / 4, 0.70, [810, 1215]),
+    'hero-actros-weiss.png': (3 / 4, 0.80, [706]),     # 941 px hoch -> max. 706 px breit
 }
 # Logos (transparent): Datei -> Zielhöhe in Pixel (2x der Anzeigegröße).
 # Marken-Logos werden vorher auf den sichtbaren Bereich zugeschnitten (kein Leerrand),

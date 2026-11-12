@@ -1260,6 +1260,7 @@
 
   /* ---- Alt-Texte Seiten (05.11.2026) ---- */
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "Чёрный седельный тягач Mercedes-Benz Actros у горного озера – ECS GmbH, выкуп и экспорт подержанной коммерческой техники",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "Белый седельный тягач Mercedes-Benz Actros у горного озера – ECS GmbH, выкуп и экспорт подержанной коммерческой техники",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – Kontakt zur ECS GmbH in Gehrden bei Hannover": "Чёрный седельный тягач Mercedes-Benz Actros у горного озера – контакт с ECS GmbH в Гердене под Ганновером",
   "Erklärfilm der ECS GmbH: Wir kaufen Linienbusse, LKW, Sattelzüge und Transporter direkt von Unternehmen": "Видеоролик ECS GmbH: мы покупаем городские автобусы, грузовики, седельные тягачи и фургоны напрямую у компаний",
   "Gebrauchter Mercedes-Benz Atego 818 Verteiler-LKW mit Kofferaufbau in der 7,5-Tonnen-Klasse": "Подержанный развозной грузовик Mercedes-Benz Atego 818 с фургоном в классе 7,5 тонны",

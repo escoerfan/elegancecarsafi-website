@@ -1276,6 +1276,7 @@
 
   /* ---- Alt-Texte Seiten (05.11.2026) ---- */
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "Black Mercedes-Benz Actros tractor unit at a mountain lake – ECS GmbH, purchase and export of used commercial vehicles",
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine am Bergsee – ECS GmbH, Ankauf und Export gebrauchter Nutzfahrzeuge": "White Mercedes-Benz Actros tractor unit at a mountain lake – ECS GmbH, purchase and export of used commercial vehicles",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine am Bergsee – Kontakt zur ECS GmbH in Gehrden bei Hannover": "Black Mercedes-Benz Actros tractor unit at a mountain lake – contact ECS GmbH in Gehrden near Hanover",
   "Erklärfilm der ECS GmbH: Wir kaufen Linienbusse, LKW, Sattelzüge und Transporter direkt von Unternehmen": "ECS GmbH explainer video: we buy city buses, trucks, semi-trailer trucks and vans directly from companies",
   "Gebrauchter Mercedes-Benz Atego 818 Verteiler-LKW mit Kofferaufbau in der 7,5-Tonnen-Klasse": "Used Mercedes-Benz Atego 818 distribution truck with box body in the 7.5-tonne class",
