@@ -135,6 +135,107 @@
     revealables.forEach(function (el) { el.classList.add('is-visible'); });
   }
 
+  /* ---------------------------------- Verzollung: Umschalter + Schritte
+     EU-Land | Drittland filtert die Punkte, Hover (Maus) oder Klick wählt
+     die Karte, Pfeile/Wischen blättern. */
+  Array.prototype.forEach.call(document.querySelectorAll('[data-vz]'), function (vz) {
+    var opts = vz.querySelectorAll('.vz__opt');
+    var items = Array.prototype.slice.call(vz.querySelectorAll('.vz__item'));
+    var panels = Array.prototype.slice.call(vz.querySelectorAll('.vz__panel'));
+    var list = [];
+    var cur = 0;
+    var canHover = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+    var pad = function (n) { return (n < 10 ? '0' : '') + n; };
+
+    function show(i, focus) {
+      cur = Math.max(0, Math.min(list.length - 1, i));
+      var activeId = '';
+      list.forEach(function (li, k) {
+        var btn = li.querySelector('.vz__step');
+        var on = k === cur;
+        btn.setAttribute('aria-selected', on ? 'true' : 'false');
+        btn.tabIndex = on ? 0 : -1;
+        li.classList.toggle('is-on', on);
+        li.classList.toggle('is-done', k <= cur);
+        if (on) {
+          activeId = btn.getAttribute('aria-controls');
+          if (focus) btn.focus();
+        }
+      });
+      panels.forEach(function (p) {
+        var on = p.id === activeId;
+        p.classList.toggle('is-on', on);
+        if (!on) return;
+        p.querySelector('.vz__count').textContent = pad(cur + 1) + ' / ' + pad(list.length);
+        var arrows = p.querySelectorAll('.vz__arrow');
+        arrows[0].disabled = cur === 0;
+        arrows[1].disabled = cur === list.length - 1;
+      });
+      vz.style.setProperty('--i', cur);
+    }
+
+    function setRoute(route) {
+      vz.setAttribute('data-route', route);
+      Array.prototype.forEach.call(opts, function (o) {
+        o.setAttribute('aria-pressed', o.getAttribute('data-vz-route') === route ? 'true' : 'false');
+      });
+      list = items.filter(function (li) {
+        var on = li.getAttribute('data-route').split(' ').indexOf(route) > -1;
+        li.hidden = !on;
+        return on;
+      });
+      list.forEach(function (li, k) { li.querySelector('.vz__num').textContent = pad(k + 1); });
+      vz.style.setProperty('--n', list.length);
+      show(0);
+    }
+
+    Array.prototype.forEach.call(opts, function (o) {
+      o.addEventListener('click', function () { setRoute(o.getAttribute('data-vz-route')); });
+    });
+
+    items.forEach(function (li) {
+      var btn = li.querySelector('.vz__step');
+      var timer;
+      btn.addEventListener('click', function () { show(list.indexOf(li)); });
+      if (canHover) {
+        btn.addEventListener('mouseenter', function () {
+          timer = setTimeout(function () { show(list.indexOf(li)); }, 90);
+        });
+        btn.addEventListener('mouseleave', function () { clearTimeout(timer); });
+      }
+    });
+
+    vz.querySelector('.vz__steps').addEventListener('keydown', function (e) {
+      var rtl = document.documentElement.dir === 'rtl';
+      var next = { ArrowRight: rtl ? -1 : 1, ArrowLeft: rtl ? 1 : -1 }[e.key];
+      if (e.key === 'Home') { show(0, true); e.preventDefault(); }
+      else if (e.key === 'End') { show(list.length - 1, true); e.preventDefault(); }
+      else if (next) { show(cur + next, true); e.preventDefault(); }
+    });
+
+    vz.querySelectorAll('.vz__arrow').forEach(function (a) {
+      a.addEventListener('click', function () { show(cur + Number(a.getAttribute('data-vz-dir'))); });
+    });
+
+    /* Wischen auf dem Handy */
+    var x0 = null, y0 = 0;
+    var box = vz.querySelector('.vz__panels');
+    box.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
+    box.addEventListener('touchend', function (e) {
+      if (x0 === null) return;
+      var dx = e.changedTouches[0].clientX - x0;
+      var dy = e.changedTouches[0].clientY - y0;
+      x0 = null;
+      if (Math.abs(dx) < 50 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+      var dir = dx < 0 ? 1 : -1;
+      if (document.documentElement.dir === 'rtl') dir = -dir;
+      show(cur + dir);
+    }, { passive: true });
+
+    vz.classList.add('vz--js');
+    setRoute('eu');
+  });
+
   /* ------------------------------------------------ Ablauf-Zeitleiste
      Die Linie füllt sich bis zur Bildschirmmitte (etwas darunter), jede
      erreichte Nummer wird schwarz. */

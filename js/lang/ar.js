@@ -1350,5 +1350,9 @@
   "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "استبدال الشاحنة: احتساب شاحنتك القديمة من الثمن | ECS Exclusive Commerce Services GmbH",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "شاحنة مرسيدس-بنز أكتروس سوداء بهيكل مغطى بقماش ومقصورة كبيرة، شاحنة مستعملة للاستبدال، منظر أمامي جانبي في شارع بمنطقة صناعية",
   "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "بيع المركبات التجارية: الطرق والالتزامات وقائمة التحقق | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "شاحنة MAN TGX بيضاء بثلاثة محاور بصندوق مسطح ورافعة ومقطورة مسطحة، مركبة تجارية مستعملة قبل البيع في ساحة مرصوفة"
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "شاحنة MAN TGX بيضاء بثلاثة محاور بصندوق مسطح ورافعة ومقطورة مسطحة، مركبة تجارية مستعملة قبل البيع في ساحة مرصوفة",
+  "EU-Land": "دولة في الاتحاد الأوروبي",
+  "Drittland": "دولة ثالثة",
+  "Weiter": "التالي",
+  "Zielgebiet": "الوجهة"
 };

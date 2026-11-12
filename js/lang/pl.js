@@ -1350,5 +1350,9 @@
   "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Ciężarówka w rozliczeniu: jak oddać pojazd w rozliczeniu | ECS Exclusive Commerce Services GmbH",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Czarny Mercedes-Benz Actros z zabudową plandekową i dużą kabiną, używana ciężarówka do oddania w rozliczeniu, widok ukośnie z przodu na ulicy w strefie przemysłowej",
   "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Sprzedaż pojazdu użytkowego: sposoby, obowiązki, lista kontrolna | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Biały trzyosiowy MAN TGX ze skrzynią ładunkową, żurawiem i przyczepą skrzyniową, używany pojazd użytkowy przed sprzedażą na brukowanym placu"
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Biały trzyosiowy MAN TGX ze skrzynią ładunkową, żurawiem i przyczepą skrzyniową, używany pojazd użytkowy przed sprzedażą na brukowanym placu",
+  "EU-Land": "Kraj UE",
+  "Drittland": "Kraj trzeci",
+  "Weiter": "Dalej",
+  "Zielgebiet": "Kierunek"
 };

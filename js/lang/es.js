@@ -1350,5 +1350,9 @@
   "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Entrega de camión a cuenta: cómo dar su camión como parte de pago | ECS Exclusive Commerce Services GmbH",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Mercedes-Benz Actros negro con carrocería de lona y cabina grande, camión usado para entregar a cuenta, vista frontal lateral en una calle de un polígono industrial",
   "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Vender un vehículo comercial: opciones, obligaciones, lista de control | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "MAN TGX blanco de tres ejes con caja abierta, grúa y remolque de caja abierta, vehículo comercial usado antes de la venta en un patio adoquinado"
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "MAN TGX blanco de tres ejes con caja abierta, grúa y remolque de caja abierta, vehículo comercial usado antes de la venta en un patio adoquinado",
+  "EU-Land": "País de la UE",
+  "Drittland": "Tercer país",
+  "Weiter": "Siguiente",
+  "Zielgebiet": "Destino"
 };

@@ -1366,5 +1366,9 @@
   "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Truck Trade-In: Trading In Your Truck | ECS Exclusive Commerce Services GmbH",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Black Mercedes-Benz Actros with curtainside body and large cab, a used truck for trade-in, front three-quarter view on a road in an industrial estate",
   "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Selling a Commercial Vehicle: Options, Duties, Checklist | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "White three-axle MAN TGX with flatbed, loading crane and flatbed trailer, a used commercial vehicle before sale on a paved yard"
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "White three-axle MAN TGX with flatbed, loading crane and flatbed trailer, a used commercial vehicle before sale on a paved yard",
+  "EU-Land": "EU country",
+  "Drittland": "Non-EU country",
+  "Weiter": "Next",
+  "Zielgebiet": "Destination"
 };

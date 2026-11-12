@@ -1350,5 +1350,9 @@
   "LKW Inzahlungnahme: LKW in Zahlung geben | ECS Exclusive Commerce Services GmbH": "Трейд-ин грузовика: как сдать грузовик в зачёт | ECS Exclusive Commerce Services GmbH",
   "Schwarzer Mercedes-Benz Actros mit Planenaufbau und großem Fahrerhaus, ein gebrauchter LKW für die Inzahlungnahme, schräg von vorne auf einer Straße im Gewerbegebiet": "Чёрный Mercedes-Benz Actros с тентованным кузовом и большой кабиной, подержанный грузовик для сдачи в зачёт, вид спереди сбоку на улице промзоны",
   "Nutzfahrzeug verkaufen: Wege, Pflichten, Checkliste | ECS Exclusive Commerce Services GmbH": "Продажа коммерческого транспорта: способы, обязанности, чек-лист | ECS Exclusive Commerce Services GmbH",
-  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Белый трёхосный MAN TGX с бортовой платформой, краном-манипулятором и бортовым прицепом, подержанный коммерческий автомобиль перед продажей на мощёной площадке"
+  "Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz": "Белый трёхосный MAN TGX с бортовой платформой, краном-манипулятором и бортовым прицепом, подержанный коммерческий автомобиль перед продажей на мощёной площадке",
+  "EU-Land": "Страна ЕС",
+  "Drittland": "Третья страна",
+  "Weiter": "Далее",
+  "Zielgebiet": "Направление"
 };
