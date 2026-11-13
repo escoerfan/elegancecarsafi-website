@@ -136,7 +136,8 @@
   }
 
   /* ---------------------------------- Verzollung: Umschalter + Schritte
-     EU-Land | Drittland filtert die Punkte, Hover (Maus) oder Klick wählt
+     EU-Land | Drittland filtert die Punkte (ohne Umschalter alle Punkte,
+     z. B. Export Drittland), Hover (Maus) oder Klick wählt
      die Karte, Pfeile/Wischen blättern. */
   Array.prototype.forEach.call(document.querySelectorAll('[data-vz]'), function (vz) {
     var opts = vz.querySelectorAll('.vz__opt');
@@ -180,7 +181,8 @@
         o.setAttribute('aria-pressed', o.getAttribute('data-vz-route') === route ? 'true' : 'false');
       });
       list = items.filter(function (li) {
-        var on = li.getAttribute('data-route').split(' ').indexOf(route) > -1;
+        var r = li.getAttribute('data-route');
+        var on = !route || !r || r.split(' ').indexOf(route) > -1;
         li.hidden = !on;
         return on;
       });
@@ -233,7 +235,9 @@
     }, { passive: true });
 
     vz.classList.add('vz--js');
-    setRoute('eu');
+    setRoute(opts.length ? 'eu' : '');
+    /* Erst danach Überblendungen erlauben, sonst blenden beim Laden alle Karten aus */
+    setTimeout(function () { vz.classList.add('vz--ready'); }, 60);
   });
 
   /* ------------------------------------------------ Ablauf-Zeitleiste

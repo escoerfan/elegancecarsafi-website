@@ -701,7 +701,10 @@ html[dir="rtl"] .vz[data-route="dl"] .vz__switch::before { translate: -100% 0; }
 }
 .vz__item.is-done .vz__num { background: var(--ink); border-color: var(--ink); color: var(--white); }
 .vz__item.is-on .vz__num { box-shadow: 0 0 0 5px var(--white), 0 0 0 6px var(--ink); }
-.vz__label { font-size: 17px; line-height: 1.3; color: var(--muted); transition: color 0.3s var(--ease); }
+.vz__label { font-size: 17px; line-height: 1.3; color: var(--muted); -webkit-hyphens: auto; hyphens: auto; overflow-wrap: break-word; transition: color 0.3s var(--ease); }
+/* Viele Punkte (Export Drittland, 6): Beschriftung kleiner, ab Tablet nur Nummern */
+.vz--many .vz__label { font-size: 16px; }
+@media (max-width: 900px) { .vz--many .vz__label { display: none; } }
 .vz__step:hover .vz__label, .vz__item.is-on .vz__label { color: var(--ink); }
 .vz__step:hover .vz__num { border-color: var(--ink); }
 
@@ -741,7 +744,9 @@ html[dir="rtl"] .mk-plate { direction: ltr; }
 .vz__arrow:disabled { opacity: 0.35; cursor: default; }
 .vz .vz__visual { background: transparent; }
 .vz.is-visible .vz__panel.is-on .mk-in { opacity: 1; translate: none; }
+.vz.is-visible .vz__panel.is-on .mk-route__line { stroke-dashoffset: 0; }
 
+.vz:not(.vz--ready) .vz__panel { transition: none; }
 /* Ohne JavaScript: alle Karten untereinander, keine Bedienelemente */
 .vz:not(.vz--js) .vz__switch, .vz:not(.vz--js) .vz__track, .vz:not(.vz--js) .vz__nav { display: none; }
 .vz:not(.vz--js) .vz__panels { gap: 20px; }
