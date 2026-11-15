@@ -118,22 +118,7 @@
     window.addEventListener('scroll', onScroll, { passive: true });
   }
 
-  /* ------------------------------------------------------ Scroll-Reveal */
-  var revealables = document.querySelectorAll('.reveal');
-
-  if ('IntersectionObserver' in window && revealables.length) {
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        if (!entry.isIntersecting) return;
-        entry.target.classList.add('is-visible');
-        io.unobserve(entry.target);
-      });
-    }, { rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
-
-    revealables.forEach(function (el) { io.observe(el); });
-  } else {
-    revealables.forEach(function (el) { el.classList.add('is-visible'); });
-  }
+  /* Scroll-Reveal (.reveal) startet früher in js/i18n.js */
 
   /* ---------------------------------- Verzollung: Umschalter + Schritte
      EU-Land | Drittland filtert die Punkte (ohne Umschalter alle Punkte,

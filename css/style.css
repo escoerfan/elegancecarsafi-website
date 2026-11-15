@@ -1624,7 +1624,7 @@ body .vw-section * {
   animation: cookie-in 0.5s var(--ease) both;
 }
 @keyframes cookie-in {
-  from { opacity: 0; transform: translateY(16px); }
+  from { opacity: 0.01; transform: translateY(16px); }
   to   { opacity: 1; transform: none; }
 }
 .cookie-banner [hidden] { display: none !important; }
@@ -2136,8 +2136,10 @@ body .vw-section * {
 /* ====================================================================
    Scroll-Reveal
    ==================================================================== */
+/* Start-Deckkraft 1 % statt 0: optisch gleich, aber Chrome wertet Text im
+   ersten Bildschirm sofort als gemalt (LCP) statt erst nach der Einblendung. */
 .reveal {
-  opacity: 0;
+  opacity: 0.01;
   transform: translateY(28px);
   transition: opacity 0.9s var(--ease), transform 0.9s var(--ease);
 }

@@ -21,7 +21,7 @@
   ];
   var RTL = { ar: true };
   var STORE_KEY = 'ecs-lang';
-  var VERSION = '20261115b';
+  var VERSION = '20261115c';
   var ATTRS = ['alt', 'aria-label', 'placeholder', 'title'];
   var SKIP_TAGS = { SCRIPT: 1, STYLE: 1, NOSCRIPT: 1, svg: 1, SVG: 1, TEXTAREA: 1 };
 
@@ -366,6 +366,37 @@
 
   window.ECSLang = { set: setLang, get: function () { return lang; } };
 
-  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
-  else start();
+  /* --------------------------------------------- Scroll-Reveal (.reveal)
+     Läuft hier statt in main.js: Sobald das HTML eingelesen ist
+     (readyState "interactive"), noch bevor die defer-Skripte geladen sind.
+     So erscheint der Text im ersten Bildschirm sofort mit dem ersten Bild. */
+  function reveal() {
+    var els = document.querySelectorAll('.reveal');
+    if (!els.length) return;
+    if (!('IntersectionObserver' in window)) {
+      for (var i = 0; i < els.length; i++) els[i].classList.add('is-visible');
+      return;
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (!entry.isIntersecting) return;
+        entry.target.classList.add('is-visible');
+        io.unobserve(entry.target);
+      });
+    }, { rootMargin: '0px 0px -10% 0px', threshold: 0.05 });
+    for (var k = 0; k < els.length; k++) io.observe(els[k]);
+  }
+
+  /* Start, sobald das HTML eingelesen ist – nicht erst bei DOMContentLoaded,
+     das auf alle defer-Skripte wartet */
+  var started = false;
+  function boot() {
+    if (started || document.readyState === 'loading') return;
+    started = true;
+    start();
+    reveal();
+  }
+  document.addEventListener('readystatechange', boot);
+  document.addEventListener('DOMContentLoaded', boot);
+  boot();
 })();

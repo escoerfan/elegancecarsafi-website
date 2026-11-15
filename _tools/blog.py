@@ -178,7 +178,7 @@ def reading_time(body):
 
 
 # ------------------------------------------------------------------ Bausteine
-def card(p):
+def card(p, eager=False, priority=False):
     return '''      <li class="blog-card reveal">
         <a class="blog-card__link" href="blog-%s">
           <div class="blog-card__media">%s</div>
@@ -187,14 +187,18 @@ def card(p):
           <p class="blog-card__excerpt" data-no-i18n>%s</p>
           <span class="blog-card__more">Weiterlesen</span>
         </a>
-      </li>''' % (p['name'], picture(p['bild'], p['bild_alt'], '(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px'),
+      </li>''' % (p['name'], picture(p['bild'], p['bild_alt'], '(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px',
+                                     lazy=not eager, priority=priority),
                   p['datum'], de_date(p['datum_obj']),
                   (' · ' + esc(p['kategorie'])) if p.get('kategorie') else '',
                   esc(p['titel']), esc(p.get('anriss') or p['beschreibung']))
 
 
-def grid(posts):
-    return '    <ul class="blog-grid">\n' + '\n'.join(card(p) for p in posts) + '\n    </ul>'
+def grid(posts, eager=0):
+    """eager: so viele Karten vorne laden sofort (erste Reihe der Übersicht), die erste mit Priorität."""
+    return ('    <ul class="blog-grid">\n' +
+            '\n'.join(card(p, eager=i < eager, priority=i == 0 and eager > 0) for i, p in enumerate(posts)) +
+            '\n    </ul>')
 
 
 def set_meta(src, attr, key, value):
@@ -308,7 +312,7 @@ def main():
     posts.sort(key=lambda p: (p['datum_obj'], p.get('zeit', '00:00'), p['name']), reverse=True)
 
     # Galerie-Vorschau auf blog.html
-    inner = grid(posts) if posts else EMPTY
+    inner = grid(posts, eager=3) if posts else EMPTY
     new_shell = re.sub(re.escape(START) + r'[\s\S]*?' + re.escape(END),
                        lambda m: START + '\n' + inner + '\n' + END, shell, count=1)
     if new_shell != shell:
