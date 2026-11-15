@@ -1623,8 +1623,9 @@ body .vw-section * {
   color: var(--text);
   animation: cookie-in 0.5s var(--ease) both;
 }
+/* Start bei Deckkraft 0 (nicht 0.01 wie .reveal): so zählt Chrome den Banner nicht als LCP */
 @keyframes cookie-in {
-  from { opacity: 0.01; transform: translateY(16px); }
+  from { opacity: 0; transform: translateY(16px); }
   to   { opacity: 1; transform: none; }
 }
 .cookie-banner [hidden] { display: none !important; }
