@@ -38,7 +38,7 @@
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css?v=20261115a">
 
-<script src="js/i18n.js?v=20261115c"></script>
+<script src="js/i18n.js?v=20261115d"></script>
 <script type="speculationrules">{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"moderate"}],"prerender":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"conservative"}]}</script>
 <!-- schema:start -->
 <script type="application/ld+json">
@@ -203,8 +203,8 @@
     {
      "@type": "ListItem",
      "position": 2,
-     "name": "Blog",
-     "item": "https://elegancecarsafi.com/blog"
+     "name": "Aktuelles",
+     "item": "https://elegancecarsafi.com/aktuelles"
     },
     {
      "@type": "ListItem",
@@ -292,7 +292,7 @@
     "@id": "https://elegancecarsafi.com/#organization"
    },
    "isPartOf": {
-    "@id": "https://elegancecarsafi.com/blog#blog"
+    "@id": "https://elegancecarsafi.com/aktuelles#blog"
    },
    "articleSection": "Aktuelles"
   }
@@ -349,7 +349,13 @@
           <a href="export-drittland">Export in Drittländer</a>
         </div>
       </div>
-      <a href="blog" aria-current="page">Blog</a>
+      <div class="nav-item nav-item--sub">
+        <button class="nav-sub__toggle" type="button" aria-expanded="false" aria-controls="nav-sub-blog">Blog</button>
+        <div class="nav-sub" id="nav-sub-blog">
+          <a href="aktuelles" aria-current="page">Aktuelles</a>
+          <a href="blog">Beiträge</a>
+        </div>
+      </div>
       <a href="kontakt">Kontakt</a>
       <a href="faq">FAQ</a>
     </nav>
@@ -374,7 +380,7 @@
 <!-- ============================================================ Seitenkopf -->
 <section class="page-hero page-hero--compact">
   <div class="container">
-    <p class="eyebrow"><span><a href="blog">Blog</a> · <span data-no-i18n>Aktuelles</span></span></p>
+    <p class="eyebrow"><span><a href="aktuelles">Aktuelles</a></span></p>
     <h1 class="h1 page-hero__title" data-no-i18n>LKW-Stau an der Grenze Türkei–Bulgarien: Was dahintersteckt</h1>
     <p class="page-hero__meta" data-no-i18n><time datetime="2026-11-04">4. November 2026</time> · 6 Min. Lesezeit</p>
   </div>
@@ -417,7 +423,7 @@
     <p class="post__note" data-no-i18n>Hinweis: Dieser Beitrag dient der allgemeinen Information und ersetzt keine Rechts- oder Steuerberatung. Alle Angaben ohne Gewähr, Stand: 4. November 2026. Genannte Marken und Modellbezeichnungen gehören ihren jeweiligen Inhabern. Die ECS GmbH ist ein unabhängiger Händler und steht in keiner Verbindung zu den Herstellern.</p>
     <footer class="post__footer">
       <span>Bildnachweis: <span data-no-i18n>Fotos: ECS GmbH</span></span>
-      <a href="blog">Alle Beiträge</a>
+      <a href="aktuelles">Alle Neuigkeiten</a>
     </footer>
   </div>
 </article>
@@ -428,6 +434,15 @@
     <p class="eyebrow">Blog</p>
     <h2 class="h2" id="more-title">Weitere Beiträge</h2>
     <ul class="blog-grid">
+      <li class="blog-card reveal">
+        <a class="blog-card__link" href="blog-fahrzeugeinkauf-jahreswechsel-2026-2027">
+          <div class="blog-card__media"><picture><source type="image/avif" srcset="assets/img/opt/kontakt-atego-reihe-960.avif 960w, assets/img/opt/kontakt-atego-reihe-1086.avif 1086w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><source type="image/webp" srcset="assets/img/opt/kontakt-atego-reihe-960.webp 960w, assets/img/opt/kontakt-atego-reihe-1086.webp 1086w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><img src="assets/img/opt/kontakt-atego-reihe-1086.jpg" srcset="assets/img/opt/kontakt-atego-reihe-960.jpg 960w, assets/img/opt/kontakt-atego-reihe-1086.jpg 1086w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px" alt="Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH" width="1086" height="1448" loading="lazy" decoding="async"></picture></div>
+          <p class="blog-card__meta" data-no-i18n><time datetime="2026-11-15">15. November 2026</time> · Aktuelles</p>
+          <h2 class="blog-card__title" data-no-i18n>Fahrzeugeinkauf zum Jahreswechsel 2026/2027: Wir kaufen an</h2>
+          <p class="blog-card__excerpt" data-no-i18n>Zum Jahreswechsel 2026/2027 kaufen wir gezielt Fahrzeuge ein: LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge und ganze Fuhrparks. Was wir suchen und wie Sie zu einem Angebot kommen.</p>
+          <span class="blog-card__more">Weiterlesen</span>
+        </a>
+      </li>
       <li class="blog-card reveal">
         <a class="blog-card__link" href="blog-nutzfahrzeug-verkaufen">
           <div class="blog-card__media"><picture><source type="image/avif" srcset="assets/img/opt/blog-man-tgx-kran-960.avif 960w, assets/img/opt/blog-man-tgx-kran-1448.avif 1448w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><source type="image/webp" srcset="assets/img/opt/blog-man-tgx-kran-960.webp 960w, assets/img/opt/blog-man-tgx-kran-1448.webp 1448w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><img src="assets/img/opt/blog-man-tgx-kran-1448.jpg" srcset="assets/img/opt/blog-man-tgx-kran-960.jpg 960w, assets/img/opt/blog-man-tgx-kran-1448.jpg 1448w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px" alt="Weißer MAN TGX Dreiachser mit Pritsche, Ladekran und Pritschen-Anhänger, ein gebrauchtes Nutzfahrzeug vor dem Verkauf auf einem gepflasterten Platz" width="1448" height="1086" loading="lazy" decoding="async"></picture></div>
@@ -443,15 +458,6 @@
           <p class="blog-card__meta" data-no-i18n><time datetime="2026-11-09">9. November 2026</time> · Ankauf</p>
           <h2 class="blog-card__title" data-no-i18n>LKW Inzahlungnahme: Wann sie sich lohnt und wann nicht</h2>
           <p class="blog-card__excerpt" data-no-i18n>Der Händler bietet viel für Ihren alten LKW, und trotzdem kann das Geschäft teuer sein. Wie die Inzahlungnahme funktioniert, wann sie sich lohnt und worauf Sie beim Anrechnungswert achten sollten.</p>
-          <span class="blog-card__more">Weiterlesen</span>
-        </a>
-      </li>
-      <li class="blog-card reveal">
-        <a class="blog-card__link" href="blog-lkw-ankauf">
-          <div class="blog-card__media"><picture><source type="image/avif" srcset="assets/img/opt/ablauf-axor-kran-960.avif 960w, assets/img/opt/ablauf-axor-kran-1600.avif 1600w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><source type="image/webp" srcset="assets/img/opt/ablauf-axor-kran-960.webp 960w, assets/img/opt/ablauf-axor-kran-1600.webp 1600w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px"><img src="assets/img/opt/ablauf-axor-kran-1600.jpg" srcset="assets/img/opt/ablauf-axor-kran-960.jpg 960w, assets/img/opt/ablauf-axor-kran-1600.jpg 1600w" sizes="(max-width: 640px) 100vw, (max-width: 991px) 50vw, 430px" alt="Blauer Mercedes-Benz Axor mit Pritsche und Ladekran hinter dem Fahrerhaus, ein gebrauchter Dreiachser beim LKW Ankauf, schräg von vorne" width="1600" height="900" loading="lazy" decoding="async"></picture></div>
-          <p class="blog-card__meta" data-no-i18n><time datetime="2026-11-09">9. November 2026</time> · Ankauf</p>
-          <h2 class="blog-card__title" data-no-i18n>LKW Ankauf: So läuft er ab und darauf sollten Sie achten</h2>
-          <p class="blog-card__excerpt" data-no-i18n>Wir kaufen Ihren LKW, das versprechen viele. Wer steckt dahinter, wie entsteht das Angebot und woran erkennen Sie einen seriösen Käufer? Ein Überblick für alle, die einen gebrauchten LKW verkaufen möchten.</p>
           <span class="blog-card__more">Weiterlesen</span>
         </a>
       </li>
@@ -511,6 +517,7 @@
             <li><a href="unsere-arbeit">Unsere Arbeit</a></li>
             <li><a href="export">Export</a></li>
             <li><a href="blog">Blog</a></li>
+            <li><a href="aktuelles">Aktuelles</a></li>
             <li><a href="kontakt">Kontakt</a></li>
             <li><a href="faq">FAQ</a></li>
           </ul>

@@ -1455,5 +1455,13 @@
   "Wie der Ankauf abläuft, was wir ankaufen und welche Unterlagen Sie brauchen, steht auf unseren Ankaufseiten.": "How the purchase works, what we buy and which documents you need is explained on our vehicle purchase pages.",
   "Wir kaufen auch an: einzelne Fahrzeuge ebenso wie ganze Fuhrparks.": "We also buy: individual vehicles as well as entire fleets.",
   "Wir kaufen auch an: einzelne LKW und ganze Flotten.": "We also buy: individual trucks and entire fleets.",
-  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "We also buy: individual buses, entire bus fleets and complete bus companies."
+  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "We also buy: individual buses, entire bus fleets and complete bus companies.",
+
+  /* ---- Aktuelles (Blog-Untermenü) ---- */
+  "Aktuelles": "News",
+  "Alle Neuigkeiten": "All news",
+  "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "News | Commercial vehicle news from ECS Exclusive Commerce Services GmbH",
+  "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "News from ECS GmbH and reports from the commercial vehicle market.",
+  "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "Sell your commercial vehicle at the turn of the year 2026/2027: we are buying | ECS Exclusive Commerce Services GmbH",
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Row of white Mercedes-Benz Atego distribution trucks with box bodies on a paved yard, an Atego 1522 in front – vehicle purchasing at the turn of the year at ECS GmbH"
 };

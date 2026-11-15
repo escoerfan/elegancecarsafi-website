@@ -15,6 +15,10 @@ Aus jeder Datei `_blog/<name>.md` erzeugt `_tools/blog.py` die Seite
 4. Vorschau prüfen, dann committen und pushen – Sitemap und strukturierte Daten
    (BlogPosting) erzeugt der pre-commit-Hook automatisch.
 
+**Übersicht:** Das Menü „Blog“ hat zwei Unterpunkte. Beiträge mit `kategorie: Aktuelles`
+(Nachrichten, Ankündigungen) erscheinen auf `/aktuelles`, alle anderen auf `/blog` („Beiträge“).
+Die URL bleibt immer `/blog-<name>`.
+
 Beiträge mit `entwurf: ja` oder einem Datum in der Zukunft werden nicht veröffentlicht.
 Wird eine Datei gelöscht, entfernt `blog.py` die zugehörige Seite beim nächsten Lauf.
 

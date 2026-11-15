@@ -13,8 +13,12 @@ Je Beitrag:
   (Original liegt in assets/img/, benötigt Pillow wie _tools/bilder.py)
 - og:type article + article:published_time -> schema.py macht daraus BlogPosting
 
-blog.html: Karten zwischen <!-- blog:start --> und <!-- blog:end -->, neueste
-zuerst; ohne Beiträge steht dort der Hinweis „Die ersten Beiträge sind in Arbeit“.
+Zwei Übersichten (Menü Blog > Aktuelles | Beiträge), Karten jeweils zwischen
+<!-- blog:start --> und <!-- blog:end -->, neueste zuerst:
+- aktuelles.html: Beiträge mit „kategorie: Aktuelles“ (Nachrichten, z. B. Stau an der Grenze)
+- blog.html: alle anderen Beiträge (Wissen, Ankauf …); ohne Beiträge steht dort
+  der Hinweis „Die ersten Beiträge sind in Arbeit“.
+Die URL eines Beitrags bleibt immer blog-<name>, egal in welcher Übersicht er steht.
 Nicht mehr vorhandene Beiträge (Quelle gelöscht oder wieder Entwurf) werden entfernt.
 
 Aufruf:  python3 _tools/blog.py
@@ -31,6 +35,7 @@ OPT = os.path.join(IMG, 'opt')
 MARK = '<!-- erzeugt von _tools/blog.py – nicht von Hand bearbeiten, Quelle: _blog/%s.md -->'
 START, END = '<!-- blog:start -->', '<!-- blog:end -->'
 WIDTHS = [960, 1600]
+AKTUELL = 'Aktuelles'          # Kategorie, die auf aktuelles.html statt auf blog.html erscheint
 MONATE = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August',
           'September', 'Oktober', 'November', 'Dezember']
 
@@ -42,6 +47,16 @@ EMPTY = '''    <div class="blog-empty reveal">
         <li><a href="faq">Häufige Fragen</a></li>
         <li><a href="unsere-arbeit">So läuft ein Ankauf ab</a></li>
         <li><a href="export">Export und Verzollung</a></li>
+        <li><a href="fahrzeuge">Fahrzeuge im Bestand</a></li>
+      </ul>
+    </div>'''
+
+EMPTY_NEWS = '''    <div class="blog-empty reveal">
+      <p class="eyebrow">Bald hier</p>
+      <h2 class="h2">Neuigkeiten folgen in Kürze.</h2>
+      <p class="lead">Bis dahin finden Sie Wissen rund um Ankauf, Verkauf und Export in unseren Beiträgen.</p>
+      <ul class="blog-empty__links">
+        <li><a href="blog">Alle Beiträge</a></li>
         <li><a href="fahrzeuge">Fahrzeuge im Bestand</a></li>
       </ul>
     </div>'''
@@ -75,6 +90,15 @@ def read_post(path):
     meta['datum_obj'] = datetime.date.fromisoformat(meta['datum'])
     meta['aktualisiert_obj'] = datetime.date.fromisoformat(meta.get('aktualisiert') or meta['datum'])
     return meta
+
+
+def is_news(p):
+    return p.get('kategorie', '').strip().lower() == AKTUELL.lower()
+
+
+def listing(p):
+    """(Seite, Name im Menü) der Übersicht, in der der Beitrag steht"""
+    return ('aktuelles', AKTUELL) if is_news(p) else ('blog', 'Blog')
 
 
 def de_date(d):
@@ -236,6 +260,11 @@ def build_post(shell, p, others):
     src = re.sub(r'<!-- schema:start -->[\s\S]*?<!-- schema:end -->', '<!-- schema:start -->\n<!-- schema:end -->', src)
     src = src.replace('<!DOCTYPE html>', '<!DOCTYPE html>\n' + MARK % p['name'], 1)
 
+    home, home_name = listing(p)
+    # Menü: Unterpunkt der eigenen Übersicht markieren (Vorlage blog.html markiert „Beiträge“)
+    src = src.replace(' aria-current="page"', '')
+    src = src.replace('<a href="%s">' % home, '<a href="%s" aria-current="page">' % home, 1)
+
     body, images = render(p['body'])
     credit = p.get('bildnachweis') or 'ECS GmbH'
     if p.get('ki_bild', '').lower() in ('ja', 'yes', 'true'):
@@ -248,7 +277,7 @@ def build_post(shell, p, others):
 <!-- ============================================================ Seitenkopf -->
 <section class="page-hero page-hero--compact">
   <div class="container">
-    <p class="eyebrow"><span><a href="blog">Blog</a>%s</span></p>
+    <p class="eyebrow"><span><a href="%s">%s</a>%s</span></p>
     <h1 class="h1 page-hero__title" data-no-i18n>%s</h1>
     <p class="page-hero__meta" data-no-i18n><time datetime="%s">%s</time>%s · %d Min. Lesezeit</p>
   </div>
@@ -264,16 +293,17 @@ def build_post(shell, p, others):
     <p class="post__note" data-no-i18n>Hinweis: Dieser Beitrag dient der allgemeinen Information und ersetzt keine Rechts- oder Steuerberatung. Alle Angaben ohne Gewähr, Stand: %s. Genannte Marken und Modellbezeichnungen gehören ihren jeweiligen Inhabern. Die ECS GmbH ist ein unabhängiger Händler und steht in keiner Verbindung zu den Herstellern.</p>
     <footer class="post__footer">
       <span>Bildnachweis: <span data-no-i18n>%s</span></span>
-      <a href="blog">Alle Beiträge</a>
+      <a href="%s">%s</a>
     </footer>
   </div>
 </article>
-''' % ((' · <span data-no-i18n>%s</span>' % esc(p['kategorie'])) if p.get('kategorie') else '',
+''' % (home, home_name,
+       (' · <span data-no-i18n>%s</span>' % esc(p['kategorie'])) if p.get('kategorie') and not is_news(p) else '',
        esc(p['titel']), p['datum'], de_date(p['datum_obj']), updated, reading_time(p['body']),
        ' post__cover--hoch' if portrait(p['bild']) else '',
        picture(p['bild'], p['bild_alt'], '(max-width: 1148px) 100vw, 1100px', lazy=False, priority=True)
        + ('<figcaption>%s</figcaption>' % inline(p['bild_text']) if p.get('bild_text') else ''),
-       body, de_date(p['aktualisiert_obj']), esc(credit))
+       body, de_date(p['aktualisiert_obj']), esc(credit), home, 'Alle Neuigkeiten' if is_news(p) else 'Alle Beiträge')
     if others:
         main += '''
 <!-- ======================================================= Weitere Beiträge -->
@@ -291,12 +321,21 @@ def build_post(shell, p, others):
     return src, [p['bild']] + images
 
 
-def main():
-    shell_path = os.path.join(ROOT, 'blog.html')
-    shell = open(shell_path, encoding='utf-8').read()
+def fill(path, posts, empty):
+    """Karten-Galerie einer Übersicht (blog.html / aktuelles.html) erneuern -> neuer Inhalt"""
+    shell = open(path, encoding='utf-8').read()
     if START not in shell or END not in shell:
-        fail('Marken %s / %s fehlen in blog.html' % (START, END))
+        fail('Marken %s / %s fehlen in %s' % (START, END, os.path.basename(path)))
+    inner = grid(posts, eager=3) if posts else empty
+    new = re.sub(re.escape(START) + r'[\s\S]*?' + re.escape(END),
+                 lambda m: START + '\n' + inner + '\n' + END, shell, count=1)
+    if new != shell:
+        open(path, 'w', encoding='utf-8').write(new)
+        print(os.path.basename(path))
+    return new
 
+
+def main():
     posts = []
     for path in sorted(glob.glob(os.path.join(SRC_DIR, '*.md'))):
         if os.path.basename(path).startswith('_') or os.path.basename(path).upper().startswith('LIESMICH'):
@@ -311,18 +350,15 @@ def main():
     # gleiches Datum: optionale Uhrzeit (zeit: 14:30) entscheidet, dann der Dateiname
     posts.sort(key=lambda p: (p['datum_obj'], p.get('zeit', '00:00'), p['name']), reverse=True)
 
-    # Galerie-Vorschau auf blog.html
-    inner = grid(posts, eager=3) if posts else EMPTY
-    new_shell = re.sub(re.escape(START) + r'[\s\S]*?' + re.escape(END),
-                       lambda m: START + '\n' + inner + '\n' + END, shell, count=1)
-    if new_shell != shell:
-        open(shell_path, 'w', encoding='utf-8').write(new_shell)
-        print('blog.html')
+    # Galerie-Vorschau: Nachrichten auf aktuelles.html, alles andere auf blog.html
+    new_shell = fill(os.path.join(ROOT, 'blog.html'), [p for p in posts if not is_news(p)], EMPTY)
+    fill(os.path.join(ROOT, 'aktuelles.html'), [p for p in posts if is_news(p)], EMPTY_NEWS)
 
     # Beitragsseiten
     written = set()
     for p in posts:
         others = [o for o in posts if o is not p]
+        others.sort(key=lambda o: is_news(o) != is_news(p))      # erst aus derselben Übersicht (stabil: neueste zuerst)
         out, _ = build_post(new_shell, p, others)
         target = os.path.join(ROOT, 'blog-%s.html' % p['name'])
         old = open(target, encoding='utf-8').read() if os.path.exists(target) else ''

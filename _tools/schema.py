@@ -10,8 +10,8 @@
 - WebPage.keywords: Suchbegriffe, Marken und Modelle aus _tools/seo_begriffe.py
 - WebPage.primaryImageOfPage: erstes Foto im <main> mit Alt-Text als caption,
   sonst das og:image der Seite
-- Blog: blog.html als Blog (mit Liste der Beiträge), Beiträge (og:type article,
-  erzeugt von _tools/blog.py) als BlogPosting unter Startseite > Blog
+- Blog: blog.html und aktuelles.html als Blog (mit Liste der Beiträge), Beiträge (og:type article,
+  erzeugt von _tools/blog.py) als BlogPosting unter Startseite > Blog bzw. > Aktuelles
 Keine Bewertungen (Review/AggregateRating), weil es keine belegten gibt.
 Der Fahrzeugbestand (Vehicle/Offer) kommt per JS: js/bestand-schema.js.
 
@@ -130,7 +130,7 @@ CRUMB = {
     'fuhrpark-verkaufen': 'Fuhrpark verkaufen',
     'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
     'gebrauchte-nutzfahrzeuge': 'Was wir regelmäßig anbieten', 'nutzfahrzeug-ankauf': 'Was wir ankaufen',
-    'blog': 'Blog',
+    'blog': 'Blog', 'aktuelles': 'Aktuelles',
     'nutzfahrzeughandel': 'Nutzfahrzeughandel', 'lkw-handel': 'LKW Handel',
     'omnibushandel': 'Omnibushandel', 'baumaschinenhandel': 'Baumaschinenhandel',
 }
@@ -264,7 +264,8 @@ def build(path):
                       'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID}})
     else:
         trail = [('Startseite', BASE)]
-        parent = PARENT.get(slug) or ('blog' if slug.startswith('blog-') else None)
+        news = meta(head, 'property', 'article:section') == 'Aktuelles'   # Beiträge der Kategorie Aktuelles stehen auf aktuelles.html
+        parent = PARENT.get(slug) or ((('aktuelles' if news else 'blog')) if slug.startswith('blog-') else None)
         if parent:                               # Ankaufseiten unter "Unsere Arbeit", Export-Unterseiten unter "Export", Beiträge unter "Blog"
             trail.append((CRUMB[parent], BASE + parent))
         trail.append((CRUMB.get(slug, h1), url))
@@ -290,12 +291,13 @@ def build(path):
                       'image': post_images(body, url) or img, 'datePublished': published,
                       'dateModified': meta(head, 'property', 'article:modified_time') or published,
                       'inLanguage': 'de-DE', 'author': {'@id': ORG_ID}, 'publisher': {'@id': ORG_ID},
-                      'isPartOf': {'@id': BASE + 'blog#blog'}})
+                      'isPartOf': {'@id': BASE + ('aktuelles' if meta(head, 'property', 'article:section') == 'Aktuelles' else 'blog') + '#blog'}})
         if meta(head, 'property', 'article:section'):
             graph[-1]['articleSection'] = meta(head, 'property', 'article:section')
-    if slug == 'blog':
+    if slug in ('blog', 'aktuelles'):
         posts = re.findall(r'<a class="blog-card__link" href="(blog-[a-z0-9-]+)"', body)
-        graph.append({'@type': 'Blog', '@id': url + '#blog', 'url': url, 'name': 'Blog der ECS Exclusive Commerce Services GmbH',
+        name = 'Blog der ECS Exclusive Commerce Services GmbH' if slug == 'blog' else 'Aktuelles der ECS Exclusive Commerce Services GmbH'
+        graph.append({'@type': 'Blog', '@id': url + '#blog', 'url': url, 'name': name,
                       'description': desc, 'inLanguage': 'de-DE', 'publisher': {'@id': ORG_ID},
                       'blogPost': [{'@id': BASE + p + '#article'} for p in posts]})
 

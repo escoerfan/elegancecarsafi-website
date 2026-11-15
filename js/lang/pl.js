@@ -1439,5 +1439,13 @@
   "Wie der Ankauf abläuft, was wir ankaufen und welche Unterlagen Sie brauchen, steht auf unseren Ankaufseiten.": "Jak przebiega skup, co skupujemy i jakie dokumenty są potrzebne, opisujemy na naszych stronach skupu.",
   "Wir kaufen auch an: einzelne Fahrzeuge ebenso wie ganze Fuhrparks.": "Skupujemy również: pojedyncze pojazdy, a także całe floty.",
   "Wir kaufen auch an: einzelne LKW und ganze Flotten.": "Skupujemy również: pojedyncze ciężarówki i całe floty.",
-  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "Skupujemy również: pojedyncze autobusy, całe floty autobusowe i kompletne firmy przewozowe."
+  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "Skupujemy również: pojedyncze autobusy, całe floty autobusowe i kompletne firmy przewozowe.",
+
+  /* ---- Aktuelles (Blog-Untermenü) ---- */
+  "Aktuelles": "Aktualności",
+  "Alle Neuigkeiten": "Wszystkie aktualności",
+  "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "Aktualności | Wiadomości ECS Exclusive Commerce Services GmbH o pojazdach użytkowych",
+  "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "Aktualności z ECS GmbH i wiadomości z rynku pojazdów użytkowych.",
+  "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "Sprzedaż pojazdu użytkowego na przełomie roku 2026/2027: skupujemy | ECS Exclusive Commerce Services GmbH",
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Rząd białych ciężarówek dystrybucyjnych Mercedes-Benz Atego z zabudową kontenerową na brukowanym placu, z przodu Atego 1522 – skup pojazdów na przełomie roku w ECS GmbH"
 };

@@ -1439,5 +1439,13 @@
   "Wie der Ankauf abläuft, was wir ankaufen und welche Unterlagen Sie brauchen, steht auf unseren Ankaufseiten.": "Cómo funciona la compra, qué compramos y qué documentos necesita se explica en nuestras páginas de compra.",
   "Wir kaufen auch an: einzelne Fahrzeuge ebenso wie ganze Fuhrparks.": "También compramos: vehículos individuales y flotas completas.",
   "Wir kaufen auch an: einzelne LKW und ganze Flotten.": "También compramos: camiones individuales y flotas completas.",
-  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "También compramos: autobuses individuales, flotas de autobuses completas y empresas de autobuses enteras."
+  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "También compramos: autobuses individuales, flotas de autobuses completas y empresas de autobuses enteras.",
+
+  /* ---- Aktuelles (Blog-Untermenü) ---- */
+  "Aktuelles": "Actualidad",
+  "Alle Neuigkeiten": "Todas las noticias",
+  "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "Actualidad | Noticias de ECS Exclusive Commerce Services GmbH sobre vehículos industriales",
+  "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "Novedades de ECS GmbH y noticias del mercado de vehículos industriales.",
+  "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "Vender su vehículo industrial en el cambio de año 2026/2027: compramos | ECS Exclusive Commerce Services GmbH",
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Fila de camiones de distribución Mercedes-Benz Atego blancos con caja en un patio adoquinado, delante un Atego 1522 – compra de vehículos en el cambio de año en ECS GmbH"
 };

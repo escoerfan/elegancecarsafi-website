@@ -38,7 +38,7 @@
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="css/style.css?v=20261115a">
 
-<script src="js/i18n.js?v=20261115c"></script>
+<script src="js/i18n.js?v=20261115d"></script>
 <script type="speculationrules">{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"moderate"}],"prerender":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"conservative"}]}</script>
 <!-- schema:start -->
 <script type="application/ld+json">
@@ -361,7 +361,13 @@
           <a href="export-drittland">Export in Drittländer</a>
         </div>
       </div>
-      <a href="blog" aria-current="page">Blog</a>
+      <div class="nav-item nav-item--sub">
+        <button class="nav-sub__toggle" type="button" aria-expanded="false" aria-controls="nav-sub-blog">Blog</button>
+        <div class="nav-sub" id="nav-sub-blog">
+          <a href="aktuelles">Aktuelles</a>
+          <a href="blog" aria-current="page">Beiträge</a>
+        </div>
+      </div>
       <a href="kontakt">Kontakt</a>
       <a href="faq">FAQ</a>
     </nav>
@@ -531,6 +537,7 @@
             <li><a href="unsere-arbeit">Unsere Arbeit</a></li>
             <li><a href="export">Export</a></li>
             <li><a href="blog">Blog</a></li>
+            <li><a href="aktuelles">Aktuelles</a></li>
             <li><a href="kontakt">Kontakt</a></li>
             <li><a href="faq">FAQ</a></li>
           </ul>

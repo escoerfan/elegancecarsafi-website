@@ -1439,5 +1439,13 @@
   "Wie der Ankauf abläuft, was wir ankaufen und welche Unterlagen Sie brauchen, steht auf unseren Ankaufseiten.": "كيف يتم الشراء وما الذي نشتريه وما المستندات المطلوبة، تجدونه في صفحات الشراء لدينا.",
   "Wir kaufen auch an: einzelne Fahrzeuge ebenso wie ganze Fuhrparks.": "نشتري أيضًا: مركبات فردية وأساطيل كاملة.",
   "Wir kaufen auch an: einzelne LKW und ganze Flotten.": "نشتري أيضًا: شاحنات فردية وأساطيل كاملة.",
-  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "نشتري أيضًا: حافلات فردية وأساطيل حافلات كاملة وشركات حافلات بأكملها."
+  "Wir kaufen auch an: einzelne Omnibusse, ganze Busflotten und komplette Busunternehmen.": "نشتري أيضًا: حافلات فردية وأساطيل حافلات كاملة وشركات حافلات بأكملها.",
+
+  /* ---- Aktuelles (Blog-Untermenü) ---- */
+  "Aktuelles": "الأخبار",
+  "Alle Neuigkeiten": "كل الأخبار",
+  "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "الأخبار | أخبار ECS Exclusive Commerce Services GmbH عن المركبات التجارية",
+  "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "أخبار من ECS GmbH وتقارير من سوق المركبات التجارية.",
+  "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "بيع مركبتك التجارية مع نهاية عام 2026 وبداية 2027: نحن نشتري | ECS Exclusive Commerce Services GmbH",
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "صف من شاحنات التوزيع البيضاء Mercedes-Benz Atego بصندوق مغلق في ساحة مرصوفة، وفي المقدمة Atego 1522 – شراء المركبات مع نهاية العام لدى ECS GmbH"
 };
