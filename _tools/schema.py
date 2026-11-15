@@ -93,7 +93,8 @@ DEALER = {
     ],
     'areaServed': BUY_COUNTRIES,
     # Kerngebiete wie auf der Website (Ankaufseiten, Bestand, Export)
-    'knowsAbout': ['Nutzfahrzeughandel', 'Import und Export von Nutzfahrzeugen', 'Reisebusse',
+    'knowsAbout': ['Nutzfahrzeughandel', 'LKW Handel', 'Omnibushandel', 'Bushandel', 'Baumaschinenhandel',
+                   'LKW Ankauf', 'LKW Verkauf', 'Import und Export von Nutzfahrzeugen', 'Reisebusse',
                    'Linienbusse', 'Kleinbusse', 'LKW', 'Sattelzugmaschinen', 'Transporter',
                    'Bau- und Kommunalfahrzeuge', 'Verzollung und Exportabwicklung'],
     'knowsLanguage': ['de', 'en', 'pl', 'ru', 'es', 'ar'],
@@ -113,6 +114,11 @@ SERVICES = {
     'export-drittland': ('Export von Nutzfahrzeugen in Drittländer', 'Ausfuhr und Zollabfertigung gebrauchter Nutzfahrzeuge'),
     'gebrauchte-nutzfahrzeuge': ('Verkauf gebrauchter Nutzfahrzeuge', 'Verkauf gebrauchter LKW, Busse und Transporter'),
     'nutzfahrzeug-ankauf': ('Ankauf von Nutzfahrzeugen', 'Ankauf gebrauchter Nutzfahrzeuge, Betontechnik und Baumaschinen'),
+    # Handel-Seiten (15.11.2026, _tools/handel_seiten.py)
+    'nutzfahrzeughandel': ('Nutzfahrzeughandel', 'Ankauf, Verkauf und Export gebrauchter Nutzfahrzeuge'),
+    'lkw-handel': ('LKW Handel', 'Ankauf, Verkauf und Export gebrauchter LKW'),
+    'omnibushandel': ('Omnibushandel', 'Ankauf, Verkauf und Export gebrauchter Omnibusse'),
+    'baumaschinenhandel': ('Baumaschinenhandel', 'Ankauf, Verkauf und Export gebrauchter Baumaschinen'),
 }
 # Kurznamen für die Brotkrumen (wie in Navigation und Footer)
 CRUMB = {
@@ -125,13 +131,16 @@ CRUMB = {
     'export-eu': 'Export in die EU', 'export-drittland': 'Export in Drittländer',
     'gebrauchte-nutzfahrzeuge': 'Was wir regelmäßig anbieten', 'nutzfahrzeug-ankauf': 'Was wir ankaufen',
     'blog': 'Blog',
+    'nutzfahrzeughandel': 'Nutzfahrzeughandel', 'lkw-handel': 'LKW Handel',
+    'omnibushandel': 'Omnibushandel', 'baumaschinenhandel': 'Baumaschinenhandel',
 }
 # Übergeordnete Seite im Menü (Untermenü "Unsere Arbeit")
 PARENT = {k: 'unsere-arbeit' for k in (
     'reisebus-verkaufen', 'linienbus-verkaufen', 'lkw-verkaufen', 'transporter-verkaufen',
     'bau-und-kommunalfahrzeuge-verkaufen', 'fuhrpark-verkaufen')}
 PARENT.update({'export-eu': 'export', 'export-drittland': 'export'})   # Untermenü "Export"
-PARENT.update({'gebrauchte-nutzfahrzeuge': 'fahrzeuge', 'nutzfahrzeug-ankauf': 'fahrzeuge'})   # Untermenü "Fahrzeuge"
+PARENT.update({'gebrauchte-nutzfahrzeuge': 'fahrzeuge', 'nutzfahrzeug-ankauf': 'unsere-arbeit'})   # Fahrzeuge bzw. Unsere Arbeit (15.11.)
+PARENT.update({k: 'fahrzeuge' for k in ('nutzfahrzeughandel', 'lkw-handel', 'omnibushandel', 'baumaschinenhandel')})
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
 EXPORT_AREA += [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
 AREA = {
@@ -141,6 +150,8 @@ AREA = {
                         + [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')],
     'gebrauchte-nutzfahrzeuge': [{'@type': 'Country', 'name': 'Deutschland'}] + EXPORT_AREA,
 }
+AREA.update({k: [{'@type': 'Country', 'name': 'Deutschland'}] + EXPORT_AREA
+             for k in ('nutzfahrzeughandel', 'lkw-handel', 'omnibushandel', 'baumaschinenhandel')})
 
 
 def text(fragment):

@@ -132,6 +132,9 @@ ANKAUF = ANGEBOT + [
     ('MAN', 'Lion’s City'), ('Setra', ''), ('DAF', ''),
 ]
 
+HANDEL_MARKEN = [(m, '') for m in ('Mercedes-Benz', 'MAN', 'Scania', 'Volvo', 'DAF', 'Iveco', 'Setra')]
+BUS_MARKEN = [(m, '') for m in ('Mercedes-Benz', 'Setra', 'MAN', 'Neoplan', 'Volvo', 'Iveco')]
+
 # Seite -> (Marken/Modelle, weitere Begriffe)
 SEITEN = {
     '': ([], TYPEN + REGION),
@@ -204,6 +207,27 @@ SEITEN = {
                                                   'Radlader Ankauf', 'Kipper verkaufen', 'Betonmischer verkaufen',
                                                   'Unimog verkaufen', 'Unimog Ankauf', 'Kommunalfahrzeuge verkaufen',
                                                   'Kehrmaschine verkaufen', 'Müllwagen verkaufen'] + KOMMUNAL),
+    # Handel-Seiten (15.11.2026): nur Marken, keine Modelle
+    'nutzfahrzeughandel': (HANDEL_MARKEN, ['Nutzfahrzeughandel', 'Nutzfahrzeughändler', 'Nutzfahrzeughandel Hannover',
+                           'Nutzfahrzeughändler in der Nähe', 'Nutzfahrzeughändler Deutschland', 'Nutzfahrzeuge Ankauf',
+                           'Nutzfahrzeuge Verkauf', 'Nutzfahrzeuge An- und Verkauf', 'gebrauchte Nutzfahrzeuge',
+                           'Nutzfahrzeuge Export', 'LKW Handel', 'Omnibushandel', 'Bushandel', 'Baumaschinenhandel']),
+    'lkw-handel': (HANDEL_MARKEN, ['LKW Handel', 'LKW Händler', 'LKW Händler in der Nähe', 'LKW Handel Hannover',
+                   'LKW Händler Hannover', 'LKW Verkauf', 'LKW Ankauf', 'LKW An- und Verkauf', 'LKW verkaufen',
+                   'LKW kaufen', 'gebrauchte LKW', 'gebrauchte LKW kaufen', 'LKW gebraucht Händler',
+                   'Sattelzugmaschine gebraucht', 'Kipper gebraucht', 'LKW Export', 'LKW Ankauf Export',
+                   'Lastwagen Handel', 'Truck Händler']),
+    'omnibushandel': (BUS_MARKEN, ['Omnibushandel', 'Bushandel', 'Omnibushändler', 'Bushändler', 'Bus Händler',
+                      'Bus Händler Deutschland', 'Omnibushandel Hannover', 'Bushandel Deutschland', 'Omnibus Ankauf',
+                      'Bus Ankauf', 'Busankauf', 'Busverkauf', 'Omnibus verkaufen', 'gebrauchte Busse',
+                      'gebrauchte Busse kaufen', 'gebrauchte Omnibusse', 'Reisebus kaufen', 'Linienbus kaufen',
+                      'gebrauchte Reisebusse kaufen', 'Busexport']),
+    'baumaschinenhandel': ([('Caterpillar', ''), ('Liebherr', ''), ('Mercedes-Benz', ''), ('MAN', '')],
+                           ['Baumaschinenhandel', 'Baumaschinen Händler', 'Baumaschinenhändler',
+                            'Baumaschinenhandel in der Nähe', 'Baumaschinen Händler Hannover', 'Baumaschinen Ankauf',
+                            'Baumaschinen Verkauf', 'Baumaschinen verkaufen', 'gebrauchte Baumaschinen',
+                            'gebrauchte Baumaschinen kaufen', 'Baumaschinen Export', 'Baumaschinen Ankauf Export',
+                            'Bagger gebraucht', 'Radlader gebraucht', 'Betonmischer gebraucht', 'Betonpumpe gebraucht']),
     'fuhrpark-verkaufen': ([], ['Fuhrpark verkaufen', 'Flottenauflösung', 'Nutzfahrzeug Ankauf',
                                 'Nutzfahrzeug verkaufen', 'Busunternehmen Fahrzeuge verkaufen']),
 }
