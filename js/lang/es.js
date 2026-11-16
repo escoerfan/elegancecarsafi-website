@@ -1447,5 +1447,8 @@
   "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "Actualidad | Noticias de ECS Exclusive Commerce Services GmbH sobre vehículos industriales",
   "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "Novedades de ECS GmbH y noticias del mercado de vehículos industriales.",
   "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "Vender su vehículo industrial en el cambio de año 2026/2027: compramos | ECS Exclusive Commerce Services GmbH",
-  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Fila de camiones de distribución Mercedes-Benz Atego blancos con caja en un patio adoquinado, delante un Atego 1522 – compra de vehículos en el cambio de año en ECS GmbH"
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Fila de camiones de distribución Mercedes-Benz Atego blancos con caja en un patio adoquinado, delante un Atego 1522 – compra de vehículos en el cambio de año en ECS GmbH",
+
+  /* ---- mobile.de-Link Menü/Footer ---- */
+  "Unser Bestand auf mobile.de": "Nuestro stock en mobile.de"
 };

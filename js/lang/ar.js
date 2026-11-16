@@ -1447,5 +1447,8 @@
   "Aktuelles | Neuigkeiten der ECS Exclusive Commerce Services GmbH zu Nutzfahrzeugen": "الأخبار | أخبار ECS Exclusive Commerce Services GmbH عن المركبات التجارية",
   "Neuigkeiten von der ECS GmbH und Meldungen aus dem Nutzfahrzeugmarkt.": "أخبار من ECS GmbH وتقارير من سوق المركبات التجارية.",
   "Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH": "بيع مركبتك التجارية مع نهاية عام 2026 وبداية 2027: نحن نشتري | ECS Exclusive Commerce Services GmbH",
-  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "صف من شاحنات التوزيع البيضاء Mercedes-Benz Atego بصندوق مغلق في ساحة مرصوفة، وفي المقدمة Atego 1522 – شراء المركبات مع نهاية العام لدى ECS GmbH"
+  "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "صف من شاحنات التوزيع البيضاء Mercedes-Benz Atego بصندوق مغلق في ساحة مرصوفة، وفي المقدمة Atego 1522 – شراء المركبات مع نهاية العام لدى ECS GmbH",
+
+  /* ---- mobile.de-Link Menü/Footer ---- */
+  "Unser Bestand auf mobile.de": "مخزوننا على mobile.de"
 };
