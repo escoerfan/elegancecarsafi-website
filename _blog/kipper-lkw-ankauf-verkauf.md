@@ -38,7 +38,7 @@ Muldenkipper ist allerdings auch der Name für die großen, knickgelenkten oder 
 
 Der Absetzkipper hebt mit zwei schwenkbaren Armen einen Container, die Absetzmulde, auf und setzt ihn wieder ab. Der Container bleibt beim Kunden stehen und wird später gegen einen leeren getauscht. Absetzkipper sind das typische Fahrzeug von Containerdiensten und Entsorgungsbetrieben.
 
-![Grüner MAN TGM mit Absetzkipper-Aufbau im Schnee, ein Absetzkipper für Container und Mulden](ablauf-man-absetzkipper.webp "Ein MAN TGM als Absetzkipper. Mit den beiden Armen hebt er die Absetzmulde auf und setzt sie beim Kunden ab.")
+![Roter MAN TGS 18.420 Absetzkipper mit weißer Stoßstange von schräg vorne, dahinter die Arme des Absetzkipper-Aufbaus, auf einem Platz mit Herbstlaub](blog-man-tgs-absetzkipper-seite.jpg "Ein MAN TGS 18.420 als Absetzkipper. Mit den beiden Armen hebt er die Absetzmulde auf und setzt sie beim Kunden ab. 18.420 steht für 18 Tonnen und 420 PS.")
 
 ### Abrollkipper
 
@@ -105,6 +105,8 @@ Wenn Sie Ihren Kipper verkaufen möchten, bekommen Sie mit diesen Angaben schnel
 - bei Kran: Hersteller, Typ und Datum der letzten Prüfung
 - Fotos: Front, Heck, beide Seiten, Aufbau angehoben, Innenraum, Kilometerstand und Typenschilder
 - Standort des Fahrzeugs
+
+![Roter MAN TGS Absetzkipper frontal mit weißer Stoßstange und MAN-Schriftzug am Kühlergrill, vor herbstlichen Bäumen](blog-man-tgs-absetzkipper-front.jpg "Derselbe MAN TGS von vorne. Ein Foto der Front gehört zu jeder Anfrage, ebenso beide Seiten und der Aufbau.")
 
 Was Sie vor der Übergabe selbst erledigen müssen, etwa beim Maut-Gerät und beim Fahrtenschreiber, steht in unserem Beitrag [Nutzfahrzeug verkaufen: Was Sie beachten müssen](blog-nutzfahrzeug-verkaufen). Wie ein Ankauf grundsätzlich abläuft, erklärt der Beitrag [LKW Ankauf](blog-lkw-ankauf).
 

@@ -1250,7 +1250,7 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Зелёный трёхосный седельный тягач Mercedes-Benz Arocs с угловатой строительной решёткой радиатора в промышленной зоне",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "Чёрный седельный тягач Mercedes-Benz Actros для международных перевозок, вид спереди на мощёной площадке",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "Белый 12-тонный MAN TGL с фургоном и короткой кабиной, вид спереди на площадке",
-  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Красный развозной грузовик Mercedes-Benz Antos с надписью Antos, вид спереди, за ним другие грузовики",
+  "Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill": "Синий развозной грузовик Mercedes-Benz Antos 1836 с тентованным кузовом, вид спереди сбоку, надпись Antos на решётке радиатора",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Красный самосвал Mercedes-Benz Atego текущего поколения в снегу на мощёной площадке",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "Белый развозной грузовик Mercedes-Benz Atego с фургоном на площадке ECS GmbH в Гердене под Ганновером",
   "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "Белый седельный тягач Volvo FH 4x2 поколения с 2020 года с высокой кабиной в промышленной зоне",
@@ -1298,7 +1298,7 @@
   "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "Чёрные Mercedes-Benz Sprinter во время оценки для выкупа фургонов",
   "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "Подержанный чёрный седельный тягач MAN TGX 18.500 перед ангаром",
   "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "Ряд подержанных белых грузовиков-фургонов MAN и Mercedes-Benz 12-тонного класса на площадке",
-  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "Красный Mercedes-Benz Antos спереди при оценке на площадке ECS GmbH, позади другие грузовики",
+  "Blauer Mercedes-Benz Antos 1836 mit Planenaufbau von schräg vorne, ein gebrauchter Verteiler-LKW bei der Fahrzeugbewertung": "Синий Mercedes-Benz Antos 1836 с тентованным кузовом, вид спереди сбоку, подержанный развозной грузовик при оценке",
   "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "Зелёный седельный тягач Mercedes-Benz Arocs 6x4 – блог ECS GmbH о грузовиках, автобусах и коммерческой технике",
   /* ---- Startseite: Was uns unterscheidet + Vergleich (07.11.2026) ---- */
   "Warum ECS": "Почему ECS",

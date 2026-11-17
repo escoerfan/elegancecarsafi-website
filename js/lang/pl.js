@@ -1250,7 +1250,7 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Zielony trzyosiowy ciągnik siodłowy Mercedes-Benz Arocs z kanciastym grillem budowlanym w strefie przemysłowej",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "Czarny ciągnik siodłowy Mercedes-Benz Actros do międzynarodowego transportu dalekobieżnego, widok z przodu na brukowanym placu",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "Biały 12-tonowy MAN TGL z zabudową kontenerową i krótką kabiną, widok z przodu na placu",
-  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Czerwona ciężarówka dystrybucyjna Mercedes-Benz Antos z napisem Antos, widok z przodu, w tle kolejne ciężarówki",
+  "Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill": "Niebieska ciężarówka dystrybucyjna Mercedes-Benz Antos 1836 z zabudową plandekową, widok skośnie z przodu, napis Antos na atrapie chłodnicy",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Czerwona wywrotka Mercedes-Benz Atego obecnej generacji w śniegu na brukowanym placu",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "Biała ciężarówka dystrybucyjna Mercedes-Benz Atego z zabudową kontenerową na placu ECS GmbH w Gehrden koło Hanoweru",
   "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "Biały ciągnik siodłowy Volvo FH 4x2 generacji od 2020 roku z wysoką kabiną w strefie przemysłowej",
@@ -1298,7 +1298,7 @@
   "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "Czarne Mercedes-Benz Sprinter podczas wyceny do skupu dostawczaków",
   "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "Używany czarny ciągnik siodłowy MAN TGX 18.500 przed halą",
   "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "Rząd używanych białych ciężarówek z kontenerem MAN i Mercedes-Benz w klasie 12 ton na placu",
-  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "Czerwony Mercedes-Benz Antos z przodu podczas wyceny pojazdu na placu ECS GmbH, za nim kolejne ciężarówki",
+  "Blauer Mercedes-Benz Antos 1836 mit Planenaufbau von schräg vorne, ein gebrauchter Verteiler-LKW bei der Fahrzeugbewertung": "Niebieski Mercedes-Benz Antos 1836 z zabudową plandekową, widok skośnie z przodu, używana ciężarówka dystrybucyjna podczas wyceny",
   "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "Zielony ciągnik siodłowy Mercedes-Benz Arocs 6x4 – blog ECS GmbH o ciężarówkach, autobusach i pojazdach użytkowych",
   /* ---- Startseite: Was uns unterscheidet + Vergleich (07.11.2026) ---- */
   "Warum ECS": "Dlaczego ECS",

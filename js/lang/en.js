@@ -1266,7 +1266,7 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Green three-axle Mercedes-Benz Arocs tractor unit with angular construction-truck grille in an industrial area",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "Black Mercedes-Benz Actros long-haul tractor unit for international transport, front view in a paved yard",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "White MAN TGL 12-tonne box truck with short cab, front view in a yard",
-  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Red Mercedes-Benz Antos distribution truck, front view with Antos lettering, more trucks behind it",
+  "Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill": "Blue Mercedes-Benz Antos 1836 distribution truck with curtainsider body, front three-quarter view, Antos lettering on the grille",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Red current-generation Mercedes-Benz Atego tipper in the snow in a paved yard",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "White Mercedes-Benz Atego box-body distribution truck in the yard of ECS GmbH in Gehrden near Hanover",
   "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "White Volvo FH 4x2 tractor unit of the 2020+ generation with high cab in an industrial area",
@@ -1314,7 +1314,7 @@
   "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "Black Mercedes-Benz Sprinter vans during the valuation for van purchase",
   "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "Used black MAN TGX 18.500 tractor unit in front of a commercial hall",
   "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "Row of used white MAN and Mercedes-Benz box trucks in the 12-tonne class in a yard",
-  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "Red Mercedes-Benz Antos from the front during the vehicle valuation in the ECS GmbH yard, more trucks behind",
+  "Blauer Mercedes-Benz Antos 1836 mit Planenaufbau von schräg vorne, ein gebrauchter Verteiler-LKW bei der Fahrzeugbewertung": "Blue Mercedes-Benz Antos 1836 with curtainsider body, front three-quarter view, a used distribution truck during vehicle valuation",
   "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "Green Mercedes-Benz Arocs 6x4 tractor unit – ECS GmbH blog about trucks, buses and commercial vehicles",
   /* ---- Startseite: Was uns unterscheidet + Vergleich (07.11.2026) ---- */
   "Warum ECS": "Why ECS",

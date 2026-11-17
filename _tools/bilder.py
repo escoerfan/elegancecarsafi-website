@@ -62,8 +62,8 @@ PHOTOS = {
     'angebot-setra-weiss.webp': [960, 1320],         # Angebot Reisebusse und Omnibusse (Setra)
     'fuhrpark-scania-rot.webp': [960, 1320],         # Fuhrpark: neben „Ein Angebot für Ihre ganze Flotte“ (Scania)
     'blog-kuehlauflieger.jpeg': [960, 1320],         # Blog „Nutzfahrzeuge im Alltag“: Kühlauflieger (IMG_2082)
-    'bewertung-antos-rot.png': [720, 1086],
-    'man-tgm-koffer-orange.jpeg': [960, 1600],       # Gebrauchte Nutzfahrzeuge „Mittelschwere LKW“ + Blog MAN 12-Tonner (TGM 15.290, Chat 05.11.)          # Unsere Arbeit: „Wie wir Ihr Fahrzeug bewerten“ (roter Antos, Hochformat)
+    'antos-1836-blau.webp': [960, 1536],             # Unsere Arbeit: „Wie wir Ihr Fahrzeug bewerten“ + Blog Antos (blauer Antos 1836, Chat 17.11.)
+    'man-tgm-koffer-orange.jpeg': [960, 1600],       # Gebrauchte Nutzfahrzeuge „Mittelschwere LKW“ + Blog MAN 12-Tonner (TGM 15.290, Chat 05.11.)
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

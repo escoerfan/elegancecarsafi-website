@@ -1250,7 +1250,7 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "Cabeza tractora Mercedes-Benz Arocs verde de tres ejes con calandra angulosa de obra en un polígono industrial",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "Cabeza tractora Mercedes-Benz Actros negra para transporte internacional de larga distancia, vista frontal en un patio adoquinado",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "Camión MAN TGL blanco de 12 toneladas con caja cerrada y cabina corta, vista frontal en un patio",
-  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "Camión de distribución Mercedes-Benz Antos rojo con el rótulo Antos, vista frontal, detrás más camiones",
+  "Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill": "Camión de distribución Mercedes-Benz Antos 1836 azul con caja de lona, vista frontal en diagonal, rótulo Antos en la calandra",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "Volquete Mercedes-Benz Atego rojo de la generación actual en la nieve en un patio adoquinado",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "Camión de distribución Mercedes-Benz Atego blanco con caja cerrada en el patio de ECS GmbH en Gehrden, cerca de Hannover",
   "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "Cabeza tractora Volvo FH 4x2 blanca de la generación desde 2020 con cabina alta en un polígono industrial",
@@ -1298,7 +1298,7 @@
   "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "Mercedes-Benz Sprinter negras durante la tasación para la compra de furgonetas",
   "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "Cabeza tractora MAN TGX 18.500 negra usada frente a una nave",
   "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "Fila de camiones blancos de caja cerrada MAN y Mercedes-Benz usados de la clase de 12 toneladas en un patio",
-  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "Mercedes-Benz Antos rojo de frente durante la tasación en el patio de ECS GmbH, detrás más camiones",
+  "Blauer Mercedes-Benz Antos 1836 mit Planenaufbau von schräg vorne, ein gebrauchter Verteiler-LKW bei der Fahrzeugbewertung": "Mercedes-Benz Antos 1836 azul con caja de lona, vista frontal en diagonal, un camión de distribución usado durante la tasación",
   "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "Cabeza tractora Mercedes-Benz Arocs 6x4 verde – blog de ECS GmbH sobre camiones, autobuses y vehículos industriales",
   /* ---- Startseite: Was uns unterscheidet + Vergleich (07.11.2026) ---- */
   "Warum ECS": "Por qué ECS",

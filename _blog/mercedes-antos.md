@@ -5,9 +5,9 @@ beschreibung: Was ist ein Antos, und was unterscheidet ihn von Atego und Actros?
 datum: 2026-11-02
 zeit: 19:00
 kategorie: Wissen
-bild: bewertung-antos-rot.png
-bild_alt: Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW
-bild_text: Ein roter Antos von vorne. Der schwere Verteiler-LKW von Mercedes-Benz trägt seinen Namen gut sichtbar am Kühlergrill.
+bild: antos-1836-blau.webp
+bild_alt: Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill
+bild_text: Ein blauer Antos 1836 mit Planenaufbau. Der schwere Verteiler-LKW von Mercedes-Benz trägt seinen Namen gut sichtbar am Kühlergrill.
 bildnachweis: Fotos: ECS GmbH
 anriss: Zwischen Atego und Actros: wofür Mercedes-Benz den Antos gebaut hat, was Typen wie 1840 oder 2543 bedeuten und woran Sie ihn vom Actros unterscheiden.
 stichworte: Mercedes Antos, Mercedes-Benz Antos, Antos LKW, Antos Verteiler, Antos Unterschied Actros, Antos oder Actros, Antos Atego Unterschied, Antos Fahrerhaus, Antos Loader, Antos Volumer, Antos 1840, Antos 2543, Antos Sattelzugmaschine, Antos Baujahre, Antos verkaufen, Antos Ankauf, gebrauchten Antos verkaufen, Verteiler LKW verkaufen

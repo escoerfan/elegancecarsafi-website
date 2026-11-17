@@ -1250,7 +1250,7 @@
   "Grüne Mercedes-Benz Arocs Sattelzugmaschine mit drei Achsen und kantigem Baustellen-Kühlergrill im Gewerbegebiet": "رأس قاطرة مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبكة أمامية حادة الزوايا لشاحنات البناء في منطقة صناعية",
   "Schwarze Mercedes-Benz Actros Sattelzugmaschine für den internationalen Fernverkehr von vorne auf einem gepflasterten Hof": "رأس قاطرة مرسيدس-بنز أكتروس سوداء للنقل الدولي لمسافات طويلة، منظر أمامي في ساحة مرصوفة",
   "Weißer MAN TGL 12-Tonner mit Kofferaufbau und kurzem Fahrerhaus von vorne auf einem Hof": "شاحنة مان TGL بيضاء بحمولة 12 طنًا بصندوق مغلق وكابينة قصيرة، منظر أمامي في ساحة",
-  "Roter Mercedes-Benz Antos Verteiler-LKW von vorne mit Antos-Schriftzug, dahinter weitere LKW": "شاحنة توزيع مرسيدس-بنز أنتوس حمراء بشعار Antos، منظر أمامي، وخلفها شاحنات أخرى",
+  "Blauer Mercedes-Benz Antos 1836 Verteiler-LKW mit Planenaufbau von schräg vorne, Antos-Schriftzug am Kühlergrill": "شاحنة توزيع مرسيدس-بنز أنتوس 1836 زرقاء بهيكل مغطى بالقماش، منظر أمامي جانبي، وشعار Antos على الشبكة الأمامية",
   "Roter Mercedes-Benz Atego Kipper der aktuellen Generation im Schnee auf einem gepflasterten Hof": "قلاب مرسيدس-بنز أتيغو أحمر من الجيل الحالي في الثلج في ساحة مرصوفة",
   "Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover": "شاحنة توزيع مرسيدس-بنز أتيغو بيضاء بصندوق مغلق في ساحة ECS GmbH في غيردن قرب هانوفر",
   "Weiße Volvo FH Sattelzugmaschine 4x2 der Generation ab 2020 mit hohem Fahrerhaus im Gewerbegebiet": "رأس قاطرة فولفو FH 4x2 بيضاء من جيل ما بعد 2020 بكابينة عالية في منطقة صناعية",
@@ -1298,7 +1298,7 @@
   "Schwarze Mercedes-Benz Sprinter bei der Bewertung für den Transporter-Ankauf": "فانات مرسيدس-بنز سبرينتر سوداء أثناء التقييم لشراء الفانات",
   "Gebrauchte schwarze MAN TGX 18.500 Sattelzugmaschine vor einer Gewerbehalle": "شاحنة جرّ MAN TGX 18.500 سوداء مستعملة أمام مستودع",
   "Reihe gebrauchter weißer Koffer-LKW von MAN und Mercedes-Benz in der 12-Tonnen-Klasse auf einem Hof": "صف من شاحنات MAN ومرسيدس-بنز البيضاء المستعملة ذات الصناديق المغلقة من فئة 12 طنًا في ساحة",
-  "Roter Mercedes-Benz Antos von vorne bei der Fahrzeugbewertung auf dem Hof der ECS GmbH, dahinter weitere LKW": "مرسيدس-بنز أنتوس حمراء من الأمام أثناء تقييم المركبة في ساحة ECS GmbH، وخلفها شاحنات أخرى",
+  "Blauer Mercedes-Benz Antos 1836 mit Planenaufbau von schräg vorne, ein gebrauchter Verteiler-LKW bei der Fahrzeugbewertung": "مرسيدس-بنز أنتوس 1836 زرقاء بهيكل مغطى بالقماش، منظر أمامي جانبي، شاحنة توزيع مستعملة أثناء التقييم",
   "Grüne Mercedes-Benz Arocs 6x4 Sattelzugmaschine – Blog der ECS GmbH rund um LKW, Busse und Nutzfahrzeuge": "شاحنة جرّ مرسيدس-بنز أروكس 6x4 خضراء – مدونة ECS GmbH عن الشاحنات والحافلات والمركبات التجارية",
   /* ---- Startseite: Was uns unterscheidet + Vergleich (07.11.2026) ---- */
   "Warum ECS": "لماذا ECS",
