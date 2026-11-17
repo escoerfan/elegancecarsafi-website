@@ -21,6 +21,7 @@ Aufruf:  python3 _tools/schema.py   (läuft auch im pre-commit-Hook)
 import glob, html, json, os, re
 
 from seo_begriffe import brands, keywords
+import datetime, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = 'https://elegancecarsafi.com/'
@@ -101,6 +102,20 @@ DEALER = {
     'sameAs': SAME_AS,
 }
 
+# B2B: Für wen ECS arbeitet und wie man ECS erreicht (17.11.2026, für Google und KI-Suchen)
+AUDIENCE = {'@type': 'BusinessAudience', 'audienceType': [
+    'Speditionen und Fuhrparks', 'Busunternehmen', 'Baufirmen und Kommunen', 'Nutzfahrzeughändler im Ausland']}
+ORG_DESCRIPTION = ('B2B-Nutzfahrzeughändler aus Gehrden bei Hannover: Ankauf, Verkauf, Import und Export '
+                   'gebrauchter LKW, Busse, Transporter, Baumaschinen sowie Bau- und Kommunalfahrzeuge. '
+                   'Export in ganz Europa, Asien und Afrika, darunter VAE, Saudi-Arabien und weitere Golfstaaten. '
+                   'Angebot in der Regel innerhalb von 24 Stunden.')
+CONTACT = {'@type': 'ContactPoint', 'contactType': 'sales', 'telephone': PHONES[0],
+           'email': 'info@elegancecarsafi.com', 'areaServed': ['DE', 'Europa', 'Asien', 'Afrika'],
+           'availableLanguage': ['de', 'en', 'pl', 'ru', 'es', 'ar']}
+ORGANIZATION.update({'description': ORG_DESCRIPTION, 'contactPoint': CONTACT,
+                     'knowsAbout': DEALER['knowsAbout']})
+DEALER.update({'description': ORG_DESCRIPTION, 'contactPoint': CONTACT})   # audience steht am Service
+
 # Service-Angaben je Seite (Seite -> Name, serviceType)
 SERVICES = {
     'reisebus-verkaufen': ('Ankauf von Reisebussen und Kleinbussen', 'Ankauf gebrauchter Reisebusse'),
@@ -141,17 +156,34 @@ PARENT = {k: 'unsere-arbeit' for k in (
 PARENT.update({'export-eu': 'export', 'export-drittland': 'export'})   # Untermenü "Export"
 PARENT.update({'gebrauchte-nutzfahrzeuge': 'fahrzeuge', 'nutzfahrzeug-ankauf': 'unsere-arbeit'})   # Fahrzeuge bzw. Unsere Arbeit (15.11.)
 PARENT.update({k: 'fahrzeuge' for k in ('nutzfahrzeughandel', 'lkw-handel', 'omnibushandel', 'baumaschinenhandel')})
+# Exportgebiete laut Erfan (17.11.2026): ganz Europa, Asien, Afrika, VAE, Saudi-Arabien und weitere
+# GCC-Staaten – keine sanktionierten Staaten
+GCC = [{'@type': 'Country', 'name': n} for n in (
+    'Vereinigte Arabische Emirate', 'Saudi-Arabien', 'Katar', 'Kuwait', 'Bahrain', 'Oman')]
 EXPORT_AREA = [{'@type': 'Continent', 'name': n} for n in ('Europa', 'Asien', 'Afrika')]
-EXPORT_AREA += [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
+EXPORT_AREA += GCC + [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')]
 AREA = {
     'export': EXPORT_AREA,
     'export-eu': [{'@type': 'Place', 'name': 'Europäische Union'}],
-    'export-drittland': [{'@type': 'Continent', 'name': n} for n in ('Asien', 'Afrika')]
-                        + [{'@type': 'Place', 'name': n} for n in ('Osteuropa', 'Naher Osten')],
+    'export-drittland': [{'@type': 'Continent', 'name': n} for n in ('Asien', 'Afrika')] + GCC
+                        + [{'@type': 'Place', 'name': n} for n in ('Europa außerhalb der EU', 'Naher Osten')],
     'gebrauchte-nutzfahrzeuge': [{'@type': 'Country', 'name': 'Deutschland'}] + EXPORT_AREA,
 }
 AREA.update({k: [{'@type': 'Country', 'name': 'Deutschland'}] + EXPORT_AREA
              for k in ('nutzfahrzeughandel', 'lkw-handel', 'omnibushandel', 'baumaschinenhandel')})
+
+
+def modified(path, src):
+    """dateModified: heute, wenn sich der Inhalt (ohne Schema-Block) gegenüber dem letzten Commit
+    geändert hat, sonst das Datum des letzten Commits der Datei."""
+    def git(*a):
+        return subprocess.run(['git', *a], cwd=ROOT, capture_output=True, text=True).stdout
+    name = os.path.basename(path)
+    strip = lambda t: re.sub(re.escape(START) + r'[\s\S]*?' + re.escape(END), '', t)
+    old = git('show', 'HEAD:' + name)
+    if not old or strip(old) != strip(src):
+        return datetime.date.today().isoformat()
+    return git('log', '-1', '--format=%cs', '--', name).strip() or datetime.date.today().isoformat()
 
 
 def text(fragment):
@@ -247,6 +279,7 @@ def build(path):
         'publisher': {'@id': ORG_ID},
         # Suchbegriffe, Marken und Modelle – nur hier, nicht im sichtbaren Text (_tools/seo_begriffe.py)
         'keywords': ', '.join(keywords(slug)),
+        'dateModified': modified(path, src),
     }
     kw = meta(head, 'name', 'keywords')          # Blog-Beiträge: Stichworte aus _blog/*.md
     if kw:
@@ -280,7 +313,7 @@ def build(path):
         name, stype = SERVICES[slug]
         graph.append({'@type': 'Service', '@id': url + '#service', 'name': name, 'serviceType': stype,
                       'description': desc, 'url': url, 'provider': {'@id': DEALER_ID},
-                      'areaServed': AREA.get(slug, BUY_COUNTRIES)})
+                      'areaServed': AREA.get(slug, BUY_COUNTRIES), 'audience': AUDIENCE})
         if brands(slug):
             graph[-1]['brand'] = brands(slug)
 

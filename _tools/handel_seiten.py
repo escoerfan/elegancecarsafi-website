@@ -43,6 +43,11 @@ SEITEN = {
         lead='Ankauf, Verkauf und Export gebrauchter Nutzfahrzeuge.',
         intro='Die ECS GmbH ist ein Nutzfahrzeughandel in Gehrden bei Hannover. Wir verkaufen gebrauchte LKW, Busse, '
               'Transporter und Baumaschinen an Unternehmen im In- und Ausland.',
+        # Kasten "Auf einen Blick" (17.11.2026, für Google und KI-Suchen; nur diese Handel-Seite)
+        fakten=[('Wir handeln', 'Gebrauchte LKW, Busse, Transporter und Baumaschinen'),
+                ('Für wen', 'Speditionen, Busunternehmen, Bauunternehmen, Kommunen und Händler im In- und Ausland'),
+                ('Export', 'Ganz Europa, Asien und Afrika, auch VAE, Saudi-Arabien und weitere Golfstaaten'),
+                ('Angebot', 'In der Regel innerhalb von 24 Stunden')],
         verkauf_h2='Gebrauchte Nutzfahrzeuge kaufen',
         verkauf='Als Nutzfahrzeughändler haben wir laufend gebrauchte LKW, Sattelzugmaschinen, Kipper, Auflieger, '
                 'Transporter, Reisebusse, Linienbusse und Baumaschinen im Angebot. Die Fahrzeuge stammen von '
@@ -60,7 +65,7 @@ SEITEN = {
              'Bagger und Radlader', 'baumaschinenhandel'),
         ],
         export_h2='Nutzfahrzeuge für den Export',
-        export='Wir exportieren Nutzfahrzeuge in die EU, nach Osteuropa, in den Nahen Osten, nach Afrika und Asien.',
+        export='Wir exportieren Nutzfahrzeuge in ganz Europa, nach Asien und Afrika, auch in die VAE, nach Saudi-Arabien und in weitere Golfstaaten.',
         faq_h2='Häufige Fragen zum Nutzfahrzeughandel',
         faq=[('Was macht ein Nutzfahrzeughandel?',
               'Ein Nutzfahrzeughandel kauft und verkauft gewerblich genutzte Fahrzeuge wie LKW, Busse, Transporter '
@@ -95,7 +100,7 @@ SEITEN = {
              'Sattelauflieger und Anhänger', None),
         ],
         export_h2='LKW Export',
-        export='Viele LKW verkaufen wir in den Export: in die EU, nach Osteuropa, in den Nahen Osten, nach Afrika und Asien.',
+        export='Viele LKW verkaufen wir in den Export: in ganz Europa, nach Asien und Afrika, auch in die VAE, nach Saudi-Arabien und in weitere Golfstaaten.',
         faq_h2='Häufige Fragen zum LKW Handel',
         faq=[('Was ist der Unterschied zwischen LKW Ankauf und LKW Verkauf?',
               'Beim LKW Ankauf verkaufen Sie Ihren LKW an uns. Beim LKW Verkauf kaufen Sie einen gebrauchten LKW '
@@ -128,8 +133,8 @@ SEITEN = {
             ('Kleinbusse', 'Kleinbusse und Midibusse für Shuttle, Schulverkehr und kleine Gruppen.', 'Kleinbusse', None),
         ],
         export_h2='Busexport',
-        export='Gebrauchte Omnibusse sind im Ausland gefragt. Wir exportieren Busse in die EU, nach Osteuropa, '
-               'in den Nahen Osten, nach Afrika und Asien.',
+        export='Gebrauchte Omnibusse sind im Ausland gefragt. Wir exportieren Busse in ganz Europa, nach Asien '
+               'und Afrika, auch in die VAE, nach Saudi-Arabien und in weitere Golfstaaten.',
         faq_h2='Häufige Fragen zum Omnibushandel',
         faq=[('Was ist der Unterschied zwischen Omnibushandel und Bushandel?',
               'Keiner. Omnibus ist die ausführliche Bezeichnung für Bus. Beide Begriffe meinen den An- und Verkauf '
@@ -161,7 +166,7 @@ SEITEN = {
             ('Betonmischer und Betonpumpen', 'Fahrmischer und Autobetonpumpen auf LKW-Fahrgestell.', None, None),
         ],
         export_h2='Baumaschinen Export',
-        export='Gebrauchte Baumaschinen exportieren wir in die EU, nach Osteuropa, in den Nahen Osten, nach Afrika und Asien.',
+        export='Gebrauchte Baumaschinen exportieren wir in ganz Europa, nach Asien und Afrika, auch in die VAE, nach Saudi-Arabien und in weitere Golfstaaten.',
         faq_h2='Häufige Fragen zum Baumaschinenhandel',
         faq=[('Welche Baumaschinen bieten Sie an?',
               'Bagger, Radlader, Kipper und Baustellen-LKW sowie Fahrmischer und Autobetonpumpen. '
@@ -237,6 +242,14 @@ def faq(h2, fragen):
 ''' % (e(h2), items)
 
 
+def fakten(items):
+    """Kasten "Auf einen Blick" (css/style.css .facts) direkt unter der Einleitung."""
+    rows = ''.join('      <div class="facts__item"><dt>%s</dt><dd>%s</dd></div>\n' % (e(a), e(b)) for a, b in items)
+    return ('\n<section class="facts" aria-labelledby="facts-title">\n  <div class="container reveal">\n'
+            '    <h2 class="facts__title" id="facts-title">Auf einen Blick</h2>\n    <dl class="facts__list">\n'
+            + rows + '    </dl>\n  </div>\n</section>\n')
+
+
 def main_html(slug, s, bilder):
     out = '''<main>
 
@@ -258,6 +271,8 @@ def main_html(slug, s, bilder):
   </div>
 </section>
 ''' % (e(s['eyebrow']), e(s['h1']), e(s['lead']), e(s['intro']))
+    if s.get('fakten'):
+        out += fakten(s['fakten'])
     out += statement('Verkauf', s['verkauf_h2'], [s['verkauf'], s['verkauf2'], BESTAND], [('fahrzeuge', 'Aktuellen Bestand ansehen')])
     out += statement('Ankauf', s['ankauf_h2'], [s['ankauf'], ANKAUF_VERWEIS],
                      s['ankauf_links'] + [('unsere-arbeit', 'So läuft ein Ankauf ab')])

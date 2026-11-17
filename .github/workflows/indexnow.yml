@@ -1,0 +1,26 @@
+# Meldet neue und geänderte Seiten nach jedem GitHub-Pages-Build per IndexNow
+# an Bing, Yandex, Seznam und Naver (Bing-Index = Grundlage für ChatGPT-Suche und Copilot).
+# Schlüssel-Datei: /d797bdf3ce88b7140b0c0baef9eb4c86.txt   Skript: _tools/indexnow.py
+# Manuell alle Seiten melden: Actions → IndexNow → Run workflow (alle = true)
+name: IndexNow
+on:
+  page_build:
+  workflow_dispatch:
+    inputs:
+      alle:
+        description: 'Alle Seiten aus der Sitemap melden'
+        type: boolean
+        default: true
+permissions:
+  contents: read
+jobs:
+  melden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Kurz warten, bis die Seiten ausgeliefert werden
+        run: sleep 60
+      - name: IndexNow
+        run: python3 _tools/indexnow.py ${{ inputs.alle && '--alle' || '' }}
