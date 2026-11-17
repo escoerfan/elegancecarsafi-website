@@ -325,7 +325,8 @@
     if (!picker) return;
     picker.querySelector('.lang-switch__code').textContent = lang.toUpperCase();
     var btn = picker.querySelector('.lang-switch__btn');
-    btn.setAttribute('aria-label', LABEL[lang] || LABEL.de);
+    /* Sichtbarer Kürzel-Text (DE, EN …) muss im zugänglichen Namen stehen (WCAG 2.5.3) */
+    btn.setAttribute('aria-label', (LABEL[lang] || LABEL.de) + ': ' + lang.toUpperCase());
     btn.setAttribute('title', LABEL[lang] || LABEL.de);
     var items = picker.querySelectorAll('[data-lang]');
     for (var i = 0; i < items.length; i++) {
@@ -377,9 +378,15 @@
       for (var i = 0; i < els.length; i++) els[i].classList.add('is-visible');
       return;
     }
+    /* Erste Meldung je Element: Was nicht im ersten Bildschirm liegt, wartet
+       mit Deckkraft 0 statt 0.01 (.is-below). Optisch gleich, aber Prüfwerkzeuge
+       werten fast unsichtbaren Text sonst als Kontrastfehler. */
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (entry) {
-        if (!entry.isIntersecting) return;
+        if (!entry.isIntersecting) {
+          if (!entry.target.classList.contains('is-visible')) entry.target.classList.add('is-below');
+          return;
+        }
         entry.target.classList.add('is-visible');
         io.unobserve(entry.target);
       });
