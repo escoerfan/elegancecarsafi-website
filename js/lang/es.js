@@ -1450,5 +1450,8 @@
   "Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf einem gepflasterten Hof, vorne ein Atego 1522 – Fahrzeugeinkauf zum Jahreswechsel bei der ECS GmbH": "Fila de camiones de distribución Mercedes-Benz Atego blancos con caja en un patio adoquinado, delante un Atego 1522 – compra de vehículos en el cambio de año en ECS GmbH",
 
   /* ---- mobile.de-Link Menü/Footer ---- */
-  "Unser Bestand auf mobile.de": "Nuestro stock en mobile.de"
+  "Unser Bestand auf mobile.de": "Nuestro stock en mobile.de",
+
+  /* ---- Kontakt: Titelbild weißer Actros ---- */
+  "Weiße Mercedes-Benz Actros Sattelzugmaschine am Bergsee – Kontakt zur ECS GmbH in Gehrden bei Hannover": "Cabeza tractora Mercedes-Benz Actros blanca junto a un lago de montaña – contacto con ECS GmbH en Gehrden, cerca de Hannover"
 };
