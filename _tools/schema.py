@@ -76,7 +76,7 @@ DEALER = {
     'image': [BASE + 'assets/img/opt/pitch-lkw-reihe-1448.jpg',
               BASE + 'assets/img/opt/fuhrpark-atego-reihe-1086.jpg',
               BASE + 'assets/img/opt/pitch-atego-koffer-1448.jpg',
-              BASE + 'assets/img/og-hero.jpg'],
+              BASE + 'assets/img/og-hero-weiss.jpg'],
     'logo': BASE + 'assets/img/logo-ecs.png',
     'telephone': PHONES,
     'email': 'info@elegancecarsafi.com',
