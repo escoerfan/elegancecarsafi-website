@@ -1492,6 +1492,6 @@
   "Betonmischer LKW gebraucht: Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Używana betonomieszarka: skup i sprzedaż | ECS Exclusive Commerce Services GmbH",
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Używana wywrotka: rodzaje, skup i sprzedaż | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Zielony trzyosiowy Mercedes-Benz Arocs z kanciastym budowlanym grillem, ciężkie podwozie budowlane, na jakim montuje się także pompy do betonu",
-  "Roter Mercedes-Benz Actros Betonmischer mit rot-weißer Mischtrommel und mehreren Achsen, schräg von vorne auf einem nassen Platz vor Bäumen": "Czerwona betonomieszarka Mercedes-Benz Actros z czerwono-białym bębnem i kilkoma osiami, widok z boku od przodu na mokrym placu przed drzewami",
+  "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Czerwona trzyosiowa betonomieszarka Mercedes-Benz Actros 2641 z bębnem w czerwono-białe pasy, widok z boku na całą długość na mokrym placu",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Srebrna trzyosiowa wywrotka Mercedes-Benz Actros 2646 z wysoko podniesioną aluminiową skrzynią na placu firmy, widok z boku od przodu"
 };

@@ -1492,6 +1492,6 @@
   "Betonmischer LKW gebraucht: Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "شاحنة خلط خرسانة مستعملة: الشراء والبيع | ECS Exclusive Commerce Services GmbH",
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "شاحنة قلاب مستعملة: الأنواع والشراء والبيع | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبك أمامي مخصص لمواقع البناء، هيكل ثقيل من النوع الذي تُركَّب عليه أيضًا مضخات الخرسانة",
-  "Roter Mercedes-Benz Actros Betonmischer mit rot-weißer Mischtrommel und mehreren Achsen, schräg von vorne auf einem nassen Platz vor Bäumen": "شاحنة خلط خرسانة مرسيدس-بنز أكتروس حمراء بخلاطة حمراء وبيضاء وعدة محاور، منظر جانبي أمامي في ساحة مبللة أمام الأشجار",
+  "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "شاحنة خلط خرسانة مرسيدس-بنز أكتروس 2641 حمراء بثلاثة محاور وخلاطة مخططة بالأحمر والأبيض، منظر جانبي كامل في ساحة مبللة",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "قلاب مرسيدس-بنز أكتروس 2646 فضي بثلاثة محاور وصندوق ألومنيوم مرفوع عاليًا في ساحة شركة، منظر جانبي أمامي"
 };

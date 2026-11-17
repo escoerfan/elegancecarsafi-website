@@ -5,9 +5,9 @@ beschreibung: Betonmischer-LKW gebraucht kaufen oder verkaufen: wie viel m³ ein
 datum: 2026-11-17
 zeit: 11:00
 kategorie: Wissen
-bild: blog-actros-betonmischer-rot.jpg
-bild_alt: Roter Mercedes-Benz Actros Betonmischer mit rot-weißer Mischtrommel und mehreren Achsen, schräg von vorne auf einem nassen Platz vor Bäumen
-bild_text: Ein roter Mercedes-Benz Actros als Fahrmischer, dahinter die rot-weiße Mischtrommel. Auf Fahrgestellen wie diesem fährt der Transportbeton vom Werk zur Baustelle.
+bild: blog-actros-2641-betonmischer-seite.webp
+bild_alt: Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz
+bild_text: Ein Mercedes-Benz Actros 2641 als Fahrmischer: drei Achsen, 26 Tonnen zulässiges Gesamtgewicht und rund 410 PS. Dreiachser wie dieser sind wendiger als Vierachser, laden aber weniger Beton.
 bildnachweis: Fotos: ECS GmbH
 anriss: Ein Fahrmischer mit 32 Tonnen fasst weniger Beton, als die Trommel vermuten lässt. Was hinter Nennvolumen, Gewicht und Varianten steckt und worauf es beim Kauf und Verkauf eines gebrauchten Betonmischers ankommt.
 stichworte: Betonmischer, Betonmischer LKW, Fahrmischer, Transportbetonmischer, Betonmischer LKW gebraucht, Betonmischer LKW kaufen, Fahrmischer kaufen, Betonmischer verkaufen, Fahrmischer verkaufen, Betonmischer Ankauf, Fahrmischer Ankauf, Betonmischer LKW wieviel m3, Fahrmischer Inhalt, Betonmischer LKW Gewicht, Betonmischer LKW Maße, Betonmischer LKW mit Pumpe, Fahrmischer mit Förderband, Fahrmischer Liebherr, Betonmischer reinigen, Mischtrommel, Baufahrzeuge verkaufen, Baumaschinen Ankauf
@@ -61,6 +61,8 @@ Bei den Maßen liegt ein vierachsiger Mischer meist bei rund 10 Metern Länge, 2
 ## Hersteller und Fahrgestelle
 
 Die Mischaufbauten kommen in Deutschland häufig von **Liebherr** und **Schwing Stetter**, dazu von Herstellern wie CIFA und Euromix MTP. Die Fahrgestelle stammen von allen großen LKW-Herstellern, besonders oft von Mercedes-Benz, MAN, Volvo und Scania. Bei Mercedes-Benz sind es heute meist Fahrgestelle der Baureihe Arocs, die Unterschiede zum Actros erklärt unser Beitrag [Arocs oder Actros?](blog-arocs-oder-actros).
+
+![Roter Mercedes-Benz Actros Betonmischer mit rot-weißer Mischtrommel, schräg von vorne auf einem nassen Platz vor Bäumen](blog-actros-betonmischer-rot.jpg "Ein Actros-Fahrmischer von vorne. Vor dem Arocs fuhren viele Fahrmischer auf Fahrgestellen des Actros, gebraucht sind sie bis heute häufig im Angebot.")
 
 ## Ist ein Betonmischer mautpflichtig?
 

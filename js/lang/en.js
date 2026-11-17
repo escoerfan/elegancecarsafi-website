@@ -1508,6 +1508,6 @@
   "Betonmischer LKW gebraucht: Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Used Concrete Mixer Trucks: Buying and Selling | ECS Exclusive Commerce Services GmbH",
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Used Tipper Trucks: Types, Buying and Selling | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Green three-axle Mercedes-Benz Arocs with angular construction grille, a heavy construction chassis of the kind that also carries truck-mounted concrete pumps",
-  "Roter Mercedes-Benz Actros Betonmischer mit rot-weißer Mischtrommel und mehreren Achsen, schräg von vorne auf einem nassen Platz vor Bäumen": "Red Mercedes-Benz Actros concrete mixer truck with red and white mixing drum and several axles, front side view on a wet yard in front of trees",
+  "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Red three-axle Mercedes-Benz Actros 2641 concrete mixer truck with red and white striped mixing drum, full-length side view on a wet yard",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Silver three-axle Mercedes-Benz Actros 2646 tipper with its aluminium tipping body fully raised in a company yard, front side view"
 };
