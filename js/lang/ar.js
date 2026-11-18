@@ -1493,5 +1493,21 @@
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "شاحنة قلاب مستعملة: الأنواع والشراء والبيع | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "مرسيدس-بنز أروكس خضراء بثلاثة محاور وشبك أمامي مخصص لمواقع البناء، هيكل ثقيل من النوع الذي تُركَّب عليه أيضًا مضخات الخرسانة",
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "شاحنة خلط خرسانة مرسيدس-بنز أكتروس 2641 حمراء بثلاثة محاور وخلاطة مخططة بالأحمر والأبيض، منظر جانبي كامل في ساحة مبللة",
-  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "قلاب مرسيدس-بنز أكتروس 2646 فضي بثلاثة محاور وصندوق ألومنيوم مرفوع عاليًا في ساحة شركة، منظر جانبي أمامي"
+  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "قلاب مرسيدس-بنز أكتروس 2646 فضي بثلاثة محاور وصندوق ألومنيوم مرفوع عاليًا في ساحة شركة، منظر جانبي أمامي",
+
+  /* ---- Direkter Formularversand (18.11.) ---- */
+  "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "عند الإرسال يصلنا طلبك مباشرةً وبشكل مشفّر. ويمكنك أيضًا التواصل معنا مباشرةً على الرقم",
+  "Fotos (optional, bis zu 6)": "صور (اختياري، حتى 6)",
+  "Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.": "عند الإرسال المباشر تُرفق الصور تلقائيًا. عبر واتساب أرفقها في المحادثة بعد النقر.",
+  "Anfrage direkt senden": "إرسال الطلب مباشرةً",
+  "„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.": "«إرسال الطلب مباشرةً» ينقل بياناتك إلينا فورًا وبشكل مشفّر. أما مع واتساب فيُفتح واتساب برسالة جاهزة تُرسلها أنت من هناك.",
+  "Wird gesendet …": "جارٍ الإرسال …",
+  "Vielen Dank! Ihre Anfrage ist bei uns angekommen. Wir melden uns schnellstmöglich bei Ihnen.": "شكرًا لك! وصلنا طلبك وسنتواصل معك في أقرب وقت ممكن.",
+  "Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns an:": "للأسف لم ينجح الإرسال. يرجى المحاولة مرة أخرى أو الاتصال بنا:",
+  "Zu viele Anfragen in kurzer Zeit. Bitte versuchen Sie es in einer Minute erneut.": "طلبات كثيرة في وقت قصير. يرجى المحاولة مرة أخرى بعد دقيقة.",
+  "Die Fotos sind zu groß. Bitte wählen Sie weniger oder kleinere Fotos.": "الصور كبيرة جدًا. يرجى اختيار عدد أقل أو صور أصغر.",
+  "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "لا يمكننا معالجة صيغة الصورة هذه. يرجى اختيار صور JPG أو PNG.",
+  "Bitte höchstens 6 Fotos auswählen.": "يرجى اختيار 6 صور كحد أقصى.",
+  "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الاتصال والمحاولة مرة أخرى.",
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "يرجى إدخال رقم هاتف أو بريد إلكتروني لنتمكن من التواصل معك."
 };

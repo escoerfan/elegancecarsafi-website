@@ -2,15 +2,15 @@
    ECS GmbH – Elegance Car Safi
    Ankauf-Formular (Ankaufseiten)
 
-   Kein Server: Aus den Angaben wird eine fertige Nachricht gebaut und
-   WhatsApp bzw. das E-Mail-Programm geöffnet. Abgeschickt wird erst dort,
-   Fotos hängt der Kunde dort an. Die Nachricht bleibt bewusst deutsch.
+   Zwei Wege: „Anfrage direkt senden“ schickt die Angaben (mit Fotos)
+   sofort per E-Mail an uns (js/anfrage.js, kein Mailprogramm).
+   „Per WhatsApp senden“ öffnet WhatsApp mit fertiger Nachricht, Fotos
+   hängt der Kunde dort an. Die Nachricht bleibt bewusst deutsch.
    ========================================================================= */
 (function () {
   'use strict';
 
   var PHONE = '4915140315387';
-  var MAIL = 'info@elegancecarsafi.com';
 
   var forms = document.querySelectorAll('form[data-ankauf]');
 
@@ -33,6 +33,25 @@
         return el ? String(el.value).trim() : '';
       };
 
+      if (channel === 'email') {
+        /* Rückweg nötig: Telefon oder E-Mail */
+        if (!get('telefon') && !get('email')) {
+          var tel = form.elements.telefon;
+          var hinweis = 'Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.';
+          var dict = window.ECSLang && window.ECS_I18N && window.ECS_I18N[window.ECSLang.get()];
+          tel.setCustomValidity((dict && dict[hinweis]) || hinweis);
+          tel.reportValidity();
+          tel.addEventListener('input', function clear() { tel.setCustomValidity(''); tel.removeEventListener('input', clear); });
+          return;
+        }
+        if (!window.ECSAnfrage) return;
+        var typ = get('typ');
+        window.ECSAnfrage.senden(form, 'ankauf').then(function () {
+          if (window.ECSTrack) window.ECSTrack('ankauf_formular', { kanal: 'email', typ: typ });
+        }, function () {});
+        return;
+      }
+
       var zeilen = [
         ['Fahrzeugtyp', get('typ')],
         ['Marke und Modell', get('modell')],
@@ -49,23 +68,16 @@
       var nachricht = get('nachricht');
       var text = ['Ankauf-Anfrage über elegancecarsafi.com', ''].concat(zeilen);
       if (nachricht) text.push('', 'Weitere Angaben:', nachricht);
-      text.push('', channel === 'email' ? 'Fotos: siehe Anhang' : 'Fotos schicke ich hier im Chat.');
+      text.push('', 'Fotos schicke ich hier im Chat.');
       text = text.join('\n');
 
-      if (window.ECSTrack) window.ECSTrack('ankauf_formular', { kanal: channel, typ: get('typ') });
+      if (window.ECSTrack) window.ECSTrack('ankauf_formular', { kanal: 'whatsapp', typ: get('typ') });
 
-      if (channel === 'email') {
-        var betreff = 'Ankauf-Anfrage: ' + get('typ') + ' – ' + get('modell');
-        window.location.href = 'mailto:' + MAIL +
-          '?subject=' + encodeURIComponent(betreff) +
-          '&body=' + encodeURIComponent(text);
-      } else {
-        var url = 'https://wa.me/' + PHONE + '?text=' + encodeURIComponent(text);
-        /* Ohne "noopener"-Feature, sonst liefert window.open immer null */
-        var win = window.open(url, '_blank');
-        if (win) win.opener = null;
-        else window.location.href = url;   /* Popup blockiert */
-      }
+      var url = 'https://wa.me/' + PHONE + '?text=' + encodeURIComponent(text);
+      /* Ohne "noopener"-Feature, sonst liefert window.open immer null */
+      var win = window.open(url, '_blank');
+      if (win) win.opener = null;
+      else window.location.href = url;   /* Popup blockiert */
     });
   });
 })();

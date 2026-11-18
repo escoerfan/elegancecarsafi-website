@@ -1493,5 +1493,21 @@
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Camión volquete usado: tipos, compra y venta | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Mercedes-Benz Arocs verde de tres ejes con calandra angulosa de obra, un chasis pesado de construcción como el que también llevan las autobombas de hormigón",
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Camión hormigonera Mercedes-Benz Actros 2641 rojo de tres ejes con cuba de rayas rojas y blancas, vista lateral completa en una explanada mojada",
-  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Volquete Mercedes-Benz Actros 2646 plateado de tres ejes con la caja basculante de aluminio muy levantada en el patio de una empresa, vista lateral delantera"
+  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Volquete Mercedes-Benz Actros 2646 plateado de tres ejes con la caja basculante de aluminio muy levantada en el patio de una empresa, vista lateral delantera",
+
+  /* ---- Direkter Formularversand (18.11.) ---- */
+  "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "Al enviarla, su consulta nos llega directamente y cifrada. También puede contactarnos directamente en el",
+  "Fotos (optional, bis zu 6)": "Fotos (opcional, hasta 6)",
+  "Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.": "Con el envío directo, las fotos se adjuntan. Por WhatsApp, adjúntelas en el chat después de hacer clic.",
+  "Anfrage direkt senden": "Enviar consulta directamente",
+  "„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.": "«Enviar consulta directamente» nos transmite sus datos de inmediato y cifrados. Con WhatsApp se abre WhatsApp con un mensaje preparado que solo se envía desde allí.",
+  "Wird gesendet …": "Enviando …",
+  "Vielen Dank! Ihre Anfrage ist bei uns angekommen. Wir melden uns schnellstmöglich bei Ihnen.": "¡Muchas gracias! Hemos recibido su consulta y le responderemos lo antes posible.",
+  "Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns an:": "Lo sentimos, el envío no ha funcionado. Inténtelo de nuevo o llámenos:",
+  "Zu viele Anfragen in kurzer Zeit. Bitte versuchen Sie es in einer Minute erneut.": "Demasiadas consultas en poco tiempo. Inténtelo de nuevo en un minuto.",
+  "Die Fotos sind zu groß. Bitte wählen Sie weniger oder kleinere Fotos.": "Las fotos son demasiado grandes. Elija menos fotos o fotos más pequeñas.",
+  "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "No podemos procesar este formato. Elija fotos JPG o PNG.",
+  "Bitte höchstens 6 Fotos auswählen.": "Seleccione como máximo 6 fotos.",
+  "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Sin conexión a internet. Compruebe su conexión e inténtelo de nuevo.",
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Indique un teléfono o un correo electrónico para que podamos contactarle."
 };

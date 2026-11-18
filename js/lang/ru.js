@@ -1493,5 +1493,21 @@
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Подержанный самосвал: виды, выкуп и продажа | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Зелёный трёхосный Mercedes-Benz Arocs с угловатой строительной решёткой радиатора — тяжёлое строительное шасси, на которое монтируют и автобетононасосы",
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Красный трёхосный автобетоносмеситель Mercedes-Benz Actros 2641 с барабаном в красно-белую полоску, вид сбоку во всю длину на мокрой площадке",
-  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Серебристый трёхосный самосвал Mercedes-Benz Actros 2646 с высоко поднятым алюминиевым кузовом на площадке предприятия, вид сбоку спереди"
+  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Серебристый трёхосный самосвал Mercedes-Benz Actros 2646 с высоко поднятым алюминиевым кузовом на площадке предприятия, вид сбоку спереди",
+
+  /* ---- Direkter Formularversand (18.11.) ---- */
+  "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "После отправки ваш запрос передаётся нам напрямую в зашифрованном виде. Также вы можете связаться с нами напрямую по номеру",
+  "Fotos (optional, bis zu 6)": "Фото (необязательно, до 6)",
+  "Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.": "При прямой отправке фото прикладываются автоматически. В WhatsApp прикрепите их в чате после нажатия.",
+  "Anfrage direkt senden": "Отправить запрос напрямую",
+  "„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.": "«Отправить запрос напрямую» сразу передаёт нам ваши данные в зашифрованном виде. При выборе WhatsApp откроется WhatsApp с готовым сообщением, которое отправляется уже там.",
+  "Wird gesendet …": "Отправка …",
+  "Vielen Dank! Ihre Anfrage ist bei uns angekommen. Wir melden uns schnellstmöglich bei Ihnen.": "Спасибо! Мы получили ваш запрос и свяжемся с вами как можно скорее.",
+  "Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns an:": "К сожалению, отправить не удалось. Попробуйте ещё раз или позвоните нам:",
+  "Zu viele Anfragen in kurzer Zeit. Bitte versuchen Sie es in einer Minute erneut.": "Слишком много запросов за короткое время. Попробуйте ещё раз через минуту.",
+  "Die Fotos sind zu groß. Bitte wählen Sie weniger oder kleinere Fotos.": "Фото слишком большие. Выберите меньше фото или фото меньшего размера.",
+  "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "Мы не можем обработать этот формат. Выберите фото в формате JPG или PNG.",
+  "Bitte höchstens 6 Fotos auswählen.": "Выберите не более 6 фото.",
+  "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Нет подключения к интернету. Проверьте соединение и попробуйте ещё раз.",
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Укажите телефон или e-mail, чтобы мы могли с вами связаться."
 };

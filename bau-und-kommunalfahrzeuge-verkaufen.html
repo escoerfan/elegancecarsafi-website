@@ -33,9 +33,9 @@
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/style.css?v=20261117c">
+<link rel="stylesheet" href="css/style.css?v=20261118a">
 
-<script src="js/i18n.js?v=20261117g"></script>
+<script src="js/i18n.js?v=20261118a"></script>
 <script type="speculationrules">{"prefetch":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"moderate"}],"prerender":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/assets/*","/*\\?*"]}},{"not":{"selector_matches":"[target=_blank], [download]"}}]},"eagerness":"conservative"}]}</script>
 <!-- schema:start -->
 <script type="application/ld+json">
@@ -288,7 +288,7 @@
     "@id": "https://elegancecarsafi.com/#organization"
    },
    "keywords": "ECS Exclusive Commerce Services GmbH, ECS GmbH, Elegance Car Safi, Nutzfahrzeughandel, Nutzfahrzeuge, Export Nutzfahrzeuge, Import Nutzfahrzeuge, Gehrden, Hannover, Kommunalfahrzeug, Baufahrzeug, Baumaschinen Ankauf, Baumaschinen verkaufen, gebrauchte Baumaschinen verkaufen, Baumaschinen Ankauf für Export, Baumaschinen Ankauf in der Nähe, Bagger verkaufen, Bagger Ankauf, Radlader verkaufen, Radlader Ankauf, Kipper verkaufen, Betonmischer verkaufen, Unimog verkaufen, Unimog Ankauf, Kommunalfahrzeuge verkaufen, Kehrmaschine verkaufen, Müllwagen verkaufen, Kehrmaschine, Müllwagen, Saugwagen, Kanalreinigungsfahrzeug, Winterdienstfahrzeug, Streuer, Hubsteiger, Arbeitsbühne, Feuerwehrfahrzeug, Baumaschinen, Kommunaltechnik, Mercedes-Benz, Mercedes-Benz Unimog, Mercedes-Benz Unimog U 20, Mercedes-Benz Unimog U 400, Mercedes-Benz Unimog U 423, Mercedes-Benz Unimog U 427, Mercedes-Benz Unimog U 430, Mercedes-Benz Unimog U 530, Mercedes-Benz Unimog U 535, Multicar, Multicar M26, Multicar M27, Multicar M31, Multicar Tremo, Multicar Fumo, Holder, Aebi, Hako, Ladog, Boschung, Kärcher, Schmidt, Schmidt Swingo, Schmidt Cleango, Bucher, Bucher CityCat, FAUN, FAUN Variopress, FAUN Rotopress, FAUN Viajet, Zoeller, Zoeller Medium XL, Kaiser, Kroll, Wiedemann, Müller Umwelttechnik, Ruthmann, Palfinger Platforms, Multitel, Versalift, Rosenbauer, Ziegler, Magirus, Liebherr, Caterpillar, Komatsu, JCB, Volvo CE, Hitachi, Kubota, Takeuchi, Wacker Neuson, Kramer, Atlas, Bobcat",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "@id": "https://elegancecarsafi.com/bau-und-kommunalfahrzeuge-verkaufen#primaryimage",
@@ -840,8 +840,8 @@
 </section>
 
 <!-- ===================================================== Ankauf-Formular
-     Kein Server: js/ankauf.js baut aus den Angaben eine Nachricht und öffnet
-     WhatsApp bzw. das E-Mail-Programm. Fotos hängt der Kunde dort an.     -->
+     „Anfrage direkt senden“ schickt die Angaben samt Fotos per E-Mail an uns
+     (js/anfrage.js, Versanddienst ecs-anfrage). WhatsApp: js/ankauf.js.   -->
 <section class="contact ankauf" id="anfrage">
   <div class="container contact__grid">
     <div class="contact__intro reveal">
@@ -912,7 +912,11 @@
           <label for="a-text">Weitere Angaben</label>
           <textarea id="a-text" name="nachricht" rows="3" placeholder="Ausstattung, Anzahl der Fahrzeuge, Besonderheiten"></textarea>
         </div>
-        <p class="form-hint">Fotos hängen Sie nach dem Klick einfach in WhatsApp oder in Ihrer E-Mail an.</p>
+        <div class="field">
+          <label for="a-fotos">Fotos (optional, bis zu 6)</label>
+          <input id="a-fotos" name="fotos" type="file" accept="image/*" multiple>
+        </div>
+        <p class="form-hint">Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.</p>
 
         <label class="consent">
           <input type="checkbox" name="consent" required>
@@ -923,9 +927,9 @@
 
         <div class="ankauf-form__actions">
           <button class="btn btn--primary" type="submit" value="whatsapp">Per WhatsApp senden</button>
-          <button class="btn btn--secondary" type="submit" value="email">Per E-Mail senden</button>
+          <button class="btn btn--secondary" type="submit" value="email">Anfrage direkt senden</button>
         </div>
-        <p class="form-note">Mit dem Klick öffnet sich WhatsApp bzw. Ihr E-Mail-Programm mit einer vorbereiteten Nachricht an uns. Abgeschickt wird erst dort.</p>
+        <p class="form-note">„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.</p>
       </form>
     </div>
   </div>
@@ -1070,8 +1074,9 @@
 <!-- Cookie-Banner; Google-Maps-Karte wird erst nach Einwilligung geladen, siehe js/main.js -->
 <script src="js/cookie-consent.js?v=20261023g" defer></script>
 <script src="js/statistik.js?v=20261116a" defer></script>
-<script src="js/main.js?v=20261116b" defer></script>
+<script src="js/main.js?v=20261118a" defer></script>
 
-<script src="js/ankauf.js?v=20261007a" defer></script>
+<script src="js/anfrage.js?v=20261118a" defer></script>
+<script src="js/ankauf.js?v=20261118a" defer></script>
 </body>
 </html>

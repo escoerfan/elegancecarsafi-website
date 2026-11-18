@@ -1493,5 +1493,21 @@
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Używana wywrotka: rodzaje, skup i sprzedaż | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Zielony trzyosiowy Mercedes-Benz Arocs z kanciastym budowlanym grillem, ciężkie podwozie budowlane, na jakim montuje się także pompy do betonu",
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Czerwona trzyosiowa betonomieszarka Mercedes-Benz Actros 2641 z bębnem w czerwono-białe pasy, widok z boku na całą długość na mokrym placu",
-  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Srebrna trzyosiowa wywrotka Mercedes-Benz Actros 2646 z wysoko podniesioną aluminiową skrzynią na placu firmy, widok z boku od przodu"
+  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Srebrna trzyosiowa wywrotka Mercedes-Benz Actros 2646 z wysoko podniesioną aluminiową skrzynią na placu firmy, widok z boku od przodu",
+
+  /* ---- Direkter Formularversand (18.11.) ---- */
+  "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "Po wysłaniu Twoje zapytanie trafia do nas bezpośrednio i w formie zaszyfrowanej. Możesz też skontaktować się z nami bezpośrednio pod numerem",
+  "Fotos (optional, bis zu 6)": "Zdjęcia (opcjonalnie, do 6)",
+  "Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.": "Przy wysyłce bezpośredniej zdjęcia są dołączane. W WhatsAppie dołącz je w czacie po kliknięciu.",
+  "Anfrage direkt senden": "Wyślij zapytanie bezpośrednio",
+  "„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.": "„Wyślij zapytanie bezpośrednio” przekazuje nam Twoje dane od razu i w formie zaszyfrowanej. Przy WhatsAppie otwiera się WhatsApp z przygotowaną wiadomością, którą wysyłasz dopiero tam.",
+  "Wird gesendet …": "Wysyłanie …",
+  "Vielen Dank! Ihre Anfrage ist bei uns angekommen. Wir melden uns schnellstmöglich bei Ihnen.": "Dziękujemy! Otrzymaliśmy Twoje zapytanie i odezwiemy się jak najszybciej.",
+  "Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns an:": "Niestety wysyłanie się nie powiodło. Spróbuj ponownie lub zadzwoń do nas:",
+  "Zu viele Anfragen in kurzer Zeit. Bitte versuchen Sie es in einer Minute erneut.": "Zbyt wiele zapytań w krótkim czasie. Spróbuj ponownie za minutę.",
+  "Die Fotos sind zu groß. Bitte wählen Sie weniger oder kleinere Fotos.": "Zdjęcia są za duże. Wybierz mniej lub mniejsze zdjęcia.",
+  "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "Nie możemy przetworzyć tego formatu zdjęć. Wybierz zdjęcia JPG lub PNG.",
+  "Bitte höchstens 6 Fotos auswählen.": "Wybierz maksymalnie 6 zdjęć.",
+  "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Brak połączenia z internetem. Sprawdź połączenie i spróbuj ponownie.",
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Podaj telefon lub e-mail, abyśmy mogli się z Tobą skontaktować."
 };

@@ -1509,5 +1509,21 @@
   "Kipper LKW gebraucht: Arten, Ankauf und Verkauf | ECS Exclusive Commerce Services GmbH": "Used Tipper Trucks: Types, Buying and Selling | ECS Exclusive Commerce Services GmbH",
   "Grüner Mercedes-Benz Arocs mit drei Achsen und kantigem Baustellen-Kühlergrill, ein schweres Baustellen-Fahrgestell, wie es auch Autobetonpumpen trägt": "Green three-axle Mercedes-Benz Arocs with angular construction grille, a heavy construction chassis of the kind that also carries truck-mounted concrete pumps",
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Red three-axle Mercedes-Benz Actros 2641 concrete mixer truck with red and white striped mixing drum, full-length side view on a wet yard",
-  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Silver three-axle Mercedes-Benz Actros 2646 tipper with its aluminium tipping body fully raised in a company yard, front side view"
+  "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Silver three-axle Mercedes-Benz Actros 2646 tipper with its aluminium tipping body fully raised in a company yard, front side view",
+
+  /* ---- Direkter Formularversand (18.11.) ---- */
+  "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "When you submit, your enquiry is sent to us directly and encrypted. Alternatively, you can reach us directly at",
+  "Fotos (optional, bis zu 6)": "Photos (optional, up to 6)",
+  "Beim direkten Senden gehen die Fotos mit. Per WhatsApp hängen Sie sie nach dem Klick im Chat an.": "With direct sending, the photos are included. With WhatsApp, attach them in the chat after clicking.",
+  "Anfrage direkt senden": "Send enquiry directly",
+  "„Anfrage direkt senden“ übermittelt Ihre Angaben sofort und verschlüsselt an uns. Per WhatsApp öffnet sich WhatsApp mit einer vorbereiteten Nachricht, abgeschickt wird erst dort.": "“Send enquiry directly” transmits your details to us immediately and encrypted. With WhatsApp, WhatsApp opens with a prepared message that is only sent from there.",
+  "Wird gesendet …": "Sending …",
+  "Vielen Dank! Ihre Anfrage ist bei uns angekommen. Wir melden uns schnellstmöglich bei Ihnen.": "Thank you! We have received your enquiry and will get back to you as soon as possible.",
+  "Das Senden hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns an:": "Sorry, sending did not work. Please try again or call us:",
+  "Zu viele Anfragen in kurzer Zeit. Bitte versuchen Sie es in einer Minute erneut.": "Too many enquiries in a short time. Please try again in a minute.",
+  "Die Fotos sind zu groß. Bitte wählen Sie weniger oder kleinere Fotos.": "The photos are too large. Please choose fewer or smaller photos.",
+  "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "We cannot process this photo format. Please choose JPG or PNG photos.",
+  "Bitte höchstens 6 Fotos auswählen.": "Please select no more than 6 photos.",
+  "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "No internet connection. Please check your connection and try again.",
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Please enter a phone number or email so that we can reach you."
 };

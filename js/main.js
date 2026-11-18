@@ -356,46 +356,19 @@
   }
 
   /* --------------------------------------------------- Kontaktformular
-     Statische Seite ohne Server: die Anfrage wird als vorbereitete
-     E-Mail im Mailprogramm des Besuchers geöffnet.
-     Umstieg auf einen Formulardienst später: statt mailto einfach
-     action/method am <form> setzen und diesen Handler entfernen.        */
+     Die Anfrage wird direkt per E-Mail an uns geschickt (js/anfrage.js,
+     Versanddienst ecs-anfrage). Kein Mailprogramm beim Besucher.        */
   var form = document.getElementById('anfrage-form');
 
   if (form) {
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-
       if (!form.reportValidity()) return;
-      if (window.ECSTrack) window.ECSTrack('kontakt_formular');
+      if (!window.ECSAnfrage) return;
 
-      var get = function (name) {
-        var el = form.elements[name];
-        return el ? String(el.value).trim() : '';
-      };
-
-      var vorname = get('vorname');
-      var nachname = get('nachname');
-      var leistung = get('dienstleistung');
-
-      var betreff = 'Anfrage über die Website – ' + (leistung || 'Allgemein');
-
-      var text = [
-        'Name: ' + vorname + ' ' + nachname,
-        'E-Mail: ' + get('email'),
-        'Dienstleistungstyp: ' + leistung,
-        '',
-        'Nachricht:',
-        get('nachricht'),
-        '',
-        '---',
-        'Gesendet über elegancecarsafi.com'
-      ].join('\n');
-
-      window.location.href =
-        'mailto:info@elegancecarsafi.com' +
-        '?subject=' + encodeURIComponent(betreff) +
-        '&body=' + encodeURIComponent(text);
+      window.ECSAnfrage.senden(form, 'kontakt').then(function () {
+        if (window.ECSTrack) window.ECSTrack('kontakt_formular');
+      }, function () {});
     });
   }
 
