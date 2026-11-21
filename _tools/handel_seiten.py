@@ -266,7 +266,7 @@ def main_html(slug, s, bilder):
     <p class="page-intro__text">%s</p>
     <div class="page-intro__actions">
       <a class="btn btn--primary" href="fahrzeuge">Aktuellen Bestand ansehen</a>
-      <a class="btn btn--secondary" href="https://wa.me/4915140315387" target="_blank" rel="noopener">Per WhatsApp anfragen</a>
+      <a class="btn btn--secondary" href="kontakt#anfrage-form">Zum Anfrageformular</a>
     </div>
   </div>
 </section>

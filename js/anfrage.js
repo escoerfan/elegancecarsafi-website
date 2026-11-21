@@ -154,3 +154,19 @@
 
   window.ECSAnfrage = { senden: senden };
 })();
+
+/* Sprung zum Formular beim Aufruf von kontakt#anfrage-form (Button
+   „Zum Anfrageformular“ auf den Handel-Seiten). Der Browser springt bei
+   vorab geladenen Seiten (Speculation Rules) nicht immer selbst zum Anker. */
+(function () {
+  'use strict';
+  function springen() {
+    if (location.hash !== '#anfrage-form') return;
+    var el = document.getElementById('anfrage-form');
+    if (el && Math.abs(el.getBoundingClientRect().top) > 160) el.scrollIntoView({ behavior: 'instant', block: 'start' });
+  }
+  function spaeter() { setTimeout(springen, 60); }
+  if (document.prerendering) document.addEventListener('prerenderingchange', spaeter, { once: true });
+  else if (document.readyState === 'complete') spaeter();
+  else window.addEventListener('load', spaeter, { once: true });
+})();

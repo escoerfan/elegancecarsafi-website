@@ -1509,5 +1509,8 @@
   "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "No podemos procesar este formato. Elija fotos JPG o PNG.",
   "Bitte höchstens 6 Fotos auswählen.": "Seleccione como máximo 6 fotos.",
   "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Sin conexión a internet. Compruebe su conexión e inténtelo de nuevo.",
-  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Indique un teléfono o un correo electrónico para que podamos contactarle."
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Indique un teléfono o un correo electrónico para que podamos contactarle.",
+
+  /* ---- Button zum Formular (21.11.) ---- */
+  "Zum Anfrageformular": "Ir al formulario de consulta"
 };

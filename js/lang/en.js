@@ -1525,5 +1525,8 @@
   "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "We cannot process this photo format. Please choose JPG or PNG photos.",
   "Bitte höchstens 6 Fotos auswählen.": "Please select no more than 6 photos.",
   "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "No internet connection. Please check your connection and try again.",
-  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Please enter a phone number or email so that we can reach you."
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Please enter a phone number or email so that we can reach you.",
+
+  /* ---- Button zum Formular (21.11.) ---- */
+  "Zum Anfrageformular": "Go to enquiry form"
 };

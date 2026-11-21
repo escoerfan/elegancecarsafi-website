@@ -1509,5 +1509,8 @@
   "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "Nie możemy przetworzyć tego formatu zdjęć. Wybierz zdjęcia JPG lub PNG.",
   "Bitte höchstens 6 Fotos auswählen.": "Wybierz maksymalnie 6 zdjęć.",
   "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Brak połączenia z internetem. Sprawdź połączenie i spróbuj ponownie.",
-  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Podaj telefon lub e-mail, abyśmy mogli się z Tobą skontaktować."
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Podaj telefon lub e-mail, abyśmy mogli się z Tobą skontaktować.",
+
+  /* ---- Button zum Formular (21.11.) ---- */
+  "Zum Anfrageformular": "Do formularza zapytania"
 };

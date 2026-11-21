@@ -82,6 +82,8 @@ main > .vw-section {
 *, *::before, *::after { box-sizing: border-box; }
 
 html { scroll-behavior: smooth; scroll-padding-top: 90px; }
+/* Sprung vom Button „Zum Anfrageformular“ auf den Handel-Seiten: Luft für die Einblend-Animation (28 px) */
+#anfrage-form { scroll-margin-top: 48px; }
 
 body {
   margin: 0;

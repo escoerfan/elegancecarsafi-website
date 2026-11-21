@@ -1509,5 +1509,8 @@
   "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "Мы не можем обработать этот формат. Выберите фото в формате JPG или PNG.",
   "Bitte höchstens 6 Fotos auswählen.": "Выберите не более 6 фото.",
   "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "Нет подключения к интернету. Проверьте соединение и попробуйте ещё раз.",
-  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Укажите телефон или e-mail, чтобы мы могли с вами связаться."
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Укажите телефон или e-mail, чтобы мы могли с вами связаться.",
+
+  /* ---- Button zum Formular (21.11.) ---- */
+  "Zum Anfrageformular": "К форме запроса"
 };

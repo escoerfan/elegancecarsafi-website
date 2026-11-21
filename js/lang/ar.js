@@ -1509,5 +1509,8 @@
   "Dieses Foto-Format können wir nicht verarbeiten. Bitte JPG- oder PNG-Fotos wählen.": "لا يمكننا معالجة صيغة الصورة هذه. يرجى اختيار صور JPG أو PNG.",
   "Bitte höchstens 6 Fotos auswählen.": "يرجى اختيار 6 صور كحد أقصى.",
   "Keine Internetverbindung. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut.": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الاتصال والمحاولة مرة أخرى.",
-  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "يرجى إدخال رقم هاتف أو بريد إلكتروني لنتمكن من التواصل معك."
+  "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "يرجى إدخال رقم هاتف أو بريد إلكتروني لنتمكن من التواصل معك.",
+
+  /* ---- Button zum Formular (21.11.) ---- */
+  "Zum Anfrageformular": "إلى نموذج الاستفسار"
 };
