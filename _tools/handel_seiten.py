@@ -254,11 +254,12 @@ def fakten(items):
 # Fotos aus assets/img/opt (Originale unbearbeitet), Alt-Texte ohne Modellnamen.
 # (Datei, Breiten, Höhe der größten Breite, Bildausschnitt, Kasten rechts?, Alt-Text, Überschrift)
 KOPFBILD = {
-    'nutzfahrzeughandel': ('pitch-lkw-reihe', (960, 1448), 1086, '50% 45%', False,
-                           'Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover',
+    # 21.11.: Erfan wünscht weißen Actros MP3 (Nutzfahrzeughandel) und weißen Atego (LKW Handel)
+    'nutzfahrzeughandel': ('export-actros-weiss', (960, 1672), 941, '30% 55%', True,
+                           'Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover',
                            'Nutzfahrzeuge aus einer Hand.'),
-    'lkw-handel': ('ablauf-man-tgx', (960, 1672), 941, '30% 55%', True,
-                   'Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover',
+    'lkw-handel': ('pitch-atego-koffer', (960, 1448), 1086, '30% 85%', True,
+                   'Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover',
                    'Gebrauchte LKW für Ihren Fuhrpark.'),
     'omnibushandel': ('reisebus-magelys', (960, 1448), 1086, '50% 62%', True,
                       'Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover',

@@ -1520,8 +1520,10 @@
   "Gebrauchte LKW für Ihren Fuhrpark.": "شاحنات مستعملة لأسطولك.",
   "Gebrauchte Busse für Ihr Unternehmen.": "حافلات مستعملة لشركتك.",
   "Baumaschinen für Ihre Baustelle.": "معدات بناء لموقع عملك.",
-  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "صف من شاحنات الصندوق المستعملة في ساحة ECS GmbH بالقرب من هانوفر",
-  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "رأس قاطرة مستعمل في ساحة ECS GmbH بالقرب من هانوفر",
   "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "حافلة سياحية مستعملة في ساحة ECS GmbH بالقرب من هانوفر",
-  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "شاحنة قلابة مستعملة بصندوق مرفوع في ساحة ECS GmbH بالقرب من هانوفر"
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "شاحنة قلابة مستعملة بصندوق مرفوع في ساحة ECS GmbH بالقرب من هانوفر",
+
+  /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
+  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "شاحنة بيضاء مستعملة في ضوء المساء أمام ساحة ECS GmbH بالقرب من هانوفر",
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "شاحنة صندوق بيضاء مستعملة في ساحة ECS GmbH بالقرب من هانوفر"
 };

@@ -1520,8 +1520,10 @@
   "Gebrauchte LKW für Ihren Fuhrpark.": "Подержанные грузовики для вашего автопарка.",
   "Gebrauchte Busse für Ihr Unternehmen.": "Подержанные автобусы для вашей компании.",
   "Baumaschinen für Ihre Baustelle.": "Строительная техника для вашей стройки.",
-  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Ряд подержанных грузовиков с фургоном на площадке ECS GmbH под Ганновером",
-  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Подержанный седельный тягач на площадке ECS GmbH под Ганновером",
   "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Подержанный туристический автобус на площадке ECS GmbH под Ганновером",
-  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Подержанный самосвал с поднятым кузовом на площадке ECS GmbH под Ганновером"
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Подержанный самосвал с поднятым кузовом на площадке ECS GmbH под Ганновером",
+
+  /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
+  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Подержанный белый грузовик в вечернем свете у площадки ECS GmbH под Ганновером",
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Подержанный белый грузовик с фургоном на площадке ECS GmbH под Ганновером"
 };

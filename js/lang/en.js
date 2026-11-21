@@ -1536,8 +1536,10 @@
   "Gebrauchte LKW für Ihren Fuhrpark.": "Used trucks for your fleet.",
   "Gebrauchte Busse für Ihr Unternehmen.": "Used buses for your company.",
   "Baumaschinen für Ihre Baustelle.": "Construction machinery for your site.",
-  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Row of used box trucks in the ECS GmbH yard near Hanover",
-  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Used tractor unit in the ECS GmbH yard near Hanover",
   "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Used coach in the ECS GmbH yard near Hanover",
-  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Used tipper with raised body in the ECS GmbH yard near Hanover"
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Used tipper with raised body in the ECS GmbH yard near Hanover",
+
+  /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
+  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Used white truck in evening light outside the ECS GmbH yard near Hanover",
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Used white box truck in the ECS GmbH yard near Hanover"
 };

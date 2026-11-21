@@ -1520,8 +1520,10 @@
   "Gebrauchte LKW für Ihren Fuhrpark.": "Camiones usados para su flota.",
   "Gebrauchte Busse für Ihr Unternehmen.": "Autobuses usados para su empresa.",
   "Baumaschinen für Ihre Baustelle.": "Maquinaria de construcción para su obra.",
-  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Fila de camiones de caja usados en el patio de ECS GmbH cerca de Hannover",
-  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Cabeza tractora usada en el patio de ECS GmbH cerca de Hannover",
   "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Autocar usado en el patio de ECS GmbH cerca de Hannover",
-  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Volquete usado con la caja levantada en el patio de ECS GmbH cerca de Hannover"
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Volquete usado con la caja levantada en el patio de ECS GmbH cerca de Hannover",
+
+  /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
+  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Camión blanco usado con luz de atardecer frente al patio de ECS GmbH cerca de Hannover",
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Camión de caja blanco usado en el patio de ECS GmbH cerca de Hannover"
 };

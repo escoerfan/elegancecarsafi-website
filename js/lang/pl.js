@@ -1520,8 +1520,10 @@
   "Gebrauchte LKW für Ihren Fuhrpark.": "Używane ciężarówki dla Twojej floty.",
   "Gebrauchte Busse für Ihr Unternehmen.": "Używane autobusy dla Twojej firmy.",
   "Baumaschinen für Ihre Baustelle.": "Maszyny budowlane na Twoją budowę.",
-  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Rząd używanych ciężarówek z zabudową kontenerową na placu ECS GmbH pod Hanowerem",
-  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Używany ciągnik siodłowy na placu ECS GmbH pod Hanowerem",
   "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Używany autokar na placu ECS GmbH pod Hanowerem",
-  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Używana wywrotka z podniesioną skrzynią na placu ECS GmbH pod Hanowerem"
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Używana wywrotka z podniesioną skrzynią na placu ECS GmbH pod Hanowerem",
+
+  /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
+  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Używana biała ciężarówka w wieczornym świetle przed placem ECS GmbH pod Hanowerem",
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Używana biała ciężarówka z zabudową kontenerową na placu ECS GmbH pod Hanowerem"
 };
