@@ -1512,5 +1512,16 @@
   "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "يرجى إدخال رقم هاتف أو بريد إلكتروني لنتمكن من التواصل معك.",
 
   /* ---- Button zum Formular (21.11.) ---- */
-  "Zum Anfrageformular": "إلى نموذج الاستفسار"
+  "Zum Anfrageformular": "إلى نموذج الاستفسار",
+
+  /* ---- Handel-Seiten Bildkasten (21.11.) ---- */
+  "Verkauf, Besichtigung und Export.": "البيع والمعاينة والتصدير.",
+  "Nutzfahrzeuge aus einer Hand.": "مركبات تجارية من مصدر واحد.",
+  "Gebrauchte LKW für Ihren Fuhrpark.": "شاحنات مستعملة لأسطولك.",
+  "Gebrauchte Busse für Ihr Unternehmen.": "حافلات مستعملة لشركتك.",
+  "Baumaschinen für Ihre Baustelle.": "معدات بناء لموقع عملك.",
+  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "صف من شاحنات الصندوق المستعملة في ساحة ECS GmbH بالقرب من هانوفر",
+  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "رأس قاطرة مستعمل في ساحة ECS GmbH بالقرب من هانوفر",
+  "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "حافلة سياحية مستعملة في ساحة ECS GmbH بالقرب من هانوفر",
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "شاحنة قلابة مستعملة بصندوق مرفوع في ساحة ECS GmbH بالقرب من هانوفر"
 };

@@ -2075,8 +2075,13 @@ form[aria-busy="true"] button[type="submit"] { opacity: 0.6; cursor: progress; }
 .pitch--export .pitch__lead { color: rgba(255, 255, 255, 0.86); }
 @media (max-width: 640px) {
   .pitch--export .pitch__content { padding: 28px 22px; }
-  .pitch--export .pitch__media img { object-position: 70% 60%; }
+  .pitch--export:not(.pitch--handel) .pitch__media img { object-position: 70% 60%; }
 }
+/* Handel-Seiten (21.11.): gleicher Bild-Kasten wie /export direkt unter dem Seitenkopf,
+   Bildausschnitt je Seite im style-Attribut, Kasten wahlweise rechts */
+.pitch--handel { min-height: 720px; }
+.pitch--rechts .pitch__grid { justify-content: flex-end; }
+.pitch__actions { display: flex; flex-wrap: wrap; gap: 12px; }
 .export-info__grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

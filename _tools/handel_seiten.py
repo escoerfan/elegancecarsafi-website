@@ -250,6 +250,56 @@ def fakten(items):
             + rows + '    </dl>\n  </div>\n</section>\n')
 
 
+# Bild unter dem Seitenkopf mit halbtransparentem Kasten wie auf /export (21.11.2026).
+# Fotos aus assets/img/opt (Originale unbearbeitet), Alt-Texte ohne Modellnamen.
+# (Datei, Breiten, Höhe der größten Breite, Bildausschnitt, Kasten rechts?, Alt-Text, Überschrift)
+KOPFBILD = {
+    'nutzfahrzeughandel': ('pitch-lkw-reihe', (960, 1448), 1086, '50% 45%', False,
+                           'Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover',
+                           'Nutzfahrzeuge aus einer Hand.'),
+    'lkw-handel': ('ablauf-man-tgx', (960, 1672), 941, '30% 55%', True,
+                   'Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover',
+                   'Gebrauchte LKW für Ihren Fuhrpark.'),
+    'omnibushandel': ('reisebus-magelys', (960, 1448), 1086, '50% 62%', True,
+                      'Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover',
+                      'Gebrauchte Busse für Ihr Unternehmen.'),
+    'baumaschinenhandel': ('bau-arocs-kipper', (960, 1448), 1086, '50% 62%', True,
+                           'Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover',
+                           'Baumaschinen für Ihre Baustelle.'),
+}
+
+
+def kopfbild(slug, s):
+    datei, breiten, hoehe, pos, rechts, alt, h2 = KOPFBILD[slug]
+    def srcset(ext):
+        return ', '.join('assets/img/opt/%s-%d.%s %dw' % (datei, b, ext, b) for b in breiten)
+    gross = 'assets/img/opt/%s-%d.jpg' % (datei, breiten[-1])
+    return '''
+<section class="pitch pitch--export pitch--handel%s">
+  <div class="pitch__media">
+    <picture>
+      <source type="image/avif" srcset="%s" sizes="100vw">
+      <source type="image/webp" srcset="%s" sizes="100vw">
+      <img src="%s" srcset="%s" sizes="100vw" alt="%s" width="%d" height="%d" style="object-position: %s" fetchpriority="high">
+    </picture>
+  </div>
+
+  <div class="container pitch__grid">
+    <div class="pitch__content reveal">
+      <p class="eyebrow pitch__kicker">Verkauf, Besichtigung und Export.</p>
+      <h2 class="h2 pitch__title">%s</h2>
+      <p class="lead pitch__lead">%s</p>
+      <div class="pitch__actions">
+        <a class="btn btn--primary" href="fahrzeuge">Aktuellen Bestand ansehen</a>
+        <a class="btn btn--secondary" href="kontakt#anfrage-form">Zum Anfrageformular</a>
+      </div>
+    </div>
+  </div>
+</section>
+''' % (' pitch--rechts' if rechts else '', srcset('avif'), srcset('webp'), gross, srcset('jpg'), e(alt),
+       breiten[-1], hoehe, pos, e(h2), e(s['intro']))
+
+
 def main_html(slug, s, bilder):
     out = '''<main>
 
@@ -260,17 +310,7 @@ def main_html(slug, s, bilder):
     <p class="lead page-hero__lead">%s</p>
   </div>
 </section>
-
-<section class="page-intro">
-  <div class="container reveal">
-    <p class="page-intro__text">%s</p>
-    <div class="page-intro__actions">
-      <a class="btn btn--primary" href="fahrzeuge">Aktuellen Bestand ansehen</a>
-      <a class="btn btn--secondary" href="kontakt#anfrage-form">Zum Anfrageformular</a>
-    </div>
-  </div>
-</section>
-''' % (e(s['eyebrow']), e(s['h1']), e(s['lead']), e(s['intro']))
+''' % (e(s['eyebrow']), e(s['h1']), e(s['lead'])) + kopfbild(slug, s)
     if s.get('fakten'):
         out += fakten(s['fakten'])
     out += statement('Verkauf', s['verkauf_h2'], [s['verkauf'], s['verkauf2'], BESTAND], [('fahrzeuge', 'Aktuellen Bestand ansehen')])

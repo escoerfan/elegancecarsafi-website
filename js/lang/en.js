@@ -1528,5 +1528,16 @@
   "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Please enter a phone number or email so that we can reach you.",
 
   /* ---- Button zum Formular (21.11.) ---- */
-  "Zum Anfrageformular": "Go to enquiry form"
+  "Zum Anfrageformular": "Go to enquiry form",
+
+  /* ---- Handel-Seiten Bildkasten (21.11.) ---- */
+  "Verkauf, Besichtigung und Export.": "Sales, viewing and export.",
+  "Nutzfahrzeuge aus einer Hand.": "Commercial vehicles from a single source.",
+  "Gebrauchte LKW für Ihren Fuhrpark.": "Used trucks for your fleet.",
+  "Gebrauchte Busse für Ihr Unternehmen.": "Used buses for your company.",
+  "Baumaschinen für Ihre Baustelle.": "Construction machinery for your site.",
+  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Row of used box trucks in the ECS GmbH yard near Hanover",
+  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Used tractor unit in the ECS GmbH yard near Hanover",
+  "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Used coach in the ECS GmbH yard near Hanover",
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Used tipper with raised body in the ECS GmbH yard near Hanover"
 };

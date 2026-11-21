@@ -1512,5 +1512,16 @@
   "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Укажите телефон или e-mail, чтобы мы могли с вами связаться.",
 
   /* ---- Button zum Formular (21.11.) ---- */
-  "Zum Anfrageformular": "К форме запроса"
+  "Zum Anfrageformular": "К форме запроса",
+
+  /* ---- Handel-Seiten Bildkasten (21.11.) ---- */
+  "Verkauf, Besichtigung und Export.": "Продажа, осмотр и экспорт.",
+  "Nutzfahrzeuge aus einer Hand.": "Коммерческий транспорт из одних рук.",
+  "Gebrauchte LKW für Ihren Fuhrpark.": "Подержанные грузовики для вашего автопарка.",
+  "Gebrauchte Busse für Ihr Unternehmen.": "Подержанные автобусы для вашей компании.",
+  "Baumaschinen für Ihre Baustelle.": "Строительная техника для вашей стройки.",
+  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Ряд подержанных грузовиков с фургоном на площадке ECS GmbH под Ганновером",
+  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Подержанный седельный тягач на площадке ECS GmbH под Ганновером",
+  "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Подержанный туристический автобус на площадке ECS GmbH под Ганновером",
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Подержанный самосвал с поднятым кузовом на площадке ECS GmbH под Ганновером"
 };

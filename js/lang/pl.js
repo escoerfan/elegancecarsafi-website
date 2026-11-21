@@ -1512,5 +1512,16 @@
   "Bitte Telefon oder E-Mail angeben, damit wir Sie erreichen können.": "Podaj telefon lub e-mail, abyśmy mogli się z Tobą skontaktować.",
 
   /* ---- Button zum Formular (21.11.) ---- */
-  "Zum Anfrageformular": "Do formularza zapytania"
+  "Zum Anfrageformular": "Do formularza zapytania",
+
+  /* ---- Handel-Seiten Bildkasten (21.11.) ---- */
+  "Verkauf, Besichtigung und Export.": "Sprzedaż, oględziny i eksport.",
+  "Nutzfahrzeuge aus einer Hand.": "Pojazdy użytkowe z jednego źródła.",
+  "Gebrauchte LKW für Ihren Fuhrpark.": "Używane ciężarówki dla Twojej floty.",
+  "Gebrauchte Busse für Ihr Unternehmen.": "Używane autobusy dla Twojej firmy.",
+  "Baumaschinen für Ihre Baustelle.": "Maszyny budowlane na Twoją budowę.",
+  "Reihe gebrauchter Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Rząd używanych ciężarówek z zabudową kontenerową na placu ECS GmbH pod Hanowerem",
+  "Gebrauchte Sattelzugmaschine auf dem Hof der ECS GmbH bei Hannover": "Używany ciągnik siodłowy na placu ECS GmbH pod Hanowerem",
+  "Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover": "Używany autokar na placu ECS GmbH pod Hanowerem",
+  "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Używana wywrotka z podniesioną skrzynią na placu ECS GmbH pod Hanowerem"
 };
