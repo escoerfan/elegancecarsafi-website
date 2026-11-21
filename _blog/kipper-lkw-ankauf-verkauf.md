@@ -67,7 +67,7 @@ Die Radformel beschreibt Räder und Antrieb:
 
 Für die Zulassung in Deutschland gelten 18 Tonnen bei zwei Achsen, bis 26 Tonnen bei drei und 32 Tonnen bei vier Achsen. Geländegängige Kipper tragen im Fahrzeugschein oft den Zusatz G, etwa N3G. Was hinter den Fahrzeugklassen steckt, erklärt unser Beitrag [Fahrzeugklassen N1 bis M3](blog-nutzfahrzeuge-fahrzeugklassen).
 
-![Silberner Mercedes-Benz Actros 2646 Kipper mit grüner Sonnenblende und angehobener Mulde, frontal auf einem Betriebshof](blog-actros-2646-kipper-front.webp "Die Typenbezeichnung 2646 auf der Tür verrät beim Actros das Gewicht und die Leistung: 26 Tonnen und rund 460 PS.")
+![Silberner Mercedes-Benz Actros 2646 Kipper mit angehobener Mulde, frontal auf einem weiten Betriebshof](blog-actros-2646-kipper-front.webp "Die Typenbezeichnung 2646 auf der Tür verrät beim Actros das Gewicht und die Leistung: 26 Tonnen und rund 460 PS.")
 
 ## Hersteller und Aufbauten
 

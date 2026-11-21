@@ -2077,6 +2077,35 @@ form[aria-busy="true"] button[type="submit"] { opacity: 0.6; cursor: progress; }
   .pitch--export .pitch__content { padding: 28px 22px; }
   .pitch--export:not(.pitch--handel) .pitch__media img { object-position: 70% 60%; }
 }
+/* /export (21.11.): Auto komplett sichtbar – Bild ungeschnitten rechts, weich in den
+   dunklen Verlauf auslaufend, Kasten links daneben; auf Handy Bild oben, Kasten darunter */
+.pitch--export:not(.pitch--handel) { min-height: 680px; }
+.pitch--export:not(.pitch--handel) .pitch__media {
+  inset: 0 0 0 auto;
+  width: 64%;
+  display: flex;
+  align-items: center;
+}
+.pitch--export:not(.pitch--handel) .pitch__media picture { display: block; width: 100%; }
+.pitch--export:not(.pitch--handel) .pitch__media img {
+  height: auto;
+  object-fit: contain;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 16%), linear-gradient(180deg, transparent 0%, #000 12%, #000 88%, transparent 100%);
+          mask-image: linear-gradient(90deg, transparent 0%, #000 16%), linear-gradient(180deg, transparent 0%, #000 12%, #000 88%, transparent 100%);
+  -webkit-mask-composite: source-in;
+          mask-composite: intersect;
+}
+@media (max-width: 991px) {
+  .pitch--export:not(.pitch--handel) { flex-direction: column; align-items: stretch; min-height: 0; padding-block: 0 72px; }
+  .pitch--export:not(.pitch--handel) .pitch__media { position: relative; inset: auto; width: 100%; z-index: 0; }
+  .pitch--export:not(.pitch--handel) .pitch__media img {
+    -webkit-mask-image: linear-gradient(180deg, #000 80%, transparent 100%);
+            mask-image: linear-gradient(180deg, #000 80%, transparent 100%);
+  }
+  .pitch--export:not(.pitch--handel) .pitch__grid { margin-top: -24px; position: relative; }
+  .pitch--export:not(.pitch--handel) .pitch__content { max-width: none; }
+}
+
 /* Handel-Seiten (21.11.): gleicher Bild-Kasten wie /export direkt unter dem Seitenkopf,
    Bildausschnitt je Seite im style-Attribut, Kasten wahlweise rechts */
 .pitch--handel { min-height: 720px; }
