@@ -1524,6 +1524,8 @@
   "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "شاحنة قلابة مستعملة بصندوق مرفوع في ساحة ECS GmbH بالقرب من هانوفر",
 
   /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
-  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "شاحنة بيضاء مستعملة في ضوء المساء أمام ساحة ECS GmbH بالقرب من هانوفر",
-  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "شاحنة صندوق بيضاء مستعملة في ساحة ECS GmbH بالقرب من هانوفر"
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "شاحنة صندوق بيضاء مستعملة في ساحة ECS GmbH بالقرب من هانوفر",
+
+  /* ---- Handel-Seiten schwarzer MP3 (21.11.) ---- */
+  "Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover": "رأس قاطرة أسود مستعمل من الأمام في ساحة ECS GmbH بالقرب من هانوفر"
 };

@@ -1524,6 +1524,8 @@
   "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Подержанный самосвал с поднятым кузовом на площадке ECS GmbH под Ганновером",
 
   /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
-  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Подержанный белый грузовик в вечернем свете у площадки ECS GmbH под Ганновером",
-  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Подержанный белый грузовик с фургоном на площадке ECS GmbH под Ганновером"
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Подержанный белый грузовик с фургоном на площадке ECS GmbH под Ганновером",
+
+  /* ---- Handel-Seiten schwarzer MP3 (21.11.) ---- */
+  "Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover": "Подержанный чёрный седельный тягач спереди на площадке ECS GmbH под Ганновером"
 };

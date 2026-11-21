@@ -1524,6 +1524,8 @@
   "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Volquete usado con la caja levantada en el patio de ECS GmbH cerca de Hannover",
 
   /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
-  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Camión blanco usado con luz de atardecer frente al patio de ECS GmbH cerca de Hannover",
-  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Camión de caja blanco usado en el patio de ECS GmbH cerca de Hannover"
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Camión de caja blanco usado en el patio de ECS GmbH cerca de Hannover",
+
+  /* ---- Handel-Seiten schwarzer MP3 (21.11.) ---- */
+  "Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover": "Cabeza tractora negra usada vista de frente en el patio de ECS GmbH cerca de Hannover"
 };

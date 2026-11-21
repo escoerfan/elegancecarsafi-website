@@ -1540,6 +1540,8 @@
   "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Used tipper with raised body in the ECS GmbH yard near Hanover",
 
   /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
-  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Used white truck in evening light outside the ECS GmbH yard near Hanover",
-  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Used white box truck in the ECS GmbH yard near Hanover"
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Used white box truck in the ECS GmbH yard near Hanover",
+
+  /* ---- Handel-Seiten schwarzer MP3 (21.11.) ---- */
+  "Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover": "Used black tractor unit from the front in the ECS GmbH yard near Hanover"
 };

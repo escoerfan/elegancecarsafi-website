@@ -255,8 +255,8 @@ def fakten(items):
 # (Datei, Breiten, Höhe der größten Breite, Bildausschnitt, Kasten rechts?, Alt-Text, Überschrift)
 KOPFBILD = {
     # 21.11.: Erfan wünscht weißen Actros MP3 (Nutzfahrzeughandel) und weißen Atego (LKW Handel)
-    'nutzfahrzeughandel': ('export-actros-weiss', (960, 1672), 941, '30% 55%', True,
-                           'Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover',
+    'nutzfahrzeughandel': ('export-drittland-actros-schwarz', (960, 1320), 950, '50% 60%', False,
+                           'Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover',
                            'Nutzfahrzeuge aus einer Hand.'),
     'lkw-handel': ('pitch-atego-koffer', (960, 1448), 1086, '30% 85%', True,
                    'Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover',

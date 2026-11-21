@@ -1524,6 +1524,8 @@
   "Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover": "Używana wywrotka z podniesioną skrzynią na placu ECS GmbH pod Hanowerem",
 
   /* ---- Handel-Seiten Bildtausch (21.11.) ---- */
-  "Gebrauchter weißer LKW im Abendlicht vor dem Hof der ECS GmbH bei Hannover": "Używana biała ciężarówka w wieczornym świetle przed placem ECS GmbH pod Hanowerem",
-  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Używana biała ciężarówka z zabudową kontenerową na placu ECS GmbH pod Hanowerem"
+  "Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover": "Używana biała ciężarówka z zabudową kontenerową na placu ECS GmbH pod Hanowerem",
+
+  /* ---- Handel-Seiten schwarzer MP3 (21.11.) ---- */
+  "Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover": "Używany czarny ciągnik siodłowy z przodu na placu ECS GmbH pod Hanowerem"
 };
