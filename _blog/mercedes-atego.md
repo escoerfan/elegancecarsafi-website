@@ -60,7 +60,7 @@ Die Zahl auf der Fahrertür ist kein Fantasiename, sondern eine Kurzbeschreibung
 
 ![Weißer Mercedes-Benz Atego 818 Koffer-LKW, die klassische 7,5-Tonner-Ausführung im Verteilerverkehr](pitch-atego-koffer.webp "Ein Atego 818 mit Koffer, die klassische Verteiler-Ausführung mit rund 8 Tonnen und rund 180 PS.")
 
-Beide Werte sind gerundet. Ein 818 ist häufig auf 7,49 Tonnen zugelassen, ein 1224 auf 11,99 Tonnen. Warum gerade diese Werte so häufig sind, steht weiter unten. Buchstaben hinter der Zahl beschreiben die Ausführung, etwa K für Kipper oder A für Allradantrieb. Welches Gewicht und welche Leistung Ihr Fahrzeug genau hat, steht in der Zulassungsbescheinigung Teil I.
+Beide Werte sind gerundet. Ein 818 ist häufig auf 7,49 Tonnen zugelassen, ein 1224 auf 11,99 Tonnen. Warum gerade diese Werte so häufig sind, steht weiter unten. Einen Überblick über alle Gewichtsklassen gibt unser Beitrag [LKW-Tonnenklassen](blog-lkw-tonnenklassen). Buchstaben hinter der Zahl beschreiben die Ausführung, etwa K für Kipper oder A für Allradantrieb. Welches Gewicht und welche Leistung Ihr Fahrzeug genau hat, steht in der Zulassungsbescheinigung Teil I.
 
 ![Weißer Mercedes-Benz Atego 1230 mit Planenaufbau und großem Fahrerhaus, rund 12 Tonnen und knapp 300 PS](export-eu-atego-plane.webp "Ein Atego 1230 mit Planenaufbau und großem Fahrerhaus. Die 1230 an der Tür steht für rund 12 Tonnen und knapp 300 PS.")
 

@@ -1,7 +1,7 @@
 ---
 titel: Absetzkipper: Aufbau, Funktion und was beim Kauf und Verkauf zählt
 seitentitel: Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH
-beschreibung: Wie funktioniert ein Absetzkipper? Schwenkarme, Ketten, Abstützung und Absetzmulden nach DIN 30720 im Schnitt erklärt, dazu der Unterschied zum Abrollkipper und was beim Kauf und Verkauf zählt.
+beschreibung: Wie funktioniert ein Absetzkipper? Schwenkarme, Ketten und Absetzmulden nach DIN 30720 erklärt, der Unterschied zum Abrollkipper und Tipps zum Verkauf.
 datum: 2026-11-22
 zeit: 19:00
 kategorie: Wissen

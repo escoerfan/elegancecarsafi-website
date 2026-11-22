@@ -1,7 +1,7 @@
 ---
 titel: Abrollkipper: Aufbau, Funktion und was beim Kauf und Verkauf zählt
 seitentitel: Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH
-beschreibung: Wie funktioniert ein Abrollkipper? Hakenarm, Knickgelenk, Kipplager und Abrollbehälter nach DIN 30722 im Schnitt erklärt, dazu Typenbezeichnungen und was beim Kauf und Verkauf zählt.
+beschreibung: Wie funktioniert ein Abrollkipper? Hakenarm, Kipplager und Abrollbehälter nach DIN 30722 erklärt, dazu Typen und was beim Kauf und Verkauf zählt.
 datum: 2026-11-22
 zeit: 19:30
 kategorie: Wissen

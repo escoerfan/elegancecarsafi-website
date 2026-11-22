@@ -1,7 +1,7 @@
 ---
 titel: Retarder beim LKW: Was er ist, wie er funktioniert und was er beim Verkauf bedeutet
 seitentitel: Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH
-beschreibung: Was ist ein Retarder? Funktion, Primär- und Sekundärretarder, Intarder, Unterschied zur Motorbremse, Pflicht nach StVZO und was ein Retarder beim Kauf und Verkauf eines LKW bedeutet.
+beschreibung: Was ist ein Retarder beim LKW? Funktion, Primär- und Sekundärretarder, Intarder, Unterschied zur Motorbremse und was er beim Verkauf bedeutet.
 datum: 2026-11-22
 zeit: 18:00
 kategorie: Wissen

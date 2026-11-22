@@ -69,7 +69,7 @@ Wer gebrauchte 12-Tonner vergleicht, sieht im Fahrzeugschein sehr oft 11,99 Tonn
 
 Als die LKW-Maut 2005 startete, galt sie erst ab 12 Tonnen. Ein LKW mit 11,99 Tonnen war mautfrei. Viele Flotten haben ihre Fahrzeuge deshalb genau so bestellt. Zum 1. Oktober 2015 wurde die Grenze auf 7,5 Tonnen gesenkt, zum 1. Juli 2024 auf mehr als 3,5 Tonnen ([Bundesministerium für Verkehr](https://www.bmv.de/SharedDocs/DE/Artikel/StV/Strassenverkehr/lkw-maut.htm)).
 
-Der Vorteil von 11,99 Tonnen ist damit weg. Die Fahrzeuge aus dieser Zeit sind aber noch da und machen einen großen Teil des Gebrauchtmarkts aus. Für den Führerschein gilt übrigens: Alles über 7,5 Tonnen braucht die Klasse C. Mit C1 darf man keinen 12-Tonner fahren.
+Der Vorteil von 11,99 Tonnen ist damit weg. Die Fahrzeuge aus dieser Zeit sind aber noch da und machen einen großen Teil des Gebrauchtmarkts aus. Für den Führerschein gilt übrigens: Alles über 7,5 Tonnen braucht die Klasse C. Mit C1 darf man keinen 12-Tonner fahren. Welche Klasse für welches Gewicht gilt, zeigt unser Beitrag [LKW-Tonnenklassen und Führerscheine](blog-lkw-tonnenklassen).
 
 ## Was ist ein gebrauchter MAN 12-Tonner wert?
 

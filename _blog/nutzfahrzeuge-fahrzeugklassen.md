@@ -40,7 +40,7 @@ Bei den Fahrzeugen für Güter entscheidet allein die technisch zulässige Gesam
 
 Eine Sattelzugmaschine wird nach ihrem eigenen zulässigen Gewicht eingeordnet, nicht nach dem ganzen Sattelzug. Die meisten Sattelzugmaschinen haben 18 Tonnen oder mehr und gehören damit zu N3.
 
-Auffällig viele LKW liegen knapp unter einer Grenze, etwa bei 7,49 oder 11,99 Tonnen. Das hat mit Führerschein und früheren Mautgrenzen zu tun. Mehr dazu lesen Sie in unseren Beiträgen über den [Mercedes-Benz Atego](blog-mercedes-atego) und den [MAN 12-Tonner](blog-man-12-tonner).
+Auffällig viele LKW liegen knapp unter einer Grenze, etwa bei 7,49 oder 11,99 Tonnen. Das hat mit Führerschein und früheren Mautgrenzen zu tun. Mehr dazu lesen Sie in unseren Beiträgen über den [Mercedes-Benz Atego](blog-mercedes-atego) und den [MAN 12-Tonner](blog-man-12-tonner), einen Überblick über alle Gewichtsklassen in [LKW-Tonnenklassen von 3,5 bis 40 Tonnen](blog-lkw-tonnenklassen).
 
 ![Weißer Mercedes-Benz Atego 818 Verteiler-LKW mit Kofferaufbau aus der 7,5-Tonnen-Klasse, ein Fahrzeug der Fahrzeugklasse N2](pitch-atego-koffer.webp "Ein Mercedes-Benz Atego 818 mit Kofferaufbau aus der 7,5-Tonnen-Klasse. Verteiler-LKW wie dieser gehören zur Klasse N2.")
 

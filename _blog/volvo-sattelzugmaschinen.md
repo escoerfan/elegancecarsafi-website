@@ -79,7 +79,7 @@ Oft weniger, als Verkäufer erwarten. Der FH hat einen guten Ruf, aber diese Pun
 - **Das Angebot.** Der FH gehört zu den häufigsten Sattelzugmaschinen in Europa. Große Speditionen tauschen ihre Flotten nach festen Zyklen aus, oft viele Fahrzeuge auf einmal. Käufer haben die Auswahl und vergleichen genau.
 - **Die Maut.** Seit Dezember 2023 enthält die LKW-Maut einen CO2-Aufschlag. Fahrzeuge ohne CO2-Zertifizierung, also praktisch alle vor 2019 gebauten, landen in der teuersten CO2-Klasse ([Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/lkw-maut-co2-2194574)). Gerade im Fernverkehr, wo eine Sattelzugmaschine viele mautpflichtige Kilometer fährt, schreckt das Käufer in Deutschland ab.
 - **Jede neue Generation.** Mit dem FH von 2020 und dem FH Aero sind die Vorgänger technisch älter geworden. Wer im Fernverkehr Kunden gewinnen will, setzt auf aktuelle Fahrzeuge.
-- **Die Ausstattung bestimmt den Käufer.** Kipphydraulik, Retarder, Fahrerhaus und Radformel entscheiden, für welchen Einsatz die Zugmaschine passt. Was nicht zum Auflieger des Käufers passt, kommt für ihn nicht infrage.
+- **Die Ausstattung bestimmt den Käufer.** Kipphydraulik, [Retarder](blog-retarder-lkw), Fahrerhaus und Radformel entscheiden, für welchen Einsatz die Zugmaschine passt. Was nicht zum Auflieger des Käufers passt, kommt für ihn nicht infrage.
 - **Inseratspreise sind keine Verkaufspreise.** Was in Online-Börsen steht, ist der Wunsch des Verkäufers. Der tatsächlich erzielte Preis liegt nach der Verhandlung meist darunter, und viele Fahrzeuge stehen dort monatelang.
 - **Der Weg ins Ausland kostet.** Viele gebrauchte Sattelzugmaschinen finden ihre Käufer im Ausland. Transport, Papiere und Zoll kosten Geld, das in jeden Ankaufspreis einfließt.
 

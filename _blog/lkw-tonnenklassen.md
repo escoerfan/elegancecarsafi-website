@@ -1,7 +1,7 @@
 ---
 titel: LKW-Tonnenklassen von 3,5 bis 40 Tonnen: Gewichte, Führerscheine und Schwertransporte
 seitentitel: LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH
-beschreibung: 7,5-Tonner, 12-Tonner, 18-Tonner oder 40-Tonner? Alle LKW-Tonnenklassen mit Achsen, Führerscheinklasse, Maut und Tempo im Überblick, dazu was für Schwertransporte über 40 Tonnen gilt.
+beschreibung: 7,5-, 12-, 18- oder 40-Tonner? Alle LKW-Tonnenklassen mit Achsen, Führerschein, Maut und Tempo im Überblick, dazu Regeln für Schwertransporte.
 datum: 2026-11-22
 zeit: 20:00
 kategorie: Wissen

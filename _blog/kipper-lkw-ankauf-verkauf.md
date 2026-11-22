@@ -36,13 +36,13 @@ Muldenkipper ist allerdings auch der Name für die großen, knickgelenkten oder 
 
 ### Absetzkipper
 
-Der Absetzkipper hebt mit zwei schwenkbaren Armen einen Container, die Absetzmulde, auf und setzt ihn wieder ab. Der Container bleibt beim Kunden stehen und wird später gegen einen leeren getauscht. Absetzkipper sind das typische Fahrzeug von Containerdiensten und Entsorgungsbetrieben.
+Der Absetzkipper hebt mit zwei schwenkbaren Armen einen Container, die Absetzmulde, auf und setzt ihn wieder ab. Der Container bleibt beim Kunden stehen und wird später gegen einen leeren getauscht. Absetzkipper sind das typische Fahrzeug von Containerdiensten und Entsorgungsbetrieben. Wie Arme, Ketten und Abstützung zusammenarbeiten, zeigen wir in unserem Beitrag [Absetzkipper: Aufbau und Funktion](blog-absetzkipper).
 
 ![Roter MAN TGS 18.420 Absetzkipper mit weißer Stoßstange von schräg vorne, dahinter die Arme des Absetzkipper-Aufbaus, auf einem Platz mit Herbstlaub](blog-man-tgs-absetzkipper-seite.jpg "Ein MAN TGS 18.420 als Absetzkipper. Mit den beiden Armen hebt er die Absetzmulde auf und setzt sie beim Kunden ab. 18.420 steht für 18 Tonnen und 420 PS.")
 
 ### Abrollkipper
 
-Der Abrollkipper arbeitet mit einem Hakenarm, der größere Abrollcontainer auf den LKW zieht und wieder abrollt. Er kann sehr unterschiedliche Container aufnehmen, von der offenen Mulde bis zum Pressbehälter. Abrollkipper fahren häufig zwei- oder dreiachsig und oft mit Anhänger.
+Der Abrollkipper arbeitet mit einem Hakenarm, der größere Abrollcontainer auf den LKW zieht und wieder abrollt. Er kann sehr unterschiedliche Container aufnehmen, von der offenen Mulde bis zum Pressbehälter. Abrollkipper fahren häufig zwei- oder dreiachsig und oft mit Anhänger. Wie der Hakenarm den Behälter aufnimmt und kippt, erklären wir mit einer Schnittgrafik im Beitrag [Abrollkipper: Aufbau und Funktion](blog-abrollkipper).
 
 ### Kippsattelauflieger
 

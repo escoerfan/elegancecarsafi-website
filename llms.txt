@@ -62,6 +62,10 @@
 - [Fahrzeugklassen N1 bis M3](https://elegancecarsafi.com/blog-nutzfahrzeuge-fahrzeugklassen)
 - [Euro-Normen bei LKW und Bus](https://elegancecarsafi.com/blog-euro-normen-lkw-bus)
 - [Linienbus, Überlandbus, Reisebus](https://elegancecarsafi.com/blog-linienbus-ueberlandbus-reisebus)
+- [LKW-Tonnenklassen von 3,5 bis 40 Tonnen](https://elegancecarsafi.com/blog-lkw-tonnenklassen): Gewichte, Achsen, Führerscheinklassen B, C1, C1E, C, CE und Schwertransporte
+- [Abrollkipper](https://elegancecarsafi.com/blog-abrollkipper): Aufbau, Funktion, Abrollbehälter nach DIN 30722
+- [Absetzkipper](https://elegancecarsafi.com/blog-absetzkipper): Aufbau, Funktion, Absetzmulden nach DIN 30720
+- [Retarder beim LKW](https://elegancecarsafi.com/blog-retarder-lkw): Funktion, Bauarten, Unterschied zur Motorbremse
 
 ## English summary
 
