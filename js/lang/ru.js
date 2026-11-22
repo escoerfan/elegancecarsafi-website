@@ -1495,6 +1495,20 @@
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Красный трёхосный автобетоносмеситель Mercedes-Benz Actros 2641 с барабаном в красно-белую полоску, вид сбоку во всю длину на мокрой площадке",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Серебристый трёхосный самосвал Mercedes-Benz Actros 2646 с высоко поднятым алюминиевым кузовом на площадке предприятия, вид сбоку спереди",
 
+  /* ---- Blog Retarder (22.11.2026) ---- */
+  "Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH": "Ретардер грузовика: принцип работы, виды и отличие от моторного тормоза | ECS Exclusive Commerce Services GmbH",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 mit hohem Fahrerhaus, ein Fernverkehrs-LKW, für den Volvo einen hydraulischen Retarder am Getriebe anbietet": "Белый седельный тягач Volvo FH 4x2 с высокой кабиной – магистральный грузовик, для которого Volvo предлагает гидравлический ретардер на коробке передач",
+
+  /* ---- Blog Abrollkipper + Absetzkipper (22.11.2026) ---- */
+  "Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH": "Мультилифт (крюковой погрузчик): принцип работы, устройство, контейнеры и выкуп | ECS Exclusive Commerce Services GmbH",
+  "Silberner Mercedes-Benz Arocs Dreiachser mit weit angehobener Kippmulde auf einem Betriebshof, seitlich von vorne": "Серебристый трёхосный Mercedes-Benz Arocs с высоко поднятым кузовом-самосвалом на территории предприятия, вид спереди сбоку",
+  "Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH": "Портальный бункеровоз: принцип работы, устройство, бункеры и выкуп | ECS Exclusive Commerce Services GmbH",
+  "Grüner MAN TGM 18.330 Absetzkipper mit aufgestellten Schwenkarmen und herabhängenden Ketten auf einem verschneiten Platz, schräg von vorne": "Зелёный портальный бункеровоз MAN TGM 18.330 с поднятыми рычагами и висящими цепями на заснеженной площадке, вид спереди сбоку",
+
+  /* ---- Blog LKW-Tonnenklassen (22.11.2026) ---- */
+  "LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH": "Весовые классы грузовиков от 3,5 т до 40 т, водительские категории и тяжеловесные перевозки | ECS Exclusive Commerce Services GmbH",
+  "Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, ein Sattelzug der 40-Tonnen-Klasse, seitlich von vorne auf einem Gewerbehof": "Красный седельный тягач Mercedes-Benz Arocs 1843 с трёхосным алюминиевым полуприцепом-самосвалом, автопоезд класса 40 тонн, вид спереди сбоку на площадке",
+
   /* ---- Direkter Formularversand (18.11.) ---- */
   "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "После отправки ваш запрос передаётся нам напрямую в зашифрованном виде. Также вы можете связаться с нами напрямую по номеру",
   "Fotos (optional, bis zu 6)": "Фото (необязательно, до 6)",

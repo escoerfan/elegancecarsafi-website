@@ -1511,6 +1511,20 @@
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Red three-axle Mercedes-Benz Actros 2641 concrete mixer truck with red and white striped mixing drum, full-length side view on a wet yard",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Silver three-axle Mercedes-Benz Actros 2646 tipper with its aluminium tipping body fully raised in a company yard, front side view",
 
+  /* ---- Blog Retarder (22.11.2026) ---- */
+  "Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH": "Truck Retarder: How It Works, Types and Difference from the Engine Brake | ECS Exclusive Commerce Services GmbH",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 mit hohem Fahrerhaus, ein Fernverkehrs-LKW, für den Volvo einen hydraulischen Retarder am Getriebe anbietet": "White Volvo FH 4x2 tractor unit with a high cab, a long-haul truck for which Volvo offers a hydraulic gearbox-mounted retarder",
+
+  /* ---- Blog Abrollkipper + Absetzkipper (22.11.2026) ---- */
+  "Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH": "Hooklift Trucks: How They Work, Design, Roll-off Containers and Purchase | ECS Exclusive Commerce Services GmbH",
+  "Silberner Mercedes-Benz Arocs Dreiachser mit weit angehobener Kippmulde auf einem Betriebshof, seitlich von vorne": "Silver three-axle Mercedes-Benz Arocs with its tipping body fully raised in a company yard, front side view",
+  "Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH": "Skip Loaders: How They Work, Design, Skips and Purchase | ECS Exclusive Commerce Services GmbH",
+  "Grüner MAN TGM 18.330 Absetzkipper mit aufgestellten Schwenkarmen und herabhängenden Ketten auf einem verschneiten Platz, schräg von vorne": "Green MAN TGM 18.330 skip loader with raised swing arms and hanging chains in a snowy yard, front side view",
+
+  /* ---- Blog LKW-Tonnenklassen (22.11.2026) ---- */
+  "LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH": "Truck Weight Classes from 3.5 t to 40 t, Driving Licences and Heavy Haulage | ECS Exclusive Commerce Services GmbH",
+  "Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, ein Sattelzug der 40-Tonnen-Klasse, seitlich von vorne auf einem Gewerbehof": "Red Mercedes-Benz Arocs 1843 tractor unit with a three-axle aluminium tipper semi-trailer, a 40-tonne articulated truck, front side view in a commercial yard",
+
   /* ---- Direkter Formularversand (18.11.) ---- */
   "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "When you submit, your enquiry is sent to us directly and encrypted. Alternatively, you can reach us directly at",
   "Fotos (optional, bis zu 6)": "Photos (optional, up to 6)",

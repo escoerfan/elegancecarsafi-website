@@ -1495,6 +1495,20 @@
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Camión hormigonera Mercedes-Benz Actros 2641 rojo de tres ejes con cuba de rayas rojas y blancas, vista lateral completa en una explanada mojada",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Volquete Mercedes-Benz Actros 2646 plateado de tres ejes con la caja basculante de aluminio muy levantada en el patio de una empresa, vista lateral delantera",
 
+  /* ---- Blog Retarder (22.11.2026) ---- */
+  "Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH": "Retarder en camiones: funcionamiento, tipos y diferencia con el freno motor | ECS Exclusive Commerce Services GmbH",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 mit hohem Fahrerhaus, ein Fernverkehrs-LKW, für den Volvo einen hydraulischen Retarder am Getriebe anbietet": "Cabeza tractora Volvo FH 4x2 blanca con cabina alta, un camión de larga distancia para el que Volvo ofrece un retarder hidráulico en la caja de cambios",
+
+  /* ---- Blog Abrollkipper + Absetzkipper (22.11.2026) ---- */
+  "Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH": "Camión portacontenedores de gancho: funcionamiento, estructura, contenedores y compra | ECS Exclusive Commerce Services GmbH",
+  "Silberner Mercedes-Benz Arocs Dreiachser mit weit angehobener Kippmulde auf einem Betriebshof, seitlich von vorne": "Mercedes-Benz Arocs plateado de tres ejes con la caja basculante muy levantada en un patio de empresa, vista frontal lateral",
+  "Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH": "Camión portacontenedores de cadenas: funcionamiento, estructura, contenedores y compra | ECS Exclusive Commerce Services GmbH",
+  "Grüner MAN TGM 18.330 Absetzkipper mit aufgestellten Schwenkarmen und herabhängenden Ketten auf einem verschneiten Platz, schräg von vorne": "Camión portacontenedores de cadenas MAN TGM 18.330 verde con brazos elevados y cadenas colgando en un patio nevado, vista frontal lateral",
+
+  /* ---- Blog LKW-Tonnenklassen (22.11.2026) ---- */
+  "LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH": "Clases de peso de camiones de 3,5 t a 40 t, permisos de conducir y transporte pesado | ECS Exclusive Commerce Services GmbH",
+  "Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, ein Sattelzug der 40-Tonnen-Klasse, seitlich von vorne auf einem Gewerbehof": "Cabeza tractora Mercedes-Benz Arocs 1843 roja con semirremolque volquete de aluminio de tres ejes, un conjunto de la clase de 40 toneladas, vista frontal lateral en un patio",
+
   /* ---- Direkter Formularversand (18.11.) ---- */
   "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "Al enviarla, su consulta nos llega directamente y cifrada. También puede contactarnos directamente en el",
   "Fotos (optional, bis zu 6)": "Fotos (opcional, hasta 6)",

@@ -1495,6 +1495,20 @@
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "Czerwona trzyosiowa betonomieszarka Mercedes-Benz Actros 2641 z bębnem w czerwono-białe pasy, widok z boku na całą długość na mokrym placu",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "Srebrna trzyosiowa wywrotka Mercedes-Benz Actros 2646 z wysoko podniesioną aluminiową skrzynią na placu firmy, widok z boku od przodu",
 
+  /* ---- Blog Retarder (22.11.2026) ---- */
+  "Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH": "Retarder w ciężarówce: działanie, rodzaje i różnica w stosunku do hamulca silnikowego | ECS Exclusive Commerce Services GmbH",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 mit hohem Fahrerhaus, ein Fernverkehrs-LKW, für den Volvo einen hydraulischen Retarder am Getriebe anbietet": "Biały ciągnik siodłowy Volvo FH 4x2 z wysoką kabiną – ciężarówka dalekobieżna, do której Volvo oferuje hydrauliczny retarder przy skrzyni biegów",
+
+  /* ---- Blog Abrollkipper + Absetzkipper (22.11.2026) ---- */
+  "Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH": "Hakowiec: działanie, budowa, kontenery i skup | ECS Exclusive Commerce Services GmbH",
+  "Silberner Mercedes-Benz Arocs Dreiachser mit weit angehobener Kippmulde auf einem Betriebshof, seitlich von vorne": "Srebrny trzyosiowy Mercedes-Benz Arocs z wysoko podniesioną skrzynią wywrotki na placu firmowym, widok z przodu z boku",
+  "Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH": "Bramowiec: działanie, budowa, kontenery i skup | ECS Exclusive Commerce Services GmbH",
+  "Grüner MAN TGM 18.330 Absetzkipper mit aufgestellten Schwenkarmen und herabhängenden Ketten auf einem verschneiten Platz, schräg von vorne": "Zielony bramowiec MAN TGM 18.330 z podniesionymi ramionami i zwisającymi łańcuchami na zaśnieżonym placu, widok z przodu z boku",
+
+  /* ---- Blog LKW-Tonnenklassen (22.11.2026) ---- */
+  "LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH": "Klasy tonażowe ciężarówek od 3,5 t do 40 t, prawo jazdy i transport ciężki | ECS Exclusive Commerce Services GmbH",
+  "Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, ein Sattelzug der 40-Tonnen-Klasse, seitlich von vorne auf einem Gewerbehof": "Czerwony ciągnik siodłowy Mercedes-Benz Arocs 1843 z trzyosiową aluminiową naczepą wywrotką, zestaw klasy 40 ton, widok z przodu z boku na placu",
+
   /* ---- Direkter Formularversand (18.11.) ---- */
   "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "Po wysłaniu Twoje zapytanie trafia do nas bezpośrednio i w formie zaszyfrowanej. Możesz też skontaktować się z nami bezpośrednio pod numerem",
   "Fotos (optional, bis zu 6)": "Zdjęcia (opcjonalnie, do 6)",

@@ -1495,6 +1495,20 @@
   "Roter Mercedes-Benz Actros 2641 Betonmischer mit drei Achsen und rot-weiß gestreifter Mischtrommel, in voller Länge von der Seite auf einem nassen Platz": "شاحنة خلط خرسانة مرسيدس-بنز أكتروس 2641 حمراء بثلاثة محاور وخلاطة مخططة بالأحمر والأبيض، منظر جانبي كامل في ساحة مبللة",
   "Silberner Mercedes-Benz Actros 2646 Dreiachs-Kipper mit weit angehobener Kippbrücke aus Aluminium auf einem Betriebshof, seitlich von vorne": "قلاب مرسيدس-بنز أكتروس 2646 فضي بثلاثة محاور وصندوق ألومنيوم مرفوع عاليًا في ساحة شركة، منظر جانبي أمامي",
 
+  /* ---- Blog Retarder (22.11.2026) ---- */
+  "Retarder LKW: Funktion, Arten und Unterschied zur Motorbremse | ECS Exclusive Commerce Services GmbH": "المثبط (Retarder) في الشاحنات: طريقة العمل والأنواع والفرق عن فرامل المحرك | ECS Exclusive Commerce Services GmbH",
+  "Weiße Volvo FH Sattelzugmaschine 4x2 mit hohem Fahrerhaus, ein Fernverkehrs-LKW, für den Volvo einen hydraulischen Retarder am Getriebe anbietet": "رأس قاطرة Volvo FH بيضاء 4x2 بكابينة عالية، شاحنة للنقل لمسافات طويلة تقدم لها Volvo مثبطًا هيدروليكيًا على ناقل الحركة",
+
+  /* ---- Blog Abrollkipper + Absetzkipper (22.11.2026) ---- */
+  "Abrollkipper: Funktion, Aufbau, Abrollcontainer und Ankauf | ECS Exclusive Commerce Services GmbH": "شاحنة الحاويات بالخطاف: طريقة العمل والتركيب والحاويات والشراء | ECS Exclusive Commerce Services GmbH",
+  "Silberner Mercedes-Benz Arocs Dreiachser mit weit angehobener Kippmulde auf einem Betriebshof, seitlich von vorne": "شاحنة Mercedes-Benz Arocs فضية بثلاثة محاور مع صندوق قلّاب مرفوع عاليًا في ساحة شركة، منظر أمامي جانبي",
+  "Absetzkipper: Funktion, Aufbau, Absetzmulden und Ankauf | ECS Exclusive Commerce Services GmbH": "شاحنة الحاويات بالسلاسل: طريقة العمل والتركيب والحاويات والشراء | ECS Exclusive Commerce Services GmbH",
+  "Grüner MAN TGM 18.330 Absetzkipper mit aufgestellten Schwenkarmen und herabhängenden Ketten auf einem verschneiten Platz, schräg von vorne": "شاحنة حاويات بالسلاسل MAN TGM 18.330 خضراء بأذرع مرفوعة وسلاسل متدلية في ساحة مغطاة بالثلج، منظر أمامي جانبي",
+
+  /* ---- Blog LKW-Tonnenklassen (22.11.2026) ---- */
+  "LKW Tonnenklassen 3,5 t bis 40 t, Führerschein und Schwertransport | ECS Exclusive Commerce Services GmbH": "فئات أوزان الشاحنات من 3.5 طن إلى 40 طنًا ورخص القيادة والنقل الثقيل | ECS Exclusive Commerce Services GmbH",
+  "Rote Mercedes-Benz Arocs 1843 Sattelzugmaschine mit dreiachsigem Kippauflieger aus Aluminium, ein Sattelzug der 40-Tonnen-Klasse, seitlich von vorne auf einem Gewerbehof": "رأس قاطرة Mercedes-Benz Arocs 1843 حمراء مع نصف مقطورة قلّابة من الألمنيوم بثلاثة محاور، شاحنة من فئة 40 طنًا، منظر أمامي جانبي في ساحة تجارية",
+
   /* ---- Direkter Formularversand (18.11.) ---- */
   "Ihre Anfrage wird beim Absenden direkt und verschlüsselt an uns übermittelt. Alternativ erreichen Sie uns direkt unter": "عند الإرسال يصلنا طلبك مباشرةً وبشكل مشفّر. ويمكنك أيضًا التواصل معنا مباشرةً على الرقم",
   "Fotos (optional, bis zu 6)": "صور (اختياري، حتى 6)",
