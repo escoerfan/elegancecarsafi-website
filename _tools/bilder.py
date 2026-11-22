@@ -13,57 +13,57 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, 'assets', 'img')
 OUT = os.path.join(SRC, 'opt')
 
-# Fotos: Datei -> Breiten
+# Fotos: Datei -> Breiten (720 seit 22.11.2026 für Handys mit kleiner Pixeldichte und schmale Spalten)
 PHOTOS = {
-    'hero-actros.png': [960, 1440, 1920, 2880],          # Kontakt-Kopf (schwarzer Actros)
-    'hero-actros-weiss.png': [960, 1440, 1672],          # Startseite: weißer Actros am Fjord (Chat 12.11., nur 1672 px)
-    'pitch-atego-koffer.webp': [960, 1448],
-    'pitch-lkw-reihe.webp': [960, 1448],
+    'hero-actros.png': [720, 960, 1440, 1920, 2880],          # Kontakt-Kopf (schwarzer Actros)
+    'hero-actros-weiss.png': [720, 960, 1440, 1672],          # Startseite: weißer Actros am Fjord (Chat 12.11., nur 1672 px)
+    'pitch-atego-koffer.webp': [720, 960, 1448],
+    'pitch-lkw-reihe.webp': [720, 960, 1448],
     'fuhrpark-atego-reihe.webp': [720, 1086],
-    'export-amg-halle.webp': [960, 1672],
-    'bewertung-sprinter.webp': [960, 1672],
-    'lkw-man-tgx.webp': [960, 1672],
-    'reisebus-magelys.webp': [960, 1448],
-    'bau-arocs-kipper.webp': [960, 1448],
-    'export-actros-weiss.webp': [960, 1672],
+    'export-amg-halle.webp': [720, 960, 1672],
+    'bewertung-sprinter.webp': [720, 960, 1672],
+    'lkw-man-tgx.webp': [720, 960, 1672],
+    'reisebus-magelys.webp': [720, 960, 1448],
+    'bau-arocs-kipper.webp': [720, 960, 1448],
+    'export-actros-weiss.webp': [720, 960, 1672],
     # Ablauf-Abschnitte (Foto neben der Überschrift)
-    'ablauf-man-tgx.webp': [960, 1672],
-    'ablauf-actros-planen.webp': [960, 1672],
-    'ablauf-axor-kran.webp': [960, 1672],
-    'ablauf-man-absetzkipper.webp': [960, 1672],
-    'ablauf-man-tgl-koffer.webp': [960, 1448],
-    'ablauf-axor-gruen.webp': [960, 1320],        # Abholung (Foto aus dem Chat, 1320 px)
+    'ablauf-man-tgx.webp': [720, 960, 1672],
+    'ablauf-actros-planen.webp': [720, 960, 1672],
+    'ablauf-axor-kran.webp': [720, 960, 1672],
+    'ablauf-man-absetzkipper.webp': [720, 960, 1672],
+    'ablauf-man-tgl-koffer.webp': [720, 960, 1448],
+    'ablauf-axor-gruen.webp': [720, 960, 1320],        # Abholung (Foto aus dem Chat, 1320 px)
     # Vorschaubild des Erklärfilms (Startseite, Unsere Arbeit)
-    'erklaerfilm-poster.webp': [960, 1920],
+    'erklaerfilm-poster.webp': [720, 960, 1920],
     'erklaerfilm-poster-hoch.webp': [720, 1080],   # Handy: Hochformat-Film
     # Export-Unterseiten EU / Drittland (Instagram-Fotos, 1320 px breit)
-    'export-eu-actros-rot.webp': [960, 1320],
-    'export-eu-atego-plane.webp': [960, 1320],
-    'export-drittland-actros-schwarz.webp': [960, 1320],
+    'export-eu-actros-rot.webp': [720, 960, 1320],
+    'export-eu-atego-plane.webp': [720, 960, 1320],
+    'export-drittland-actros-schwarz.webp': [720, 960, 1320],
     # Export-Hauptseite: Ablauf-Foto + Bildpaar bei „Welche Fahrzeuge wir exportieren“
-    'export-ablauf-scania-kran.webp': [960, 1473],
+    'export-ablauf-scania-kran.webp': [720, 960, 1473],
     'export-actros-weiss-front.webp': [720, 1332],
     # Gebrauchte Nutzfahrzeuge: Sattelauflieger mit Kippmulde (Foto aus dem Chat, nur 1024 px)
     'angebot-auflieger-kippmulde.webp': [720, 1024],
-    'angebot-kleinbus-sprinter.webp': [960, 1448],
+    'angebot-kleinbus-sprinter.webp': [720, 960, 1448],
     'angebot-radlader-cat.webp': [720, 877],        # nur 877 px aus dem Chat
     'angebot-linienbus-citaro.webp': [720, 889],    # nur 889 px aus dem Chat
-    'angebot-spezial-econic.webp': [960, 1448],
+    'angebot-spezial-econic.webp': [720, 960, 1448],
     # Foto-Box neben dem Kontaktformular (Hochformat, object-fit: cover)
     'kontakt-atego-reihe.webp': [720, 1086],
     # Instagram-Fotos vom 01.11.2026: Originaldateien aus Bilder/Echt/Insta, unbearbeitet
-    'blog-arocs-gruen.jpeg': [960, 1320],            # Blog: Arocs 6x4 (IMG_2081)
-    'angebot-atego-koffer.jpeg': [960, 1320],        # Angebot Verteiler-LKW: Atego 1224 (IMG_2076)
-    'angebot-actros-sattelzug.jpeg': [960, 1320],    # Angebot Sattelzugmaschinen: Actros (IMG_2080)
-    'angebot-atego-kipper.jpeg': [960, 1320],        # Angebot Kipper: Atego Kipper im Schnee (IMG_2085)
+    'blog-arocs-gruen.jpeg': [720, 960, 1320],            # Blog: Arocs 6x4 (IMG_2081)
+    'angebot-atego-koffer.jpeg': [720, 960, 1320],        # Angebot Verteiler-LKW: Atego 1224 (IMG_2076)
+    'angebot-actros-sattelzug.jpeg': [720, 960, 1320],    # Angebot Sattelzugmaschinen: Actros (IMG_2080)
+    'angebot-atego-kipper.jpeg': [720, 960, 1320],        # Angebot Kipper: Atego Kipper im Schnee (IMG_2085)
     # Busfotos aus dem Chat (01.11.2026), Originaldateien unbearbeitet
-    'reisebus-volvo-weiss.webp': [960, 1320],        # Reisebus: Ablauf-Kopf (Volvo)
-    'reisebus-setra-silber.webp': [960, 1320],       # Reisebus: Zeitleiste Bewertung (Setra S 416 GT-HD)
-    'angebot-setra-weiss.webp': [960, 1320],         # Angebot Reisebusse und Omnibusse (Setra)
-    'fuhrpark-scania-rot.webp': [960, 1320],         # Fuhrpark: neben „Ein Angebot für Ihre ganze Flotte“ (Scania)
-    'blog-kuehlauflieger.jpeg': [960, 1320],         # Blog „Nutzfahrzeuge im Alltag“: Kühlauflieger (IMG_2082)
-    'antos-1836-blau.webp': [960, 1536],             # Unsere Arbeit: „Wie wir Ihr Fahrzeug bewerten“ + Blog Antos (blauer Antos 1836, Chat 17.11.)
-    'man-tgm-koffer-orange.jpeg': [960, 1600],       # Gebrauchte Nutzfahrzeuge „Mittelschwere LKW“ + Blog MAN 12-Tonner (TGM 15.290, Chat 05.11.)
+    'reisebus-volvo-weiss.webp': [720, 960, 1320],        # Reisebus: Ablauf-Kopf (Volvo)
+    'reisebus-setra-silber.webp': [720, 960, 1320],       # Reisebus: Zeitleiste Bewertung (Setra S 416 GT-HD)
+    'angebot-setra-weiss.webp': [720, 960, 1320],         # Angebot Reisebusse und Omnibusse (Setra)
+    'fuhrpark-scania-rot.webp': [720, 960, 1320],         # Fuhrpark: neben „Ein Angebot für Ihre ganze Flotte“ (Scania)
+    'blog-kuehlauflieger.jpeg': [720, 960, 1320],         # Blog „Nutzfahrzeuge im Alltag“: Kühlauflieger (IMG_2082)
+    'antos-1836-blau.webp': [720, 960, 1536],             # Unsere Arbeit: „Wie wir Ihr Fahrzeug bewerten“ + Blog Antos (blauer Antos 1836, Chat 17.11.)
+    'man-tgm-koffer-orange.jpeg': [720, 960, 1600],       # Gebrauchte Nutzfahrzeuge „Mittelschwere LKW“ + Blog MAN 12-Tonner (TGM 15.290, Chat 05.11.)
 }
 # Hochformat-Ausschnitte für Handys: Datei -> (Seitenverhältnis B/H, Anker X, Breiten).
 # Anker X = object-position im CSS; so bleibt bei object-fit: cover auf Bildschirmen

@@ -34,7 +34,7 @@ IMG = os.path.join(ROOT, 'assets', 'img')
 OPT = os.path.join(IMG, 'opt')
 MARK = '<!-- erzeugt von _tools/blog.py – nicht von Hand bearbeiten, Quelle: _blog/%s.md -->'
 START, END = '<!-- blog:start -->', '<!-- blog:end -->'
-WIDTHS = [960, 1600]
+WIDTHS = [720, 960, 1600]   # 720 für Handys/schmale Spalten (22.11.2026)
 AKTUELL = 'Aktuelles'          # Kategorie, die auf aktuelles.html statt auf blog.html erscheint
 MONATE = ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August',
           'September', 'Oktober', 'November', 'Dezember']

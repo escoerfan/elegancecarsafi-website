@@ -97,7 +97,8 @@ def photo(name, cls='mk-photo', pos='50% 50%', sizes='(max-width: 991px) 92vw, 6
 
 def thumb(name, crop):
     """crop: (Ausschnitt-Mitte x %, y %, Zoom) – drei Ansichten aus einem Foto."""
-    w = widths(name)[0]
+    ws = widths(name)
+    w = [x for x in ws if not (x == 720 and 960 in ws)][0]   # 720er (seit 22.11.) nicht für gezoomte Vorschauen
     x, y, z = crop
     return ('<span class="mk-thumb"><img src="assets/img/opt/%s-%d.webp" alt="" '
             'style="transform-origin: %d%% %d%%; scale: %s" loading="lazy" decoding="async"></span>') % (name, w, x, y, z)

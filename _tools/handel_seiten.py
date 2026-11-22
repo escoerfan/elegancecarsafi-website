@@ -255,16 +255,16 @@ def fakten(items):
 # (Datei, Breiten, Höhe der größten Breite, Bildausschnitt, Kasten rechts?, Alt-Text, Überschrift)
 KOPFBILD = {
     # 21.11.: Erfan wünscht weißen Actros MP3 (Nutzfahrzeughandel) und weißen Atego (LKW Handel)
-    'nutzfahrzeughandel': ('export-drittland-actros-schwarz', (960, 1320), 950, '50% 60%', False,
+    'nutzfahrzeughandel': ('export-drittland-actros-schwarz', (720, 960, 1320), 950, '50% 60%', False,
                            'Gebrauchte schwarze Sattelzugmaschine von vorne auf dem Hof der ECS GmbH bei Hannover',
                            'Nutzfahrzeuge aus einer Hand.'),
-    'lkw-handel': ('pitch-atego-koffer', (960, 1448), 1086, '30% 85%', True,
+    'lkw-handel': ('pitch-atego-koffer', (720, 960, 1448), 1086, '30% 85%', True,
                    'Gebrauchter weißer Koffer-LKW auf dem Hof der ECS GmbH bei Hannover',
                    'Gebrauchte LKW für Ihren Fuhrpark.'),
-    'omnibushandel': ('reisebus-magelys', (960, 1448), 1086, '50% 62%', True,
+    'omnibushandel': ('reisebus-magelys', (720, 960, 1448), 1086, '50% 62%', True,
                       'Gebrauchter Reisebus auf dem Hof der ECS GmbH bei Hannover',
                       'Gebrauchte Busse für Ihr Unternehmen.'),
-    'baumaschinenhandel': ('bau-arocs-kipper', (960, 1448), 1086, '50% 62%', True,
+    'baumaschinenhandel': ('bau-arocs-kipper', (720, 960, 1448), 1086, '50% 62%', True,
                            'Gebrauchter Kipper mit angehobener Mulde auf dem Hof der ECS GmbH bei Hannover',
                            'Baumaschinen für Ihre Baustelle.'),
 }

@@ -114,7 +114,9 @@
     var onScroll = function () {
       header.classList.toggle('is-scrolled', window.scrollY > 40);
     };
-    onScroll();
+    /* Erste Prüfung im nächsten Frame: scrollY direkt nach DOM-Änderungen
+       erzwingt sonst ein vorzeitiges Layout (Lighthouse „Forced reflow“) */
+    requestAnimationFrame(onScroll);
     window.addEventListener('scroll', onScroll, { passive: true });
   }
 

@@ -1,6 +1,8 @@
 #!/bin/sh
-# Vor jedem Commit: Sitemap und strukturierte Daten (JSON-LD) neu erzeugen
-# und geänderte Dateien mitcommitten.
+# Vor jedem Commit: Sitemap und strukturierte Daten (JSON-LD) neu erzeugen,
+# CSS/JS verkleinern (*.min.css / *.min.js) und geänderte Dateien mitcommitten.
 # Aktiviert über:  git config core.hooksPath _tools/hooks
 python3 _tools/sitemap.py >/dev/null && git add sitemap.xml
 for f in $(python3 _tools/schema.py); do git add "$f"; done
+python3 _tools/minify.py >/dev/null || { echo "pre-commit: Verkleinern von CSS/JS fehlgeschlagen" >&2; exit 1; }
+git add css/*.min.css js/*.min.js
