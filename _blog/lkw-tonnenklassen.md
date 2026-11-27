@@ -87,7 +87,7 @@ Neben dem Gewicht gelten feste Maße ([§ 32 StVZO](https://www.gesetze-im-inter
 - Höhe höchstens 4,00 m
 - Sattelzug höchstens 16,50 m lang, Hängerzug je nach Bauart bis 18,75 m
 
-![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden, ein Hängerzug der 40-Tonnen-Klasse](export-ablauf-scania-kran.webp "Ein Scania R 520 mit Pritsche, Ladekran und Anhänger. Als Hängerzug gehört er wie der Sattelzug zur 40-Tonnen-Klasse und braucht den Führerschein CE.")
+![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH bei Hannover, ein Hängerzug der 40-Tonnen-Klasse](export-ablauf-scania-kran.webp "Ein Scania R 520 mit Pritsche, Ladekran und Anhänger. Als Hängerzug gehört er wie der Sattelzug zur 40-Tonnen-Klasse und braucht den Führerschein CE.")
 
 Für Sattel- und Hängerzüge braucht man die Klasse **CE**. Bei Volvo erkennt man die Leistung an der Zahl hinter der Baureihe, bei Mercedes-Benz an den letzten Ziffern: Ein Actros 1845 ist eine 18-Tonnen-Sattelzugmaschine mit 450 PS, die im Zug 40 Tonnen bewegt. Mehr dazu in [Actros MP1 bis MP5](blog-actros-mp1-bis-mp5) und [Volvo Sattelzugmaschinen](blog-volvo-sattelzugmaschinen).
 
@@ -136,7 +136,7 @@ Deshalb gehören zu jeder Anfrage das zulässige Gesamtgewicht aus Feld F.2 des 
 
 ## Wir kaufen LKW aller Tonnenklassen an
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft LKW an](lkw-verkaufen), vom Transporter bis zum 40-Tonner: [Transporter](transporter-verkaufen), 7,5-Tonner, 12-Tonner, 18-Tonner, Dreiachser, Vierachser, Sattelzugmaschinen und Anhänger, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft LKW an](lkw-verkaufen), vom Transporter bis zum 40-Tonner: [Transporter](transporter-verkaufen), 7,5-Tonner, 12-Tonner, 18-Tonner, Dreiachser, Vierachser, Sattelzugmaschinen und Anhänger, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
 
 So läuft es ab:
 

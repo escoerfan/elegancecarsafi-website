@@ -87,7 +87,7 @@ Trotzdem lohnt sich der Verkauf fast immer. Ein Bus, der nicht mehr fährt, kost
 
 ## Wir kaufen Sprinter-Busse an
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover kauft Sprinter 519 und andere Kleinbusse an, egal ob Transfer, Travel, City oder freier Ausbau, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Auch Sprinter als Kastenwagen oder Pritsche nehmen wir: Mehr dazu unter [Transporter verkaufen](transporter-verkaufen). Für größere Busse gibt es eigene Seiten zum [Reisebus verkaufen](reisebus-verkaufen) und [Linienbus verkaufen](linienbus-verkaufen). Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover kauft Sprinter 519 und andere Kleinbusse an, egal ob Transfer, Travel, City oder freier Ausbau, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Auch Sprinter als Kastenwagen oder Pritsche nehmen wir: Mehr dazu unter [Transporter verkaufen](transporter-verkaufen). Für größere Busse gibt es eigene Seiten zum [Reisebus verkaufen](reisebus-verkaufen) und [Linienbus verkaufen](linienbus-verkaufen). Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

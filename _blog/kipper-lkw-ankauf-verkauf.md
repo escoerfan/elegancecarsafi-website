@@ -123,7 +123,7 @@ Gefragt sind gebrauchte Kipper trotzdem, im Inland wie im Ausland. Robuste Fahrg
 
 ## Kipper verkaufen an die ECS GmbH
 
-Wir kaufen Kipper aller Gewichtsklassen und Bauarten an, vom Dreiseitenkipper bis zum Abrollkipper, dazu Kippauflieger, Betonmischer, Betonpumpen und andere Baufahrzeuge. Unser Sitz ist Gehrden bei Hannover, angekauft wird in ganz Deutschland.
+Wir kaufen Kipper aller Gewichtsklassen und Bauarten an, vom Dreiseitenkipper bis zum Abrollkipper, dazu Kippauflieger, Betonmischer, Betonpumpen und andere Baufahrzeuge. Unser Sitz liegt bei Hannover, angekauft wird in ganz Deutschland.
 
 - **Über 30 Jahre Erfahrung** im Fahrzeughandel und ein Netzwerk von über 250 Partnern
 - **Wir kaufen selbst an:** Ihr Vertragspartner ist die ECS GmbH

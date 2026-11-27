@@ -79,7 +79,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Arocs, der nur noch auf dem Hof 
 
 ## Wir kaufen Arocs und Actros
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Arocs und Actros an](lkw-verkaufen): Kipper, Betonmischer, Abrollkipper, Sattelzugmaschinen und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Auch [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen) nehmen wir ab. Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Fahrzeuge einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft Arocs und Actros an](lkw-verkaufen): Kipper, Betonmischer, Abrollkipper, Sattelzugmaschinen und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Auch [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen) nehmen wir ab. Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Fahrzeuge einen Abnehmer.
 
 So läuft es ab:
 

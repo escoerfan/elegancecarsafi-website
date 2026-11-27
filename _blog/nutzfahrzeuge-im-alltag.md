@@ -5,8 +5,8 @@ beschreibung: Vom Frühstück bis zum Linienbus: Wie oft Sie jeden Tag Nutzfahrz
 datum: 2026-11-01
 kategorie: Wissen
 bild: angebot-atego-koffer.jpeg
-bild_alt: Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH in Gehrden bei Hannover
-bild_text: Ein Atego mit Kofferaufbau auf unserem Hof in Gehrden. Solche Verteiler-LKW beliefern jeden Tag Geschäfte, Baustellen und Handwerksbetriebe.
+bild_alt: Weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf dem Hof der ECS GmbH bei Hannover
+bild_text: Ein Atego mit Kofferaufbau auf unserem Hof bei Hannover. Solche Verteiler-LKW beliefern jeden Tag Geschäfte, Baustellen und Handwerksbetriebe.
 bildnachweis: Fotos: ECS GmbH
 anriss: Brötchen, Busfahrt, Baustelle, Müllabfuhr: Ein ganz normaler Tag zeigt, wie sehr unser Alltag an Nutzfahrzeugen hängt.
 stichworte: Nutzfahrzeuge, Nutzfahrzeuge im Alltag, Bedeutung von Nutzfahrzeugen, Nutzfahrzeuge Wirtschaft, LKW Güterverkehr Deutschland, Linienbus Fahrgäste, Kommunalfahrzeuge, Winterdienst Fahrzeuge, Baufahrzeuge Straßenbau, Nutzfahrzeughandel, Nutzfahrzeuge Export, Nutzfahrzeug Ankauf Hannover
@@ -76,7 +76,7 @@ Für die Betriebe, die sie einsetzen, sind Nutzfahrzeuge deshalb keine Autos, so
 
 ## Wo ECS ins Spiel kommt
 
-Genau hier setzen wir an. Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover handelt mit gebrauchten Nutzfahrzeugen und bringt über 30 Jahre Erfahrung im Fahrzeughandel mit. Wir [kaufen Nutzfahrzeuge an](nutzfahrzeug-ankauf): [LKW](lkw-verkaufen), [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), [Transporter](transporter-verkaufen) sowie [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen), auch ganze [Fuhrparks](fuhrpark-verkaufen). Abgeholt wird deutschlandweit.
+Genau hier setzen wir an. Die ECS Exclusive Commerce Services GmbH aus der Region Hannover handelt mit gebrauchten Nutzfahrzeugen und bringt über 30 Jahre Erfahrung im Fahrzeughandel mit. Wir [kaufen Nutzfahrzeuge an](nutzfahrzeug-ankauf): [LKW](lkw-verkaufen), [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), [Transporter](transporter-verkaufen) sowie [Bau- und Kommunalfahrzeuge](bau-und-kommunalfahrzeuge-verkaufen), auch ganze [Fuhrparks](fuhrpark-verkaufen). Abgeholt wird deutschlandweit.
 
 Viele dieser Fahrzeuge bekommen anschließend ein zweites Leben: Wir [exportieren Nutzfahrzeuge](export) in die [EU](export-eu), nach Osteuropa und in den Nahen Osten, wo sie weiter Waren, Menschen und Baumaterial bewegen. Und wer selbst ein Fahrzeug sucht, findet unsere [gebrauchten Nutzfahrzeuge](gebrauchte-nutzfahrzeuge) im aktuellen Bestand.
 

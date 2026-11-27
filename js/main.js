@@ -392,7 +392,7 @@
       map = document.createElement('iframe');
       map.src = 'https://www.google.com/maps?q=' + encodeURIComponent(MAP_QUERY) +
         '&z=17&hl=' + lang + '&output=embed';
-      map.title = 'Google-Maps-Karte mit dem Standort der ECS GmbH in Gehrden';
+      map.title = 'Google-Maps-Karte mit dem Standort der ECS GmbH bei Hannover';
       map.loading = 'lazy';
       map.referrerPolicy = 'no-referrer';
       map.allowFullscreen = true;

@@ -80,7 +80,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Antos, der nicht mehr gebraucht 
 
 ## Wir kaufen Antos aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Antos an](lkw-verkaufen): Fahrgestelle mit Pritsche, Koffer, Kühlaufbau, Tank oder Abrollkipper und Sattelzugmaschinen, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für Fahrzeuge mit speziellem Aufbau einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft Antos an](lkw-verkaufen): Fahrgestelle mit Pritsche, Koffer, Kühlaufbau, Tank oder Abrollkipper und Sattelzugmaschinen, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für Fahrzeuge mit speziellem Aufbau einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

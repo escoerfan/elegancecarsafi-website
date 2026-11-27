@@ -92,7 +92,12 @@ DEALER = {
          'dayOfWeek': ['Friday'],
          'opens': '08:00', 'closes': '12:00'},
     ],
-    'areaServed': BUY_COUNTRIES,
+    # Region Hannover zuerst (lokales Einzugsgebiet, 27.11.2026: Gehrden nur noch in der Adresse),
+    # danach die Ankaufländer
+    'areaServed': [{'@type': 'AdministrativeArea', 'name': 'Region Hannover'},
+                   {'@type': 'City', 'name': 'Hannover'},
+                   {'@type': 'State', 'name': 'Niedersachsen'}] + BUY_COUNTRIES,
+    'hasMap': 'https://www.google.com/maps/search/?api=1&query=ECS+Exclusive+Commerce+Services+GmbH%2C+B%C3%BCnteweg+13%2C+30989+Gehrden',
     # Kerngebiete wie auf der Website (Ankaufseiten, Bestand, Export)
     'knowsAbout': ['Nutzfahrzeughandel', 'LKW Handel', 'Omnibushandel', 'Bushandel', 'Baumaschinenhandel',
                    'LKW Ankauf', 'LKW Verkauf', 'Import und Export von Nutzfahrzeugen', 'Reisebusse',
@@ -105,7 +110,7 @@ DEALER = {
 # B2B: Für wen ECS arbeitet und wie man ECS erreicht (17.11.2026, für Google und KI-Suchen)
 AUDIENCE = {'@type': 'BusinessAudience', 'audienceType': [
     'Speditionen und Fuhrparks', 'Busunternehmen', 'Baufirmen und Kommunen', 'Nutzfahrzeughändler im Ausland']}
-ORG_DESCRIPTION = ('B2B-Nutzfahrzeughändler aus Gehrden bei Hannover: Ankauf, Verkauf, Import und Export '
+ORG_DESCRIPTION = ('B2B-Nutzfahrzeughändler aus der Region Hannover: Ankauf, Verkauf, Import und Export '
                    'gebrauchter LKW, Busse, Transporter, Baumaschinen sowie Bau- und Kommunalfahrzeuge. '
                    'Export in ganz Europa, Asien und Afrika, darunter VAE, Saudi-Arabien und weitere Golfstaaten. '
                    'Angebot in der Regel innerhalb von 24 Stunden.')

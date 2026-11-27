@@ -7,7 +7,7 @@ datum: 2026-11-15
 # zeit: 14:30  (nur nötig, wenn am selben Tag mehrere Beiträge erscheinen – der spätere steht vorne)
 kategorie: Ankauf
 bild: blog-beispiel.webp
-bild_alt: Gebrauchter LKW auf dem Hof der ECS GmbH in Gehrden
+bild_alt: Gebrauchter LKW auf dem Hof der ECS GmbH bei Hannover
 bild_text: Bildbeschreibung für Leser, erscheint kursiv unter dem Titelbild (was ist zu sehen, warum passt es zum Thema)
 # bildnachweis: ECS GmbH
 # ki_bild: ja

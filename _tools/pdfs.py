@@ -227,7 +227,7 @@ def seite(doc, k):
     return f"""<div class="page" lang="{k[0]}">
   <header class="head"><img src="logo-ecs-schwarz.png" alt="ECS Exclusive Commerce Services GmbH"><div class="head__side">{doc.get('flagge', '')}<p>{e(doc['kopf'])}</p></div></header>
   {karte(k)}
-  <footer class="foot"><p>{e(FIRMA)}</p><p>Gehrden bei Hannover</p></footer>
+  <footer class="foot"><p>{e(FIRMA)}</p><p>Region Hannover</p></footer>
 </div>"""
 
 

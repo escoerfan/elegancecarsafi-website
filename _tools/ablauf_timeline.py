@@ -301,7 +301,7 @@ PAGES = {
         v_offer('Angebot', [('Fahrzeug', tick()), ('Exportpapiere', tick()), ('Transport', tick())], 'Gesamtpreis', 'Unverbindlich'),
         v_list('doc', 'Ausfuhrpapiere', [('Rechnung', 'tick'), ('Fahrzeugpapiere', 'tick'), ('Zollabwicklung', 'tick'),
                                          ('EU oder Drittland', 'tick')]),
-        v_route(nt('Gehrden'), 'Zielland', ['Straße', 'Verschiffung']),
+        v_route(nt('Region Hannover'), 'Zielland', ['Straße', 'Verschiffung']),
         v_photo('export-eu-actros-rot', 'key', 'Übergabe', 'Mit allen Papieren', '50% 55%'),
     ],
     'export-eu.html': [

@@ -158,7 +158,7 @@ Welche Rolle die Norm bei einzelnen Baureihen spielt, zeigen unsere Beiträge zu
 
 ## Wir kaufen Nutzfahrzeuge aller Euro-Normen an
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover bringt über 30 Jahre Erfahrung im Fahrzeughandel mit und kauft LKW, Sattelzugmaschinen, Transporter, Kleinbusse, Linienbusse und Reisebusse an, von älteren Stufen bis Euro VI, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Mehr dazu finden Sie auf unseren Seiten [LKW verkaufen](lkw-verkaufen), [Transporter verkaufen](transporter-verkaufen), [Reisebus verkaufen](reisebus-verkaufen) und [Linienbus verkaufen](linienbus-verkaufen).
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover bringt über 30 Jahre Erfahrung im Fahrzeughandel mit und kauft LKW, Sattelzugmaschinen, Transporter, Kleinbusse, Linienbusse und Reisebusse an, von älteren Stufen bis Euro VI, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Mehr dazu finden Sie auf unseren Seiten [LKW verkaufen](lkw-verkaufen), [Transporter verkaufen](transporter-verkaufen), [Reisebus verkaufen](reisebus-verkaufen) und [Linienbus verkaufen](linienbus-verkaufen).
 
 1. Sie schicken uns ein Foto des Fahrzeugscheins und einige Fotos des Fahrzeugs.
 2. Wir ordnen das Fahrzeug ein, bewerten es und klären offene Fragen am Telefon.

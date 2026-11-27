@@ -109,7 +109,7 @@ Den Unterschied zum Absetzkipper mit Ketten und Schwenkarmen erklären wir in un
 
 ## Wir kaufen Abrollkipper an
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover kauft gebrauchte Abrollkipper aller Marken an, mit oder ohne Behälter und Anhänger, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weitere Fahrzeuge, die wir ankaufen, finden Sie unter [Bau- und Kommunalfahrzeuge verkaufen](bau-und-kommunalfahrzeuge-verkaufen) und [LKW verkaufen](lkw-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover kauft gebrauchte Abrollkipper aller Marken an, mit oder ohne Behälter und Anhänger, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weitere Fahrzeuge, die wir ankaufen, finden Sie unter [Bau- und Kommunalfahrzeuge verkaufen](bau-und-kommunalfahrzeuge-verkaufen) und [LKW verkaufen](lkw-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
 
 So läuft es ab:
 

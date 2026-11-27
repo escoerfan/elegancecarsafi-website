@@ -41,7 +41,7 @@ SEITEN = {
                      'Busse, Transporter und Baumaschinen. Deutschlandweit und international.',
         eyebrow='Nutzfahrzeughändler bei Hannover', h1='Nutzfahrzeughandel',
         lead='Ankauf, Verkauf und Export gebrauchter Nutzfahrzeuge.',
-        intro='Die ECS GmbH ist ein Nutzfahrzeughandel in Gehrden bei Hannover. Wir verkaufen gebrauchte LKW, Busse, '
+        intro='Die ECS GmbH ist ein Nutzfahrzeughandel bei Hannover. Wir verkaufen gebrauchte LKW, Busse, '
               'Transporter und Baumaschinen an Unternehmen im In- und Ausland.',
         # Kasten "Auf einen Blick" (17.11.2026, für Google und KI-Suchen; nur diese Handel-Seite)
         fakten=[('Wir handeln', 'Gebrauchte LKW, Busse, Transporter und Baumaschinen'),
@@ -117,7 +117,7 @@ SEITEN = {
                      'Reisebusse, Linienbusse, Überlandbusse und Kleinbusse.',
         eyebrow='Bushändler bei Hannover', h1='Omnibushandel',
         lead='Bushandel mit Ankauf, Verkauf und Export.',
-        intro='Die ECS GmbH ist ein Omnibushandel in Gehrden bei Hannover. Wir verkaufen gebrauchte Reisebusse, '
+        intro='Die ECS GmbH ist ein Omnibushandel bei Hannover. Wir verkaufen gebrauchte Reisebusse, '
               'Linienbusse und Kleinbusse an Busunternehmen und Händler im In- und Ausland.',
         verkauf_h2='Gebrauchte Busse kaufen',
         verkauf='Im Bushandel bieten wir Reisebusse, Überlandbusse, Linienbusse und Kleinbusse an. '

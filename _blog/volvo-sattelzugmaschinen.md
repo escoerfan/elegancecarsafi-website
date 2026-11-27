@@ -28,7 +28,7 @@ Daneben gibt es den **FMX** für die Baustelle, mit mehr Bodenfreiheit und robus
 
 Übrigens: Volvo Trucks und Volvo Cars sind seit 1999 getrennte Unternehmen. Die LKW und Busse kommen von der schwedischen Volvo-Gruppe, die Personenwagen gehören heute zum chinesischen Konzern Geely.
 
-![Weißer Volvo Reisebus mit drei Achsen und geöffneter Tür auf dem Hof der ECS GmbH in Gehrden](reisebus-volvo-weiss.webp "Ein Volvo-Reisebus auf unserem Hof. Auch Reisebusse kommen aus der Volvo-Gruppe, nicht von Volvo Cars.")
+![Weißer Volvo Reisebus mit drei Achsen und geöffneter Tür auf dem Hof der ECS GmbH bei Hannover](reisebus-volvo-weiss.webp "Ein Volvo-Reisebus auf unserem Hof. Auch Reisebusse kommen aus der Volvo-Gruppe, nicht von Volvo Cars.")
 
 ## Die Generationen des Volvo FH
 
@@ -87,7 +87,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Eine Sattelzugmaschine, die nicht me
 
 ## Wir kaufen Volvo Sattelzugmaschinen aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Volvo Sattelzugmaschinen an](lkw-verkaufen): FH, FH16, FM und FMX, als 4x2, 6x2 oder 6x4, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft Volvo Sattelzugmaschinen an](lkw-verkaufen): FH, FH16, FM und FMX, als 4x2, 6x2 oder 6x4, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

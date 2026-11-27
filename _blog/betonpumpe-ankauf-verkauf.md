@@ -131,7 +131,7 @@ Am aussagekräftigsten sind deshalb konkrete Angebote von Käufern, die Betonpum
 
 ## Betonpumpe verkaufen an die ECS GmbH
 
-Wir kaufen Autobetonpumpen und Betonmischer ebenso an wie Kipper, Baustellen-LKW und andere Baufahrzeuge, vom einzelnen Fahrzeug bis zum ganzen Fuhrpark. Unser Sitz ist Gehrden bei Hannover, angekauft wird in ganz Deutschland.
+Wir kaufen Autobetonpumpen und Betonmischer ebenso an wie Kipper, Baustellen-LKW und andere Baufahrzeuge, vom einzelnen Fahrzeug bis zum ganzen Fuhrpark. Unser Sitz liegt bei Hannover, angekauft wird in ganz Deutschland.
 
 - **Über 30 Jahre Erfahrung** im Fahrzeughandel und ein Netzwerk von über 250 Partnern
 - **Wir kaufen selbst an:** Ihr Vertragspartner ist die ECS GmbH

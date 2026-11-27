@@ -10,7 +10,7 @@ Bewusst nicht enthalten: Zustand (Defekt, Unfall, hohe Laufleistung) und Sofortz
 # Auf jeder Seite
 BASIS = [
     'ECS Exclusive Commerce Services GmbH', 'ECS GmbH', 'Elegance Car Safi', 'Nutzfahrzeughandel',
-    'Nutzfahrzeuge', 'Export Nutzfahrzeuge', 'Import Nutzfahrzeuge', 'Gehrden', 'Hannover',
+    'Nutzfahrzeuge', 'Export Nutzfahrzeuge', 'Import Nutzfahrzeuge', 'Hannover', 'Nutzfahrzeuge Hannover', 'Nutzfahrzeughändler Hannover',
 ]
 REGION = ['Region Hannover', 'Niedersachsen', 'Norddeutschland', 'Deutschland', 'Österreich', 'Schweiz', 'Tschechien']
 TYPEN = [

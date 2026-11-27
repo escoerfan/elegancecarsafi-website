@@ -31,7 +31,7 @@ Viele Fahrer wichen nach Hamzabeyli–Lesovo aus. Dort war die Schlange am 13. O
 
 Auch auf der türkischen Seite in Kapıkule wird gebaut. Nach Angaben des türkischen Transportverbands UND kamen dort zeitweise nur noch 250 bis 300 LKW am Tag hinaus. Für Kleintransporter wurde zur Entlastung der Übergang Dereköy geöffnet ([Lojiport](https://www.lojiport.com/kapikulede-insaat-kuyrugu-cikislar-coktu-lojistik-kilitlendi-120299h.htm)).
 
-![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH in Gehrden](export-ablauf-scania-kran.webp "Ein Scania R 520 mit Pritsche, Ladekran und Anhänger auf unserem Hof. Für LKW zwischen der Türkei und Mitteleuropa führt der kürzeste Landweg über Bulgarien.")
+![Weißer Scania R 520 Pritschen-LKW mit Ladekran und Anhänger auf dem Hof der ECS GmbH bei Hannover](export-ablauf-scania-kran.webp "Ein Scania R 520 mit Pritsche, Ladekran und Anhänger auf unserem Hof. Für LKW zwischen der Türkei und Mitteleuropa führt der kürzeste Landweg über Bulgarien.")
 
 ## Grund 2: Die Schengen-Regel 90/180
 
@@ -74,4 +74,4 @@ Die Zahl sinkt, aber langsam. Solange in Kapitan Andreevo gebaut wird und die Fr
 
 ## Nutzfahrzeuge verkaufen
 
-Grenzen, Papiere und Wartezeiten gehören für uns zum Alltag: Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover kauft Nutzfahrzeuge an und [exportiert](export) sie. Sie möchten einen LKW, eine Sattelzugmaschine, einen Bus oder einen Transporter verkaufen? Sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf) nach, nennen Sie uns Typ, Erstzulassung, Kilometerstand und Standort und schicken Sie ein paar Fotos. Wir machen Ihnen ein konkretes Angebot und holen das Fahrzeug deutschlandweit ab. [Schreiben Sie uns](kontakt) oder rufen Sie an.
+Grenzen, Papiere und Wartezeiten gehören für uns zum Alltag: Die ECS Exclusive Commerce Services GmbH aus der Region Hannover kauft Nutzfahrzeuge an und [exportiert](export) sie. Sie möchten einen LKW, eine Sattelzugmaschine, einen Bus oder einen Transporter verkaufen? Sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf) nach, nennen Sie uns Typ, Erstzulassung, Kilometerstand und Standort und schicken Sie ein paar Fotos. Wir machen Ihnen ein konkretes Angebot und holen das Fahrzeug deutschlandweit ab. [Schreiben Sie uns](kontakt) oder rufen Sie an.

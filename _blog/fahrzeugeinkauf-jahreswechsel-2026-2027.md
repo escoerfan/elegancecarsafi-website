@@ -1,7 +1,7 @@
 ---
 titel: Fahrzeugeinkauf zum Jahreswechsel 2026/2027: Wir kaufen an
 seitentitel: Nutzfahrzeug verkaufen zum Jahreswechsel 2026/2027: Wir kaufen an | ECS Exclusive Commerce Services GmbH
-beschreibung: Zum Jahreswechsel 2026/2027 kauft die ECS GmbH aus Gehrden bei Hannover gebrauchte LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge und ganze Fuhrparks an.
+beschreibung: Zum Jahreswechsel 2026/2027 kauft die ECS GmbH aus der Region Hannover gebrauchte LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge und ganze Fuhrparks an.
 datum: 2026-11-15
 kategorie: Aktuelles
 bild: kontakt-atego-reihe.webp
@@ -9,7 +9,7 @@ bild_alt: Reihe weißer Mercedes-Benz Atego Verteiler-LKW mit Kofferaufbau auf e
 bild_text: Eine Reihe Mercedes-Benz Atego mit Kofferaufbau. Zum Jahreswechsel kaufen wir einzelne Fahrzeuge genauso wie ganze Fuhrparks an.
 bildnachweis: Fotos: ECS GmbH
 anriss: Zum Jahreswechsel 2026/2027 kaufen wir gezielt Fahrzeuge ein: LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge und ganze Fuhrparks. Was wir suchen und wie Sie zu einem Angebot kommen.
-stichworte: Nutzfahrzeug verkaufen Jahreswechsel, LKW verkaufen Jahresende, LKW Ankauf 2027, Bus verkaufen Jahreswechsel, Fuhrpark verkaufen Jahresende, Nutzfahrzeug Ankauf Hannover, LKW Ankauf Gehrden, Fahrzeugeinkauf ECS GmbH
+stichworte: Nutzfahrzeug verkaufen Jahreswechsel, LKW verkaufen Jahresende, LKW Ankauf 2027, Bus verkaufen Jahreswechsel, Fuhrpark verkaufen Jahresende, Nutzfahrzeug Ankauf Hannover, LKW Ankauf Hannover, Fahrzeugeinkauf ECS GmbH
 ---
 Zum Jahreswechsel 2026/2027 kaufen wir verstärkt gebrauchte Nutzfahrzeuge an. Wenn Sie einen LKW, einen Bus oder einen ganzen Fuhrpark abgeben möchten, ist jetzt ein guter Moment, mit uns zu sprechen. Sie bekommen ein klares Angebot, einen verbindlichen Kaufvertrag, und unsere Fahrer holen das Fahrzeug bei Ihnen ab.
 

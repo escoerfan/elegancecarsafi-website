@@ -99,7 +99,7 @@ Trotzdem lohnt sich ein Verkauf fast immer. Ein Atego, der nicht mehr gebraucht 
 
 ## Wir kaufen Atego aller Baujahre
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Atego an](lkw-verkaufen), vom 7,5-Tonner bis zum 16-Tonner, mit Koffer, Plane, Pritsche, Kühlaufbau oder Kipper. Einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baureihen einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft Atego an](lkw-verkaufen), vom 7,5-Tonner bis zum 16-Tonner, mit Koffer, Plane, Pritsche, Kühlaufbau oder Kipper. Einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baureihen einen Abnehmer. Welche Fahrzeuge wir sonst noch ankaufen, sehen Sie unter [Was wir ankaufen](nutzfahrzeug-ankauf).
 
 So läuft es ab:
 

@@ -129,7 +129,7 @@ Mit diesen Punkten trennen Sie schnell die guten Angebote von den schlechten:
 
 ## LKW Ankauf bei der ECS GmbH
 
-Wir kaufen gebrauchte LKW und Sattelzugmaschinen aller Gewichtsklassen und Aufbauarten an, vom einzelnen Fahrzeug bis zur ganzen Flotte. Unser Sitz ist Gehrden bei Hannover, angekauft wird in ganz Deutschland sowie in Österreich, der Schweiz und Tschechien.
+Wir kaufen gebrauchte LKW und Sattelzugmaschinen aller Gewichtsklassen und Aufbauarten an, vom einzelnen Fahrzeug bis zur ganzen Flotte. Unser Sitz liegt bei Hannover, angekauft wird in ganz Deutschland sowie in Österreich, der Schweiz und Tschechien.
 
 - **Über 30 Jahre Erfahrung** im Fahrzeughandel und ein Netzwerk von über 250 Partnern
 - **Wir kaufen selbst an:** Ihr Vertragspartner ist die ECS GmbH

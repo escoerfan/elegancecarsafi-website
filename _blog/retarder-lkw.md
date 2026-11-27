@@ -97,7 +97,7 @@ Mehr dazu, welche Angaben beim Verkauf zählen, lesen Sie in unserem Beitrag [Nu
 
 ## Wir kaufen LKW und Busse mit und ohne Retarder
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft LKW an](lkw-verkaufen): Sattelzugmaschinen, Kipper, Verteiler-LKW und Baustellenfahrzeuge aller Marken, dazu [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft LKW an](lkw-verkaufen): Sattelzugmaschinen, Kipper, Verteiler-LKW und Baustellenfahrzeuge aller Marken, dazu [Reisebusse](reisebus-verkaufen) und [Linienbusse](linienbus-verkaufen), einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Baujahre einen Abnehmer.
 
 So läuft es ab:
 

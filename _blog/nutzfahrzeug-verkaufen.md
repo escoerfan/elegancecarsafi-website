@@ -132,7 +132,7 @@ Preise in Fahrzeugbörsen sind Wunschpreise. Bezahlt wird am Ende meist weniger,
 
 ## Nutzfahrzeug verkaufen an die ECS GmbH
 
-Wir kaufen LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge an, vom einzelnen Fahrzeug bis zum ganzen Fuhrpark. Von Gehrden bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.
+Wir kaufen LKW, Busse, Transporter, Bau- und Kommunalfahrzeuge an, vom einzelnen Fahrzeug bis zum ganzen Fuhrpark. Von unserem Sitz bei Hannover aus kaufen wir in ganz Deutschland, in Österreich, der Schweiz und Tschechien an.
 
 - **Über 30 Jahre Erfahrung** im Fahrzeughandel
 - **Ein Vertrag direkt mit uns:** Wir kaufen selbst an

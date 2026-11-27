@@ -86,7 +86,7 @@ Ein Verkauf lohnt sich trotzdem fast immer. Ein Actros, der auf dem Hof steht, v
 
 ## Wir kaufen Actros aller Generationen
 
-Die ECS Exclusive Commerce Services GmbH aus Gehrden bei Hannover [kauft Actros an](lkw-verkaufen), vom MP1 bis zum MP5: Sattelzugmaschinen, Pritschen- und Planen-LKW, Kipper und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Generationen einen Abnehmer.
+Die ECS Exclusive Commerce Services GmbH aus der Region Hannover [kauft Actros an](lkw-verkaufen), vom MP1 bis zum MP5: Sattelzugmaschinen, Pritschen- und Planen-LKW, Kipper und Fahrgestelle, einzeln oder als ganzen [Fuhrpark](fuhrpark-verkaufen). Weil wir Nutzfahrzeuge auch [exportieren](export), finden wir oft auch für ältere Generationen einen Abnehmer.
 
 ![Schwarzer gebrauchter Mercedes-Benz Actros MP4 mit Planenaufbau und drei Achsen auf einer Straße im Gewerbegebiet](ablauf-actros-planen.webp "Ein schwarzer Actros MP4 mit Planenaufbau und drei Achsen. Ob Sattelzugmaschine oder Planen-LKW: Wir kaufen Actros aller Generationen.")
 

@@ -74,7 +74,7 @@ Nicht jeder Händler kann eine ganze Flotte übernehmen. Achten Sie auf diese Pu
 - **Wir kaufen selbst an:** ein Vertrag mit der ECS GmbH für alle Fahrzeuge
 - **Gesamtangebot und Werte je Fahrzeug,** passend für Ihre interne Freigabe
 - **Eigene Fahrer,** die die Fahrzeuge an Ihren Standorten abholen, auf Wunsch in Etappen
-- **Ankauf in ganz Deutschland,** in Österreich, der Schweiz und Tschechien, von Gehrden bei Hannover aus
+- **Ankauf in ganz Deutschland,** in Österreich, der Schweiz und Tschechien, von unserem Sitz bei Hannover aus
 - **Echte Bewertungen** unserer Kunden auf mobile.de, die Sie auf unserer [Startseite](index) finden
 
 Wie der Ankauf bei uns im Einzelnen abläuft, zeigen wir auf der Seite [Unsere Arbeit](unsere-arbeit).
